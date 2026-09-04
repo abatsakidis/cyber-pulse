@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CYBER PULSE 2.0</title>
+<meta name="description" content="Advanced personal cybersecurity news dashboard">
+<style>
+:root{
+ --bg:#080c10;--bg2:#0d1319;--panel:#101820;--panel2:#141e27;--line:#23313c;
+ --text:#e8eef3;--muted:#8997a4;--green:#63e0aa;--blue:#75aaff;--red:#ff707b;
+ --amber:#e9bb67;--purple:#b494ff;--shadow:0 18px 50px rgba(0,0,0,.30)
+}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--bg);color:var(--text)}
+body{font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+button,input,select{font:inherit}button{cursor:pointer}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+a{text-decoration:none;color:inherit}
+.wrap{max-width:1600px;margin:auto;padding:18px 22px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:16px}
+.brand{display:flex;align-items:center;gap:12px}.mark{width:45px;height:45px;border:1px solid #315347;border-radius:13px;display:grid;place-items:center;background:#10201b;color:var(--green);font-size:22px}
+h1{font-size:19px;letter-spacing:.16em;margin:0}.sub{font-size:11px;color:var(--muted);margin-top:4px}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--text);padding:9px 12px;border-radius:9px;transition:.16s}
+.btn:hover{border-color:#405260;transform:translateY(-1px)}.btn.green{color:#bdf6df;background:#13362d;border-color:#2d6c59}.btn.red{color:#ffafb5}
+.controls{display:grid;grid-template-columns:minmax(260px,1.8fr) 150px 150px 145px auto auto;gap:8px;background:rgba(16,24,32,.9);border:1px solid var(--line);padding:10px;border-radius:13px;position:sticky;top:8px;z-index:8;backdrop-filter:blur(14px)}
+input,select{width:100%;background:#0b1117;color:var(--text);border:1px solid var(--line);border-radius:8px;padding:10px 11px}
+.metrics{display:grid;grid-template-columns:repeat(6,1fr);gap:9px;margin:13px 0}
+.metric{background:linear-gradient(145deg,#111a22,#0d141b);border:1px solid var(--line);border-radius:11px;padding:11px 13px}
+.metric .k{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}.metric .v{font-size:21px;font-weight:750;margin-top:4px}.metric.green .v{color:var(--green)}.metric.red .v{color:var(--red)}.metric.amber .v{color:var(--amber)}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:14px}
+.main{min-width:0}.sidebar{min-width:0}
+.panel{background:linear-gradient(145deg,#101820,#0d141b);border:1px solid var(--line);border-radius:13px;padding:14px;margin-bottom:14px}
+.paneltitle{display:flex;justify-content:space-between;align-items:center;margin-bottom:11px;font-weight:750;font-size:13px}.paneltitle small{color:var(--muted);font-weight:400}
+.threat{display:grid;grid-template-columns:105px 1fr;gap:13px;align-items:center}
+.gauge{width:92px;height:92px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--green) 0deg,var(--green) 100deg,#27353e 100deg 360deg);position:relative}
+.gauge:after{content:"";position:absolute;inset:8px;background:#101820;border-radius:50%}.gauge span{position:relative;z-index:1;font-size:20px;font-weight:800}
+.threat h2{margin:0 0 4px;font-size:17px}.threat p{margin:0;color:var(--muted);font-size:12px;line-height:1.5}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{border:1px solid var(--line);background:#111a22;color:#a8b5c0;border-radius:999px;padding:6px 9px;font-size:10px}.chip.active{border-color:#356c59;background:#143028;color:#bdf6df}
+.news{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.card{border:1px solid var(--line);background:#0f171f;border-radius:12px;overflow:hidden;display:flex;min-width:0;transition:.18s;position:relative}
+.card:hover{transform:translateY(-2px);border-color:#3c4e5c;box-shadow:var(--shadow)}
+.pic{width:150px;min-width:150px;height:175px;background:#0b1117;overflow:hidden;position:relative}.pic img{width:100%;height:100%;object-fit:cover}.fallback{width:100%;height:100%;display:grid;place-items:center;color:#40505c;font-size:38px;background:linear-gradient(145deg,#0c141b,#14221e)}
+.cardcontent{padding:12px;display:flex;flex-direction:column;min-width:0;flex:1}.source{font-size:10px;color:var(--green);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.date{font-size:10px;color:var(--muted)}.ctitle{font-size:14px;line-height:1.35;font-weight:760;margin:6px 0}.excerpt{font-size:11.5px;color:#9aa8b4;line-height:1.48;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.cardbottom{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:8px}.badge{font-size:9px;padding:4px 6px;border-radius:5px;border:1px solid var(--line);color:#aebbc5}.badge.hot{color:#ffb3b8;border-color:#5c3439;background:#28171a}.star{border:0;background:none;color:#67747e;font-size:17px;padding:0}.star.on{color:var(--amber)}
+.sidebar .item{display:flex;justify-content:space-between;gap:8px;padding:8px 0;border-bottom:1px solid #1c2730;font-size:11px}.sidebar .item:last-child{border-bottom:0}.sidebar .item b{font-weight:650}.sidebar .item span{color:var(--muted)}
+.alert{display:none;border:1px solid #684044;background:#21171a;color:#e9b4b8;padding:10px 12px;border-radius:10px;font-size:11px;margin-bottom:12px}.alert.show{display:block}
+.empty{text-align:center;padding:60px;color:var(--muted);grid-column:1/-1}.spin{display:inline-block;width:14px;height:14px;border:2px solid #3b4b54;border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;vertical-align:-2px;margin-right:6px}@keyframes spin{to{transform:rotate(360deg)}}
+.modal{position:fixed;inset:0;background:rgba(2,5,7,.78);backdrop-filter:blur(8px);display:none;align-items:center;justify-content:center;padding:18px;z-index:30}.modal.open{display:flex}
+.dialog{width:min(820px,100%);max-height:90vh;overflow:auto;background:#111a22;border:1px solid var(--line);border-radius:15px;padding:18px;box-shadow:0 35px 90px #000}.dialog h2{font-size:17px;margin:0 0 5px}.dialog p{font-size:11px;color:var(--muted);line-height:1.5}
+.feedlist{display:flex;flex-direction:column;gap:7px;margin:12px 0}.feedrow{display:grid;grid-template-columns:1fr auto;gap:8px;background:#0c1319;border:1px solid var(--line);border-radius:8px;padding:9px}.feedrow small{display:block;color:var(--muted);font-size:9px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
+.form{display:grid;grid-template-columns:1fr 2fr auto;gap:7px}.modalfoot{display:flex;justify-content:flex-end;gap:8px;margin-top:14px}
+.bookmarks{display:none}.bookmarks.show{display:block}
+footer{text-align:center;color:#5f6d78;font-size:10px;padding:22px 0 8px}
+@media(max-width:1150px){.controls{grid-template-columns:1fr 1fr 1fr}.controls input{grid-column:1/-1}.metrics{grid-template-columns:repeat(3,1fr)}.layout{grid-template-columns:1fr}.sidebar{display:grid;grid-template-columns:1fr 1fr;gap:14px}.sidebar .panel{margin:0}}
+@media(max-width:720px){.wrap{padding:12px}.top{align-items:flex-start;flex-direction:column}.controls{grid-template-columns:1fr 1fr;position:static}.metrics{grid-template-columns:repeat(2,1fr)}.news{grid-template-columns:1fr}.sidebar{display:block}.sidebar .panel{margin-bottom:14px}.pic{width:120px;min-width:120px;height:170px}.form{grid-template-columns:1fr}.threat{grid-template-columns:85px 1fr}.gauge{width:78px;height:78px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+ <div class="brand"><div class="mark">⌁</div><div><h1>CYBER PULSE 2.0</h1><div class="sub">Cybersecurity · Threat Intelligence · AI Security · Cyberwarfare</div></div></div>
+ <div><button class="btn" onclick="refresh()">↻ Refresh</button> <button class="btn green" onclick="settings()">⚙ Sources</button></div>
+</header>
+
+<section class="controls">
+ <input id="q" placeholder="🔎 Αναζήτηση τίτλων, πηγών, θεμάτων..." oninput="render()">
+ <select id="source" onchange="render()"><option value="">Όλες οι πηγές</option></select>
+ <select id="cat" onchange="render()"><option value="">Κατηγορίες</option><option>Hacking</option><option>AI Security</option><option>Malware</option><option>Ransomware</option><option>Vulnerability</option><option>Cyberwarfare</option><option>Privacy</option><option>General Security</option></select>
+ <select id="age" onchange="render()"><option value="all">Όλες οι ηλικίες</option><option value="1">24 ώρες</option><option value="3">3 ημέρες</option><option value="7">7 ημέρες</option><option value="30">30 ημέρες</option></select>
+ <select id="sort" onchange="render()"><option value="date">Νεότερα</option><option value="hot">Critical πρώτα</option><option value="source">Πηγή</option></select>
+ <button class="btn" onclick="toggleBookmarks()">★ Αγαπημένα</button>
+ <button class="btn" onclick="exportBookmarks()">⇩ Export</button>
+</section>
+
+<section class="metrics">
+ <div class="metric"><div class="k">Articles</div><div class="v" id="mArticles">—</div></div>
+ <div class="metric green"><div class="k">Sources</div><div class="v" id="mSources">—</div></div>
+ <div class="metric red"><div class="k">Critical / Hot</div><div class="v" id="mHot">—</div></div>
+ <div class="metric amber"><div class="k">AI Security</div><div class="v" id="mAI">—</div></div>
+ <div class="metric"><div class="k">Bookmarks</div><div class="v" id="mBook">0</div></div>
+ <div class="metric"><div class="k">Last update</div><div class="v" id="mTime" style="font-size:15px">—</div></div>
+</section>
+
+<div id="alert" class="alert"></div>
+
+<div class="layout">
+<main class="main">
+ <section class="panel">
+  <div class="paneltitle"><span>⚡ Threat Pulse</span><small>heuristic indicator — όχι πραγματικό SOC feed</small></div>
+  <div class="threat">
+   <div class="gauge" id="gauge"><span id="score">LOW</span></div>
+   <div><h2 id="threatTitle">Ήρεμη εικόνα</h2><p id="threatText">Το dashboard υπολογίζει ένταση με βάση τον όγκο και τις λέξεις-κλειδιά των ειδήσεων που φορτώθηκαν.</p></div>
+  </div>
+  <div class="chips" id="topicChips" style="margin-top:12px"></div>
+ </section>
+ <section class="panel">
+  <div class="paneltitle"><span>📰 Live Cyber Feed</span><small id="shown">0 αποτελέσματα</small></div>
+  <div id="news" class="news"><div class="empty"><span class="spin"></span>Φόρτωση...</div></div>
+ </section>
+</main>
+
+<aside class="sidebar">
+ <section class="panel">
+  <div class="paneltitle"><span>🔥 Trending signals</span><small>στο feed</small></div>
+  <div id="trends"></div>
+ </section>
+ <section class="panel">
+  <div class="paneltitle"><span>★ Saved</span><small id="savedCount">0</small></div>
+  <div id="saved"></div>
+ </section>
+ <section class="panel">
+  <div class="paneltitle"><span>ℹ️ About</span></div>
+  <div style="font-size:11px;color:var(--muted);line-height:1.55">
+   Τα άρθρα προέρχονται από RSS/Atom feeds. Το dashboard δεν αναδημοσιεύει το περιεχόμενο· εμφανίζει τίτλο/σύντομο απόσπασμα και ανοίγει την αρχική πηγή.
+  </div>
+ </section>
+</aside>
+</div>
+<footer>CYBER PULSE 2.0 · Local dashboard · Οι πηγές και τα άρθρα ανήκουν στους αντίστοιχους εκδότες.</footer>
+</div>
+
+<div id="modal" class="modal" onclick="if(event.target===this)closeModal()">
+ <div class="dialog">
+  <h2>⚙ Διαχείριση πηγών RSS</h2>
+  <p>Πρόσθεσε RSS/Atom URL. Οι πηγές αποθηκεύονται τοπικά στον browser μέσω localStorage.</p>
+  <div id="feedlist" class="feedlist"></div>
+  <div class="form"><input id="fname" placeholder="Όνομα πηγής"><input id="furl" placeholder="https://example.com/feed.xml"><button class="btn green" onclick="addFeed()">+ Add</button></div>
+  <div class="modalfoot"><button class="btn" onclick="closeModal()">Κλείσιμο</button></div>
+ </div>
+</div>
+
+<script>
+const DEFAULT_FEEDS=[
+ {name:"The Hacker News",url:"https://thehackernews.com/feeds/posts/default"},
+ {name:"BleepingComputer",url:"https://www.bleepingcomputer.com/feed/"},
+ {name:"Krebs on Security",url:"https://krebsonsecurity.com/feed/"},
+ {name:"Dark Reading",url:"https://www.darkreading.com/rss.xml"},
+ {name:"SecurityWeek",url:"https://feeds.feedburner.com/securityweek"},
+ {name:"Help Net Security",url:"https://www.helpnetsecurity.com/feed/"},
+ {name:"Security Affairs",url:"https://securityaffairs.com/feed"},
+ {name:"Schneier on Security",url:"https://www.schneier.com/feed/atom/"},
+ {name:"WIRED Security",url:"https://www.wired.com/category/security/feed"},
+ {name:"CISA Advisories",url:"https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+ {name:"NIST Cybersecurity",url:"https://www.nist.gov/blogs/cybersecurity-insights/rss.xml"},
+ {name:"The Record",url:"https://therecord.media/feed"},
+ {name:"Ars Technica Security",url:"https://feeds.arstechnica.com/arstechnica/security"},
+ {name:"CyberScoop",url:"https://cyberscoop.com/feed/"},
+ {name:"Cyber Security News",url:"https://cybersecuritynews.com/feed/"},
+ {name:"SEPE Τεχνολογία",url:"https://www.sepe.gr/tehnologia-pliroforiki/"}
+];
+
+const KW={
+"AI Security":["ai","artificial intelligence","machine learning","llm","agentic","prompt injection","generative ai","model poisoning","deepfake"],
+"Ransomware":["ransomware","extortion","double extortion"],
+"Malware":["malware","trojan","spyware","botnet","infostealer","backdoor","loader"],
+"Vulnerability":["zero-day","0-day","vulnerability","cve-","exploit","rce","remote code execution","security flaw"],
+"Cyberwarfare":["cyberwar","cyber warfare","nation-state","apt","espionage","state-sponsored","cyber espionage","military"],
+"Hacking":["hacker","hacking","breach","intrusion","crack","cracking","attack","compromise","credential"],
+"Privacy":["privacy","surveillance","data leak","data breach","personal data","tracking"],
+"General Security":["security","cybersecurity","cyber security","phishing","authentication","identity"]
+};
+const HOT=["zero-day","0-day","actively exploited","critical","ransomware","nation-state","apt","remote code execution","data breach","critical vulnerability","emergency"];
+let feeds=loadFeeds(),articles=[],bookmarks=JSON.parse(localStorage.getItem("cp2Bookmarks")||"[]"),bookOnly=false;
+
+function loadFeeds(){try{let x=JSON.parse(localStorage.getItem("cp2Feeds"));if(Array.isArray(x)&&x.length)return x}catch(e){}return DEFAULT_FEEDS.slice()}
+function saveFeeds(){localStorage.setItem("cp2Feeds",JSON.stringify(feeds))}
+function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+function strip(s=""){let d=document.createElement("div");d.innerHTML=s;return(d.textContent||"").replace(/\s+/g," ").trim()}
+function dateFmt(v){let d=new Date(v);return isNaN(d)?"—":d.toLocaleDateString("el-GR",{day:"2-digit",month:"short",year:"numeric"})}
+function ageDays(v){let d=new Date(v);return isNaN(d)?999:(Date.now()-d)/86400000}
+function catOf(t){t=t.toLowerCase();for(let [c,w] of Object.entries(KW))if(w.some(x=>t.includes(x)))return c;return"General Security"}
+function hotOf(t){t=t.toLowerCase();return HOT.some(x=>t.includes(x))}
+function imgOf(x){let h=x.content||x.description||"";let m=h.match(/<img[^>]+src=["']([^"']+)["']/i);return m?m[1]:""}
+
+async function fetchFeed(f){
+ let u="https://api.allorigins.win/raw?url="+encodeURIComponent(f.url);
+ let r=await fetch(u,{cache:"no-store"});if(!r.ok)throw Error(r.status);
+ let xml=await r.text(),doc=new DOMParser().parseFromString(xml,"text/xml");
+ if(doc.querySelector("parsererror"))throw Error("XML");
+ let nodes=[...doc.querySelectorAll("item")];
+ if(!nodes.length)nodes=[...doc.querySelectorAll("entry")];
+ return nodes.map(n=>{
+   let get=s=>n.querySelector(s)?.textContent||"";
+   let link=n.querySelector("link")?.getAttribute("href")||get("link")||get("guid");
+   let title=strip(get("title")),desc=strip(get("description,summary,content"));
+   let date=get("pubDate,published,updated,dc\\:date");
+   let text=(title+" "+desc).toLowerCase();
+   return {id:btoa(unescape(encodeURIComponent((link||title).slice(0,400)))).replace(/=/g,""),title,desc:desc.slice(0,330),link,date,source:f.name,image:imgOf({content:get("content\\:encoded"),description:get("description")}),category:catOf(text),hot:hotOf(text)}
+ });
+}
+async function refresh(){
+ document.getElementById("news").innerHTML='<div class="empty"><span class="spin"></span>Συλλογή ειδήσεων από τις πηγές...</div>';
+ document.getElementById("alert").classList.remove("show");
+ let out=[],bad=[];
+ let rs=await Promise.allSettled(feeds.map(fetchFeed));
+ rs.forEach((r,i)=>r.status==="fulfilled"?out.push(...r.value):bad.push(feeds[i].name));
+ let seen=new Set();
+ articles=out.filter(a=>{let k=(a.link||"")+a.title;if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>new Date(b.date)-new Date(a.date)).slice(0,700);
+ if(bad.length){let al=document.getElementById("alert");al.classList.add("show");al.innerHTML="⚠️ Δεν απάντησαν: <b>"+esc(bad.join(", "))+"</b>. Μπορεί να έχουν προσωρινό πρόβλημα ή να μην επιτρέπουν RSS/CORS πρόσβαση."}
+ document.getElementById("mTime").textContent=new Date().toLocaleTimeString("el-GR",{hour:"2-digit",minute:"2-digit"});
+ populate();updateMetrics();render();
+}
+function populate(){
+ let s=document.getElementById("source"),cur=s.value;s.innerHTML='<option value="">Όλες οι πηγές</option>';
+ [...new Set(articles.map(a=>a.source))].sort().forEach(x=>{let o=document.createElement("option");o.value=x;o.textContent=x;s.appendChild(o)});
+ s.value=cur;
+}
+function render(){
+ let q=document.getElementById("q").value.toLowerCase().trim(),src=document.getElementById("source").value,cat=document.getElementById("cat").value,age=document.getElementById("age").value,sort=document.getElementById("sort").value;
+ let list=articles.filter(a=>(!q||(a.title+" "+a.desc+" "+a.source+" "+a.category).toLowerCase().includes(q))&&(!src||a.source===src)&&(!cat||a.category===cat)&&(!bookOnly||bookmarks.includes(a.id))&&(age==="all"||ageDays(a.date)<=+age));
+ if(sort==="hot")list.sort((a,b)=>Number(b.hot)-Number(a.hot)||new Date(b.date)-new Date(a.date));
+ else if(sort==="source")list.sort((a,b)=>a.source.localeCompare(b.source));
+ else list.sort((a,b)=>new Date(b.date)-new Date(a.date));
+ document.getElementById("shown").textContent=list.length+" αποτελέσματα";
+ let box=document.getElementById("news");
+ if(!list.length){box.innerHTML='<div class="empty">Δεν βρέθηκαν άρθρα με αυτά τα φίλτρα.</div>';return}
+ box.innerHTML=list.map(card).join("");
+}
+function card(a){
+ let fav=bookmarks.includes(a.id),im=a.image?`<img loading="lazy" src="${esc(a.image)}" onerror="this.style.display='none';this.nextElementSibling.style.display='grid'">`:"";
+ return `<article class="card" onclick="openArt('${esc(a.link)}')">
+ <div class="pic">${im}<div class="fallback" style="${a.image?'display:none':''}">⌁</div></div>
+ <div class="cardcontent"><div class="source">${esc(a.source)}</div><div class="date">${esc(dateFmt(a.date))}</div>
+ <div class="ctitle">${esc(a.title)}</div><div class="excerpt">${esc(a.desc||"Άνοιξε το άρθρο για περισσότερες πληροφορίες.")}</div>
+ <div class="cardbottom"><span class="badge ${a.hot?'hot':''}">${a.hot?"⚠ HOT · ":""}${esc(a.category)}</span>
+ <button class="star ${fav?'on':''}" onclick="event.stopPropagation();toggleFav('${esc(a.id)}')" title="Αγαπημένο">★</button></div></div></article>`
+}
+function openArt(u){if(u&&u!=="#")window.open(u,"_blank","noopener,noreferrer")}
+function toggleFav(id){bookmarks=bookmarks.includes(id)?bookmarks.filter(x=>x!==id):[...bookmarks,id];localStorage.setItem("cp2Bookmarks",JSON.stringify(bookmarks));updateMetrics();renderSaved();render()}
+function toggleBookmarks(){bookOnly=!bookOnly;document.getElementById("q").placeholder=bookOnly?"🔖 Εμφανίζονται μόνο τα αγαπημένα...":"🔎 Αναζήτηση τίτλων, πηγών, θεμάτων...";render()}
+function exportBookmarks(){
+ let data=articles.filter(a=>bookmarks.includes(a.id)).map(a=>({title:a.title,source:a.source,date:a.date,url:a.link}));
+ let blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),u=URL.createObjectURL(blob),a=document.createElement("a");a.href=u;a.download="cyber-pulse-bookmarks.json";a.click();URL.revokeObjectURL(u)
+}
+function updateMetrics(){
+ document.getElementById("mArticles").textContent=articles.length;
+ document.getElementById("mSources").textContent=new Set(articles.map(a=>a.source)).size;
+ document.getElementById("mHot").textContent=articles.filter(a=>a.hot).length;
+ document.getElementById("mAI").textContent=articles.filter(a=>a.category==="AI Security").length;
+ document.getElementById("mBook").textContent=bookmarks.length;
+ let score=Math.min(95,Math.round(18+articles.filter(a=>a.hot).length*2+articles.filter(a=>a.category==="Ransomware").length*1.4));
+ let level=score<35?"LOW":score<60?"ELEVATED":score<78?"HIGH":"CRITICAL";
+ document.getElementById("score").textContent=level;
+ document.getElementById("threatTitle").textContent=level==="LOW"?"Ήρεμη εικόνα":level==="ELEVATED"?"Αυξημένη δραστηριότητα":level==="HIGH"?"Υψηλή δραστηριότητα":"Έντονη δραστηριότητα";
+ document.getElementById("threatText").textContent=`Heuristic score ${score}/100 από ${articles.length} φορτωμένα άρθρα. Δεν αποτελεί πραγματική μέτρηση απειλής.`;
+ document.getElementById("gauge").style.background=`conic-gradient(${level==="CRITICAL"?"#ff707b":level==="HIGH"?"#e9bb67":"#63e0aa"} 0deg,${level==="CRITICAL"?"#ff707b":level==="HIGH"?"#e9bb67":"#63e0aa"} ${score*3.6}deg,#27353e ${score*3.6}deg 360deg)`;
+ let topics=Object.keys(KW).map(c=>[c,articles.filter(a=>a.category===c).length]).filter(x=>x[1]).sort((a,b)=>b[1]-a[1]);
+ document.getElementById("topicChips").innerHTML=topics.slice(0,8).map(x=>`<span class="chip">${esc(x[0])} · ${x[1]}</span>`).join("");
+}
+function renderTrends(){
+ let words=["zero-day","ransomware","ai","apt","cve","malware","phishing","data breach","exploit","llm","nation-state","critical"];
+ let t=articles.map(a=>(a.title+" "+a.desc).toLowerCase()),rows=words.map(w=>[w,t.filter(x=>x.includes(w)).length]).sort((a,b)=>b[1]-a[1]).slice(0,8);
+ document.getElementById("trends").innerHTML=rows.map(r=>`<div class="item"><b>#${esc(r[0])}</b><span>${r[1]} άρθρα</span></div>`).join("")||'<div class="item"><span>—</span></div>';
+}
+function renderSaved(){
+ let saved=articles.filter(a=>bookmarks.includes(a.id)).slice(0,8);
+ document.getElementById("savedCount").textContent=bookmarks.length;
+ document.getElementById("saved").innerHTML=saved.length?saved.map(a=>`<div class="item" style="cursor:pointer" onclick="openArt('${esc(a.link)}')"><b>${esc(a.title.slice(0,65))}</b><span>${esc(a.source)}</span></div>`).join(""):'<div style="font-size:11px;color:var(--muted)">Κανένα αποθηκευμένο άρθρο.</div>';
+}
+function updateSide(){renderTrends();renderSaved()}
+function settings(){document.getElementById("modal").classList.add("open");renderFeeds()}
+function closeModal(){document.getElementById("modal").classList.remove("open")}
+function renderFeeds(){
+ document.getElementById("feedlist").innerHTML=feeds.map((f,i)=>`<div class="feedrow"><div><b>${esc(f.name)}</b><small>${esc(f.url)}</small></div><button class="btn red" onclick="removeFeed(${i})">×</button></div>`).join("")
+}
+function addFeed(){
+ let n=document.getElementById("fname").value.trim()||"Custom feed",u=document.getElementById("furl").value.trim();
+ if(!/^https?:\/\//i.test(u)){alert("Το URL πρέπει να ξεκινά με http:// ή https://");return}
+ if(feeds.some(f=>f.url===u)){alert("Η πηγή υπάρχει ήδη.");return}
+ feeds.push({name:n,url:u});saveFeeds();document.getElementById("fname").value="";document.getElementById("furl").value="";renderFeeds();refresh()
+}
+function removeFeed(i){if(feeds.length===1){alert("Χρειάζεται τουλάχιστον μία πηγή.");return}feeds.splice(i,1);saveFeeds();renderFeeds();refresh()}
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
+setInterval(refresh,15*60*1000);
+refresh().then(updateSide);
+setInterval(updateSide,15*60*1000);
+</script>
+</body>
+</html>
