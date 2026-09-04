@@ -23,12 +23,14 @@ jobs:
           fetch-depth: 0
 
       - name: Collect RSS feeds
-        run: python scripts/fetch_news.py
+        run: |
+          python scripts/fetch_news.py
 
       - name: Generate optional AI brief
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/ai_brief.py
+        run: |
+          python scripts/ai_brief.py
 
       - name: Commit data
         run: |
@@ -45,6 +47,11 @@ jobs:
           git commit -m "chore: update cyber news"
 
           git fetch origin main
-          git rebase origin/main
+
+          git reset --soft origin/main
+
+          git add data/news.json data/status.json data/ai.json
+
+          git commit -m "chore: update cyber news" || echo "Nothing to commit"
 
           git push origin HEAD:main
