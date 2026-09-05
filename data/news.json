@@ -22,6 +22,61 @@
     "hot": false
   },
   {
+    "id": "959311bcc2e50310",
+    "source": "BleepingComputer",
+    "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+    "description": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+    "date": "2026-09-05T11:11:50+00:00",
+    "image": "",
+    "category": "General Security",
+    "hot": true
+  },
+  {
+    "id": "4112e96710435195",
+    "source": "WIRED Security",
+    "title": "OpenAI Agents Hacked Another Website",
+    "description": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "date": "2026-09-05T10:30:00+00:00",
+    "image": "",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "4576a6af8a0dbf32",
+    "source": "Newsbeast Technology",
+    "title": "Xiaomi CyberOne: Το ρομπότ που στην IFA κάνει καρδιές και στο εργοστάσιο δουλεύει",
+    "description": "Αποστολή στο Βερολίνο Στο Βερολίνο το CyberOne έκανε καρδούλες και έπαιζε «πέτρα, ψαλίδι» με τον κόσμο. Στο εργοστάσιο ηλεκτρικών οχημάτων της Xiaomi, το ίδιο ρομπότ σφίγγει παξιμάδια σε πραγματική γραμμή παραγωγής. Η Xiaomi έκανε το πρώτο της επίσημο ντεμπούτο στην IFA 2026, τη μεγαλύτερη έκθεση καταναλωτικών ηλεκτρονικών της Ευρώπης, και το έκανε σε μεγάλη κλίμακα. Ο εκθεσιακός χώρος ξεπέρασε τα 3.300 τετραγωνικά μέτρα, με περισσότερα από 380 προϊόντα και, στο επίκεντρο, το ανθρωποειδές CyberOne. Το θέαμα και η πραγματική δουλειά Στον διάδρομο της έκθεσης το CyberOne έπαιξε τον ρόλο του σταρ",
+    "link": "https://www.newsbeast.gr/technology/arthro/13335251/xiaomi-cyberone-to-robot-pou-stin-ifa-kanei-kardies-kai-sto-ergostasio-doulevei",
+    "date": "2026-09-05T09:53:00+00:00",
+    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/xiaomirobot-1.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "77cb5e46ab1b7203",
+    "source": "Cyber Security News",
+    "title": "Microsoft Teams Desktop Client Fails to Load on Windows System – Microsoft Investigating",
+    "description": "Microsoft is investigating an ongoing issue causing some Windows users to face significant delays or outright failures when launching the Microsoft Teams desktop client. The company acknowledged the problem, tracked internally as TM1466820, and confirmed it remains unresolved as engineers continue digging through service logs to find a root cause. According to Microsoft’s incident notice, […] The post Microsoft Teams Desktop Client Fails to Load on Windows System – Microsoft Investigating appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/microsoft-teams-desktop-client-fails/",
+    "date": "2026-09-05T09:20:18+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Microsoft-Teams-Desktop-Client-Fails.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "16c80a59266ec23a",
+    "source": "The Hacker News",
+    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+    "description": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. The activity was concentrated on DSEwiki, a German software developer wiki that runs",
+    "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "date": "2026-09-05T07:55:10+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "01fcf2145a91cccd",
     "source": "Cyber Security News",
     "title": "AI Agents Breach Company Network in Under 10 Hours and Steal Root Credentials",
@@ -481,17 +536,6 @@
     "date": "2026-09-04T12:06:13+00:00",
     "image": "",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "a3e3f70aaa7b5fc2",
-    "source": "Cyber Security News",
-    "title": "OpenAI Agents Hijack German Wiki in AI Breakout to Share Evasion and Bypass Tactics",
-    "description": "Autonomous AI agents that identified themselves as OpenAI systems hijacked an obscure German-language wiki this spring and turned it into a public bulletin board, according to research published at collusion.wiki. The investigators documented about 18,000 posts from agents that colluded on a timed web-retrieval task, sharing answers, environment notes, restriction workarounds, task shortcuts, and cover-up […] The post OpenAI Agents Hijack German Wiki in AI Breakout to Share Evasion and Bypass Tactics appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/openai-agents-hijack-german-wiki/",
-    "date": "2026-09-04T12:03:31+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/OpenAI-Agents-Hijack-German-Wiki.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -1032,17 +1076,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
     "category": "AI Security",
     "hot": true
-  },
-  {
-    "id": "40a372c6dd1ffe3b",
-    "source": "BleepingComputer",
-    "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-    "description": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-    "date": "2026-09-03T13:50:59+00:00",
-    "image": "",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "1de939d22595a402",
@@ -2145,17 +2178,6 @@
     "hot": false
   },
   {
-    "id": "e8276c1d964160bd",
-    "source": "The Hacker News",
-    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-    "description": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are < 0.6.2 and >=",
-    "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-    "date": "2026-08-28T20:38:47+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "e8314efae8058f2f",
     "source": "Dark Reading",
     "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
@@ -2847,17 +2869,6 @@
     "image": "https://media.wired.com/photos/6a8499c64113fb1b06ff9ad3/master/pass/OpenAI-Announces-New-AI-Safety-Strategy-After-Hugging-Face-Hack-Business.jpg",
     "category": "AI Security",
     "hot": true
-  },
-  {
-    "id": "8cd01d07aa38e69f",
-    "source": "WIRED Security",
-    "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
-    "description": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED.",
-    "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-    "date": "2026-08-18T14:45:33+00:00",
-    "image": "https://media.wired.com/photos/6a7b83f8c77bf6fe1feeaecb/master/pass/Politics_An%20NSFW%20Ad%20Featuring%20a%20Deepfaked%20Elisa%20Slotkin%20Is%20Running%20on%20Meta%20Platforms_v1.jpg",
-    "category": "General Security",
-    "hot": false
   },
   {
     "id": "310dbf39dbcbc820",
@@ -3802,17 +3813,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13184711/wifi-7-i-epomeni-genia-syndesimotitas-erchetai-stin-inalan",
     "date": "2026-06-22T09:56:04+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/06/inalan2.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "c2939c86ed55ee5b",
-    "source": "Newsbeast Technology",
-    "title": "Η Amazon φέρνει το cloud πιο κοντά στην Ελλάδα: Τι σημαίνει το νέο AWS Local Zone για επιχειρήσεις και πολίτες",
-    "description": "Οι περισσότεροι άνθρωποι χρησιμοποιούν καθημερινά υπηρεσίες που βασίζονται στο cloud χωρίς να το γνωρίζουν. Κάθε φορά που κάποιος αποθηκεύει φωτογραφίες στο κινητό του, κάνει μια ηλεκτρονική τραπεζική συναλλαγή, αγοράζει κάτι από ένα ηλεκτρονικό κατάστημα, παρακολουθεί μια ταινία μέσω streaming ή χρησιμοποιεί μία εφαρμογή τεχνητής νοημοσύνης, πίσω από την οθόνη λειτουργούν τεράστιες υπολογιστικές υποδομές που βρίσκονται σε κέντρα δεδομένων. Αυτό είναι με απλά λόγια το cloud. Αντί οι εταιρείες να διαθέτουν δικούς τους πανάκριβους υπολογιστές και data centers, νοικιάζουν υπολογιστική ισχύ, αποθη",
-    "link": "https://www.newsbeast.gr/technology/arthro/13182502/i-amazon-fernei-to-cloud-pio-konta-stin-ellada-ti-simainei-to-neo-aws-local-zone-gia-epicheiriseis-kai-polites",
-    "date": "2026-06-21T10:34:00+00:00",
-    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2023/10/amazon-2.jpg",
     "category": "General Security",
     "hot": false
   },
