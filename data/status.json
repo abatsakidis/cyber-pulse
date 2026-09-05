@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T19:16:46.022553+00:00",
+  "updated": "2026-09-05T21:31:31.511564+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -34,9 +34,8 @@
     {
       "name": "Help Net Security",
       "url": "https://www.helpnetsecurity.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
+      "ok": true,
+      "count": 10
     },
     {
       "name": "Security Affairs",
@@ -71,9 +70,8 @@
     {
       "name": "The Record",
       "url": "https://therecord.media/feed",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 520: <none>"
+      "ok": true,
+      "count": 5
     },
     {
       "name": "Ars Technica Security",
@@ -109,16 +107,17 @@
   ],
   "image_fallback": {
     "enabled": true,
-    "articles_checked": 136,
-    "images_found": 130,
+    "articles_checked": 146,
+    "images_found": 146,
     "by_source": {
       "Security Affairs": 10,
-      "BleepingComputer": 11,
+      "BleepingComputer": 15,
       "SecurityWeek": 10,
       "CyberScoop": 10,
       "Schneier on Security": 10,
+      "Help Net Security": 10,
       "CISA Advisories": 30,
-      "Krebs on Security": 8,
+      "Krebs on Security": 10,
       "News.gr Technology": 1,
       "NIST Cybersecurity": 40
     }
