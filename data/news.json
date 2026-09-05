@@ -22,6 +22,28 @@
     "hot": false
   },
   {
+    "id": "09a47724e132d071",
+    "source": "The Hacker News",
+    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+    "description": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
+    "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+    "date": "2026-09-05T16:52:33+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "6fc1b330a6c8671b",
+    "source": "The Hacker News",
+    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+    "description": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code. \"A",
+    "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+    "date": "2026-09-05T16:05:08+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "6504de6edd0e70a6",
     "source": "BleepingComputer",
     "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
@@ -225,7 +247,7 @@
     "title": "Using a VM to Contain an AI Agent",
     "description": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact. An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. Even innocuous features (like running with a display) add extra, exploitable attack surface.",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-    "date": "2026-09-04T16:31:50+00:00",
+    "date": "2026-09-04T16:31:38+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -632,7 +654,7 @@
     "title": "Security Vulnerability in a Voting System",
     "description": "It’s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary. Notably, I never touched a voting machine, exploited a network, examined source code, or accessed anything non-public. After pointing a coding agent to the original vulnerability paper, I supplied it with two data sources highlighted in the paper: the early-voting list for eac",
     "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-    "date": "2026-09-04T11:10:36+00:00",
+    "date": "2026-09-04T11:09:35+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -654,7 +676,7 @@
     "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
     "description": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a different site, pointed to one or more code packages or domain names that weren’t registered. To test what happens when an AI agent processes such files, the researchers registered a handful of the unclaimed names and hosted packages that caused any ",
     "link": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-    "date": "2026-09-04T10:35:19+00:00",
+    "date": "2026-09-04T10:35:17+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1270,7 +1292,7 @@
     "title": "Researching Employment Scams",
     "description": "Researchers built a fake company to study fake employee scams .",
     "link": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-    "date": "2026-09-03T11:18:52+00:00",
+    "date": "2026-09-03T11:18:14+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1578,7 +1600,7 @@
     "title": "Wireless Routers as Motion Detectors",
     "description": "Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity. Comcast acknowledges that the system has some limitations. Home size, layout, building materials, and the placement of the router and connected devices can all affect its ability to detect motion. Comcast says it does not guarantee its performance. S",
     "link": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-    "date": "2026-09-02T10:23:28+00:00",
+    "date": "2026-09-02T10:22:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Privacy",
     "hot": false
@@ -1656,7 +1678,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1776,7 +1798,7 @@
     "title": "Leaked Russian Cyber-Operations Training Materials",
     "description": "This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and information security. […] The reporting also linked a 2024 Department No. 4 graduate, Aleksei Kondrashov, to Military Unit 74455, widely known as Sandworm. That unit has been associated with destructive cyber activity against Ukraine and other targets, including the 2017 NotPetya attack. The reports do not establish that every listed graduate partici",
     "link": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
-    "date": "2026-09-01T16:29:44+00:00",
+    "date": "2026-09-01T16:29:10+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -1908,7 +1930,7 @@
     "title": "Rewiring Democracy Series on The Renovator",
     "description": "Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for The Renovator . I haven’t been posting the full text on the blog because they’re a bit long, but here are links. Part 1 is about the Japanese digital democracy party, Team Mirai. Part 2 is about the Swiss Public AI model, Apertus. Part 3 is about the civic technologists of Open Knowledge Brazil. And the new one, Part 4 , is about civic AI in Scotland.",
     "link": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-    "date": "2026-09-01T09:59:54+00:00",
+    "date": "2026-09-01T09:59:07+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2143,28 +2165,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg",
     "category": "Hacking",
     "hot": false
-  },
-  {
-    "id": "34a22aba2f3fd9dd",
-    "source": "The Hacker News",
-    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-    "description": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
-    "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-    "date": "2026-08-30T07:36:33+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg",
-    "category": "Cyberwarfare",
-    "hot": false
-  },
-  {
-    "id": "406b7e79690a7861",
-    "source": "The Hacker News",
-    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-    "description": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
-    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-    "date": "2026-08-29T16:25:03+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "fa5c82c13ce96620",
@@ -2437,7 +2437,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-keeper/13.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2921,7 +2921,7 @@
     "description": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. A Decryptads summary of the advertising partnerships declared by espn.com. The ne",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": false
   },
@@ -2943,7 +2943,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3020,7 +3020,7 @@
     "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Can",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "date": "2026-08-06T17:00:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3097,7 +3097,7 @@
     "description": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of a sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Falé is a threat researcher with the security firm Bitsight . Falé told KrebsOnSecurity he was able to peer inside ",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "date": "2026-07-30T16:49:00+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Malware",
     "hot": false
   },
@@ -3284,7 +3284,7 @@
     "description": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one’s television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG’s webOS store allow unknown third-parties to route their Internet traffic through a user’s TV. Proxy SDK prevalence among smart TV apps for LG (webOS) and Samsung (Tizen OS) televisions. Image: Spur.us. On July 2, we featured research by the security firm Spur that examined the prev",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
     "date": "2026-07-22T01:10:38+00:00",
-    "image": "https://krebsonsecurity.com/b-keeper/13.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "General Security",
     "hot": false
   },
@@ -3383,7 +3383,7 @@
     "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence. Nearly 60 of the bugs quashed in July’s Patch Tuesday earned a “critical” severity rating, meaning miscreants or malware could use them to seize remote control over a Windows device with little or no help from the user. Micro",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "date": "2026-07-14T19:22:42+00:00",
-    "image": "https://krebsonsecurity.com/b-keeper/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3416,7 +3416,7 @@
     "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency’s initial response provide important lessons that all security teams should absorb. On May 15, 2026, the security firm GitGuardian asked for help in notifying CISA about the existence of a public GitHub repository called “Private CISA” that included 844 ",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "date": "2026-07-13T15:03:28+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Vulnerability",
     "hot": false
   },
@@ -3548,7 +3548,7 @@
     "description": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names. The X/Twitter account IRIS C2 (@C2IRIS) has gained more than 4,000 followers since its creation in January 2025, posting frequently about security vulnerabilities, AI and software exploits. IRIS C2 says it is a company in McLean, Va. that sells offensive cybersecuri",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
     "date": "2026-07-08T12:31:39+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "AI Security",
     "hot": true
   },
