@@ -22,3 +22,6 @@ Edit `data/sources.json` and add `{ "name": "...", "url": "...", "enabled": true
 
 ## Local test
 `python -m http.server 8000` then open `http://localhost:8000`.
+
+## Preview
+![Tool Interface](screenshot/screen.jpg)
