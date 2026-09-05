@@ -22,6 +22,50 @@
     "hot": false
   },
   {
+    "id": "01fcf2145a91cccd",
+    "source": "Cyber Security News",
+    "title": "AI Agents Breach Company Network in Under 10 Hours and Steal Root Credentials",
+    "description": "A human attacker armed with frontier artificial intelligence models breached an enterprise network and seized root credentials in under 10 hours, a timeline that would normally take human red teams roughly two weeks to complete, according to a new incident response report from Palo Alto Networks’ Unit 42. The threat actor told Unit 42 investigators […] The post AI Agents Breach Company Network in Under 10 Hours and Steal Root Credentials appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/ai-agents-breach-company-network/",
+    "date": "2026-09-05T07:46:07+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/AI-Agents-Breach-Company-Network.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "49e21f044e817f67",
+    "source": "Newsbeast Technology",
+    "title": "Το Cyber Pet της Ollobot που σου κρατά συντροφιά και θέλει να σε καταλάβει",
+    "description": "Αποστολή στο Βερολίνο Στην IFA Berlin 2026, ανάμεσα σε δεκάδες ρομπότ που προσπαθούσαν να αποδείξουν τι μπορούν να κάνουν, ένα μικρό ρομποτάκι ξεχώρισε επειδή έκανε το ακριβώς αντίθετο. Στεκόταν ήσυχο και περίμενε να το πλησιάσεις. Η κινεζική Ollobot ήρθε στο Βερολίνο με μια εντελώς διαφορετική πρόταση: ένα μικρό, στρογγυλό ρομπότ που δεν σκουπίζει, δεν σερβίρει και δεν απαντά απλώς σε εντολές. Το OlloNi SS1 φιλοδοξεί να κάνει κάτι πιο δύσκολο. Να καταλάβει τον κάτοχό του. Το προϊόν έκανε το ευρωπαϊκό του ντεμπούτο στην μεγάλη έκθεση του Βερολίνου, κάτω από το σύνθημα «Touch. Feel. Bond», σε έ",
+    "link": "https://www.newsbeast.gr/technology/arthro/13335139/to-cyber-pet-tis-ollobot-pou-sou-krata-syntrofia-kai-thelei-na-se-katalavei",
+    "date": "2026-09-05T07:40:19+00:00",
+    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/ollobot3a.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "233197c0b47ef794",
+    "source": "The Hacker News",
+    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+    "description": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+    "date": "2026-09-05T07:31:53+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "d5f58cf487857bb5",
+    "source": "Security Affairs",
+    "title": "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities",
+    "description": "Broadcom patched two VMware Workstation/Fusion VM-escape bugs. No workarounds exist. Update to version 26H1u1 immediately. Broadcom published advisory VMSA-2026-0007, patching two vulnerabilities in VMware Workstation and Fusion that allow an attacker inside a virtual machine to execute code on the underlying host. One is rated Critical. Neither has a workaround. The first vulnerability, tracked as […]",
+    "link": "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html",
+    "date": "2026-09-05T04:54:27+00:00",
+    "image": "",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "c329354e71ed08cf",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog",
@@ -470,17 +514,6 @@
     "date": "2026-09-04T11:55:17+00:00",
     "image": "",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "ff425e247eb5de03",
-    "source": "Cyber Security News",
-    "title": "Microsoft 365 Phishing Technique Uses Empty Envelope Sender to Evade Direct Send Blocking",
-    "description": "Microsoft 365 users are facing a phishing technique built on a small change: attackers leave the SMTP envelope sender blank. The omission can let an unauthenticated message pass a Direct Send safeguard while showing employees an address that appears to belong to their own organization. The approach is not a Microsoft software flaw and does […] The post Microsoft 365 Phishing Technique Uses Empty Envelope Sender to Evade Direct Send Blocking appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/microsoft-365-phishing/",
-    "date": "2026-09-04T11:49:30+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Microsoft-365-Phishing-Technique-Uses-Empty-Envelope-Sender-to-Evade-Direct-Send-Blocking.webp",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -1230,17 +1263,6 @@
     "image": "",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "e584f3f78ea8ee9e",
-    "source": "Security Affairs",
-    "title": "Chaotic Eclipse Releases Crowdstrike Falcon ZeroDay FalconFlank",
-    "description": "Chaotic Eclipse released FalconFlank, a PoC exploit for a Crowdstrike Falcon ZeroDay Elevation of Privileges Vulnerability Security researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-day exploit targeting Crowdstrike Falcon cybersecurity platform. The researcher named the exploit FalconFlank, it triggers a privilege escalation flaw. According to the researcher, FalconFlank abuses […]",
-    "link": "https://securityaffairs.com/198342/hacking/chaotic-eclipse-releases-crowdstrike-falcon-zeroday-falconflank.html",
-    "date": "2026-09-03T09:52:26+00:00",
-    "image": "",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "8789c86514ab7bfe",
@@ -2079,17 +2101,6 @@
     "hot": false
   },
   {
-    "id": "c1dc7344ad036e75",
-    "source": "News.gr Technology",
-    "title": "Η λίμνη Οντάριο γίνεται λίμνη της Αμερικής στο αμερικανικό Google Maps",
-    "description": "Η απόφαση δεν οδηγεί σε καμία διεθνή αναγνώριση της νέας ονομασίας",
-    "link": "https://www.news.gr/tech/article/4202499/i-limni-ontario-ginete-limni-tis-amerikis-sto-amerikaniko-google-maps.html",
-    "date": "2026-08-31T05:20:43+00:00",
-    "image": "",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "34a22aba2f3fd9dd",
     "source": "The Hacker News",
     "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
@@ -2176,17 +2187,6 @@
     "image": "https://media.wired.com/photos/6a909d8a06c510ef6758e71c/master/pass/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg",
     "category": "Vulnerability",
     "hot": false
-  },
-  {
-    "id": "c5036a4990b81a94",
-    "source": "The Hacker News",
-    "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-    "description": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary Java code inside the application's",
-    "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-    "date": "2026-08-28T17:12:15+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "49e02d96bca31c78",
@@ -3813,17 +3813,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13182502/i-amazon-fernei-to-cloud-pio-konta-stin-ellada-ti-simainei-to-neo-aws-local-zone-gia-epicheiriseis-kai-polites",
     "date": "2026-06-21T10:34:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2023/10/amazon-2.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "33a0769b844db27e",
-    "source": "Newsbeast Technology",
-    "title": "Εφαρμογές dating και AI: Γιατί σχεδόν οι μισοί χρήστες λένε «όχι»",
-    "description": "Η τεχνητή νοημοσύνη μπαίνει ολοένα και πιο δυναμικά στον κόσμο των online γνωριμιών, όμως οι χρήστες φαίνεται να μην την υποδέχονται με ενθουσιασμό. Σύμφωνα με νέα έρευνα της Match Group, σχεδόν οι μισοί ανύπαντροι στις Ηνωμένες Πολιτείες εκφράζουν αρνητική στάση απέναντι στη χρήση της AI στα ραντεβού, δείχνοντας ότι, παρά την τεχνολογική εξέλιξη των εφαρμογών, η ανάγκη για αυθεντική ανθρώπινη σύνδεση παραμένει ισχυρή. Η μελέτη, η οποία βασίστηκε σε δείγμα περίπου 1.000 ατόμων ηλικίας 18 έως 39 ετών, αποτυπώνει μια σαφή αμφιθυμία απέναντι στην αυξανόμενη παρουσία της AI στον χώρο των dating ap",
-    "link": "https://www.newsbeast.gr/technology/arthro/13179737/efarmoges-dating-kai-ai-giati-schedon-oi-misoi-christes-lene-ochi",
-    "date": "2026-06-21T09:57:00+00:00",
-    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/06/dating-apps2.jpg",
     "category": "General Security",
     "hot": false
   },
