@@ -22,6 +22,17 @@
     "hot": false
   },
   {
+    "id": "79c05897604e9cf1",
+    "source": "Security Affairs",
+    "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools",
+    "description": "Attackers are exploiting two new PaperCut flaws to steal credentials and gain privileged access in education-sector attacks across the U.S. and Europe. Attackers are exploiting two recelty disclosed PaperCut flaws, CVE-2026-81578 and CVE-2026-82078 , in attacks targeting schools and other education organizations in the U.S. and Europe, as reported by TheHackerNews. Arctic Wolf researchers observed threat actors chaining an authentication bypass with remote code execution to run commands, perform reconnaissance and create privileged accounts. The activity shows how quickly attackers can turn ne",
+    "link": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html",
+    "date": "2026-09-05T18:47:14+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2023/08/PaperCut-Logotype.png",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
     "id": "09a47724e132d071",
     "source": "The Hacker News",
     "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
@@ -247,7 +258,7 @@
     "title": "Using a VM to Contain an AI Agent",
     "description": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact. An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. Even innocuous features (like running with a display) add extra, exploitable attack surface.",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-    "date": "2026-09-04T16:31:38+00:00",
+    "date": "2026-09-04T16:31:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -308,17 +319,6 @@
     "hot": false
   },
   {
-    "id": "8a99e5c97c0b87f5",
-    "source": "The Record",
-    "title": "US, Britain to coordinate on scam center takedowns",
-    "description": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.",
-    "link": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
-    "date": "2026-09-04T15:42:00+00:00",
-    "image": "http://cms.therecord.media/uploads/us_uk_flags_walter_martin_unsplash_66f0fdc82e.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "dc75659bf195e055",
     "source": "BleepingComputer",
     "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
@@ -349,17 +349,6 @@
     "date": "2026-09-04T14:51:13+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
     "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "1de50a27c4d31b4e",
-    "source": "The Record",
-    "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
-    "description": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
-    "link": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
-    "date": "2026-09-04T14:45:00+00:00",
-    "image": "http://cms.therecord.media/uploads/brandon_wong_AHWME_DPU_0_Q_unsplash_e9ae8258c6.jpg",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -429,17 +418,6 @@
     "hot": false
   },
   {
-    "id": "adb1e34354adee8f",
-    "source": "The Record",
-    "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
-    "description": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
-    "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
-    "date": "2026-09-04T13:39:00+00:00",
-    "image": "http://cms.therecord.media/uploads/ukraine_bomber_drone_march_2026_7aad1dca3f.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "884a638cf8d40269",
     "source": "SecurityWeek",
     "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
@@ -506,17 +484,6 @@
     "hot": false
   },
   {
-    "id": "836b0c7e1492515e",
-    "source": "The Record",
-    "title": "G7 urges organizations to prepare for quantum cyber threats",
-    "description": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
-    "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
-    "date": "2026-09-04T12:34:00+00:00",
-    "image": "http://cms.therecord.media/uploads/computer_chip_cbfae71fa7.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "e340b5aba3fd1932",
     "source": "BleepingComputer",
     "title": "Exchange Online outage causes email delays, 'Server busy' errors",
@@ -525,17 +492,6 @@
     "date": "2026-09-04T12:22:30+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Microsoft_Exchange.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "2eb6679c43aae4f1",
-    "source": "Help Net Security",
-    "title": "Synology ActiveProtect Manager 2.0 improves AI-driven security",
-    "description": "Synology launched ActiveProtect Manager 2.0 (APM 2.0), the latest software update for its ActiveProtect data protection appliances. This release introduces expanded platform coverage, cross-platform recovery, and enhanced security, with future updates bringing AI-driven threat mitigation. “Managing fragmented backup infrastructure drives up costs and slows recovery. The ActiveProtect appliance unites purpose-built storage with powerful data management software into a single, predictable investment,” said Jia-Yu Liu, EVP of the Synology Data Protection Group. “APM 2.0 builds on … More → The pos",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/synology-activeprotect-manager-2-0-data-protection/",
-    "date": "2026-09-04T12:19:50+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -570,17 +526,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30db53d3998a9cfc/6a9ab83ce2c6982ca269f92d/AI-justice-law-liability-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "2bc3b8b190a180da",
-    "source": "Help Net Security",
-    "title": "Google patches actively exploited Chrome zero-day (CVE-2026-85046)",
-    "description": "Google has patched 12 vulnerabilities affecting its popular Chrome browser, among them CVE-2026-85046, which has been exploited in the wild. “Google is aware that an exploit for CVE-2026-85046 exists in the wild,” the company said in a Thursday security advisory. The fix has been shipped in Chrome 152.0.7977.82/.83 for Windows and macOS and Chrome 152.0.7977.82 for Linux, with the update rolling out to users over the coming days and weeks. About CVE-2026-85046 CVE-2026-85046 (CVSS score: … More → The post Google patches actively exploited Chrome zero-day (CVE-2026-85046) appeared first on Help",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/google-chrome-zero-day-cve-2026-85046/",
-    "date": "2026-09-04T12:09:13+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/19124527/google-chrome-malicious-1500.webp",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "a996cf2db3b60b19",
@@ -654,7 +599,7 @@
     "title": "Security Vulnerability in a Voting System",
     "description": "It’s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary. Notably, I never touched a voting machine, exploited a network, examined source code, or accessed anything non-public. After pointing a coding agent to the original vulnerability paper, I supplied it with two data sources highlighted in the paper: the early-voting list for eac",
     "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-    "date": "2026-09-04T11:09:35+00:00",
+    "date": "2026-09-04T11:10:36+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -676,9 +621,9 @@
     "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
     "description": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a different site, pointed to one or more code packages or domain names that weren’t registered. To test what happens when an AI agent processes such files, the researchers registered a handful of the unclaimed names and hosted packages that caused any ",
     "link": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-    "date": "2026-09-04T10:35:17+00:00",
+    "date": "2026-09-04T10:35:19+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -724,17 +669,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "9da8950484bd0f97",
-    "source": "Help Net Security",
-    "title": "Microsoft Teams is about to make QR code phishing much harder",
-    "description": "Microsoft is preparing a new feature for Teams users that will help them stay safe from QR code phishing. Teams will automatically hide QR codes sent by people outside the organization. Users will need to reveal the image first before they can view or scan it. It’s currently in development, with rollout expected to begin in October 2026 for Android, desktop, iOS, and Mac. “Microsoft Teams will provide additional protection for QR codes shared by … More → The post Microsoft Teams is about to make QR code phishing much harder appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/microsoft-teams-qr-code-phishing-protection/",
-    "date": "2026-09-04T08:28:51+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/17114130/ms-teams-2-1500.webp",
-    "category": "Hacking",
-    "hot": false
   },
   {
     "id": "6f0e141661bddeaa",
@@ -792,28 +726,6 @@
     "hot": true
   },
   {
-    "id": "e1781b960e732425",
-    "source": "Help Net Security",
-    "title": "September 2026 Patch Tuesday forecast: All we need is more time",
-    "description": "The Patch Apocalypse is continuing unabated. We are seeing record numbers of patches being released and reported CVEs continue to grow as well. August 2026 Patch Tuesday was the second biggest in history with 398 resolved CVEs: 42 rated Critical, 355 rated Important, and 1 rated Moderate. But despite the high number, again only one vulnerability was confirmed actively exploited in the wild, and two more were publicly disclosed ahead of the released patches. AI … More → The post September 2026 Patch Tuesday forecast: All we need is more time appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/september-2026-patch-tuesday-forecast/",
-    "date": "2026-09-04T06:00:19+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/05/14201548/patch_tuesday_news2.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "f5a74a6b1cc11614",
-    "source": "Help Net Security",
-    "title": "A five-part inventory for your AI agent credentials",
-    "description": "In this Help Net Security video, Roy Katmor, co-founder and CEO of Orchid, explains why AI agents hold credentials that nobody reviews. Organizations build agents in AI studios, connect them to enterprise tools, and give them accounts to do useful work. The agent is approved, the studio is approved, but the identities behind them sit outside the usual review process. Katmor walks through an onboarding agent that touches HR, an identity provider, ticketing, payroll, and … More → The post A five-part inventory for your AI agent credentials appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/ai-agent-credentials-video/",
-    "date": "2026-09-04T05:30:39+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/03085632/ai-bot-key-authentication-1500.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "ae6f9c9fa7e3ee7c",
     "source": "Newsbeast Technology",
     "title": "Ντεμπούτο στην IFA 2026: Η Xiaomi ανεβάζει ταχύτητα στην Ευρώπη με το οικοσύστημα «Human × Car × Home»",
@@ -823,61 +735,6 @@
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/xiaomi3.jpg",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "a96eb393daa1b6be",
-    "source": "Help Net Security",
-    "title": "Scammers have figured out the best time to text you",
-    "description": "The suspicious calls, texts, and DMs you got recently aren’t a coincidence, according to Malwarebytes. Scammers have worked out which platform gets them the best results for each type of con, and they stick to that formula. (Source: Malwarebytes) The company looked at its own threat data collected between April 15 and July 14, 2026, and tracked more than 20 scam categories, from tech support cons to sextortion. “Intuitively, the platforms favored often match the … More → The post Scammers have figured out the best time to text you appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/scam-texts-peak-research/",
-    "date": "2026-09-04T05:00:59+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/09/21085235/scammers-1400.jpg",
-    "category": "Ransomware",
-    "hot": false
-  },
-  {
-    "id": "5aeb4d61c9da3b8d",
-    "source": "Help Net Security",
-    "title": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets",
-    "description": "OpenAI committed $1 billion to subsidize access to its Daybreak cyber models, along with training and technical support, for organizations defending water and wastewater systems, the electric grid, state and local government, community and regional banks, nonprofits, and open-source projects. The company is starting in the United States and intends to extend the offer to partner countries within weeks. The billion is credit against OpenAI’s own products, and the company is targeting it to be … More → The post OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/openai-daybreak-frontline-defenders-access/",
-    "date": "2026-09-04T04:35:41+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08084558/openai_texture-1500.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "e34b1c48ba04c4aa",
-    "source": "Help Net Security",
-    "title": "Most of the bugs Claude Mythos found have never been checked by a human",
-    "description": "Anthropic pointed Claude Mythos Preview at 281 open-source projects and collected 23,019 candidate vulnerabilities. External security firms reviewed 1,900 of them. Maintainers received 1,596 reports and acknowledged 1,451; 97 fixes landed upstream, and 88 findings became published security advisories, with counts current as of May 22, 2026. The other 21,119 candidates have not been reviewed by anyone outside Anthropic. Anthropic puts the drop-off down to a shortage of people to check the work, and the … More → The post Most of the bugs Claude Mythos found have never been checked by a human app",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/echo-claude-mythos-vulnerability-findings/",
-    "date": "2026-09-04T04:30:25+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125837/claude-city.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "a1a88cf503f6cb85",
-    "source": "Help Net Security",
-    "title": "New infosec products of the week: September 4, 2026",
-    "description": "Here’s a look at the most interesting products from the past week, featuring releases from BugBase, F5 Networks, Ping Identity, and Superna. F5 speeds up virtual patching to counter AI-driven threats With new features such as anomaly detection and agentic threat intelligence, F5’s AI-powered web application firewall (WAF) is capable in delivering real-time protections because of its strategic position in customers’ infrastructure. Enhancements to F5 WAF for Distributed Cloud and virtual patching provide the precision … More → The post New infosec products of the week: September 4, 2026 appeare",
-    "link": "https://www.helpnetsecurity.com/2026/09/04/new-infosec-products-of-the-week-september-4-2026/",
-    "date": "2026-09-04T04:00:34+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/28091843/infosec-week-1200.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "9fd741fbfd7aeb38",
-    "source": "The Record",
-    "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
-    "description": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
-    "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
-    "date": "2026-09-04T04:00:00+00:00",
-    "image": "http://cms.therecord.media/uploads/amir_yaryab_irgc_us_wanted_poster_9f60f61978.jpg",
-    "category": "Hacking",
-    "hot": true
   },
   {
     "id": "9e48f9c63f2ce55e",
@@ -996,7 +853,7 @@
     "description": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
     "date": "2026-09-03T18:28:12+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/05/27/HPE-headpic.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1062,7 +919,7 @@
     "description": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
     "date": "2026-09-03T15:22:33+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/03/Windows-11.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1073,7 +930,7 @@
     "description": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
     "date": "2026-09-03T15:13:29+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1084,7 +941,7 @@
     "description": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
     "date": "2026-09-03T15:02:52+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1111,17 +968,6 @@
     "hot": true
   },
   {
-    "id": "1de939d22595a402",
-    "source": "Help Net Security",
-    "title": "Thomson Reuters reveals breach that exposed U.S. and Canadian court records",
-    "description": "Thomson Reuters has disclosed a data breach affecting C-Track, a court case management platform operated by its subsidiaries, exposing court records and sensitive personal information across courts in at least 12 US states, the US Virgin Islands, and Canada. The company published the disclosure publicly on Wednesday, along with separate notification pages for affected individuals in the United States and Canada. What happened, and when Thomson Reuters said it discovered unauthorized activity involving certain C-Track … More → The post Thomson Reuters reveals breach that exposed U.S. and Canadi",
-    "link": "https://www.helpnetsecurity.com/2026/09/03/thomson-reuters-reveals-breach-that-exposed-u-s-and-canadian-court-records/",
-    "date": "2026-09-03T13:50:36+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/09/26104518/cloud-secure-2.webp",
-    "category": "Privacy",
-    "hot": true
-  },
-  {
     "id": "08dd591c046f0bef",
     "source": "Newsbeast Technology",
     "title": "IFA 2026: Η Xiaomi ανοίγει τον δρόμο για τα ηλεκτρικά της αυτοκίνητα στην Ευρώπη",
@@ -1131,17 +977,6 @@
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/Ifa-xiaomi1.jpg",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "a72b3d84ea3c944e",
-    "source": "Security Affairs",
-    "title": "412,000 The Town 2025 Ticket Buyers’ Data Hits the Dark Web",
-    "description": "412,000 The Town 2025 festival buyer records are being sold for $10,000, with Brazil’s data openly marketed for bank fraud, loans and SIM registration. A seller on a Russian-language data-trading forum listed what they’re calling a Ticketmaster database on September 2, claiming over 412,000 Latin American purchase records with a heavy concentration of Brazilian data. Ransomnews’s analysis confirms the sample is genuine ticket-buyer data from The Town 2025, the São Paulo music festival, though who actually lost the data and how remains unconfirmed. “The listing is headed “SELLING NEW TICKETMAST",
-    "link": "https://securityaffairs.com/198354/data-breach/412000-the-town-2025-ticket-buyers-data-hits-the-dark-web.html",
-    "date": "2026-09-03T13:17:41+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-10.png",
-    "category": "Hacking",
-    "hot": true
   },
   {
     "id": "22255bb51e98f6b9",
@@ -1292,7 +1127,7 @@
     "title": "Researching Employment Scams",
     "description": "Researchers built a fake company to study fake employee scams .",
     "link": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-    "date": "2026-09-03T11:18:14+00:00",
+    "date": "2026-09-03T11:18:52+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1598,11 +1433,11 @@
     "id": "a200f0810de4d582",
     "source": "Schneier on Security",
     "title": "Wireless Routers as Motion Detectors",
-    "description": "Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity. Comcast acknowledges that the system has some limitations. Home size, layout, building materials, and the placement of the router and connected devices can all affect its ability to detect motion. Comcast says it does not guarantee its performance. S",
+    "description": "Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity. Comcast acknowledges that the system has some limitations. Home size, layout, building materials, and the placement of the router and connected devices can all affect its ability to detect motion. Comcast says it does not guarantee its performance...",
     "link": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-    "date": "2026-09-02T10:22:46+00:00",
+    "date": "2026-09-02T10:23:28+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1774,7 +1609,7 @@
     "id": "17ada55e09d02a1a",
     "source": "Schneier on Security",
     "title": "What’s the Scam?",
-    "description": "To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last weekend, I have been receiving a lot of individual responses to those emails. Always one line: Thank you for the positive impact your emails have had on my life. Your emails are a game-changer. Your emails are a constant reminder of why I subscribed. Your emails rock. Thank you for the time and effort you put into creating these informative emails. ",
+    "description": "To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last weekend, I have been receiving a lot of individual responses to those emails. Always one line: Thank you for the positive impact your emails have had on my life. Your emails are a game-changer. Your emails are a constant reminder of why I subscribed. Your emails rock. Thank you for the time and effort you put into creating these informative emails..",
     "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
     "date": "2026-09-01T17:36:13+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1798,9 +1633,9 @@
     "title": "Leaked Russian Cyber-Operations Training Materials",
     "description": "This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and information security. […] The reporting also linked a 2024 Department No. 4 graduate, Aleksei Kondrashov, to Military Unit 74455, widely known as Sandworm. That unit has been associated with destructive cyber activity against Ukraine and other targets, including the 2017 NotPetya attack. The reports do not establish that every listed graduate partici",
     "link": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
-    "date": "2026-09-01T16:29:10+00:00",
+    "date": "2026-09-01T16:29:44+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1930,7 +1765,7 @@
     "title": "Rewiring Democracy Series on The Renovator",
     "description": "Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for The Renovator . I haven’t been posting the full text on the blog because they’re a bit long, but here are links. Part 1 is about the Japanese digital democracy party, Team Mirai. Part 2 is about the Swiss Public AI model, Apertus. Part 3 is about the civic technologists of Open Knowledge Brazil. And the new one, Part 4 , is about civic AI in Scotland.",
     "link": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-    "date": "2026-09-01T09:59:07+00:00",
+    "date": "2026-09-01T09:59:54+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2437,7 +2272,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "",
     "category": "Ransomware",
     "hot": true
   },
@@ -2921,7 +2756,7 @@
     "description": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. A Decryptads summary of the advertising partnerships declared by espn.com. The ne",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": false
   },
@@ -2943,7 +2778,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3020,7 +2855,7 @@
     "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Can",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "date": "2026-08-06T17:00:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3097,7 +2932,7 @@
     "description": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of a sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Falé is a threat researcher with the security firm Bitsight . Falé told KrebsOnSecurity he was able to peer inside ",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "date": "2026-07-30T16:49:00+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Malware",
     "hot": false
   },
@@ -3284,7 +3119,7 @@
     "description": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one’s television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG’s webOS store allow unknown third-parties to route their Internet traffic through a user’s TV. Proxy SDK prevalence among smart TV apps for LG (webOS) and Samsung (Tizen OS) televisions. Image: Spur.us. On July 2, we featured research by the security firm Spur that examined the prev",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
     "date": "2026-07-22T01:10:38+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "General Security",
     "hot": false
   },
@@ -3383,7 +3218,7 @@
     "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence. Nearly 60 of the bugs quashed in July’s Patch Tuesday earned a “critical” severity rating, meaning miscreants or malware could use them to seize remote control over a Windows device with little or no help from the user. Micro",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "date": "2026-07-14T19:22:42+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3416,7 +3251,7 @@
     "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency’s initial response provide important lessons that all security teams should absorb. On May 15, 2026, the security firm GitGuardian asked for help in notifying CISA about the existence of a public GitHub repository called “Private CISA” that included 844 ",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "date": "2026-07-13T15:03:28+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "",
     "category": "Vulnerability",
     "hot": false
   },
@@ -3548,7 +3383,7 @@
     "description": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names. The X/Twitter account IRIS C2 (@C2IRIS) has gained more than 4,000 followers since its creation in January 2025, posting frequently about security vulnerabilities, AI and software exploits. IRIS C2 says it is a company in McLean, Va. that sells offensive cybersecuri",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
     "date": "2026-07-08T12:31:39+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "AI Security",
     "hot": true
   },
