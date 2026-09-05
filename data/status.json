@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T15:14:25.033751+00:00",
+  "updated": "2026-09-05T15:31:50.037647+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -89,9 +89,8 @@
     {
       "name": "Cyber Security News",
       "url": "https://cybersecuritynews.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "<urlopen error timed out>"
+      "ok": true,
+      "count": 10
     },
     {
       "name": "News.gr Technology",
@@ -105,5 +104,22 @@
       "ok": true,
       "count": 100
     }
-  ]
+  ],
+  "image_fallback": {
+    "enabled": true,
+    "articles_checked": 146,
+    "images_found": 146,
+    "by_source": {
+      "BleepingComputer": 15,
+      "SecurityWeek": 10,
+      "Security Affairs": 10,
+      "CyberScoop": 10,
+      "Schneier on Security": 10,
+      "Help Net Security": 10,
+      "CISA Advisories": 30,
+      "Krebs on Security": 10,
+      "News.gr Technology": 1,
+      "NIST Cybersecurity": 40
+    }
+  }
 }
