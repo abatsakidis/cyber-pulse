@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T21:09:41.960943+00:00",
+  "updated": "2026-09-08T23:24:37.876897+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -89,8 +89,9 @@
     {
       "name": "Cyber Security News",
       "url": "https://cybersecuritynews.com/feed/",
-      "ok": true,
-      "count": 10
+      "ok": false,
+      "count": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "name": "News.gr Technology",
@@ -111,13 +112,13 @@
     "images_found": 140,
     "by_source": {
       "CyberScoop": 10,
+      "Krebs on Security": 10,
       "Security Affairs": 10,
       "BleepingComputer": 10,
       "SecurityWeek": 10,
       "Schneier on Security": 10,
       "Help Net Security": 10,
       "CISA Advisories": 30,
-      "Krebs on Security": 10,
       "NIST Cybersecurity": 40
     }
   }
