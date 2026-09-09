@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:19:35.951846+00:00",
+  "updated": "2026-09-09T18:47:42.832490+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -101,23 +101,21 @@
     {
       "name": "Newsbeast Technology",
       "url": "https://www.newsbeast.gr/technology/feed",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 100
     }
   ],
   "image_fallback": {
     "enabled": true,
     "articles_checked": 146,
-    "images_found": 144,
+    "images_found": 145,
     "by_source": {
       "CyberScoop": 10,
-      "SecurityWeek": 10,
-      "BleepingComputer": 13,
-      "Help Net Security": 10,
       "Security Affairs": 10,
+      "SecurityWeek": 10,
+      "BleepingComputer": 15,
       "Schneier on Security": 10,
-      "News.gr Technology": 1,
+      "Help Net Security": 10,
       "Krebs on Security": 10,
       "CISA Advisories": 30,
       "NIST Cybersecurity": 40
