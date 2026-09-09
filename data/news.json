@@ -22,13 +22,123 @@
     "hot": false
   },
   {
+    "id": "389a4ae4ddb99bd9",
+    "source": "Newsbeast Technology",
+    "title": "Οι προειδοποιήσεις για την εκτός ελέγχου ΑΙ που «μπορεί να εξοντώσει τους ανθρώπους» και η παραίτηση-βόμβα ερευνητή της Anthropic",
+    "description": "Ένας ανώτερος ερευνητής της Anthropic δήλωσε την Τρίτη ότι πολλοί στην εταιρεία πιστεύουν ότι η τεχνητή νοημοσύνη θα μπορούσε να εξαλείψει την ανθρωπότητα και προειδοποίησε ότι η εταιρεία δεν βρίσκεται σε καλό δρόμο για να επιλύσει το ζήτημα της ευθυγράμμισης των στόχων της τεχνητής νοημοσύνης με αυτούς της ανθρωπότητας, παρά τις προσπάθειές της. Είχε προηγηθεί η παραίτηση ενός άλλου ερευνητή από την εταιρεία, ο οποίος την κατηγόρησε ότι δεν ενεργεί υπεύθυνα. Ο Evan Hubinger, επικεφαλής της επιστήμης της ευθυγράμμισης στην Anthropic, έγραψε στο X ότι αυτός και οι συνάδελφοί του «πιστεύουν ειλι",
+    "link": "https://www.newsbeast.gr/technology/arthro/13344116/oi-proeidopoiiseis-gia-tin-ektos-elegchou-ai-pou-borei-na-exontosei-tous-anthropous-kai-i-paraitisi-vomva-erevniti-tis-anthropic",
+    "date": "2026-09-09T05:55:29+00:00",
+    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/05/EVIL-AI-2.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "fde6dbef57539d8a",
+    "source": "Help Net Security",
+    "title": "AI-Infra-Guard: Open-source security scanner for AI systems",
+    "description": "Tencent’s Zhuque Lab built AI-Infra-Guard, an open-source security scanner for AI systems. It fingerprints running services such as Ollama, vLLM and ComfyUI and checks them against more than 1,600 known CVEs, inspects MCP servers and agent skills across 14 categories of risk, and runs jailbreak evaluations against a target model. To check a skill, the platform asks a language model whether it looks malicious. Zhuque Lab scores that call against SkillTrustBench, a public set of … More → The post AI-Infra-Guard: Open-source security scanner for AI systems appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/09/ai-infra-guard-open-source-security-scanner-ai-systems/",
+    "date": "2026-09-09T05:30:53+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/08101634/ai-infra-guard-1500.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "a1e7d7530572df55",
+    "source": "Help Net Security",
+    "title": "Gartner: 70% of SOCs will pilot AI agents. Only 15% will see results",
+    "description": "In the Gartner report Validate the Promises of AI SOC Agents With These Key Questions, analysts Craig Lawson and Andrew Davies posit that “By 2028, 70% of large SOCs will pilot AI agents to augment Tier 1 and Tier 2 operations, but only 15% will achieve measurable improvements without structured evaluation.” Just last year, Gartner placed AI SOC Agents at the Innovation Trigger stage with single-digit adoption. As of earlier this year, Gartner’s Hype Cycle … More → The post Gartner: 70% of SOCs will pilot AI agents. Only 15% will see results appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/09/prophet-security-evaluating-ai-soc-agents/",
+    "date": "2026-09-09T05:00:50+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/11203458/data_analytics5.jpg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "1e6ddcff6f77bd22",
+    "source": "Help Net Security",
+    "title": "AWS spent years rebuilding its routing control plane without taking the network down",
+    "description": "Every AWS API call, CloudFront video stream, and Route 53 lookup crosses the same infrastructure, which AWS calls its border network. It now runs on a routing system rebuilt from scratch over several years. The system that tells traffic where to go The scale AWS reports, current as of the post: 39 regions, 123 availability zones, over 750 points of presence on six continents, peering with more than 5,000 outside networks, hundreds of terabits per … More → The post AWS spent years rebuilding its routing control plane without taking the network down appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/09/aws-routing-control-plane-network/",
+    "date": "2026-09-09T04:52:14+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/12/09102526/aws-1500-key1.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "d0a40b93e114714c",
+    "source": "Cyber Security News",
+    "title": "Chrome 153 Fixes 230 Vulnerabilities, Including One 0-Day Exploited in the Wild",
+    "description": "Google has rolled out Chrome 153 to the stable channel for Windows, Mac, and Linux, shipping as version 153.0.8010.36 on Linux and 153.0.8010.36/.37 on Windows and Mac. The update will reach users over the coming days and weeks and includes 230 security fixes, one of the largest patch batches in recent Chrome release history. Actively […] The post Chrome 153 Fixes 230 Vulnerabilities, Including One 0-Day Exploited in the Wild appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/chrome-153-released/",
+    "date": "2026-09-09T04:46:12+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Chrome-153-Released.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "5fad513f48e197c7",
+    "source": "The Hacker News",
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "description": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
+    "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+    "date": "2026-09-09T04:41:29+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "f2d1420f99bf1503",
+    "source": "Help Net Security",
+    "title": "What breach and attack simulation needs to become in the AI era",
+    "description": "Breach and attack simulation (BAS) has always had a supply chain. Somebody has to read the threat report, pull out the techniques, and turn them into something that will actually run against your controls. That somebody has always been a human red team. Up until a few months ago, turning a major new threat into working simulation content within 24 hours counted as very fast. Frontier AI models broke the symmetry. In the post-Mythos era, … More → The post What breach and attack simulation needs to become in the AI era appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/09/picus-security-autonomous-breach-attack-simulation/",
+    "date": "2026-09-09T04:30:05+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/05/15161411/botnet.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "d04f7caa95d6dd93",
+    "source": "The Hacker News",
+    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026. The vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a",
+    "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+    "date": "2026-09-09T04:27:51+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "58ce320f43d0ad00",
+    "source": "Help Net Security",
+    "title": "BleachBit 6.0.4 fixes secure wiping that skipped clusters on Windows",
+    "description": "The open source cleaner BleachBit reached version 6.0.4 this week, erasing caches, browser traces, and files on Windows, Linux, and now macOS. If you shredded a sensitive file on Windows with an earlier build, parts of it may still sit on the disk where the wipe missed. Fragmentation is the ordinary case, since Windows scatters a file across noncontiguous clusters whenever it cannot find one open run large enough to hold it. The release does … More → The post BleachBit 6.0.4 fixes secure wiping that skipped clusters on Windows appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/09/bleachbit-6-0-4-released/",
+    "date": "2026-09-09T04:00:38+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/28104933/bleachbit-tool.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "5280aa2f6b6b2071",
+    "source": "Cyber Security News",
+    "title": "FortiSandbox Vulnerability Allows Attackers to Access Sensitive Information via Crafted HTTP Requests",
+    "description": "Fortinet has disclosed a new high-severity vulnerability affecting its FortiSandbox platform, warning that unauthenticated attackers could exploit weaknesses in the product’s web interface to siphon off sensitive information without ever needing valid credentials. The flaw, tracked as CVE-2026-26084, stems from improper access control in the graphical user interface component that FortiSandbox, FortiSandbox Cloud, and FortiSandbox […] The post FortiSandbox Vulnerability Allows Attackers to Access Sensitive Information via Crafted HTTP Requests appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-access-sensitive-data/",
+    "date": "2026-09-09T03:08:26+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/FortiSandbox-Vulnerability-access-sensitive-Data.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "83bb19459094d110",
     "source": "BleepingComputer",
     "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
     "description": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
     "date": "2026-09-09T01:16:27+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/09/Windows_11.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -61,7 +171,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "AI Security",
     "hot": false
   },
@@ -138,7 +248,7 @@
     "description": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
     "date": "2026-09-08T20:35:14+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/09/magecart.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -160,7 +270,7 @@
     "description": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
     "date": "2026-09-08T20:24:16+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/09/08/activestate-what-shipped.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -182,7 +292,7 @@
     "description": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
     "date": "2026-09-08T20:08:55+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/15/F5_01.png",
+    "image": "",
     "category": "Malware",
     "hot": true
   },
@@ -248,7 +358,7 @@
     "description": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
     "date": "2026-09-08T18:49:19+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": false
   },
@@ -281,7 +391,7 @@
     "description": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
     "date": "2026-09-08T18:18:05+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -303,7 +413,7 @@
     "description": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
     "date": "2026-09-08T17:57:03+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows11.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": false
   },
@@ -357,7 +467,7 @@
     "title": "AIs as Modern Genies",
     "description": "This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model hacked onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by figuring out",
     "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
-    "date": "2026-09-08T17:12:58+00:00",
+    "date": "2026-09-08T17:12:42+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": true
@@ -402,7 +512,7 @@
     "description": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
     "date": "2026-09-08T16:35:47+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/08/florida-game-style.jpg",
+    "image": "",
     "category": "Ransomware",
     "hot": true
   },
@@ -413,7 +523,7 @@
     "description": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
     "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
     "date": "2026-09-08T16:28:42+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/08/OpenAI.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -479,7 +589,7 @@
     "description": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
     "date": "2026-09-08T15:22:33+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/27/Windows_Server.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -561,17 +671,6 @@
     "hot": false
   },
   {
-    "id": "d5fa27c253b25410",
-    "source": "Cyber Security News",
-    "title": "Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests",
-    "description": "Boston, MA, USA, September 8th, 2026, CyberNewswire Specialized team of AI agents that discover, attack, and validate web vulnerabilities, leveraging pre-existing site context to eliminate noise and speed remediation. Reflectiz, the continuous web exposure management company, today launched a multi-agent penetration testing platform for websites. Multiple specialized AI agents discover, attack, and validate vulnerabilities across […] The post Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/reflectiz-launches-agentic-pentesting-for-websites-up-to-10x-coverage-vs-conventional-pentests/",
-    "date": "2026-09-08T14:02:40+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9FuSZY2wO98OtLQ6-GeLD_UiBWr5lY_UJo47Uey6Haen5vbZ_5LR8ogflsR7hpPp9di2IHddNORhZjhBIYD5DU0FXsGDHQWygw1gvpnWqpF1DRNkRqZ9aptbMyOCq21FuDN2E1W6BS5x-sY2kFXAmyoeNDaIjf7fHM2aCYpaMR1HTsqg-ngQnohy6mA/s1600/Insignary%20Launches%20Clarity%20On-Demand%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20proj%20-%202026-09-08T185728.44.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "9885780708b1e432",
     "source": "The Hacker News",
     "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
@@ -634,17 +733,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13340548/ai-kai-aisthitires-allazoun-tis-oikiakes-syskeves-i-nea-genia-tou-exypnou-spitiou-apokalyfthike-stin-ifa-2026",
     "date": "2026-09-08T13:28:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/Ifa-smarthome1.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "28fac2af9a5ba650",
-    "source": "Cyber Security News",
-    "title": "Mars Security Launches Real-Time Intel-to-Detection Engine That Turns Live Threat Intelligence Into Backtested Detections in Minutes",
-    "description": "New York, NY, United States, September 8th, 2026, CyberNewswire Mars Security, the autonomous threat hunting and detection engineering platform founded by offensive security veterans, today announced Real-Time Intel-Based Detection, a capability that turns newly published threat intelligence into validated, ready-to-deploy detection rules within minutes of release. Built by former offensive operators, the new capability converts […] The post Mars Security Launches Real-Time Intel-to-Detection Engine That Turns Live Threat Intelligence Into Backtested Detections in Minutes appeared first on Cyb",
-    "link": "https://cybersecuritynews.com/mars-security-launches-real-time-intel-to-detection-engine-that-turns-live-threat-intelligence-into-backtested-detections-in-minutes/",
-    "date": "2026-09-08T13:20:42+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_cLZdSy0uwelZwIVsX3O8ev7dtW6DMFqxpHQZWohP0u5jcO9Cy-bwDiO_EYgmw8sM_-C-sTLdvxSexVdOcLOH4zWlUHv_Th4e3lu6m9hz9lYyg8J7Ox-fUlvP-54VS_RlroF1UIp3pWS5SRZ0wGJXaA60mdWrmTf4G5ZS3d_2KDZ6aIaqcWPHtJC0Mf8/s1600/Insignary%20Launches%20Clarity%20On-Demand%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20proj%20-%202026-09-08T183314.13.webp",
     "category": "General Security",
     "hot": false
   },
@@ -830,7 +918,7 @@
     "title": "Stealing AI Reasoning Traces",
     "description": "Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, user",
     "link": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
-    "date": "2026-09-08T10:21:01+00:00",
+    "date": "2026-09-08T10:20:04+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -869,17 +957,6 @@
     "hot": false
   },
   {
-    "id": "89efd0bdf3343158",
-    "source": "Help Net Security",
-    "title": "Mathspace breach exposes data on over a million students and parents",
-    "description": "Mathspace has confirmed that attackers broke into its internal reporting system through an unpatched Metabase vulnerability and stole data belonging to more than a million students, parents, and school staff. The Sydney-based maths education company wrote in a blog post that the vulnerability, in its self-hosted installation of Metabase, allowed attackers to obtain administrator access to the system without a legitimate login. Metabase is a business intelligence tool used to connect to and explore company … More → The post Mathspace breach exposes data on over a million students and parents ap",
-    "link": "https://www.helpnetsecurity.com/2026/09/08/mathspace-data-breach-metabase-vulnerability/",
-    "date": "2026-09-08T08:45:59+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/05092047/data_breach-3.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "e523e1e81795848b",
     "source": "The Hacker News",
     "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
@@ -888,17 +965,6 @@
     "date": "2026-09-08T08:43:51+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rKrsCwJpZOS1Cu2htzFszKn4OgjK2p5A43OUaQJsmlbjsaLfGHtgyqQPfOu3IFWqRBoj2J6hIiqv6CVr56ZLyyf73-E71iaDRB2nrO9qaGOg92EbOcutMu8M8i1uimwkC-GPcc9oGDgFNNLB4kkgfDB3MbcjPuAn_gsml3FyThlEyI3Pg8E-udYq175m/s1600/bing.jpg",
     "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "bab468abf18e7c22",
-    "source": "Help Net Security",
-    "title": "Jellyfin 12.0 security fixes arrive alongside the removal of legacy client logins",
-    "description": "Jellyfin shipped version 12.0 of its media server. Several of the security fixes in it block requests built to reach files outside the folders the server is supposed to hand out. The rest of the security work touches first-run setup, plugin installs, parental controls, and the web interface. On a misconfigured server, someone who had not signed in could get the setup wizard, the first-run pages that create the administrator account and point Jellyfin at … More → The post Jellyfin 12.0 security fixes arrive alongside the removal of legacy client logins appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/08/jellyfin-12-0-security-fixes/",
-    "date": "2026-09-08T08:41:53+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/08103158/jellyfin-1500.webp",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -932,39 +998,6 @@
     "date": "2026-09-08T06:54:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/iphone.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "b03104b54eabced6",
-    "source": "Help Net Security",
-    "title": "Ransomware negotiation tactics have turned into a business process",
-    "description": "In this Help Net Security video, Dave Ross, Senior Director of the Intelligence Fusion Team at Intel 471, explains what happens behind the scenes during ransomware negotiations. Ross walks through the tactics groups use once an attack begins, from research on a victim’s revenue and insurance coverage to test decryptions that prove they hold a working key. He describes how demands are often set at roughly 1% to 5% of annual revenue, why deadlines move … More → The post Ransomware negotiation tactics have turned into a business process appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/08/ransomware-negotiation-tactics-video/",
-    "date": "2026-09-08T05:40:27+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/09/02133805/ransomware-skull.webp",
-    "category": "Ransomware",
-    "hot": true
-  },
-  {
-    "id": "4e809b2072aedf0b",
-    "source": "Help Net Security",
-    "title": "Product showcase: Doppler secures secrets for humans, pipelines, and AI agents",
-    "description": "Every engineering team has spent years trying to keep credentials out of source code. Then AI agents moved the problem. Coding agents review code, agents run workflows, and MCP servers broker access to databases, cloud providers, and internal APIs on a developer’s behalf. For every engineer on a team, there are now dozens of automated identities that need secrets too, and each one is another place a credential can leak. AI agents have accelerated code … More → The post Product showcase: Doppler secures secrets for humans, pipelines, and AI agents appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/08/product-showcase-doppler-secrets-management-platform/",
-    "date": "2026-09-08T05:00:56+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/07151154/doppler-secrets-management-platform.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "865cb2ec113c4dcd",
-    "source": "Help Net Security",
-    "title": "Microsoft’s Project Zenith puts large AI models directly on developer PCs",
-    "description": "Microsoft’s Project Zenith is a ready-to-code Windows 11 experience for developer-class PCs capable of running AI models with more than 30 billion parameters locally without relying on metered cloud tokens. Designed for systems with at least 64 GB of unified memory and 250 GB/s or more of memory bandwidth, it pairs powerful hardware with a preconfigured software environment for coding, testing, and experimentation. The first Project Zenith systems will be powered by AMD Ryzen AI … More → The post Microsoft’s Project Zenith puts large AI models directly on developer PCs appeared first on Help N",
-    "link": "https://www.helpnetsecurity.com/2026/09/08/microsoft-project-zenith-windows-11-experience/",
-    "date": "2026-09-08T04:30:33+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/10124736/microsoft-windows.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -1105,7 +1138,7 @@
     "title": "Automobile Camouflage to Hide from Flock Cameras",
     "description": "Not sure it’s practical, but it’s certainly striking .",
     "link": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
-    "date": "2026-09-07T11:07:17+00:00",
+    "date": "2026-09-07T11:06:40+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1314,7 +1347,7 @@
     "title": "Using a VM to Contain an AI Agent",
     "description": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact. An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. Even innocuous features (like running with a display) add extra, exploitable attack surface.",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-    "date": "2026-09-04T16:31:50+00:00",
+    "date": "2026-09-04T16:31:38+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -1413,7 +1446,7 @@
     "title": "Security Vulnerability in a Voting System",
     "description": "It’s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary. Notably, I never touched a voting machine, exploited a network, examined source code, or accessed anything non-public. After pointing a coding agent to the original vulnerability paper, I supplied it with two data sources highlighted in the paper: the early-voting list for eac",
     "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-    "date": "2026-09-04T11:10:36+00:00",
+    "date": "2026-09-04T11:09:35+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1424,7 +1457,7 @@
     "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
     "description": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a different site, pointed to one or more code packages or domain names that weren’t registered. To test what happens when an AI agent processes such files, the researchers registered a handful of the unclaimed names and hosted packages that caused any ",
     "link": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-    "date": "2026-09-04T10:35:19+00:00",
+    "date": "2026-09-04T10:35:17+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1809,7 +1842,7 @@
     "title": "Researching Employment Scams",
     "description": "Researchers built a fake company to study fake employee scams .",
     "link": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-    "date": "2026-09-03T11:18:52+00:00",
+    "date": "2026-09-03T11:18:14+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2002,17 +2035,6 @@
     "hot": false
   },
   {
-    "id": "864df3202df5bdb0",
-    "source": "The Hacker News",
-    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-    "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
-    "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-    "date": "2026-09-02T12:22:02+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "59aa48ffe4b79e18",
     "source": "CISA Advisories",
     "title": "Communicating Under Pressure: Best Practices for Service Providers",
@@ -2035,23 +2057,12 @@
     "hot": false
   },
   {
-    "id": "f29fb756bccc3461",
-    "source": "The Hacker News",
-    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-    "description": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here. The Business Reality In Sygnia’s 2026 CISO Survey Report, which",
-    "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-    "date": "2026-09-02T11:30:00+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "a200f0810de4d582",
     "source": "Schneier on Security",
     "title": "Wireless Routers as Motion Detectors",
     "description": "Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity. Comcast acknowledges that the system has some limitations. Home size, layout, building materials, and the placement of the router and connected devices can all affect its ability to detect motion. Comcast says it does not guarantee its performance. S",
     "link": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-    "date": "2026-09-02T10:23:28+00:00",
+    "date": "2026-09-02T10:22:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Privacy",
     "hot": false
@@ -2074,7 +2085,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "General Security",
     "hot": false
   },
@@ -2591,7 +2602,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -2998,7 +3009,7 @@
     "description": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "General Security",
     "hot": false
   },
@@ -3020,7 +3031,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -3460,7 +3471,7 @@
     "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "date": "2026-07-14T19:22:42+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Vulnerability",
     "hot": false
   },
@@ -3780,17 +3791,6 @@
     "link": "https://www.newsbeast.gr/financial/arthro/13195914/giati-i-anodos-tis-technitis-noimosynis-vlaptei-tis-etaireies-technologias",
     "date": "2026-06-26T16:30:05+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/06/ANALYSI-DEDOMENON.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "57c4bc755fbb5945",
-    "source": "Newsbeast Technology",
-    "title": "Η WINGS ICT Solutions κατοχύρωσε στις ΗΠΑ τεχνολογία Τεχνητής Νοημοσύνης για έγκαιρη πυρανίχνευση",
-    "description": "Μια νέα τεχνολογία έγκαιρης πυρανίχνευσης, που αξιοποιεί Τεχνητή Νοημοσύνη, κατοχυρώθηκε στις Ηνωμένες Πολιτείες, επιβεβαιώνοντας τη διεθνή καινοτομία που αναπτύσσεται στην Ελλάδα, στον τομέα της πολιτικής προστασίας. Η τεχνολογία αποτελεί τον τεχνολογικά προηγμένο πυρήνα του συστήματος wi.breathe της WINGS ICT Solutions και έχει σχεδιαστεί για να εντοπίζει πιθανές εστίες φωτιάς και καπνού πολύ νωρίς, πριν επεκταθούν, και να ενημερώνει αυτόματα σε πραγματικό χρόνο, παρέχοντας έγκαιρες ειδοποιήσεις που μπορούν να συμβάλουν στον περιορισμό της εξάπλωσης μιας πυρκαγιάς, πριν αυτή εξελιχθεί σε κατ",
-    "link": "https://www.newsbeast.gr/technology/arthro/13195689/i-wings-ict-solutions-katochyrose-stis-ipa-technologia-technitis-noimosynis-gia-egkairi-pyranichnefsi",
-    "date": "2026-06-26T14:19:18+00:00",
-    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/06/WINGS.jpg",
     "category": "General Security",
     "hot": false
   },
