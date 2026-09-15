@@ -22,6 +22,105 @@
     "hot": false
   },
   {
+    "id": "4c6b4fbfdc0928fe",
+    "source": "BleepingComputer",
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+    "description": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+    "date": "2026-09-15T21:37:35+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/26/Acronis.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "a29f50b4a58edf68",
+    "source": "Security Affairs",
+    "title": "U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Cisco Secure Email Gateway flaw, tracked as CVE-2026-76461 (CVSS score of 9,8), to its Known Exploited Vulnerabilities (KEV) catalog . Cisco disclosed a critical zero-day CVE-2026-76461 this week; the flaw can be exploited remotely without authentication. Attackers can send specially crafted emails containing malicious SQL statements, triggering arbitrary command execution on th",
+    "link": "https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+    "date": "2026-09-15T20:46:41+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "ace2a281628f7ed9",
+    "source": "BleepingComputer",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "description": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "date": "2026-09-15T20:34:15+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "481df05c2e7e7e96",
+    "source": "SecurityWeek",
+    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+    "description": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers. The post Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow? appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+    "date": "2026-09-15T20:24:51+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "2a8206d61e9a8bee",
+    "source": "Dark Reading",
+    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+    "description": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+    "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+    "date": "2026-09-15T20:16:00+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "c37387d70c8a69c3",
+    "source": "The Record",
+    "title": "Norway announces investigations into telecom Telenor’s work with Myanmar junta",
+    "description": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.",
+    "link": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
+    "date": "2026-09-15T20:01:00+00:00",
+    "image": "http://cms.therecord.media/uploads/Telenor_Denmark_office_ce57e79874.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "7a40c14722502cd3",
+    "source": "CyberScoop",
+    "title": "What’s next for CISA’s CDM program that gives cybersecurity tools to federal agencies",
+    "description": "A Cybersecurity and Infrastructure Security Agency program that provides tools and capabilities to other agencies has to get speedier so it can push them toward being able to move more quickly themselves, an agency official said Tuesday. “We have to get faster,” said Richard Grabowski, acting branch chief of service delivery and deputy program manager for the Continuous Diagnostics and Mitigation program at CISA. “The way that we collaborated today wasn’t fast enough for the threats of yesterday, and they certainly aren’t going to be fast enough for the threats of tomorrow.” That means pushing",
+    "link": "https://cyberscoop.com/whats-next-for-cisas-cdm-program-that-gives-cybersecurity-tools-to-federal-agencies/",
+    "date": "2026-09-15T19:45:35+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/IMG_5653.jpg",
+    "category": "General Security",
+    "hot": true
+  },
+  {
+    "id": "95af7f93ff93092d",
+    "source": "SecurityWeek",
+    "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+    "description": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today. The post “We Think the Security Control Is Working” Is No Longer Good Enough appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+    "date": "2026-09-15T19:30:00+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "ad37e3b76cbe8dc3",
+    "source": "Dark Reading",
+    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "description": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersec",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+    "date": "2026-09-15T19:27:19+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "b0a459687766acb8",
     "source": "The Hacker News",
     "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -31,17 +130,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg",
     "category": "Malware",
     "hot": false
-  },
-  {
-    "id": "adaaf06398cfc542",
-    "source": "Cyber Security News",
-    "title": "CISA and NIST Release Technical Checklist for Safeguarding Identity Tokens From Theft and Misuse",
-    "description": "The Cybersecurity and Infrastructure Security Agency (CISA) and the National Institute of Standards and Technology (NIST) have released final technical guidance to stop attackers from forging, stealing, replaying, or misusing identity and access tokens . Published as NIST Interagency Report 8587 on September 15, 2026, it gives federal agencies and cloud service providers a roadmap for securing single sign-on, identity federation, API access, and machine-to-machine authentication environments. Identity tokens and signed assertions allow applications to trust authentication performed by an ident",
-    "link": "https://cybersecuritynews.com/cisa-nist-identity-token-security/",
-    "date": "2026-09-15T17:04:37+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/CISA-NIST-Identity-Token-Security.webp",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "b78aaf8ead9618fc",
@@ -99,17 +187,6 @@
     "hot": false
   },
   {
-    "id": "80aedd9eee329d66",
-    "source": "Cyber Security News",
-    "title": "CISA Shares 17 Techniques Used by Hackers to Compromise Active Directory Environments",
-    "description": "CISA and five international cybersecurity agencies have released detailed guidance describing 17 common techniques hackers use to compromise Microsoft Active Directory environments . The technical guide explains how attackers exploit identity configurations, legacy protocols, certificate services, and privileged systems to escalate access, move laterally, and establish long-term persistence inside enterprise networks. Developed by the Australian Signals Directorate’s Australian Cyber Security Center in cooperation with the US Cybersecurity and Infrastructure Security Agency and National Securi",
-    "link": "https://cybersecuritynews.com/cisa-active-directory-attack-techniques/",
-    "date": "2026-09-15T16:05:54+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/CISA-Active-Directory-Attack-Techniques.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "403a6e1a4b40a739",
     "source": "SecurityWeek",
     "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
@@ -119,17 +196,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Linux-vulnerability-malware.jpeg",
     "category": "Vulnerability",
     "hot": false
-  },
-  {
-    "id": "e06fbb117b835223",
-    "source": "Cyber Security News",
-    "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
-    "description": "Apple has released one of its largest coordinated security rollouts, addressing 273 distinct critical vulnerabilities across iPhone, iPad, Mac, Apple Watch, Apple TV, Vision Pro, Safari, and Xcode. The patches arrived on September 14, 2026, through iOS 27, iPadOS 27, macOS Golden Gate 27, watchOS 27, tvOS 27, visionOS 27, Safari 27, and Xcode 27, alongside iOS and iPadOS 26.7, macOS Tahoe 26.7, and macOS Sequoia 15.8. The 273 figure represents unique CVE identifiers across Apple’s ten advisories, not the sum of every issue listed for each operating system. Many flaws affect shared frameworks a",
-    "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/",
-    "date": "2026-09-15T15:51:12+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Apple-Security-Update-1.webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "f4a29dea7ae5e724",
@@ -154,17 +220,6 @@
     "hot": true
   },
   {
-    "id": "39fab799149d7d94",
-    "source": "Cyber Security News",
-    "title": "How to Keep Malware’s Rotating Infrastructure From Becoming a Detection Gap",
-    "description": "You can’t detect today’s attacks with yesterday’s threat intelligence; that’s how you could briefly formulate the challenge many modern SOCs face. Indicators lose relevance quickly. New infrastructure appears daily. SOCs struggle to keep up. This is happening because malware campaigns increasingly rely on rotating domains, hosting infrastructure, and phishing flows. Attackers don’t need to come up with a new model every time. The underlying methods remain the same, but rapidly changing infrastructure makes detection difficult. This detection gap increases the workload on analysts, as single-IO",
-    "link": "https://cybersecuritynews.com/how-to-keep-malwares-rotating-infrastructure-from-becoming-a-detection-gap/",
-    "date": "2026-09-15T15:36:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Malwares-Rotating-Infrastructure.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "e993123d28405dc1",
     "source": "SecurityWeek",
     "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
@@ -173,17 +228,6 @@
     "date": "2026-09-15T15:30:24+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2026/09/CenterPoint-Energy.jpeg",
     "category": "Hacking",
-    "hot": true
-  },
-  {
-    "id": "0c159b7199a055d1",
-    "source": "Cyber Security News",
-    "title": "Microsoft Bans Its AI Models From Launching Cyberattacks or Escalating Their Own Access",
-    "description": "Microsoft has published a draft Humanist AI Code of Conduct that would prohibit its in-house MAI models from launching cyberattacks, supplying operational attack capabilities, or increasing their own privileges. The rules also require agents to remain interruptible, transparent, and confined to human-assigned permissions and objectives. The document, released for a six-week public consultation, is intended to become the primary behavioral framework for models developed by Microsoft AI. Microsoft describes it as a training and deployment manual for “Humanist AI” systems that remain subordinate,",
-    "link": "https://cybersecuritynews.com/microsoft-ai-cyberattack-ban/",
-    "date": "2026-09-15T15:26:49+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Microsoft-AI-Cyberattack-Ban.webp",
-    "category": "AI Security",
     "hot": true
   },
   {
@@ -220,28 +264,6 @@
     "hot": false
   },
   {
-    "id": "ebcbd762f5ab0f61",
-    "source": "Cyber Security News",
-    "title": "Hackers Advertise Uncensored Luciferus AI Service on Underground Forums",
-    "description": "Hackers are advertising a new “uncensored” artificial intelligence service called Luciferus, positioning it as a subscription assistant willing to process malware-development requests that mainstream AI systems would reject. Sophos Counter Threat Unit (CTU) researchers discovered the offering on August 24, 2026, on the Exploit underground forum . It targets criminal customers seeking fewer technical and operational constraints. The advertisement was published by a forum persona named “Optimus_Prime,” whose profile carries a “coding / coder” activity label. The account joined Exploit on April 1",
-    "link": "https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/",
-    "date": "2026-09-15T14:59:59+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Luciferus-AI-Service.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "01684a62c2ea434a",
-    "source": "Cyber Security News",
-    "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
-    "description": "CISA has added a critical Cisco Secure Email Gateway vulnerability to its Known Exploited Vulnerabilities catalog, warning that attackers are actively exploiting the flaw in real-world attacks. The issue, tracked as CVE-2026-76461, affects Cisco AsyncOS software used by Cisco Secure Email Gateway appliances. CVE-2026-76461 is an SQL injection vulnerability, categorized under CWE-89. It could allow an unauthenticated remote attacker to send specially crafted requests to a vulnerable Cisco Secure Email Gateway device and execute arbitrary commands on the underlying operating system. Successful e",
-    "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/",
-    "date": "2026-09-15T14:46:21+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/CISA-Warns-of-Cisco-Secure-Email-Gateway-0-Day-Vulnerability-Actively-Exploited-in-Attacks-1.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
     "id": "7156474dc45f4d1e",
     "source": "BleepingComputer",
     "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
@@ -249,17 +271,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
     "date": "2026-09-15T14:45:10+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/09/03/wordpress.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "8f8aecdf2de6baeb",
-    "source": "Cyber Security News",
-    "title": "Japan’s Digital Agency Breach Exposes 240,000+ Users’ Personal Records to Hackers",
-    "description": "Japan’s Digital Agency has confirmed a significant data breach affecting the Government Solution Service (GSS), a shared IT platform used across multiple ministries and government bodies, after attackers exploited a vulnerability in a VPN appliance to gain unauthorized access to internal servers. The agency disclosed on September 11 that approximately 246,000 personal records may have been exposed, making this one of the largest government data incidents reported in Japan this year. Japan Digital Agency Data Breach According to the agency’s official statement, suspicious activity was first det",
-    "link": "https://cybersecuritynews.com/japan-digital-agency-data-breach/",
-    "date": "2026-09-15T14:43:47+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Japan-Digital-Agency-Data-Breach-1.webp",
     "category": "Vulnerability",
     "hot": true
   },
@@ -284,28 +295,6 @@
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "168404e48fcb32ef",
-    "source": "Cyber Security News",
-    "title": "Homebrew 7.0.0 Adds Built-In Vulnerability Scanner and Stronger Package Sandboxing",
-    "description": "Homebrew has released version 7.0.0, introducing a native vulnerability scanner, a Homebrew-specific advisory database, stronger sandboxing, and faster package installation workflows. The release also ends support for macOS Catalina 10.15 and moves Intel-based Macs to Tier 3 support. The most security-focused addition is the new brew vulns command. It allows users and security teams to scan installed formulae for known vulnerabilities without installing a separate tap or Ruby gem. The command uses Homebrew’s new advisory database and OSV.dev vulnerability data to identify affected packages . T",
-    "link": "https://cybersecuritynews.com/homebrew-7-0-0-adds-vulnerability-scanner/",
-    "date": "2026-09-15T13:55:02+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Homebrew-7.0.0-Adds-Built-In-Vulnerability-Scanner-and-Stronger-Package-Sandboxing.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "75b48f746e490706",
-    "source": "Cyber Security News",
-    "title": "cPanel LiteSpeed Web Server Vulnerability Allows Shared Server Users to Gain Root-Level Access",
-    "description": "cPanel has issued an urgent security advisory warning that a critical vulnerability in LiteSpeed Web Server Enterprise could allow a low-privileged shared-hosting user to gain root-level access to an affected server. Administrators are urged to upgrade LiteSpeed Enterprise to version 6.3.7 or later immediately. The flaw affects LiteSpeed Web Server Enterprise versions earlier than 6.3.7. It is particularly serious for shared-hosting environments, where many separate customer websites and user accounts run on the same physical or virtual server. According to the advisory, a malicious user with ",
-    "link": "https://cybersecuritynews.com/cpanel-litespeed-web-server-vulnerability/",
-    "date": "2026-09-15T13:52:07+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Cpanel-LiteSpeed-Web-Server-Vulnerability-Allow-Shared-Server-Users-to-gain-root-level-access.webp",
-    "category": "Malware",
-    "hot": true
   },
   {
     "id": "5a37caceb07c0eaf",
@@ -404,17 +393,6 @@
     "date": "2026-09-15T12:42:32+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Agent-AI-Security.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "722f37f4c79fd449",
-    "source": "The Record",
-    "title": "Manhattan DA takes down 12 AI deepfake porn sites",
-    "description": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies of real people to create illegal pornography.",
-    "link": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
-    "date": "2026-09-15T12:42:00+00:00",
-    "image": "http://cms.therecord.media/uploads/manhattan_da_475dfd0565.jpg",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -632,10 +610,10 @@
     "title": "25 Years of Mass Surveillance Is Enough",
     "description": "This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass surveillance techniques—such as tapping into the internet backbone or mass collection of telephone or internet metadata. The legal and technical architecture of modern mass surveillance, initially framed as a necessary defense against terrorist threats, has grown far beyond that justification and national security in general. Mas",
     "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "date": "2026-09-15T11:02:00+00:00",
+    "date": "2026-09-15T11:01:41+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
-    "hot": true
+    "category": "Privacy",
+    "hot": false
   },
   {
     "id": "ff20b9649b126a73",
@@ -676,7 +654,7 @@
     "title": "On the NSA’s Supercomputer from the 1960s",
     "description": "Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
     "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-    "date": "2026-09-15T10:16:25+00:00",
+    "date": "2026-09-15T10:16:24+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -712,17 +690,6 @@
     "date": "2026-09-15T09:40:25+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2026/09/AI-artificial-intelligence-training.jpeg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "ff54e592be9b0a5f",
-    "source": "SecurityWeek",
-    "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-    "description": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-    "date": "2026-09-15T09:09:00+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/02/Reddit.jpeg",
-    "category": "Malware",
     "hot": false
   },
   {
@@ -836,17 +803,6 @@
     "hot": true
   },
   {
-    "id": "eed09cb177ebf11b",
-    "source": "SecurityWeek",
-    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-    "description": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-    "date": "2026-09-15T05:18:51+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Cisco-switches-network.jpeg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "28ea47f2821a3703",
     "source": "CyberScoop",
     "title": "Supreme Court denies Trump request to allow USPS mail ballot changes",
@@ -930,7 +886,7 @@
     "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
     "date": "2026-09-14T19:03:51+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/10/07/Twitch_headpic.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -963,7 +919,7 @@
     "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
     "date": "2026-09-14T18:34:16+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/06/18/hbo-max-header.jpg",
+    "image": "",
     "category": "Malware",
     "hot": false
   },
@@ -1045,23 +1001,12 @@
     "hot": false
   },
   {
-    "id": "b41df2d62f94f6a5",
-    "source": "BleepingComputer",
-    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-    "description": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-    "date": "2026-09-14T16:15:58+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
     "id": "93668b103ddaa2fe",
     "source": "Schneier on Security",
     "title": "Using AI for Weapons Development",
-    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant. The actors used Claude Code in place of human softw",
+    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant...",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-    "date": "2026-09-14T16:07:56+00:00",
+    "date": "2026-09-14T16:07:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1098,17 +1043,6 @@
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "395eba84b75247ce",
-    "source": "BleepingComputer",
-    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-    "description": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-    "date": "2026-09-14T14:01:11+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/09/09/action1-cybersecurity-lock.jpg",
-    "category": "Vulnerability",
-    "hot": false
   },
   {
     "id": "23522dfcee00fe3a",
@@ -1149,9 +1083,9 @@
     "title": "Microsoft’s Patching",
     "description": "Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and or",
     "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-    "date": "2026-09-14T11:03:51+00:00",
+    "date": "2026-09-14T11:03:26+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -1196,17 +1130,6 @@
     "date": "2026-09-14T07:24:39+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "62ff88f8a50fa9e8",
-    "source": "Security Affairs",
-    "title": "Anthropic CEO Calls for an AI Slowdown. Is It Possible?",
-    "description": "Anthropic CEO calls for AI slowdown, proposes embedded evaluators and global coordination. Geopolitical competition with China makes a voluntary pause structurally fragile. Dario Amodei published “ We Must Pace the Frontier “, calling on the AI industry, governments, and international bodies to slow the pace of AI capability development before safety research can catch up. It’s the most detailed public statement Amodei has made on AI risk, and it coincides with a wave of high-profile resignations from safety researchers inside Anthropic and OpenAI . “The CEO of Anthropic said Saturday the arti",
-    "link": "https://securityaffairs.com/198994/ai/anthropic-ceo-calls-for-an-ai-slowdown-is-it-possible.html",
-    "date": "2026-09-14T06:40:53+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -1303,7 +1226,7 @@
     "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
     "description": "Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wouldn’t want to do that,” said commercial fisherman Dick Ogg of the Bodega Bay Fishermen’s Marketing Association. Ogg said anyone familiar with the fishing industry understands what happens when a large catch sits for an extended period. “If you think about what happens after four or five days, it’s a gooey mess,” he said. The odor has become a defining feature of the operation, and the beach remains closed to the public while crews work",
     "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-    "date": "2026-09-11T21:03:29+00:00",
+    "date": "2026-09-11T21:03:27+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1380,7 +1303,7 @@
     "title": "My Talk at DEF CON",
     "description": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It’s a combination of the potentialities I raised in my 2022 book A Hacker’s Mind and the lessons we’re learning from current AI models engaging in hacking behavior. I’m really proud of the talk, and the fact that it gained over 100K views on YouTube in just a few days. Also online is an interview with me in the AI Village.",
     "link": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
-    "date": "2026-09-11T18:06:52+00:00",
+    "date": "2026-09-11T18:06:24+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -1512,7 +1435,7 @@
     "title": "Cliff Stoll’s DEF CON Talk",
     "description": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
     "link": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-    "date": "2026-09-11T11:10:43+00:00",
+    "date": "2026-09-11T11:09:55+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Hacking",
     "hot": false
@@ -1683,17 +1606,6 @@
     "hot": false
   },
   {
-    "id": "7fd746c32554311a",
-    "source": "CyberScoop",
-    "title": "Governments ‘buying time’ in race between innovation, security, national cyber director says",
-    "description": "The United States and allied governments are “buying time for our systems to become more secure” as artificial intelligence advances and spreads, National Cyber Director Sean Cairncross said Thursday. “That is a big deal to be ahead of this, to be ahead of this race, and because it’s an exponential equation,” he said at the Billington CyberSecurity Summit. “Once you fall behind, it is much more difficult to make it up, and so that is the context in which all this is taking place. We are trying to balance the innovation side of running at speed with securing our systems and handling this techno",
-    "link": "https://cyberscoop.com/national-cyber-director-ai-cybersecurity-threats/",
-    "date": "2026-09-10T13:53:55+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/IMG_5491.jpeg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "c7d98b5d47c8fa49",
     "source": "CISA Advisories",
     "title": "Orthanc DICOM Server",
@@ -1787,7 +1699,7 @@
     "title": "AIs Compress Exploit Timeline",
     "description": "Give an AI agent a mere rumor of an exploit, and it’s enough for them to find it. What’s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well before the public patch was available! Given that just the rumour of a security issue seems enough to give attackers enough info to find new exploits, we’re going to need to change the way we deal with security responses in open source. Simon Willison comments : Anil points out that this rate of discovery appears incompatible with existing open source embargo prac",
     "link": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
-    "date": "2026-09-10T10:41:04+00:00",
+    "date": "2026-09-10T10:40:35+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -1996,7 +1908,7 @@
     "title": "Driver’s License Data for Sale",
     "description": "A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail .",
     "link": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
-    "date": "2026-09-09T16:05:57+00:00",
+    "date": "2026-09-09T16:05:00+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2756,7 +2668,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -2992,28 +2904,6 @@
     "hot": false
   },
   {
-    "id": "f78f67f55289a956",
-    "source": "Dark Reading",
-    "title": "You Need Cyber Deception for OT",
-    "description": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
-    "link": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
-    "date": "2026-08-28T14:00:00+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt497112cb6290f58c/6a907362bec2b81057f31da2/deception-Moor_Studio-getty-2184657782.jpg?width=720&quality=80&disable=upscale",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "3739c3e1f74b99a3",
-    "source": "Dark Reading",
-    "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-    "description": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-    "date": "2026-08-28T13:30:00+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56383bd74ac17bbe/6a90a3f14885757c1a5662f0/AI-hand-security-Summit_Art_Creations-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "13b0df8a0182ef65",
     "source": "Newsbeast Technology",
     "title": "Meta και ανήλικοι: Η «ιστορική» συμφωνία και το μεγάλο ερώτημα για την επόμενη ημέρα",
@@ -3053,7 +2943,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3273,7 +3163,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3350,7 +3240,7 @@
     "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Can",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "date": "2026-08-06T17:00:56+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3427,7 +3317,7 @@
     "description": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of a sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Falé is a threat researcher with the security firm Bitsight . Falé told KrebsOnSecurity he was able to peer inside ",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "date": "2026-07-30T16:49:00+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "Malware",
     "hot": false
   },
@@ -3614,7 +3504,7 @@
     "description": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one’s television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG’s webOS store allow unknown third-parties to route their Internet traffic through a user’s TV. Proxy SDK prevalence among smart TV apps for LG (webOS) and Samsung (Tizen OS) televisions. Image: Spur.us. On July 2, we featured research by the security firm Spur that examined the prev",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
     "date": "2026-07-22T01:10:38+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "General Security",
     "hot": false
   },
@@ -3713,7 +3603,7 @@
     "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence. Nearly 60 of the bugs quashed in July’s Patch Tuesday earned a “critical” severity rating, meaning miscreants or malware could use them to seize remote control over a Windows device with little or no help from the user. Micro",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "date": "2026-07-14T19:22:42+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3746,7 +3636,7 @@
     "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency’s initial response provide important lessons that all security teams should absorb. On May 15, 2026, the security firm GitGuardian asked for help in notifying CISA about the existence of a public GitHub repository called “Private CISA” that included 844 ",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "date": "2026-07-13T15:03:28+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "Vulnerability",
     "hot": false
   },
