@@ -709,7 +709,7 @@
     "title": "Are AIs Still Struggling with CAPTCHAs?",
     "description": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple image identification test. In a test where the agent was asked to identify a shape that didn’t match the others displayed, it couldn’t even decide which image to select. Instead, it repeatedly went over the same images and questioned its own conclusions. “Actually hmm, wait,” it said in its chain-of-thought transcript, la",
     "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-    "date": "2026-09-18T11:05:54+00:00",
+    "date": "2026-09-18T11:05:52+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -897,7 +897,7 @@
     "description": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
     "date": "2026-09-18T07:35:31+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Microsoft_Excel.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1029,7 +1029,7 @@
     "description": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
     "date": "2026-09-17T21:50:26+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/03/Android.jpg",
+    "image": "",
     "category": "AI Security",
     "hot": false
   },
@@ -1095,7 +1095,7 @@
     "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
     "date": "2026-09-17T18:55:12+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1139,7 +1139,7 @@
     "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
     "date": "2026-09-17T17:11:34+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
+    "image": "",
     "category": "Malware",
     "hot": false
   },
@@ -1369,9 +1369,9 @@
     "title": "How Candidates Could Use AI for Good",
     "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI’s impacts on the country. Politicos are using AI deepfakes to spread lies. The White House is posting slopaganda . Meanwhile, candidates are missing a real opportunity to use AI to make campaigning better. The technology can help candidates listen more deeply to voters’ concerns, engage constituents more inclusively, and formulate policy platforms that are more responsive to ou",
     "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-    "date": "2026-09-17T11:07:00+00:00",
+    "date": "2026-09-17T11:06:31+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -1546,7 +1546,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Privacy",
     "hot": false
   },
@@ -1721,7 +1721,7 @@
     "title": "Fake CAPTCHA Scams",
     "description": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
     "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-    "date": "2026-09-16T11:25:27+00:00",
+    "date": "2026-09-16T11:25:26+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -2051,10 +2051,10 @@
     "title": "25 Years of Mass Surveillance Is Enough",
     "description": "This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass surveillance techniques—such as tapping into the internet backbone or mass collection of telephone or internet metadata. The legal and technical architecture of modern mass surveillance, initially framed as a necessary defense against terrorist threats, has grown far beyond that justification and national security in general. Mas",
     "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "date": "2026-09-15T11:02:00+00:00",
+    "date": "2026-09-15T11:01:41+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
-    "hot": false
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "b5e55678c26a7993",
@@ -2073,7 +2073,7 @@
     "title": "On the NSA’s Supercomputer from the 1960s",
     "description": "Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
     "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-    "date": "2026-09-15T10:16:25+00:00",
+    "date": "2026-09-15T10:16:24+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2203,9 +2203,9 @@
     "id": "93668b103ddaa2fe",
     "source": "Schneier on Security",
     "title": "Using AI for Weapons Development",
-    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant...",
+    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant. The actors used Claude Code in place of human softw",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-    "date": "2026-09-14T16:07:56+00:00",
+    "date": "2026-09-14T16:07:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2238,9 +2238,9 @@
     "title": "Microsoft’s Patching",
     "description": "Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and or",
     "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-    "date": "2026-09-14T11:03:51+00:00",
+    "date": "2026-09-14T11:03:26+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "AI Security",
     "hot": true
   },
   {
@@ -2293,7 +2293,7 @@
     "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
     "description": "Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wouldn’t want to do that,” said commercial fisherman Dick Ogg of the Bodega Bay Fishermen’s Marketing Association. Ogg said anyone familiar with the fishing industry understands what happens when a large catch sits for an extended period. “If you think about what happens after four or five days, it’s a gooey mess,” he said. The odor has become a defining feature of the operation, and the beach remains closed to the public while crews work",
     "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-    "date": "2026-09-11T21:03:29+00:00",
+    "date": "2026-09-11T21:03:27+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -3141,7 +3141,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "General Security",
     "hot": false
   },
@@ -3262,7 +3262,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3460,7 +3460,7 @@
     "description": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "General Security",
     "hot": false
   },
@@ -3559,7 +3559,7 @@
     "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "date": "2026-08-06T17:00:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3636,7 +3636,7 @@
     "description": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "date": "2026-07-30T16:49:00+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "General Security",
     "hot": false
   },
