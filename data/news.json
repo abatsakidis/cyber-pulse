@@ -11,6 +11,39 @@
     "hot": false
   },
   {
+    "id": "3b4294fb42960ccc",
+    "source": "The Hacker News",
+    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+    "description": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access open. CrowdSec says his laptop was compromised in May's supply chain attack on TanStack, in which malicious versions of TanStack's npm packages stole credentials from",
+    "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+    "date": "2026-09-19T07:14:54+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg",
+    "category": "Cyberwarfare",
+    "hot": false
+  },
+  {
+    "id": "ab43134007cfe9c0",
+    "source": "The Hacker News",
+    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path",
+    "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "date": "2026-09-19T06:24:10+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "14a88b84c9d6b07b",
+    "source": "Cyber Security News",
+    "title": "Click2Shell WordPress Flaw Lets Attackers Gain RCE With a Single Malicious Link",
+    "description": "WordPress administrators are being urged to update after researchers disclosed Click2Shell, an exploit chain that can turn one malicious link into remote code execution (RCE) on a vulnerable website. The issue begins with a WordPress Core theme-preview weakness that silently installs an attacker-selected theme from the official directory, then becomes a server compromise when chained with insecure pre-activation code in a theme. WordPress addressed the Core flaw in version 7.1.1 , released September 17, 2026, as part of an update containing 11 security fixes, 17 Core bug fixes, and 19 Block Ed",
+    "link": "https://cybersecuritynews.com/click2shell-wordpress-vulnerability/",
+    "date": "2026-09-19T04:30:11+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Click2Shell-WordPress-Vulnerability.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "74b06b56b23c4bf4",
     "source": "Cyber Security News",
     "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers",
@@ -478,7 +511,7 @@
     "title": "Are AIs Still Struggling with CAPTCHAs?",
     "description": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple image identification test. In a test where the agent was asked to identify a shape that didn’t match the others displayed, it couldn’t even decide which image to select. Instead, it repeatedly went over the same images and questioned its own conclusions. “Actually hmm, wait,” it said in its chain-of-thought transcript, la",
     "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-    "date": "2026-09-18T11:05:54+00:00",
+    "date": "2026-09-18T11:05:52+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -515,17 +548,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Microsoft-Azure.jpeg",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "2ab7a0e5fa02fd68",
-    "source": "Cyber Security News",
-    "title": "Android Apps Can Now Check If Your Phone Is Missing Critical Security Patches",
-    "description": "Android has released new Security State libraries that allow apps and enterprise tools to check whether a device is missing important security patches. The update gives developers a more detailed view of Android security than the traditional monthly Security Patch Level , helping apps identify unpatched system components, pending updates, and specific vulnerability fixes. The stable release includes AndroidX Security State version 1.1.0 and Security State Provider version 1.0.0. These libraries are designed for security-sensitive Android apps, including banking, fintech, healthcare, enterprise",
-    "link": "https://cybersecuritynews.com/android-apps-check-security-patches/",
-    "date": "2026-09-18T10:46:01+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Android-Apps-Can-Now-Check-If-Your-Phone-Is-Missing-Critical-Security-Patches.webp",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "014e00a7c3dc1008",
@@ -1204,9 +1226,9 @@
     "title": "How Candidates Could Use AI for Good",
     "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI’s impacts on the country. Politicos are using AI deepfakes to spread lies. The White House is posting slopaganda . Meanwhile, candidates are missing a real opportunity to use AI to make campaigning better. The technology can help candidates listen more deeply to voters’ concerns, engage constituents more inclusively, and formulate policy platforms that are more responsive to ou",
     "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-    "date": "2026-09-17T11:07:00+00:00",
+    "date": "2026-09-17T11:06:31+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1367,7 +1389,7 @@
     "id": "881d76ec6124dd5c",
     "source": "The Hacker News",
     "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-    "description": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the site are now greeted by a seizure banner that states - \"This domain has been seized by the",
+    "description": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the sites are now greeted by a seizure banner that states - \"This domain has been seized by",
     "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
     "date": "2026-09-17T05:13:46+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg",
@@ -1414,7 +1436,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "Privacy",
     "hot": true
   },
@@ -1589,7 +1611,7 @@
     "title": "Fake CAPTCHA Scams",
     "description": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
     "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-    "date": "2026-09-16T11:25:27+00:00",
+    "date": "2026-09-16T11:25:26+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -1919,10 +1941,10 @@
     "title": "25 Years of Mass Surveillance Is Enough",
     "description": "This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass surveillance techniques—such as tapping into the internet backbone or mass collection of telephone or internet metadata. The legal and technical architecture of modern mass surveillance, initially framed as a necessary defense against terrorist threats, has grown far beyond that justification and national security in general. Mas",
     "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "date": "2026-09-15T11:02:00+00:00",
+    "date": "2026-09-15T11:01:41+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
-    "hot": true
+    "category": "Privacy",
+    "hot": false
   },
   {
     "id": "b5e55678c26a7993",
@@ -1941,7 +1963,7 @@
     "title": "On the NSA’s Supercomputer from the 1960s",
     "description": "Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.",
     "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-    "date": "2026-09-15T10:16:25+00:00",
+    "date": "2026-09-15T10:16:24+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2104,9 +2126,9 @@
     "id": "93668b103ddaa2fe",
     "source": "Schneier on Security",
     "title": "Using AI for Weapons Development",
-    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant. The actors used Claude Code in place of human softw",
+    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant...",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-    "date": "2026-09-14T16:07:56+00:00",
+    "date": "2026-09-14T16:07:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2156,25 +2178,14 @@
     "hot": false
   },
   {
-    "id": "651aadd5df2a43a5",
-    "source": "The Hacker News",
-    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-    "description": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the",
-    "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-    "date": "2026-09-14T11:58:00+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1600/picus-main.jpg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "17b3fb7ba633a9a6",
     "source": "Schneier on Security",
     "title": "Microsoft’s Patching",
     "description": "Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and or",
     "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-    "date": "2026-09-14T11:03:51+00:00",
+    "date": "2026-09-14T11:03:26+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -2196,17 +2207,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13354972/pano-apo-20-meridio-agoras-gia-ti-huawei-sta-wearables-to-a-examino-tou-2026",
     "date": "2026-09-14T10:02:20+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/huawei3.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "58d22785c30b0077",
-    "source": "The Hacker News",
-    "title": "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-    "description": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox Add-Ons store - Chrome -",
-    "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-    "date": "2026-09-14T07:24:39+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -2238,7 +2238,7 @@
     "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
     "description": "Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wouldn’t want to do that,” said commercial fisherman Dick Ogg of the Bodega Bay Fishermen’s Marketing Association. Ogg said anyone familiar with the fishing industry understands what happens when a large catch sits for an extended period. “If you think about what happens after four or five days, it’s a gooey mess,” he said. The odor has become a defining feature of the operation, and the beach remains closed to the public while crews work",
     "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-    "date": "2026-09-11T21:03:29+00:00",
+    "date": "2026-09-11T21:03:27+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2679,7 +2679,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3229,7 +3229,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3427,7 +3427,7 @@
     "description": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. A Decryptads summary of the advertising partnerships declared by espn.com. The ne",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": false
   },
@@ -3526,7 +3526,7 @@
     "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Can",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "date": "2026-08-06T17:00:56+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3790,7 +3790,7 @@
     "description": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one’s television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG’s webOS store allow unknown third-parties to route their Internet traffic through a user’s TV. Proxy SDK prevalence among smart TV apps for LG (webOS) and Samsung (Tizen OS) televisions. Image: Spur.us. On July 2, we featured research by the security firm Spur that examined the prev",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
     "date": "2026-07-22T01:10:38+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "General Security",
     "hot": false
   },
@@ -3801,7 +3801,7 @@
     "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence. Nearly 60 of the bugs quashed in July’s Patch Tuesday earned a “critical” severity rating, meaning miscreants or malware could use them to seize remote control over a Windows device with little or no help from the user. Micro",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "date": "2026-07-14T19:22:42+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "AI Security",
     "hot": true
   },
