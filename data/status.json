@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:44:15.409177+00:00",
+  "updated": "2026-09-20T22:43:22.621500+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -89,8 +89,9 @@
     {
       "name": "Cyber Security News",
       "url": "https://cybersecuritynews.com/feed/",
-      "ok": true,
-      "count": 10
+      "ok": false,
+      "count": 0,
+      "error": "not well-formed (invalid token): line 1, column 119"
     },
     {
       "name": "News.gr Technology",
@@ -108,10 +109,10 @@
   "image_fallback": {
     "enabled": true,
     "articles_checked": 148,
-    "images_found": 148,
+    "images_found": 145,
     "by_source": {
       "Security Affairs": 10,
-      "BleepingComputer": 15,
+      "BleepingComputer": 12,
       "Help Net Security": 10,
       "SecurityWeek": 10,
       "News.gr Technology": 3,
