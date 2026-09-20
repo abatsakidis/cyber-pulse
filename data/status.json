@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T06:17:07.135618+00:00",
+  "updated": "2026-09-20T11:43:56.166017+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -89,9 +89,8 @@
     {
       "name": "Cyber Security News",
       "url": "https://cybersecuritynews.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "not well-formed (invalid token): line 1, column 119"
+      "ok": true,
+      "count": 10
     },
     {
       "name": "News.gr Technology",
@@ -102,8 +101,9 @@
     {
       "name": "Newsbeast Technology",
       "url": "https://www.newsbeast.gr/technology/feed",
-      "ok": true,
-      "count": 100
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     }
   ],
   "image_fallback": {
@@ -111,14 +111,14 @@
     "articles_checked": 148,
     "images_found": 146,
     "by_source": {
+      "Help Net Security": 10,
       "Security Affairs": 10,
-      "BleepingComputer": 13,
+      "BleepingComputer": 15,
       "SecurityWeek": 10,
-      "News.gr Technology": 3,
       "Schneier on Security": 10,
       "CyberScoop": 10,
       "CISA Advisories": 30,
-      "Help Net Security": 10,
+      "News.gr Technology": 1,
       "Krebs on Security": 10,
       "NIST Cybersecurity": 40
     }
