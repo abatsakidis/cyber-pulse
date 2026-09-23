@@ -11,6 +11,160 @@
     "hot": false
   },
   {
+    "id": "39170f3f57845e99",
+    "source": "Cyber Security News",
+    "title": "This Malware Doesn’t Wait for Hackers—It Asks AI Models What to Do Next",
+    "description": "A Windows malware sample called CLOSEDQUORUM can choose its next move without waiting for an attacker to send instructions. Once configured and deployed, it asks AI models whether to steal data, hide in a process, or maintain access. The decision maker no longer needs a dedicated control server. The sample emerged from research into software that uses AI during an attack. Its delivery route is unknown; operators apparently deploy customized copies themselves, rather than relying on a single known campaign. There is no confirmed deployment in the wild, so reported capabilities should not be mis",
+    "link": "https://cybersecuritynews.com/ai-models/",
+    "date": "2026-09-23T07:20:40+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/This-Malware-Doesnt-Wait-for-Hackers—It-Asks-AI-Models-What-to-Do-Next.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "338c8644a0ecdc65",
+    "source": "BleepingComputer",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+    "date": "2026-09-23T07:17:23+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/F5.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "1f771cbb01912db5",
+    "source": "SecurityWeek",
+    "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
+    "description": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
+    "date": "2026-09-23T07:13:49+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/data-leak.jpeg",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "4b67169cb25fe839",
+    "source": "Cyber Security News",
+    "title": "Critical WordPress Core Vulnerability Lets Attackers Execute Code Without Logging In",
+    "description": "WordPress has released version 7.1.2 to address a critical security vulnerability that could allow unauthenticated attackers to execute code on vulnerable websites under specific conditions. Site administrators should update immediately because successful exploitation may not require attackers to log in or have a valid WordPress account. The flaw is tracked as CVE-2026-87902, and it affects WordPress page template resolution, a core mechanism that determines which PHP template file renders a requested page. Security researcher Robert Ressl responsibly disclosed the issue to the WordPress secur",
+    "link": "https://cybersecuritynews.com/wordpress-core-vulnerability/",
+    "date": "2026-09-23T07:05:59+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Critical-WordPress-Core-Flaw-Lets-Attackers-Execute-Code-Without-Logging-In.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
+    "id": "35e770c1751e2d78",
+    "source": "Cyber Security News",
+    "title": "WordPress Malware Uses Hidden Plugin and Blockchain C2 to Stay Undetected",
+    "description": "A newly identified WordPress malware strain is using a hidden plugin, stolen administrator access, and a blockchain-based command channel to remain active on compromised websites. The threat is built to survive common cleanup efforts while quietly collecting sensitive data from affected servers. The malware is installed as a must-use plugin, a type of WordPress component that loads automatically with every request and does not appear in the normal Plugins page. This placement gives attackers a reliable foothold and makes the malicious code easier to conceal from site owners during routine chec",
+    "link": "https://cybersecuritynews.com/wordpress-malware/",
+    "date": "2026-09-23T06:42:53+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/WordPress-Malware-Uses-Hidden-Plugin-and-Blockchain-C2-to-Stay-Undetected.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
+    "id": "fa67a9eccce7734c",
+    "source": "SecurityWeek",
+    "title": "Check Point Patches Exploited Management Server Zero-Day",
+    "description": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
+    "date": "2026-09-23T06:14:03+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Check-Point-Software.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "7cf66065a937b27b",
+    "source": "Help Net Security",
+    "title": "Prismor: Open-source runtime control plane for AI agents",
+    "description": "Prismor is a free, open-source security layer for AI coding agents. It sits between an agent such as Claude Code, Codex, or Cursor and the actions that agent wants to take, and it checks each tool call against a policy before the call runs. Every call gets one of three verdicts: allow, warn, or block. AI coding agents run shell commands, read and write files, handle credentials, and call outside APIs, often chaining many steps … More → The post Prismor: Open-source runtime control plane for AI agents appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/",
+    "date": "2026-09-23T05:30:31+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/22093219/prismor-1500.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "4304568c78b57d10",
+    "source": "The Hacker News",
+    "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+    "description": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
+    "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+    "date": "2026-09-23T05:30:09+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
+    "id": "e87afa62672fb0de",
+    "source": "Help Net Security",
+    "title": "Product showcase: Scamwise checks the red flags before you take the bait",
+    "description": "Scamwise is a free scam-checking service from Savi that examines suspicious messages, emails, websites, phone numbers, images, and real-world situations for signs of fraud. The service works in any web browser on desktop, mobile, or tablet, with no account required. Scamwise is included in the Savi app for iOS and Android, which is currently available only in the United States. How it works Users can paste text, enter a URL or phone number, upload an … More → The post Product showcase: Scamwise checks the red flags before you take the bait appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/",
+    "date": "2026-09-23T05:00:48+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/22125503/savi-scamwise.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "afc8d472da7bf166",
+    "source": "Help Net Security",
+    "title": "Nearly two-thirds of tested websites fail every bot test",
+    "description": "Malicious bot activity increased 124% between July 2025 and June 2026, compared with 13.2% growth in human traffic. Traffic from AI agents and large language model crawlers rose 82.3% during the same period, according to DataDome’s State of Bot & Agent Security Report 2026. Bot traffic grows nine times faster than human traffic The company analyzed trillions of requests across more than 75,000 customer sites during the 12-month period. Bots and AI agents generated approximately … More → The post Nearly two-thirds of tested websites fail every bot test appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/",
+    "date": "2026-09-23T04:30:37+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/09/23155039/bots-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "061d57c7fd843f39",
+    "source": "Help Net Security",
+    "title": "Rabbit’s new OS lives in the cloud and borrows your laptop to get things done",
+    "description": "Rabbit, the Santa Monica company that makes the r1 handheld, released OS3, an agentic operating system. It runs in Rabbit’s cloud and operates a user’s computers through a local agent that installs with one command. The user states a goal in a chat, and OS3 picks the device, then works desktop software, local files and web pages, or writes and runs code, to complete the task. One account can connect up to five devices, including … More → The post Rabbit’s new OS lives in the cloud and borrows your laptop to get things done appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/",
+    "date": "2026-09-23T03:38:05+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/23053537/rabbit-os3-1500.webp",
+    "category": "Cyberwarfare",
+    "hot": false
+  },
+  {
+    "id": "26eb69ec1b76372e",
+    "source": "Cyber Security News",
+    "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution",
+    "description": "F5 has warned that hackers are actively exploiting a critical zero-day vulnerability in BIG-IP Access Policy Manager (APM) deployments to execute code remotely without authentication. Tracked as CVE-2026-94127, the flaw affects virtual servers configured with both an APM access policy and an OAuth profile, specifically where APM operates as an OAuth Authorization Server. F5 published advisory K000162605 on September 22, 2026, after learning that attackers had already weaponized the issue. The vulnerability is a heap-based buffer overflow, categorized as CWE-122 and assigned internal tracking I",
+    "link": "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/",
+    "date": "2026-09-23T03:24:27+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/F5-BIG-IP-OAuth-Server-0-day-Flaw.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "a1e2c0ed4f9b31ef",
+    "source": "Help Net Security",
+    "title": "NetBSD 10.2 security fixes close a remote kernel bug in ipfilter",
+    "description": "A NetBSD box at the edge of a network, filtering traffic with ipfilter, has been carrying a kernel flaw that someone outside the machine can set off. The bug is a remotely triggerable null pointer dereference in ipfilter, meaning the kernel tries to read memory through a pointer that leads nowhere. In kernel code, that usually ends with the whole system going down. The NetBSD Project shipped the fix on September 15 in NetBSD 10.2, … More → The post NetBSD 10.2 security fixes close a remote kernel bug in ipfilter appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/",
+    "date": "2026-09-23T03:16:17+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/23051512/netbsd-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "e414aef9906165b4",
+    "source": "Cyber Security News",
+    "title": "ShinyHunters Allegedly Claims Breach of FBI Jobs Site and Stolen Agents’ Data",
+    "description": "The FBI is investigating alleged unauthorized activity affecting its recruitment infrastructure after the ShinyHunters cybercrime group claimed it breached FBI systems, defaced the bureau’s jobs portal, and stole sensitive records belonging to employees and applicants. The incident places the data-extortion operation in direct confrontation with the federal agency responsible for investigating cybercrime. The intrusion reportedly began Monday night and became visible when apply.fbijobs.gov briefly displayed a counterfeit seizure notice reading, “THIS SITE HAS BEEN SEIZED BY SHINYHUNTERS.” The ",
+    "link": "https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/",
+    "date": "2026-09-23T02:43:07+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/ShinyHunters-Allegedly-Claims-FBI-Breach.webp",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
     "id": "2260c23549ef45a2",
     "source": "CyberScoop",
     "title": "ShinyHunters claims attack on FBI exposes almost all agents",
@@ -209,6 +363,17 @@
     "hot": false
   },
   {
+    "id": "4e609853363371dd",
+    "source": "Cyber Security News",
+    "title": "Check Point Management Server 0-Day Vulnerability Actively Exploited in Attacks",
+    "description": "Check Point has warned customers that attackers are exploiting a critical zero-day vulnerability in its Security Management infrastructure. Tracked as CVE-2026-93616 , the flaw carries a CVSS score of 9.8 and enables an unauthenticated remote attacker to upload and execute arbitrary scripts on an exposed Management Server. Check Point says it has identified a handful of targeted customer attacks and has released emergency fixes. The vulnerability combines directory traversal with unsafe file-upload behavior in the Check Point Management web service . By manipulating file paths, an attacker can",
+    "link": "https://cybersecuritynews.com/check-point-management-server-0-day-exploited/",
+    "date": "2026-09-22T17:17:03+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Check-Point-Management-Server-0-Day-Exploited.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "742bd3135b1e7c75",
     "source": "Dark Reading",
     "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
@@ -228,6 +393,28 @@
     "date": "2026-09-22T17:03:31+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg",
     "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "132ac88a6047fa3e",
+    "source": "Cyber Security News",
+    "title": "Aembit Launches Support for Okta Cross App Access, Extending Enterprise Identity Controls to AI Agents",
+    "description": "Silver Spring, Maryland, USA, September 22nd, 2026, CyberNewswire Aembit , the identity and access management (IAM) company for AI agents, today announced support for Cross App Access (XAA), an open protocol introduced by Okta that lets a user’s existing enterprise identity authorize access to downstream applications without a separate consent step for each connection. Launching this week as an Okta partner for XAA at Oktane 2026 in Las Vegas, Aembit is making that authorization approach available through Aembit IAM for Agentic AI, which provides verified agent identity, policy-based access en",
+    "link": "https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
+    "date": "2026-09-22T16:58:55+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQkgSLXYZiRV6KKliwJps0mbjbjlVID_AVnzK3H_677llggEQqfxJ3lLVdBpE221MURZZF8dwUs0LfniI0zx0yld0eeojGdYCs00HcphtR-49gNb5gJVwoLD9KXqOYIBm_8tm1ninTMA01mkhl_o-Pzs-gi-qvlBBMoVrZwwI59H-UzetB6B3UybyR2Bg/s1600/Insignary%20Launches%20Clarity%20On-Demand%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20proj%20-%202026-09-22T221417.72.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "a5b51ef745cbaf69",
+    "source": "Cyber Security News",
+    "title": "Scaling SOC Capabilities: How Threat Intelligence Cuts Triage Time and Burnout",
+    "description": "A suspicious IP, unfamiliar domain, or file hash can trigger an investigation in seconds. Understanding what that indicator means can take much longer. An IOC rarely tells the full story. Analysts may need to determine what threat it is associated with, which malware or infrastructure is involved, whether it has appeared in other attacks, and what behaviors or techniques are connected to it. Answering these questions often requires searching across threat intelligence feeds, reports, databases, and security systems. That fragmented process takes time, especially when analysts need to triage al",
+    "link": "https://cybersecuritynews.com/scaling-soc-capabilities-how-threat-intelligence-cuts-triage-time-and-burnout/",
+    "date": "2026-09-22T16:46:05+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Scaling-SOC-Capabilities.webp",
+    "category": "Malware",
     "hot": false
   },
   {
@@ -264,6 +451,17 @@
     "hot": true
   },
   {
+    "id": "929522b2d3a8e5f0",
+    "source": "Cyber Security News",
+    "title": "Autonomous AI Agents Hack Retailers for $25 and Steal 600,000 Credit Cards",
+    "description": "A financially motivated operator has been running three open-source AI tools against many online retailers, mostly without supervision. The results are shocking: over 600,000 credit card records have been stolen, scripts to gather card information have been placed on dozens of checkout pages, and in at least two cases, the operator’s cleanup routine completely wiped out the victims’ data. Gambit Security’s Threat Intelligence team recovered the operator’s exposed staging server and reconstructed the campaign from what it left behind, and the picture it reveals is sobering for every security te",
+    "link": "https://cybersecuritynews.com/ai-agents-retail-credit-card-theft/",
+    "date": "2026-09-22T15:51:18+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/AI-Agents-Credit-Card-Theft.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "afe777ecf0e14298",
     "source": "The Record",
     "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
@@ -273,6 +471,17 @@
     "image": "http://cms.therecord.media/uploads/eviltokens_bcc31bae39.jpg",
     "category": "AI Security",
     "hot": true
+  },
+  {
+    "id": "62a3a533fc40bde2",
+    "source": "Cyber Security News",
+    "title": "CAIRN – A New Tool to Track AI Malware That Operates Without Human Control",
+    "description": "Cisco Talos has released CAIRN, an open-source toolkit designed to hunt, classify, and track AI-integrated malware by examining the digital markers developers leave behind. The Cognitive Artifact Intelligence Research Network searches for prompt templates, provider endpoints, API-key prefixes, jailbreak terms, and orchestration logic without downloading or executing binaries. The launch also revealed CLOSEDQUORUM, which Talos describes as the first publicly documented Windows implant to delegate tactical command-and-control decisions to artificial intelligence. Instead of awaiting instructions",
+    "link": "https://cybersecuritynews.com/cairn-tool-for-tracking-ai-malware/",
+    "date": "2026-09-22T15:27:12+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2025/05/Cyber-Security-News-Logo.webp",
+    "category": "AI Security",
+    "hot": false
   },
   {
     "id": "c7a11d600d7785d1",
@@ -671,17 +880,6 @@
     "hot": false
   },
   {
-    "id": "2b9f0aeeb0357ecd",
-    "source": "Help Net Security",
-    "title": "Somewhere in your traffic logs, a bot is doing more than looking",
-    "description": "Akamai has watched verified AI crawlers, ChatGPT among them, move from reading web pages to sending high-frequency POST requests. In a 30-day analysis of its global customers, ecommerce accounted for 44.8% of those AI bot POST transactions, and travel climbed to 30% in a single month. A GET request asks a website for a page. A POST request tells the site to do something, like log a user in, add an item to a cart, … More → The post Somewhere in your traffic logs, a bot is doing more than looking appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/",
-    "date": "2026-09-22T10:30:31+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/22085447/bots-army-1500.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "2fe1d78a75d0143c",
     "source": "SecurityWeek",
     "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
@@ -732,7 +930,7 @@
     "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
     "date": "2026-09-22T09:55:11+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft-Defender.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -770,24 +968,13 @@
     "hot": false
   },
   {
-    "id": "3faa449f93bc0302",
-    "source": "Help Net Security",
-    "title": "Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions",
-    "description": "Scammers are using a $249 website toolkit to sell unverified AI subscriptions worth up to $2,000 a year, and a genuine Google sign-in screen is what makes the sites convincing. Malwarebytes found more than 100 websites built this way, all tied to the same toolkit and closely related developer details. The network includes sites that copy the names of existing products, among them GPT-6 Astra, DaVinci Resolve, PixAI, and OpenCut. One site uses the name … More → The post Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/",
-    "date": "2026-09-22T08:54:30+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/09/08154901/fake_website.jpg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "27405c1a7e70dbbf",
     "source": "BleepingComputer",
     "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
     "description": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
     "date": "2026-09-22T08:53:09+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/08/CISA.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": false
   },
@@ -836,17 +1023,6 @@
     "hot": false
   },
   {
-    "id": "7360c3c21dc7ad65",
-    "source": "Help Net Security",
-    "title": "A cheap fake base station can still track 5G subscribers",
-    "description": "Researchers from the i2CAT Foundation, the University of Murcia, and NEC Laboratories Europe built a low-cost tool called 5G-Shark that lures a target phone onto a fake base station and questions it, then used it to audit commercial 5G networks. On the standalone-5G networks they tested, operators concealed the phone’s permanent identity correctly in every case but one. The same networks still handed out temporary IDs in a pattern predictable enough that an observer can … More → The post A cheap fake base station can still track 5G subscribers appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/",
-    "date": "2026-09-22T06:30:21+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/22081648/5g-1500.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "df891a4246c5d10a",
     "source": "The Hacker News",
     "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
@@ -869,28 +1045,6 @@
     "hot": false
   },
   {
-    "id": "9d1b5cb633a5abd5",
-    "source": "Help Net Security",
-    "title": "Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit",
-    "description": "By the second half of 2026, national competent authorities across the EU are actively reviewing NIS2 compliance documentation. Under Article 20(1) of the directive, senior management at essential and important entities can be held personally liable for infringements — a detail that tends to concentrate executive attention. ENISA’s 2025 NIS Investments report found that 34% of EU organizations report severe skills shortages specifically in identity and access management (IAM) implementation. You need to get compliant … More → The post Passwork NIS2 efficiency guide: Save your team hours before ",
-    "link": "https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/",
-    "date": "2026-09-22T05:00:49+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/02/28064142/nis2-eu-1.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "a2fb30e304bfd29e",
-    "source": "Help Net Security",
-    "title": "European AI spending is on track to reach nearly $470 billion by 2030",
-    "description": "European organizations will spend nearly $470 billion on AI in 2030, IDC forecasts, with spending growing at a compound annual rate of 35% from 2025. At that rate, the market more than quadruples in five years. Generative AI will account for 55.4% of the total by 2030. agentic AI is the main driver. Companies are moving from single-purpose copilots to several agents working together, and they are doing it under the EU AI Act, whose … More → The post European AI spending is on track to reach nearly $470 billion by 2030 appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/09/22/idc-european-ai-spending/",
-    "date": "2026-09-22T04:30:28+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/17132004/eu-chip-ai-1500.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "39e42b66f6af97b8",
     "source": "Newsbeast Technology",
     "title": "Διπλή στόχευση για την κυβέρνηση: Επαφές Μητσοτάκη με τεχνολογικούς κολοσσούς στις ΗΠΑ και τελικές αποφάσεις στην Αθήνα για την ενέργεια",
@@ -899,17 +1053,6 @@
     "date": "2026-09-22T03:32:14+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/mitsotakis4-2.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "64fb3d4867ecfea1",
-    "source": "SecurityWeek",
-    "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
-    "description": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
-    "date": "2026-09-22T02:01:24+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -930,7 +1073,7 @@
     "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
     "date": "2026-09-21T21:18:49+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/11/25/OnlineShopping.jpg",
+    "image": "",
     "category": "Privacy",
     "hot": true
   },
@@ -952,7 +1095,7 @@
     "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
     "date": "2026-09-21T20:12:17+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -990,17 +1133,6 @@
     "hot": false
   },
   {
-    "id": "571b145c9a2d687c",
-    "source": "BleepingComputer",
-    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-    "description": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-    "date": "2026-09-21T18:23:11+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/WordPress.jpg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "80a85f89c0f5394a",
     "source": "Security Affairs",
     "title": "Foreign Hackers Target Two Colorado Water Utilities",
@@ -1021,17 +1153,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "18df701a9c5a7ca7",
-    "source": "SecurityWeek",
-    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-    "description": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-    "date": "2026-09-21T17:19:53+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Google.jpeg",
-    "category": "Privacy",
-    "hot": true
   },
   {
     "id": "d8fa163a88151899",
@@ -1877,7 +1998,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
     "date": "2026-09-17T11:06:31+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -1947,17 +2068,6 @@
     "hot": false
   },
   {
-    "id": "4d99d7017bdfe072",
-    "source": "The Hacker News",
-    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-    "description": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up Gyazo image links. Helpfeel said",
-    "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-    "date": "2026-09-17T07:30:01+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg",
-    "category": "General Security",
-    "hot": true
-  },
-  {
     "id": "fb73875fb2481ff1",
     "source": "Newsbeast Technology",
     "title": "Η OpenAI αποκαλύπτει περιστατικά «ανεξέλεγκτης» συμπεριφοράς από συστήματα τεχνητής νοημοσύνης – Από ψεύτικα δεδομένα μέχρι απόπειρες «διαφυγής»",
@@ -2008,7 +2118,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/15.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Privacy",
     "hot": true
   },
@@ -2273,8 +2383,8 @@
     "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
     "date": "2026-09-15T11:01:41+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
-    "hot": false
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "b5e55678c26a7993",
@@ -2379,7 +2489,7 @@
     "id": "93668b103ddaa2fe",
     "source": "Schneier on Security",
     "title": "Using AI for Weapons Development",
-    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant...",
+    "description": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant. The actors used Claude Code in place of human softw",
     "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
     "date": "2026-09-14T16:07:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -2800,7 +2910,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3196,7 +3306,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Ransomware",
     "hot": true
   },
