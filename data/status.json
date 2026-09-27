@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:29:36.286274+00:00",
+  "updated": "2026-09-27T17:13:31.929001+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -34,8 +34,9 @@
     {
       "name": "Help Net Security",
       "url": "https://www.helpnetsecurity.com/feed/",
-      "ok": true,
-      "count": 10
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
     },
     {
       "name": "Security Affairs",
@@ -101,25 +102,23 @@
     {
       "name": "Newsbeast Technology",
       "url": "https://www.newsbeast.gr/technology/feed",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "ok": true,
+      "count": 100
     }
   ],
   "image_fallback": {
     "enabled": true,
-    "articles_checked": 147,
-    "images_found": 145,
+    "articles_checked": 137,
+    "images_found": 134,
     "by_source": {
+      "BleepingComputer": 12,
       "Security Affairs": 10,
       "SecurityWeek": 10,
-      "Help Net Security": 10,
-      "BleepingComputer": 14,
+      "News.gr Technology": 2,
       "Krebs on Security": 10,
       "CyberScoop": 10,
       "Schneier on Security": 10,
       "CISA Advisories": 30,
-      "News.gr Technology": 1,
       "NIST Cybersecurity": 40
     }
   }
