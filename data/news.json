@@ -11,6 +11,17 @@
     "hot": false
   },
   {
+    "id": "9848843841bba303",
+    "source": "CyberScoop",
+    "title": "Citrix patches actively exploited NetScaler zero-days after a weekend of unofficial warnings",
+    "description": "The vendor’s products are a common, recurring target for attackers, yet the official warning for some Citrix NetScaler customers was too late. The post Citrix patches actively exploited NetScaler zero-days after a weekend of unofficial warnings appeared first on CyberScoop .",
+    "link": "https://cyberscoop.com/citrix-zero-days-delayed-disclosure/",
+    "date": "2026-09-29T00:58:15+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-1367905225.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "a23fc6d9dc888718",
     "source": "Dark Reading",
     "title": "One Packet Can Crash OT Servers in Industrial Sectors",
@@ -58,12 +69,12 @@
     "id": "213b7aaf25568ee1",
     "source": "Security Affairs",
     "title": "AI Accounts Are Becoming the New Target for Infostealers",
-    "description": "Infostealers are exposing corporate AI accounts, sessions and API keys, giving attackers access to sensitive data, compute and connected systems. SOCRadar analyzed stealer log data from the last 90 days and found 482 companies with exposed AI accounts and credentials. Of those, 295 appeared in active logs during that period, suggesting the exposure is recent rather than the result of historical cleanup. Together, these companies account for 5,434 stealer log records linked to 1,500 distinct corporate email addresses. The number that really stands out is the ChatGPT figure. A captured ChatGPT o",
+    "description": "Infostealers are exposing corporate AI accounts, sessions and API keys, giving attackers access to sensitive data, compute and connected systems. SOCRadar analyzed stealer log data from the last 90 days and found 482 companies with exposed AI accounts and credentials. Of those, 295 appeared in active logs during that period, suggesting the exposure is recent […]",
     "link": "https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html",
     "date": "2026-09-28T20:14:06+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-80.png",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "7535041e1d4e9bee",
@@ -135,12 +146,12 @@
     "id": "73f484a3ca0f20c5",
     "source": "CyberScoop",
     "title": "As AI world debates security, NVIDIA releases open source tools for agents",
-    "description": "Amid growing concerns from both the public and policymakers about cyberattacks involving advanced AI systems, NVIDIA has released a new open software security platform for AI agents. The Open Agent Safety Platform, according to NVIDIA, will be “an open software platform and reference system design with full-stack governance and control across the software and hardware, compute and robotics systems that run agents.” More than 100 organizations from the AI industry, including Anthropic, Arm, Microsoft, SpaceXAI, Palantir and JPMorgan Chase, have committed to using the platform to improve securit",
+    "description": "One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside controls are needed. The post As AI world debates security, NVIDIA releases open source tools for agents appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
     "date": "2026-09-28T18:22:53+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/Jensen-Huang.jpeg",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "685070f2d8c19845",
@@ -220,6 +231,28 @@
     "hot": false
   },
   {
+    "id": "8e5f41d3c518ad89",
+    "source": "Cyber Security News",
+    "title": "Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks",
+    "description": "Florida Attorney General James Uthmeier has asked a Highlands County judge to impose sweeping temporary restrictions on OpenAI, CEO Sam Altman, and affiliated companies while Florida’s ChatGPT lawsuit proceeds. Filed September 28 in Florida’s Tenth Judicial Circuit, the 49-page motion seeks to stop OpenAI from developing new artificial intelligence models without independent third-party safety approval […] The post Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/florida-ag-seeks-emergency-injunction-on-chatgpt/",
+    "date": "2026-09-28T16:46:12+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Florida-AG-Seeks-Emergency-Injunction-on-ChatGPT.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "3e503deca7707ab6",
+    "source": "Cyber Security News",
+    "title": "Microsoft Finds New Malware Used by Hackers to Maintain Secret Access Inside Target Networks",
+    "description": "Microsoft Threat Intelligence has uncovered NeedyMantis, a modular post-compromise malware framework designed to preserve covert access inside already-breached networks. The malware has appeared in a small number of highly targeted intrusions involving telecommunications providers, universities, medical nonprofits, intergovernmental bodies, and government contractors. Activity dates to at least October 2025, suggesting operators have quietly used the […] The post Microsoft Finds New Malware Used by Hackers to Maintain Secret Access Inside Target Networks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/needymantis-malware-secret-network-access/",
+    "date": "2026-09-28T16:35:03+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Microsoft-new-malware-secret-network-access.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
     "id": "226993923d2465d4",
     "source": "The Record",
     "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
@@ -267,7 +300,7 @@
     "id": "535fdeca402d8322",
     "source": "Krebs on Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-    "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
+    "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
@@ -275,25 +308,80 @@
     "hot": true
   },
   {
+    "id": "df2b5a4cac80e701",
+    "source": "Cyber Security News",
+    "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+    "description": "The UK National Cyber Security Center (NCSC) has urged organizations to take immediate action against eight vulnerabilities affecting customer-managed Citrix NetScaler ADC and NetScaler Gateway appliances. Two critical flaws, CVE-2026-88771 and CVE-2026-88772, are already being exploited against unmitigated systems, turning routine patching into an urgent incident-response task. Citrix NetScaler 0-Day Vulnerabilities Citrix’s CTX697096 bulletin rates […] The post NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities appeared first on Cyber Security New",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/",
+    "date": "2026-09-28T14:56:26+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Citrix-NetScaler-0-Day-Vulnerabilities.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "fc3fdfd0a3648282",
     "source": "CyberScoop",
     "title": "ShinyHunters trades financial extortion for a reckless war of ego with the FBI",
-    "description": "Threat hunters and researchers are alarmed by what they’ve seen in data ShinyHunters claims it stole from the FBI . Limited samples of the stolen data contain FBI agents’ personal contact information, details on family members, office and duty assignments and, in some cases, information on agency personnel specialties, multiple sources said. “I am gravely concerned about the implications it opens up,” a researcher who has viewed and studied a sample of the data told CyberScoop. “It’s a roadmap for every s—y country, and drug cartel, and insane person to locate exactly who in the FBI they have ",
+    "description": "Cybercrime experts are stunned as ShinyHunters risks agent safety and intense federal heat in a bizarre attempt to force the retraction of an agency advisory. The post ShinyHunters trades financial extortion for a reckless war of ego with the FBI appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/fbi-data-breach-shinyhunters-agent-safety-risk/",
     "date": "2026-09-28T14:47:10+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2243722326.jpg",
     "category": "Ransomware",
+    "hot": false
+  },
+  {
+    "id": "852bd177f6f980c7",
+    "source": "Cyber Security News",
+    "title": "New File Notification Attack Lets Hackers Track User Activity Across Linux, Windows and macOS",
+    "description": "A cross-platform side-channel attack that abuses file-notification services to monitor user activity on Linux, Windows and macOS. The technique turns inotify, ReadDirectoryChangesW, and FSEvents, which alert applications when files are changed, into a surveillance mechanism requiring no elevated privileges. The study, “File Notification Attacks: Templating and Exploiting Side-Channel Leakage from the File-Notification Systems on Linux, […] The post New File Notification Attack Lets Hackers Track User Activity Across Linux, Windows and macOS appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/new-file-notification-attack/",
+    "date": "2026-09-28T14:33:25+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/New-File-Notification-Attack.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "d5e7c11869620c23",
+    "source": "Cyber Security News",
+    "title": "Hackers Built an AI-Powered Attack Machine and Accidentally Left the Control Panel Open",
+    "description": "A criminal crew linked to Blackhatsect0r and DXQRTXX built an automated system designed to find weaknesses across the internet. Its exposed server revealed a credential vault, source code, chat logs, fraud notes, and a target list, offering a rare look inside an operation in progress. The group combined mass discovery with focused work against selected […] The post Hackers Built an AI-Powered Attack Machine and Accidentally Left the Control Panel Open appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/ai-powered-attack-machine/",
+    "date": "2026-09-28T14:26:54+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Hackers-Built-an-AI-Powered-Attack-Machine-and-Accidentally-Left-the-Control-Panel-Open.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "7c2b63d18c75b33e",
+    "source": "Cyber Security News",
+    "title": "OpenCode AI Coding Agent Flaw Lets Malicious Websites Execute Code on Developer Machines",
+    "description": "A critical attack path in OpenCode, an open-source AI coding agent, could let a malicious website execute commands on a developer’s computer. Tracked as GHSA-632h-h47v-g4x4, the remote code execution vulnerability combines content-type confusion in OpenCode’s /global/upgrade API with unsafe handling of an attacker-controlled upgrade target. Anomaly fixed the issue in OpenCode 1.18.22. OpenCode launched in June 2025 […] The post OpenCode AI Coding Agent Flaw Lets Malicious Websites Execute Code on Developer Machines appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/opencode-ai-coding-agent-flaw/",
+    "date": "2026-09-28T14:22:43+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/OpenCode-AI-Coding-Agent-Flaw-1.webp",
+    "category": "AI Security",
     "hot": true
   },
   {
     "id": "51191edf10c17f72",
     "source": "Security Affairs",
     "title": "Nearly 400,000 Medicaid Beneficiaries Caught in Medicaid and DC Healthcare Alliance Data Exposure",
-    "description": "Nearly 400,000 DC Medicaid and Healthcare Alliance beneficiaries may have had personal data exposed through reports published on a public website. The District of Columbia Department of Health Care Finance is notifying nearly 400,000 Medicaid and DC Healthcare Alliance beneficiaries that their personal information may have been exposed. The incident affects people who enrolled between 2023 and 2026. A cyberattack did not cause the breach. DHCF reported the breach to the US Department of Health and Human Services, stating that 399,086 people were affected. In July, DHCF discovered that two repo",
+    "description": "Nearly 400,000 DC Medicaid and Healthcare Alliance beneficiaries may have had personal data exposed through reports published on a public website. The District of Columbia Department of Health Care Finance is notifying nearly 400,000 Medicaid and DC Healthcare Alliance beneficiaries that their personal information may have been exposed. The incident affects people who enrolled between […]",
     "link": "https://securityaffairs.com/199926/data-breach/nearly-400000-medicaid-beneficiaries-caught-in-medicaid-and-dc-healthcare-alliance-data-exposure.html",
     "date": "2026-09-28T14:08:17+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-79.png",
     "category": "Privacy",
+    "hot": false
+  },
+  {
+    "id": "da84cfa5a32af143",
+    "source": "Cyber Security News",
+    "title": "Bitget Backend Breach Drains $387.5 Million as DPRK-Linked Launderers Expose Themselves",
+    "description": "Cryptocurrency exchange Bitget has begun restoring withdrawals after attackers exploited its backend wallet infrastructure on September 24, stealing approximately $387.5 million from hot and warm wallets. The incident did not involve stolen private keys, and Bitget said its offline cold wallets and separate self-custodial Bitget Wallet service remained unaffected. Nevertheless, the breach demonstrates how attackers […] The post Bitget Backend Breach Drains $387.5 Million as DPRK-Linked Launderers Expose Themselves appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/bitget-backend-breach/",
+    "date": "2026-09-28T14:07:52+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Bitget-Hot-Wallet-Hacked.webp",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -341,6 +429,17 @@
     "hot": false
   },
   {
+    "id": "26f1dd6c1d7327f8",
+    "source": "Cyber Security News",
+    "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "description": "ShinyHunters has renewed attacks against Oracle PeopleSoft systems by slipping past web application firewall protections and planting web shells. The campaign shows how a small change in an attack request can reopen exposure that administrators believed had been contained. The activity targets CVE-2026-35273, a critical PeopleSoft flaw previously used as a zero-day against universities. The […] The post ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/shinyhunters-bypasses/",
+    "date": "2026-09-28T13:46:26+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/ShinyHunters-Bypasses-WAF-Protections-to-Exploit-Oracle-PeopleSoft-Flaw-and-Deploy-Web-Shells.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "95a3ff7a70049679",
     "source": "The Record",
     "title": "Cyberattack on Polish medical software provider exposes patient data",
@@ -349,6 +448,28 @@
     "date": "2026-09-28T13:30:00+00:00",
     "image": "http://cms.therecord.media/uploads/Hospital_bed_d7759384dd.jpg",
     "category": "Privacy",
+    "hot": false
+  },
+  {
+    "id": "96cc793ee27aaef7",
+    "source": "Cyber Security News",
+    "title": "CISA Warns of Microsoft SharePoint Code Injection Vulnerability Exploited in Attacks",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a Microsoft SharePoint code injection vulnerability, tracked as CVE-2026-65660, to its KEV Catalog after evidence showed the flaw was being exploited in attacks. The vulnerability affects Microsoft SharePoint and could enable an authorized attacker to execute code remotely over a network, creating a significant risk […] The post CISA Warns of Microsoft SharePoint Code Injection Vulnerability Exploited in Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/microsoft-sharepoint-code-injection/",
+    "date": "2026-09-28T13:21:22+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Microsoft-SharePoint-Code-Injection.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "489659567f30f88c",
+    "source": "Cyber Security News",
+    "title": "Attackers Create Fake Jev AI Stores to Intercept Prompts Through Third-Party Servers",
+    "description": "Fake storefronts appeared days after the launch of Jev, an artificial intelligence model that returns decisions rather than written answers. The sites offer access to the service, but they put an unrelated operator between users and the official API. That means prompts and any information inside them travel through a third-party server first. The lookalike […] The post Attackers Create Fake Jev AI Stores to Intercept Prompts Through Third-Party Servers appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/fake-jev-ai-stores/",
+    "date": "2026-09-28T13:02:37+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Attackers-Create-Fake-Jev-AI-Stores-to-Intercept-Prompts-Through-Third-Party-Servers.webp",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -476,7 +597,7 @@
     "id": "186fad03b71a99e4",
     "source": "Security Affairs",
     "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities",
-    "description": "Microsoft details Storm-3168, the JADEPUFFER-linked actor that used stolen service principals to delete Azure storage in minutes and harvest keys. Microsoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the group’s activity in July 2026 and called it the first documented agentic ransomware operation. Microsoft tracks the same actor as Storm-3168, and its new report shows how fast this crew moves once it holds valid cloud credentials. The attack involved two compromised service principals from the same tenant. These are non-human identities th",
+    "description": "Microsoft details Storm-3168, the JADEPUFFER-linked actor that used stolen service principals to delete Azure storage in minutes and harvest keys. Microsoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the group’s activity in July 2026 and called it the first documented agentic ransomware operation. Microsoft tracks the same […]",
     "link": "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html",
     "date": "2026-09-28T10:46:05+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-77.png",
@@ -553,12 +674,12 @@
     "id": "4ab2b43944b16de0",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog",
-    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : CVE-2026-88771 (CVSS score: 9.5) Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 (CVSS score: 9.5) Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability CVE-2026-88771 (CVSS score: 9.5) is a remote code execution vulnerability caused ",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: CVE-2026-88771 (CVSS score: 9.5) is a remote code execution vulnerability caused by improper input validation that could allow an unauthenticated remote […]",
     "link": "https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
     "date": "2026-09-28T08:55:22+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
     "category": "Vulnerability",
-    "hot": true
+    "hot": false
   },
   {
     "id": "05fa0a172c660030",
@@ -641,12 +762,12 @@
     "id": "ef376238151e1bc2",
     "source": "Security Affairs",
     "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild",
-    "description": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild, putting unpatched webmail servers at risk of database compromise. A Roundcube Webmail vulnerability, tracked as CVE-2026-48842 (CVSS score of 8.1) and patched four months ago, is now being exploited in the wild. The Canadian Centre for Cyber Security added the warning to its advisory on September 21, citing open-source reporting and urging administrators to apply the available updates. The vulnerability CVE-2026-48842 affects Roundcube 1.6.x versions before 1.6.16 and 1.7.x versions before 1.7.1, but there’s an importan",
+    "description": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild, putting unpatched webmail servers at risk of database compromise. A Roundcube Webmail vulnerability, tracked as CVE-2026-48842 (CVSS score of 8.1) and patched four months ago, is now being exploited in the wild. The Canadian Centre for Cyber Security added the warning to its advisory […]",
     "link": "https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html",
     "date": "2026-09-28T05:50:32+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/Roundcube-logo.png",
     "category": "Vulnerability",
-    "hot": true
+    "hot": false
   },
   {
     "id": "7b5d068e1ccc3a1a",
@@ -674,7 +795,7 @@
     "id": "4ec172ff539c2760",
     "source": "Security Affairs",
     "title": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day",
-    "description": "Citrix confirmed two critical NetScaler zero-days were exploited before patches were available, with attackers able to remotely execute code. Citrix confirmed that two critical zero-day vulnerabilities in NetScaler ADC and NetScaler Gateway were exploited before the company released patches. The flaws allow remote code execution, meaning attackers can potentially take control of affected appliances. The first warnings did not come from Citrix. On September 26, administrators said IT providers and security teams were privately advising them to take NetScaler systems offline, sometimes without e",
+    "description": "Citrix confirmed two critical NetScaler zero-days were exploited before patches were available, with attackers able to remotely execute code. Citrix confirmed that two critical zero-day vulnerabilities in NetScaler ADC and NetScaler Gateway were exploited before the company released patches. The flaws allow remote code execution, meaning attackers can potentially take control of affected appliances. The […]",
     "link": "https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html",
     "date": "2026-09-27T17:29:20+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2019/03/Citrix-1.png",
@@ -696,7 +817,7 @@
     "id": "38f2a3e67b20659e",
     "source": "Security Affairs",
     "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 1",
-    "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can automate tasks, analyze large amounts of data, discover vulnerabilities and accelerate offensive operations. At the same time, AI is creating new capabilities for threat detection, incident analysis and response. Security Affairs’ new newsletter follows this evolution, covering every week the latest th",
+    "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can automate tasks, analyze large amounts of data, discover vulnerabilities and accelerate offensive operations. At […]",
     "link": "https://securityaffairs.com/199862/ai/security-affairs-ai-cybersecurity-newsletter-round-1.html",
     "date": "2026-09-27T15:26:18+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg",
@@ -707,7 +828,7 @@
     "id": "d8862e6d606a6b3e",
     "source": "Security Affairs",
     "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 116",
-    "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distribution Network for its Campaign Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO ChainScript: Tracing a Node.js RAT Through the Blockchain North Korean “WaterPlum,” commonly referred to as “Contagious Interview,” Cyber Actor Group Targeting IT Professionals; Activities of North Korean IT Workers in Japan, the United Stat",
+    "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distribution Network for its Campaign Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO ChainScript: Tracing a Node.js RAT […]",
     "link": "https://securityaffairs.com/199850/malware/security-affairs-malware-newsletter-round-116.html",
     "date": "2026-09-27T15:05:39+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-malware-newsletter.jpg",
@@ -729,11 +850,11 @@
     "id": "aefbfe6750268199",
     "source": "Security Affairs",
     "title": "Security Affairs newsletter Round 597 by Pierluigi Paganini – INTERNATIONAL EDITION",
-    "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agents Accessed US Government Websites Without Authorization Exploit.in Database Reveals the Roots of Today’s Ransomware Ecosystem U.S. CISA adds WordPress flaw to its Known Exploited Vulnerabilities catalog U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog Cryptocurrency exchange Bit",
+    "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agents Accessed US Government Websites Without Authorization Exploit.in Database Reveals the Roots of Today’s Ransomware Ecosystem […]",
     "link": "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html",
     "date": "2026-09-27T13:40:23+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg",
-    "category": "AI Security",
+    "category": "Ransomware",
     "hot": true
   },
   {
@@ -773,7 +894,7 @@
     "id": "e2d9459226214177",
     "source": "Security Affairs",
     "title": "Rydox Admin Faces 20 Years After Selling Stolen Data and Fraud Tools",
-    "description": "Kosovo national Ardit Kutleshi pleaded guilty to running Rydox, a cybercrime marketplace that sold stolen identities and credentials for years. Ardit Kutleshi , 28 years old and a citizen of Kosovo, pleaded guilty last week to building and running the cybercrime marketplace Rydox. The Rydox marketplace has been active since February 2016; it facilitated over 7,600 sales of stolen PII, access devices, and cybercrime tools, generating $230,000 since 2016. It offered over 321,000 products to 18,000 users, including names, social security numbers, and hacking tools. Thousands of U.S. victims were ",
+    "description": "Kosovo national Ardit Kutleshi pleaded guilty to running Rydox, a cybercrime marketplace that sold stolen identities and credentials for years. Ardit Kutleshi, 28 years old and a citizen of Kosovo, pleaded guilty last week to building and running the cybercrime marketplace Rydox. The Rydox marketplace has been active since February 2016; it facilitated over 7,600 […]",
     "link": "https://securityaffairs.com/199825/uncategorized/rydox-admin-faces-20-years-after-selling-stolen-data-and-fraud-tools.html",
     "date": "2026-09-27T09:27:52+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
@@ -993,22 +1114,22 @@
     "id": "81a26141bc315757",
     "source": "Krebs on Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
+    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
-    "hot": true
+    "category": "Ransomware",
+    "hot": false
   },
   {
     "id": "6e2c7334c1217355",
     "source": "CyberScoop",
     "title": "Army soldier sentenced for spree of attacks on AT&T, Snowflake and other major companies",
-    "description": "A former Army soldier responsible for a series of attacks and extortion attempts on telecom companies, including AT&T, was sentenced to 70 months in prison , the Justice Department said Friday. Cameron John Wagenius engaged in a cybercrime spree for years, including while he was on active duty on a base in Texas. Prior to his arrest in December 2024, Wagenius attempted to sell stolen sensitive data to a foreign intelligence service and sought information online about defecting to Russia. “Cameron Wagenius spent more than a year and a half betraying the trust placed in him as an active duty sol",
+    "description": "Cameron Wagenius was involved in some of the most high-profile attacks of 2024 while on active duty. The post Army soldier sentenced for spree of attacks on AT&T, Snowflake and other major companies appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced/",
     "date": "2026-09-25T21:28:36+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2169763675.jpg",
-    "category": "Ransomware",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1059,7 +1180,7 @@
     "id": "fe28d2dc6a68bc6c",
     "source": "CyberScoop",
     "title": "Supreme Court permits states to use SAVE database for citizenship checks",
-    "description": "The U.S. Supreme Court ruled Friday that states may use the federal SAVE database to verify voter citizenship, reversing lower court decisions that found the database was inaccurate and would likely disenfranchise eligible voters. In its opinion , the majority wrote that “the Federal Government has an obligation to respond to requests from state and local election officials seeking to verify the citizenship of voters.” “The District Court’s order thus inhibits the Federal Government’s efforts to assist state and local agencies in the proper administration of the midterm elections, the ruling r",
+    "description": "Three justices wrote in a dissent that longstanding privacy laws protecting sensitive personal data held by the government should prevent the use of the database. The post Supreme Court permits states to use SAVE database for citizenship checks appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/supreme-court-save-database-voter-citizenship/",
     "date": "2026-09-25T17:41:12+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2025/10/GettyImages-1980020893.jpg",
@@ -1147,7 +1268,7 @@
     "id": "e95061812d963db2",
     "source": "Schneier on Security",
     "title": "On Anthropic’s AI Misuse Report",
-    "description": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected targets, set goals, and reviewed important outputs. The report describes attackers using AI to industrialize credential theft, cloud compromise, phishing, vulnerability research, and the extraction of sensitive data from downstream organizations. ...",
+    "description": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected targets, set goals, and reviewed important outputs. The report describes attackers using AI to industrialize credential theft, cloud compromise, phishing, vulnerability research, and the extraction of sensitive data from downstream organizations. Infl",
     "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
     "date": "2026-09-25T11:07:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1224,11 +1345,11 @@
     "id": "05a6865314dbf8bc",
     "source": "CyberScoop",
     "title": "House and Senate members propose legislation for CISA to step up cyber defenses for biotech",
-    "description": "Biotechnology doesn’t fall neatly into any one of the 16 government-designated critical infrastructure sectors that receive specialized and focused attention from feds, leading some lawmakers to worry that it’s not getting the protection from cyberattacks and other risks that it needs. That’s why a bipartisan group of senators and representatives announced legislation Thursday that would place an emphasis at the Cybersecurity and Infrastructure Security Agency on defending biotechnology, biomanufacturing and biological data. The Protecting Biotechnology and Biomanufacturing as Critical Infrast",
+    "description": "Biotechnology doesn’t have its own critical infrastructure designation, so the bipartisan group of lawmakers wants to make sure it’s protected like it. The post House and Senate members propose legislation for CISA to step up cyber defenses for biotech appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation/",
     "date": "2026-09-24T21:23:40+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2252642618.jpg",
-    "category": "Hacking",
+    "category": "General Security",
     "hot": true
   },
   {
@@ -1268,12 +1389,12 @@
     "id": "82a81edf57c5eba1",
     "source": "CyberScoop",
     "title": "New bill would create federal investigative body for AI-driven hacks",
-    "description": "A new Democratic bill in Congress would establish a federal Cybersecurity and AI Board of Investigations to provide independent government oversight of cyberattacks carried out by AI agents, following recent hacks by models run at companies like Anthropic , OpenAI , Meta and others. The bill, introduced by Sen. Ed Markey, D-Mass., would attempt to establish a federal mechanism to investigate incidents where AI models escape sandbox environments and access live internet systems. Currently, frontier AI companies like OpenAI and Anthropic largely control the investigation and public reporting of ",
+    "description": "A new Democratic bill in Congress would establish a federal Cybersecurity and AI Board of Investigations to provide independent government oversight of cyberattacks carried out by AI agents, following recent hacks by models run at companies like Anthropic, OpenAI, Meta and others. The bill, introduced by Sen. Ed Markey, D-Mass., would attempt to establish a […] The post New bill would create federal investigative body for AI-driven hacks appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/",
     "date": "2026-09-24T18:07:31+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/ed-markey.jpeg",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "edec4e688b2d95c3",
@@ -1290,7 +1411,7 @@
     "id": "371524023f18584f",
     "source": "CyberScoop",
     "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
-    "description": "Law enforcement has arrested two leaders of a Russian-owned phone hacking company used by Kremlin agencies who allegedly masked its foreign ownership from the U.S. Defense Department, Department of Homeland Security and others to win millions of dollars worth of contracts, the Justice Department announced Wednesday . Lee Reiber of Boise, Idaho, the CEO of Oxygen Forensics (Oxygen US), was arrested in his home state and Oleg Davydov, one of five Russian nationals whom DOJ said actually controlled the company, was arrested in London, from where the department plans to seek his extradition. They ",
+    "description": "The Justice Department said two leaders of the company have been arrested and face conspiracy to commit wire fraud. The post Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
     "date": "2026-09-24T17:07:31+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2252317890.jpg",
@@ -1345,12 +1466,12 @@
     "id": "6b26906cbc9395d8",
     "source": "CyberScoop",
     "title": "Bipartisan Senate leaders introduce bill to bolster telecom cybersecurity in response to Salt Typhoon hacks",
-    "description": "Two Senate committee leaders are introducing legislation to foster cybersecurity standards for the telecommunications sector nearly two years after the landmark Salt Typhoon campaign was made public. First reported by CyberScoop, Virginia Sen. Mark Warner, the top Democrat on the Intelligence Committee, and Texas Sen. Ted Cruz, the GOP chairman of the Commerce, Science and Technology panel, are introducing the Telecommunications Cybersecurity and Resilience Act . “The Salt Typhoon intrusion was the worst telecom hack in our nation’s history and showed us just how vulnerable our critical infras",
+    "description": "The legislation from Senate Intelligence Vice-Chairman. Mark Warner, D-Va., and Senate Commerce Chairman Ted Cruz, R-Tex., would create a government-industry group to write voluntary best practices. The post Bipartisan Senate leaders introduce bill to bolster telecom cybersecurity in response to Salt Typhoon hacks appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/senate-telecom-cybersecurity-resilience-act-salt-typhoon/",
     "date": "2026-09-24T14:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2281447950.jpg",
-    "category": "Vulnerability",
-    "hot": true
+    "category": "Hacking",
+    "hot": false
   },
   {
     "id": "4776a10f357885ae",
@@ -1488,11 +1609,11 @@
     "id": "e193c6d614865dce",
     "source": "CyberScoop",
     "title": "How tax policy can stop threat actors from breaching US water systems",
-    "description": "The foundation for modern society in America is under attack. State and local governments, entities that often oversee critical natural resources, schools, and hospital systems, are routinely targeted and breached by state-backed threat actors. Their budgets are simply too slim to provide the digital bulwarks required to fend off such attacks. The problem is growing. In August, the Cybersecurity and Infrastructure Security Agency issued a joint advisory detailing an “active threat” against Siemens S7 series programmable logic controllers (PLCs), ruggedized industrial devices that read field se",
+    "description": "New federal programs take years to launch and fund. State and local governments need cybersecurity software now. The One Big Beautiful Bill already enables tax incentives. Congress should clarify and deploy them. The post How tax policy can stop threat actors from breaching US water systems appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/how-federal-tax-incentives-can-protect-state-local-cybersecurity-op-ed/",
     "date": "2026-09-24T10:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-521931942-1.jpg",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": true
   },
   {
@@ -1571,17 +1692,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "a87cf3923213df2a",
-    "source": "CyberScoop",
-    "title": "CISA outlines improvement plan for CVE program",
-    "description": "The Cybersecurity and Infrastructure Security Agency published a paper Wednesday that lays out its plan for improving the Common Vulnerabilities and Exposures (CVE) program, a contract for which nearly ended last year before a last-minute reprieve . The white paper outlines the components of a “Quality Era” for the program, widely used as the definitive clearinghouse for data on vulnerabilities in software and other products, even as the number of CVEs surges. “CISA remains committed to leading, growing and sustaining the CVE Program into the foreseeable future, just as we’ve done for more tha",
-    "link": "https://cyberscoop.com/cisa-cve-data-quality-white-paper-expert-reaction/",
-    "date": "2026-09-24T00:31:36+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/03/GettyImages-1205071344.jpg",
-    "category": "Vulnerability",
-    "hot": false
   },
   {
     "id": "8e9c18740bdc030f",
@@ -2570,7 +2680,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
     "date": "2026-09-17T11:06:31+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -2637,7 +2747,7 @@
     "date": "2026-09-16T18:14:22+00:00",
     "image": "https://krebsonsecurity.com/b-gartner/11.png",
     "category": "Privacy",
-    "hot": true
+    "hot": false
   },
   {
     "id": "51663ff2999ddaf5",
@@ -3094,12 +3204,12 @@
     "id": "004ffd858d83d888",
     "source": "Krebs on Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
+    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "e5cfe1848652171b",
@@ -3259,12 +3369,12 @@
     "id": "94f014263cfc9e54",
     "source": "Krebs on Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
+    "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "Vulnerability",
-    "hot": true
+    "category": "General Security",
+    "hot": false
   },
   {
     "id": "13d55e1ab7fa4688",
@@ -3369,12 +3479,12 @@
     "id": "a3160ec17f8bc8c9",
     "source": "Krebs on Security",
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-    "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
+    "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-gartner/11.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
-    "hot": true
+    "hot": false
   },
   {
     "id": "7476a7fbc048ad1a",
@@ -3567,11 +3677,11 @@
     "id": "f0bf80663bfa0fd6",
     "source": "Krebs on Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
-    "description": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. A Decryptads summary of the advertising partnerships declared by espn.com. The ne",
+    "description": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -3589,11 +3699,11 @@
     "id": "30cb08c656eb99c6",
     "source": "Krebs on Security",
     "title": "Microsoft Plugs Nearly 400 Security Holes",
-    "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided",
+    "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -3666,12 +3776,12 @@
     "id": "fe4f47339d9ca6a0",
     "source": "Krebs on Security",
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-    "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Can",
+    "description": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "date": "2026-08-06T17:00:56+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
-    "hot": true
+    "hot": false
   },
   {
     "id": "21333c2699a15e0a",
@@ -3699,11 +3809,11 @@
     "id": "b658140f110278b9",
     "source": "Krebs on Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
-    "description": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of a sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Falé is a threat researcher with the security firm Bitsight . Falé told KrebsOnSecurity he was able to peer inside ",
+    "description": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "date": "2026-07-30T16:49:00+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "Malware",
+    "category": "General Security",
     "hot": false
   },
   {
