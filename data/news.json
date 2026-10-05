@@ -1,5 +1,71 @@
 [
   {
+    "id": "05f482a7b2208a3a",
+    "source": "Help Net Security",
+    "title": "Three questions a hospital CISO should ask a healthcare fintech vendor",
+    "description": "In this Help Net Security video, Drew McCombs, CTO and CISO at Cylerity, explains how he balances both roles. Security work is scheduled into every sprint, and issues touching patient data or funds disbursement come first. He covers how Cylerity keeps PHI away from its bank partner, why AI models recommend but never act, and why turning on MFA for email is the cheapest fix for small practices. He also lists three questions a hospital … More → The post Three questions a hospital CISO should ask a healthcare fintech vendor appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/05/drew-mccombs-cylerity-healthcare-fintech-security/",
+    "date": "2026-10-05T05:30:47+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/01115142/drew_mccombs-2-cylerity.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "7b22ef08507be50a",
+    "source": "SecurityWeek",
+    "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+    "description": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+    "date": "2026-10-05T05:14:48+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Citrix-vulnerability.jpeg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "bff65ea4cf893b9b",
+    "source": "Help Net Security",
+    "title": "Keyorix: Open-source secrets management for teams that can’t use SaaS",
+    "description": "Keyorix is an open-source secrets manager that runs entirely on a company’s own servers. A secrets manager is the locked store where an application fetches the database passwords, API keys, and tokens it needs, so they stay out of config files and source code. It ships as one binary and, in its core form, needs no internet connection. Keyorix SL, the company behind it, pitches that to teams that cannot send credentials to a cloud … More → The post Keyorix: Open-source secrets management for teams that can’t use SaaS appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/",
+    "date": "2026-10-05T05:00:57+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/01130616/keyorix-1500.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "93cf4540c866e2d9",
+    "source": "Help Net Security",
+    "title": "How RMM abuse gives attackers a way in that looks like business as usual",
+    "description": "Huntress found attackers using legitimate remote monitoring and management (RMM) software in 45% of the endpoint-related incidents it recorded in the first quarter of 2026. The security company also ranked 11 attack tactics by how often it sees them and how much damage each can do, and RMM abuse sits farthest right on the chart, the position for tactics it sees most often. IT teams use RMM tools to manage computers from anywhere, so an … More → The post How RMM abuse gives attackers a way in that looks like business as usual appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/05/remote-monitoring-and-management-rmm-abuse/",
+    "date": "2026-10-05T04:30:08+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/01133156/lock-red-melt.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "84aaca7088d489bf",
+    "source": "Cyber Security News",
+    "title": "Citrix NetScaler SAML 0-Day Vulnerability Actively Exploited in Attacks",
+    "description": "Citrix has released emergency security updates for a NetScaler SAML zero-day vulnerability that attackers are actively exploiting. Tracked as CVE-2026-88779, the flaw affects customer-managed NetScaler ADC and NetScaler Gateway appliances and can cause denial of service, disrupting access to services that depend on these systems. The vulnerability carries a CVSS v4.0 score of 8.7 and […] The post Citrix NetScaler SAML 0-Day Vulnerability Actively Exploited in Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-saml-0-day-vulnerability/",
+    "date": "2026-10-05T01:49:27+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Citrix-NetScaler-SAML-0-Day-Vulnerability.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "8f9bf6c62ab413ec",
+    "source": "Cyber Security News",
+    "title": "Cybersecurity Newsletter Bulletin – Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories",
+    "description": "This week’s security newsletter was dominated by a Pentagon personnel data breach affecting more than three million people, actively exploited zero-days in Apple CoreGraphics and Fortinet FortiMail, and reports of two still-unpatched Citrix NetScaler RCE flaws. The broader bulletin covers 26 developments spanning cloud identity, malware, AI-agent governance, remote access, browser security, vulnerable infrastructure, and […] The post Cybersecurity Newsletter Bulletin – Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2/",
+    "date": "2026-10-05T01:28:08+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Cybersecurity-Newsletter.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "8300e88607b1f06f",
     "source": "BleepingComputer",
     "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
@@ -88,6 +154,17 @@
     "hot": false
   },
   {
+    "id": "15844df112a025c5",
+    "source": "Cyber Security News",
+    "title": "South Korean President Orders Full Security Checks After Financial Sector Hacks",
+    "description": "South Korean President Lee Jae Myung ordered a thorough investigation on October 4, 2026, after a series of financial sector data breaches exposed customer and worker information. The order comes as investigators examine whether AI tools helped attackers break into systems used by banks and other financial firms. According to The Korea Times, Lee received […] The post South Korean President Orders Full Security Checks After Financial Sector Hacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/south-korean-president-orders-full-security-checks/",
+    "date": "2026-10-04T11:11:14+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/South-Korean-President-Orders-Full-Security-Checks.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "b4f616856fe3f275",
     "source": "BleepingComputer",
     "title": "Anthropic asks Claude users to share voice data for AI model training",
@@ -165,6 +242,17 @@
     "hot": false
   },
   {
+    "id": "17351e55c71d8575",
+    "source": "Cyber Security News",
+    "title": "Vercel Confirms KVM Zero-Day VM Escape, Awards Researcher $50,000",
+    "description": "Vercel has confirmed a KVM zero-day vulnerability after security researcher Paulos Yibelo reported a full virtual machine escape that, he says, allows code inside a guest to gain root access on the host. The discovery came through the Vercel Sandbox bug bounty program, raising concerns about a security boundary used to contain untrusted workloads and […] The post Vercel Confirms KVM Zero-Day VM Escape, Awards Researcher $50,000 appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/kvm-zero-day-vm-escape/",
+    "date": "2026-10-04T02:05:48+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/KVM-Zero-Day-VM-Escape.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "7f077642fb51538f",
     "source": "BleepingComputer",
     "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
@@ -198,6 +286,17 @@
     "hot": false
   },
   {
+    "id": "a550e59db9c07bf8",
+    "source": "Cyber Security News",
+    "title": "ShinyHunters Member Detained in Jordan, Reportedly Helping FBI Identify Fellow Hackers",
+    "description": "A suspected ShinyHunters member has been detained in Jordan and is reportedly helping the FBI identify other hackers linked to the group. Reuters reported on October 3 that three people familiar with the matter confirmed the detention of Saif al-Din Khader, whose alleged online nickname is Rey. Two sources said Jordanian authorities took Khader into […] The post ShinyHunters Member Detained in Jordan, Reportedly Helping FBI Identify Fellow Hackers appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/shinyhunters-hacker-helping-fbi/",
+    "date": "2026-10-03T17:21:44+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/ShinyHunters-Hacker-Helping-FBI.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
     "id": "a5ecf5b8439c411b",
     "source": "Security Affairs",
     "title": "Fake Zoom installer hides macOS backdoor CloudSyncD",
@@ -217,6 +316,17 @@
     "date": "2026-10-03T15:03:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/meadow2.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "8ed7e60bf742b46d",
+    "source": "Cyber Security News",
+    "title": "Microsoft Pushes New Exchange V2 Update After Discovering New Security Flaw",
+    "description": "Microsoft has released September 2026 V2 security updates to fix an Exchange Server flaw that lets authenticated attackers access other users’ mailboxes within the same organization. Tracked as CVE-2026–96940, the vulnerability could expose email messages and attachments, making it a serious concern for businesses running Exchange on-premises. The flaw involves weak authorization, allowing an attacker […] The post Microsoft Pushes New Exchange V2 Update After Discovering New Security Flaw appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/",
+    "date": "2026-10-03T14:59:30+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Reissues-Exchange-Server-Update.webp",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -316,6 +426,50 @@
     "date": "2026-10-03T09:26:04+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-8.png",
     "category": "Cyberwarfare",
+    "hot": false
+  },
+  {
+    "id": "b6871ed9c6a3935e",
+    "source": "Cyber Security News",
+    "title": "Critical GitLab AI Gateway Vulnerability Enables Remote Code Execution Attacks",
+    "description": "GitLab has released urgent security updates for a critical AI Gateway vulnerability that could allow authenticated attackers to execute commands remotely. Tracked as CVE-2026-90970, the flaw carries a CVSS score of 9.9 and affects self-hosted deployments used to support GitLab Duo AI features. The company released AI Gateway versions 19.2.4, 19.3.2, and 19.4.1 to address […] The post Critical GitLab AI Gateway Vulnerability Enables Remote Code Execution Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/gitlab-ai-gateway-vulnerability/",
+    "date": "2026-10-03T04:11:34+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/GitLab-AI-Gateway-Vulnerability.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "6034b52d47a87550",
+    "source": "Cyber Security News",
+    "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+    "description": "Dell has released security update DSA-2026-448 to address multiple critical vulnerabilities in its Container Storage Modules, including flaws that could allow unauthenticated remote attackers to take full administrative control of affected storage environments. Organizations using vulnerable Dell CSM deployments should upgrade immediately, as Dell stated that no workarounds or mitigations are available. The advisory affects […] The post Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/",
+    "date": "2026-10-03T03:52:58+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Critical-Dell-Container-Storage-Flaws-Let-Unauthenticated-Attackers-Gain-Full-Administrative-Control-1.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "6cda2f31f4cbd9a5",
+    "source": "Cyber Security News",
+    "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch",
+    "description": "Citrix NetScaler customers are reporting repeated appliance reboots after installing build 14.1-73.37, the emergency update released for two zero-day flaws under active attack. The failures appear linked to crafted SAML authentication traffic that crashes the nsaaad service. Citrix says its engineering and support teams are tracking a newly seen SAML issue and plan to release […] The post Citrix NetScaler Keeps Rebooting Following the 0-Day Patch appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/",
+    "date": "2026-10-03T02:41:43+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Citrix-NetScaler-0-Day-Patch.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "4aab760847ccb4bf",
+    "source": "Cyber Security News",
+    "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+    "description": "Debian has released a major Linux kernel security update covering 1,313 CVE entries, addressing flaws that could allow privilege escalation, denial of service, and information leaks. The fixes are available for Debian’s stable release, Trixie, in Linux source package version 6.12.111-1. Security team member Salvatore Bonaccorso published advisory DSA-6528-1 on September 29, 2026. Debian recommends […] The post Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/debian-1313-security-flaws/",
+    "date": "2026-10-03T02:23:53+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Debian-security-flaws.webp",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -509,7 +663,7 @@
     "id": "a131500535de96b5",
     "source": "Schneier on Security",
     "title": "Unidentified Flock Cameras in Florida",
-    "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel did with Tehran’s surveillance cameras—th",
+    "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel ...",
     "link": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
     "date": "2026-10-02T15:30:13+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -696,7 +850,7 @@
     "id": "c82a421a7ee5edd6",
     "source": "Schneier on Security",
     "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
-    "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy , which examined how AI is beginning to infl",
+    "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
     "date": "2026-10-02T11:03:09+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -770,17 +924,6 @@
     "hot": false
   },
   {
-    "id": "891bd1d16a297db0",
-    "source": "SecurityWeek",
-    "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
-    "description": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-    "date": "2026-10-02T08:07:33+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Fortinet-Vulnerability.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "0183523ae90f5337",
     "source": "The Hacker News",
     "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
@@ -836,35 +979,13 @@
     "hot": false
   },
   {
-    "id": "ea711ee092c4d3bc",
-    "source": "Help Net Security",
-    "title": "AI agents keep access to company data after their work is done",
-    "description": "IT teams responsible for identity security are concerned about AI agents’ ongoing access to company systems and the actions they take on users’ behalf, according to a Delinea’s 2026 Identity Security Report: The AI Enforcement Gap. “Written policy is only as good as your ability to enforce it at the moment an AI agent acts,” said Art Gilliland, CEO of Delinea. “Our research echoes what I hear from leaders constantly: they have the AI policies … More → The post AI agents keep access to company data after their work is done appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/",
-    "date": "2026-10-02T04:30:21+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/27085031/ai-evolution-1500.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "a9831073393acf18",
-    "source": "Help Net Security",
-    "title": "New infosec products of the week: October 2, 2026",
-    "description": "Here’s a look at the most interesting products from the past week, featuring releases from BlackFog, Genea, Vega, and Thales. Vega II brings security-trained AI and lasting memory to the SOC Vega has introduced Vega II, its biggest platform release since emerging from stealth. The update brings frontier AI trained for security operations into the SOC, gives teams a lasting record of what they have learned, and removes the legacy SIEM and data pipeline barriers … More → The post New infosec products of the week: October 2, 2026 appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/10/02/new-infosec-products-of-the-week-october-2-2026/",
-    "date": "2026-10-02T04:00:35+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/28091843/infosec-week-1200.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "4183d6184c38a0c7",
     "source": "BleepingComputer",
     "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
     "description": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
     "date": "2026-10-01T22:42:49+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/10/14/Fortinet.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -886,7 +1007,7 @@
     "description": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
     "date": "2026-10-01T20:52:50+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/05/12/ai-cybersecurity-hacker.jpg",
+    "image": "",
     "category": "AI Security",
     "hot": false
   },
@@ -919,7 +1040,7 @@
     "description": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
     "date": "2026-10-01T19:32:47+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
+    "image": "",
     "category": "AI Security",
     "hot": false
   },
@@ -1010,17 +1131,6 @@
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2276184284-1-1.jpg",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "42f68b97d9ff18a8",
-    "source": "Help Net Security",
-    "title": "16-year-old suspected leader of KillSec ransomware group arrested",
-    "description": "A 16-year-old is suspected of being the main operator of KillSec, a ransomware group that Eurojust says is responsible for almost 1,000 attacks worldwide. Seizure notice (Source: Eurojust) According to Eurojust, KillSec has been active since 2024. The group got into organizations’ systems by exploiting poorly secured access, particularly access linked to cloud storage. “Once inside, the KillSec group stole data and copied it to their own infrastructure. They then threatened to make the stolen … More → The post 16-year-old suspected leader of KillSec ransomware group arrested appeared first on ",
-    "link": "https://www.helpnetsecurity.com/2026/10/01/killsec-ransomware-16-year-old-main-operator-arrested/",
-    "date": "2026-10-01T13:59:02+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/25153102/ransomware-1500-red.webp",
-    "category": "Ransomware",
-    "hot": true
   },
   {
     "id": "da636a730da36294",
@@ -1925,17 +2035,6 @@
     "hot": false
   },
   {
-    "id": "907ee7dacf9dd9ff",
-    "source": "News.gr Technology",
-    "title": "Γιγαντιαίος πύραυλος Starship του Ίλον Μασκ: Γιατί τελείωσε νωρίτερα η πρώτη πτήση σε τροχιά γύρω από την γη",
-    "description": "Έπεσε με επιτυχία στον Ειρηνικό Ωκεανό",
-    "link": "https://www.news.gr/tech/article/4220924/gigantieos-piravlos-starship-tou-ilon-mask-giati-teliose-noritera-i-proti-ptisi-se-trochia-giro-apo-tin-gi.html",
-    "date": "2026-09-28T18:05:30+00:00",
-    "image": "https://www.news.gr/wp-content/uploads/images/2026/09/28/st/Starship.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "e1bdcca573bf32cf",
     "source": "The Hacker News",
     "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
@@ -2258,7 +2357,7 @@
     "id": "e95061812d963db2",
     "source": "Schneier on Security",
     "title": "On Anthropic’s AI Misuse Report",
-    "description": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected targets, set goals, and reviewed important outputs. The report describes attackers using AI to industrialize credential theft, cloud compromise, phishing, vulnerability research, and the extraction of sensitive data from downstream organizations. Infl",
+    "description": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected targets, set goals, and reviewed important outputs. The report describes attackers using AI to industrialize credential theft, cloud compromise, phishing, vulnerability research, and the extraction of sensitive data from downstream organizations. ...",
     "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
     "date": "2026-09-25T11:07:55+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -2954,7 +3053,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "Privacy",
     "hot": false
   },
@@ -3405,7 +3504,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "General Security",
     "hot": false
   },
@@ -3515,7 +3614,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3669,7 +3768,7 @@
     "description": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-gartner/15.png",
     "category": "General Security",
     "hot": false
   },
@@ -3691,7 +3790,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Vulnerability",
     "hot": true
   },
