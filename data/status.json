@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:28:15.579494+00:00",
+  "updated": "2026-10-06T20:30:47.207176+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -89,9 +89,8 @@
     {
       "name": "Cyber Security News",
       "url": "https://cybersecuritynews.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "not well-formed (invalid token): line 1, column 119"
+      "ok": true,
+      "count": 10
     },
     {
       "name": "News.gr Technology",
@@ -111,14 +110,14 @@
     "articles_checked": 145,
     "images_found": 145,
     "by_source": {
+      "CyberScoop": 10,
       "BleepingComputer": 15,
       "SecurityWeek": 10,
       "Security Affairs": 10,
       "Help Net Security": 10,
-      "CyberScoop": 10,
+      "CISA Advisories": 30,
       "Schneier on Security": 10,
       "NIST Cybersecurity": 40,
-      "CISA Advisories": 30,
       "Krebs on Security": 10
     }
   }
