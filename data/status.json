@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:18:30.741036+00:00",
+  "updated": "2026-10-10T01:06:59.459713+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -34,9 +34,8 @@
     {
       "name": "Help Net Security",
       "url": "https://www.helpnetsecurity.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 10
     },
     {
       "name": "Security Affairs",
@@ -108,17 +107,18 @@
   ],
   "image_fallback": {
     "enabled": true,
-    "articles_checked": 137,
-    "images_found": 133,
+    "articles_checked": 147,
+    "images_found": 143,
     "by_source": {
+      "Krebs on Security": 10,
       "SecurityWeek": 10,
       "BleepingComputer": 11,
       "Schneier on Security": 10,
       "Security Affairs": 10,
+      "Help Net Security": 10,
       "CyberScoop": 10,
       "CISA Advisories": 30,
       "News.gr Technology": 2,
-      "Krebs on Security": 10,
       "NIST Cybersecurity": 40
     }
   }
