@@ -1,5 +1,38 @@
 [
   {
+    "id": "7c1b4502be449205",
+    "source": "Security Affairs",
+    "title": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : CVE-2015-3306 (CVSS score of 10.0) – An access control flaw in ProFTPD that could let remote attackers read or modify arbitrary files by abusing the SITE CPFR and SITE CPTO commands. CVE-2021-3199 (CVSS score of 9.8) – A path traversal flaw in ONLYOFFICE Docs when JSO",
+    "link": "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+    "date": "2026-10-11T09:18:56+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+    "category": "Malware",
+    "hot": true
+  },
+  {
+    "id": "95db4026ad9d38c1",
+    "source": "Help Net Security",
+    "title": "Week in review: FortiBleed is still active, Patch Tuesday forecast",
+    "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Three questions a hospital CISO should ask a healthcare fintech vendor In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how he balances both roles. Security work is scheduled into every sprint, and issues touching patient data or funds disbursement come first. He covers how Cylerity keeps PHI away from its bank partner, why AI … More → The post Week in review: FortiBleed is still active, Patch Tuesday forecast appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/",
+    "date": "2026-10-11T08:00:49+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "cfd7a7cffbac16c1",
+    "source": "News.gr Technology",
+    "title": "ΔΑΙΔΑΛΟΣ: Τι δυνατότητες προσφέρει ο νέος εθνικός υπερυπολογιστής",
+    "description": "Παπαστεργίου: «Ανοίγει τον δρόμο για την εκπαίδευση μοντέλων ΤΝ στην Ελλάδα»",
+    "link": "https://www.news.gr/tech/article/4229518/dedalos-ti-dinatotites-prosferi-o-neos-ethnikos-iperipologistis.html",
+    "date": "2026-10-11T06:55:08+00:00",
+    "image": "https://www.news.gr/wp-content/uploads/images/2026/10/11/de/Dedalos.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "51af4a99e7f421b0",
     "source": "The Hacker News",
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -9,28 +42,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg",
     "category": "Vulnerability",
     "hot": false
-  },
-  {
-    "id": "7b612b5865e99f53",
-    "source": "Cyber Security News",
-    "title": "The Best Protected Website Builder in 2027: Which Platform Keeps Your Site Truly Safe [Ranked & Scored]",
-    "description": "A website builder’s biggest security feature is invisible: everything you never have to patch. Hosted platforms took the jobs that get self-managed sites hacked — core updates, TLS renewal, server hardening — and made them the vendor’s problem, which is why the real 2027 question isn’t “builder or not” but which builder’s security program deserves your business. We ranked the best of the best — the leading mainstream platforms — purely on protection. Wix takes #1 overall ; Shopify owns the commerce lane; Squarespace and Webflow complete the podium. Key Takeaways #1 overall: Wix — a genuine ent",
-    "link": "https://cybersecuritynews.com/best-protected-website-builder/",
-    "date": "2026-10-11T03:35:31+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJ8LOYpoZYZVa3ShkQCQb9yDKEBTGLNHahSN4W2FTYE_YR4sqhGtu_7ouJGsy3lBHg87PkkGRJusdwFviWyZs0wOaLeCaNuFZVNpKfoWeyfGRoNJe_PZaAgwqGURa23FKBdV1LhOIIEo_m2h_yUcwnXw5gSEqIKYUS2DYt8va52a05k6BoB58IFJSuTRc/s16000/Untitled%20design%20-%202025-08-20T171623.102.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "62b745127918211c",
-    "source": "Cyber Security News",
-    "title": "Ransomware Actors Exploiting Palo Alto GlobalProtect Flaw for Stealthy VPN Access",
-    "description": "Ransomware groups are actively exploiting CVE-2026-0257, an authentication bypass affecting Palo Alto Networks PAN-OS GlobalProtect and Prisma Access. ReliaQuest reports that multiple threat groups, including Qilin and Settra, are using the flaw to create unauthorized VPN sessions and enter internal networks through trusted remote access services. The activity presents a serious detection challenge because attackers connect through an organization’s own VPN. Their traffic can look like normal remote work, giving them time to steal credentials, move between systems, collect sensitive data, or p",
-    "link": "https://cybersecuritynews.com/palo-alto-globalprotect-flaw-vpn-access/",
-    "date": "2026-10-11T03:21:01+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Palo-Alto-GlobalProtect-Flaw-VPN-Access.webp",
-    "category": "Ransomware",
-    "hot": true
   },
   {
     "id": "af8ea0c7b6cf15da",
@@ -154,17 +165,6 @@
     "hot": false
   },
   {
-    "id": "3548f9ff51263e85",
-    "source": "Cyber Security News",
-    "title": "REA Tool Connects Claude Code and Cursor to Ghidra and IDA Pro to Reverse Engineer Anything",
-    "description": "REA, short for Reverse Engineer Anything, connects AI coding agents such as Claude Code and Cursor to tools that inspect software without its source code. The open-source project brings Ghidra, IDA Pro, and Hopper into an agent-driven workflow, helping researchers trace program behavior and explain findings with supporting evidence. Rather than replacing a disassembler, REA acts as a bridge between the agent and analysis tools. Its scope extends beyond native binaries to JavaScript, Electron applications, .NET assemblies, Android packages, firmware, websites, and selected runtime activity. The",
-    "link": "https://cybersecuritynews.com/reverse-engineer-anything-tool/",
-    "date": "2026-10-10T08:08:45+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Reverse-Engineer-Anything-Tool.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "ba5e3f96209f9f14",
     "source": "Security Affairs",
     "title": "US Sentences Empire Market Co-Creator Over $430 Million Criminal Marketplace",
@@ -176,46 +176,13 @@
     "hot": false
   },
   {
-    "id": "ae0a904067484fed",
-    "source": "Cyber Security News",
-    "title": "One Prompt Could Hijack AWS AI Agents and Steal Cloud Credentials",
-    "description": "A single prompt sent to a public-facing AI agent could have exposed every Amazon Bedrock AgentCore agent in the same AWS account and region, according to new research from Zenity Labs. The attack chain, named AgentCorruption, gave the researchers access to private chats, source code, long-term memories, API keys, OAuth tokens, and secrets held in AWS Secrets Manager. Amazon Bedrock AgentCore is a managed service for building and running AI agents. Zenity found that an agent with a tool able to make web requests could be told to contact the local metadata endpoint at 169.254.169.254 . This serv",
-    "link": "https://cybersecuritynews.com/agentcorruption-attack/",
-    "date": "2026-10-10T06:58:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/AWS-AgentCorruption1.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "daa96eff2adb78af",
-    "source": "Cyber Security News",
-    "title": "Microsoft Teams to Warn Users About Malicious Links Hidden in QR Codes",
-    "description": "Microsoft is extending Teams security to detect malicious links hidden inside QR codes and warn users after a message has been delivered. The update adds QR code checks to existing Microsoft Defender for Office 365 protections, giving users clearer warnings and security teams more data to investigate suspicious messages. According to Message Center notice MC1490905 , published on October 7, worldwide rollout begins in early October 2026 and is expected to finish by early November. The feature applies to organizations using Microsoft Teams with Defender for Office 365 and requires no separate s",
-    "link": "https://cybersecuritynews.com/teams-qr-code-protection/",
-    "date": "2026-10-10T05:49:32+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Teams-QR-Code-Protection.webp",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "893ac417ef0d825e",
-    "source": "Cyber Security News",
-    "title": "AT&T to Pay $177 Million After Two Massive Customer Data Breaches",
-    "description": "AT&T will pay $177 million to settle lawsuits over two major customer data breaches disclosed in 2024, after a federal judge granted final approval on October 2, 2026. The agreement covers separate incidents that exposed personal details and call records, creating lasting privacy risks for millions of current and former customers. Judge Sidney A. Fitzwater of the U.S. District Court for the Northern District of Texas approved the settlement, according to Bloomberg Law . AT&T settled without admitting liability or wrongdoing. The deal creates a $149 million fund for the first incident and a $28",
-    "link": "https://cybersecuritynews.com/att-to-pay-177-million/",
-    "date": "2026-10-10T04:57:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/ATT-to-Pay-177-Million.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "878d602d6c0b2414",
     "source": "Krebs on Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -258,7 +225,7 @@
     "title": "Friday Squid Blogging: I Caught a Squid",
     "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-    "date": "2026-10-09T20:25:01+00:00",
+    "date": "2026-10-09T20:24:45+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
     "category": "General Security",
     "hot": false
@@ -341,17 +308,6 @@
     "hot": true
   },
   {
-    "id": "0a47d5ab9fc14be8",
-    "source": "Cyber Security News",
-    "title": "AnyDesk Linux Flaw Lets Remote Attackers Execute Code as Root Without Authentication",
-    "description": "A working proof-of-concept for a serious AnyDesk Linux vulnerability that can let remote attackers run commands as root without authentication or user approval. The issue, named AnyPwn, affects AnyDesk Linux 8.0.2 and was fixed in version 8.0.3. Organizations using AnyDesk for Linux should update immediately and check whether TCP port 7070 is exposed to untrusted networks. The flaw was discovered by Rick de Jager of the V12 security team using V12, an AI-powered security review platform. V12 first disclosed the issue publicly in June and described it as a pre-authentication, zero-click remote ",
-    "link": "https://cybersecuritynews.com/anydesk-linux-vulnerability/",
-    "date": "2026-10-09T17:15:43+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/AnyDesk-Linux-Flaw.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "893ae173cb3284d9",
     "source": "BleepingComputer",
     "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
@@ -363,17 +319,6 @@
     "hot": true
   },
   {
-    "id": "df93958d47f4a81f",
-    "source": "Cyber Security News",
-    "title": "New GhostAction Attack Compromises Hundreds of GitHub Repos to Steal Secrets",
-    "description": "A new GhostAction campaign has compromised 346 GitHub repositories after threat actors used two hijacked maintainer accounts to add a fake “security audit” workflow designed to steal CI/CD secrets, cloud keys, API tokens, and credentials stored in source-code history. Security firm Socket reported that the October 8 activity affected repositories connected to the GitHub accounts henrywoo and kitao. The targets include Uber’s uber/athenadriver repository and the popular kitao/pyxel project, which has more than 18,000 GitHub stars. The malicious file, .github/workflows/security-audit.yml, was ad",
-    "link": "https://cybersecuritynews.com/ghostaction-github-repo-attack/",
-    "date": "2026-10-09T16:38:01+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/GhostAction-Attack.webp",
-    "category": "Cyberwarfare",
-    "hot": false
-  },
-  {
     "id": "b6cc4882f7906431",
     "source": "Dark Reading",
     "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
@@ -383,17 +328,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "b6a93450d38bc8a4",
-    "source": "Cyber Security News",
-    "title": "New Agentic AI Red Team Checklist Adds 222 Tests Across 20 Attack Categories",
-    "description": "A free agentic AI red-team checklist offers 222 tests across 20 attack categories to assess autonomous AI systems beyond prompt injection , covering infrastructure, cloud access, tools, memory, and agent communications. The checklist targets a common testing gap. Teams may spend days trying to manipulate a model while overlooking an exposed MLflow server, a reachable cloud metadata endpoint, or a missing customer-isolation filter. These weaknesses can expose credentials and private records without requiring a complex attack against the model itself. Security researcher Ravi Rajput structures t",
-    "link": "https://cybersecuritynews.com/agentic-ai-red-team-checklist/",
-    "date": "2026-10-09T16:06:56+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/New-Agentic-AI-Red-Team-Checklist-Adds-222-Tests-Across-20-Attack-Categories.webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "08687a9c513b62a3",
@@ -438,17 +372,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/09/police-arrest.jpg",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "7ecbcfb4844ab8d8",
-    "source": "Cyber Security News",
-    "title": "CastleStealer Malware Uses Browser Protection Bypass and Remote Shell to Expand Attacker Access",
-    "description": "CastleStealer, an emerging C#-based information stealer, has added browser protection bypass and remote shell features that give its operators a wider path into compromised Windows systems. The newer malware samples can collect browser data protected by Chromium’s App-Bound Encryption, run commands on a victim device, download extra payloads, and move stolen information through small encrypted network transmissions rather than one large archive. Flashpoint’s analysis shows that the malware is becoming more capable even though it has not yet reached the broad use seen with major established ste",
-    "link": "https://cybersecuritynews.com/castlestealer-malware/",
-    "date": "2026-10-09T14:47:33+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/CastleStealer-Malware-Uses-Browser-Protection-Bypass-and-Remote-Shell-to-Expand-Attacker-Access.webp",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "dba1279ec1b7f5c1",
@@ -655,7 +578,7 @@
     "description": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
     "date": "2026-10-09T10:12:24+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/22/Windows.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -1007,7 +930,7 @@
     "description": "Italy’s Foreign Ministry is defending its website against a cyberattack, checking embassy sites and pushing for EU action to identify attackers. On the morning of October 8, Italy’s Ministry of Foreign Affairs said its website was being attacked. According to the ministry’s own statement , its protection systems have mitigated the attack so far, with no disruption. The statement doesn’t say who is behind it, or what kind of attack it is. The ministry is monitoring the situation with the Polo Strategico Nazionale, the country’s national cloud hub, and with the competent authorities. “Cybersecur",
     "link": "https://securityaffairs.com/200650/cyber-warfare-2/italys-foreign-ministry-under-cyberattack-as-embassy-sites-come-under-review.html",
     "date": "2026-10-08T19:33:08+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-21-1024x683.png",
+    "image": "",
     "category": "Malware",
     "hot": false
   },
@@ -1056,17 +979,6 @@
     "hot": true
   },
   {
-    "id": "bfb176fe03718194",
-    "source": "Security Affairs",
-    "title": "Hunt.io Finds New Infrastructure Of BraZetsu Access Broker Months Before Disclosure",
-    "description": "Hunt.io traced BraZetsu ‘s infrastructure and found that hosting patterns and certificate data remained useful after published IOCs became outdated. Group-IB researchers published a detailed writeup on BraZetsu back on August 31, naming it a Python framework compiled with Nuitka and tying it to a Brazilian actor called Exilware with high confidence. Hunt.io checked whether the published indicators still held up against its own certificate data. What they found is that the infrastructure had already moved on, quietly, months before anyone wrote about it. BraZetsu is an initial access broker too",
-    "link": "https://securityaffairs.com/200634/cyber-crime/hunt-io-finds-new-brazetsu-infrastructure-months-before-disclosure.html",
-    "date": "2026-10-08T17:47:35+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-20.png",
-    "category": "Ransomware",
-    "hot": true
-  },
-  {
     "id": "3bed0e228b22b57d",
     "source": "CyberScoop",
     "title": "OpenAI says Iran, Russia used AI journalists, think tanks to influence Western media",
@@ -1108,17 +1020,6 @@
     "date": "2026-10-08T14:12:34+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "cfbcd2a04f109623",
-    "source": "Help Net Security",
-    "title": "Authorities seize sites selling hacked, stolen intimate images of 17,000 women and girls",
-    "description": "The FBI and French law enforcement have seized two websites that sold hacked and stolen sexually explicit images and videos of young women and girls, and arrested their suspected administrator in northern France. Seizure notice (Source: US Department of Justice) The U.S. Attorney’s Office for the Eastern District of Virginia announced on Wednesday that the seized domains belonged to NudeLeaksTeens (NLT), and that the operation was carried out with the FBI Washington Field Office and … More → The post Authorities seize sites selling hacked, stolen intimate images of 17,000 women and girls appea",
-    "link": "https://www.helpnetsecurity.com/2026/10/08/nudeleaksteens-seized-fbi-france/",
-    "date": "2026-10-08T12:51:42+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/28154436/sentence-court5-1500.webp",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -1182,9 +1083,9 @@
     "title": "How Technology Empowers—and Imperils—Dictators",
     "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Marga",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "date": "2026-10-08T11:08:05+00:00",
+    "date": "2026-10-08T11:07:35+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1273,17 +1174,6 @@
     "date": "2026-10-08T05:46:20+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg",
     "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "164755aee07efe9e",
-    "source": "Schneier on Security",
-    "title": "Apple’s Verified Photography System",
-    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
-    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-    "date": "2026-10-08T05:44:43+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -1447,7 +1337,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1493,6 +1383,17 @@
     "date": "2026-10-07T11:42:24+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s1600/picus.jpg",
     "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "164755aee07efe9e",
+    "source": "Schneier on Security",
+    "title": "Apple’s Verified Photography System",
+    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
+    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+    "date": "2026-10-07T11:07:36+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -1710,7 +1611,7 @@
     "title": "Possible Vulnerability in Apple’s Automatic Reboot",
     "description": "404Media is reporting (alternate link ) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn’t been used for 72 hours. The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones and Android smartphones . Magnet has developed a new device called GrayKey Preserve and a featur",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-    "date": "2026-10-06T11:07:20+00:00",
+    "date": "2026-10-06T11:06:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1886,7 +1787,7 @@
     "title": "Another Historic Cipher Falls to AI",
     "description": "This one is from 1809, written by Napoleon’s nephew.",
     "link": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-    "date": "2026-10-05T11:04:48+00:00",
+    "date": "2026-10-05T11:04:47+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1974,7 +1875,7 @@
     "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
     "description": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-    "date": "2026-10-02T21:02:21+00:00",
+    "date": "2026-10-02T21:02:18+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2049,9 +1950,9 @@
     "id": "a131500535de96b5",
     "source": "Schneier on Security",
     "title": "Unidentified Flock Cameras in Florida",
-    "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel did with Tehran’s surveillance cameras—th",
+    "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel ...",
     "link": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-    "date": "2026-10-02T15:30:13+00:00",
+    "date": "2026-10-02T14:52:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Privacy",
     "hot": false
@@ -2093,9 +1994,9 @@
     "id": "c82a421a7ee5edd6",
     "source": "Schneier on Security",
     "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
-    "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy , which examined how AI is beginning to infl",
+    "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
-    "date": "2026-10-02T11:03:09+00:00",
+    "date": "2026-10-02T11:02:19+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2131,17 +2032,6 @@
     "date": "2026-10-01T18:00:00+00:00",
     "image": "https://media.wired.com/photos/6abd2a92aa33d10785588652/master/pass/WIRED-West-Bank-Interactive-Site-Image-Lina-Jaradat-01.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "4eea68c2ad9f036c",
-    "source": "Schneier on Security",
-    "title": "Connected Cars Are a Surveillance Platform",
-    "description": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation ha",
-    "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
-    "date": "2026-10-01T16:23:25+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
     "hot": false
   },
   {
@@ -2277,6 +2167,17 @@
     "hot": true
   },
   {
+    "id": "4eea68c2ad9f036c",
+    "source": "Schneier on Security",
+    "title": "Connected Cars Are a Surveillance Platform",
+    "description": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation ha",
+    "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
+    "date": "2026-10-01T11:06:14+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Privacy",
+    "hot": false
+  },
+  {
     "id": "419649be9f9ba47a",
     "source": "WIRED Security",
     "title": "The Secrets of the US Spyware King",
@@ -2332,17 +2233,6 @@
     "hot": false
   },
   {
-    "id": "7f4900bb56a3957f",
-    "source": "Schneier on Security",
-    "title": "I Want Better Reporting on AI Genie Behavior",
-    "description": "AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I wish the popular press would report on this better. I don’t like the “going rogue” framing because it deflects the responsibility from the prompters—often the AI companies themselves. And now, pretty much anything off-script is being called “hacking.” Take, for example, the recent stories of one of OpenAI’s models hackin",
-    "link": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-    "date": "2026-09-30T17:24:20+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "0f78cafb3c33e31f",
     "source": "Newsbeast Technology",
     "title": "Vodafone Ελλάδας: Επιταχύνει την ανάπτυξη των δικτύων νέας γενιάς",
@@ -2384,6 +2274,17 @@
     "date": "2026-09-30T11:31:31+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/LG-LinearCooling2.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "7f4900bb56a3957f",
+    "source": "Schneier on Security",
+    "title": "I Want Better Reporting on AI Genie Behavior",
+    "description": "AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I wish the popular press would report on this better. I don’t like the “going rogue” framing because it deflects the responsibility from the prompters—often the AI companies themselves. And now, pretty much anything off-script is being called “hacking.” Take, for example, the recent stories of one of OpenAI’s models hackin",
+    "link": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
+    "date": "2026-09-30T11:05:35+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -2778,7 +2679,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3713,7 +3614,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3823,7 +3724,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
