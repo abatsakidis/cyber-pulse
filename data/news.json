@@ -1,5 +1,170 @@
 [
   {
+    "id": "8f76c95916bc222a",
+    "source": "SecurityWeek",
+    "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
+    "description": "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default. The post Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
+    "date": "2026-10-12T07:53:28+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/internet-routing-bgp.jpeg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "7536ba0731fe7c55",
+    "source": "Cyber Security News",
+    "title": "CISA Warns of Apache Struts Command Injection Vulnerability Exploited in Attacks",
+    "description": "CISA has added a long-standing Apache Struts flaw, tracked as CVE-2016-3081, to its Known Exploited Vulnerabilities catalog after confirming that attackers are using it in real-world attacks. The issue is a command injection vulnerability in Apache Struts that can allow a remote attacker to run code on a vulnerable server when Dynamic Method Invocation is […] The post CISA Warns of Apache Struts Command Injection Vulnerability Exploited in Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/apache-struts-vulnerability-exploited/",
+    "date": "2026-10-12T07:43:09+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/CISA-Warns-of-Apache-Struts-Command-Injection-Vulnerability-Exploited-in-Attacks.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "938e67be9c8d1e03",
+    "source": "The Hacker News",
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "description": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+    "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+    "date": "2026-10-12T07:26:12+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg",
+    "category": "General Security",
+    "hot": true
+  },
+  {
+    "id": "d27556817f9c8d96",
+    "source": "Help Net Security",
+    "title": "Let’s Encrypt TLS certificate lifetimes to drop from 90 to 64 days starting February 2027",
+    "description": "Websites that rely on Let’s Encrypt will soon have to renew their TLS certificates more often. Starting February 10, 2027, the certificate authority will issue certificates valid for 64 days by default, down from 90 days. Subscribers who already use Let’s Encrypt’s optional 45-day or 6-day certificates are not affected. The organization expects the last 90-day certificate to expire on May 11, 2027, and will not revoke any valid certificates during the transition. Why the … More → The post Let’s Encrypt TLS certificate lifetimes to drop from 90 to 64 days starting February 2027 appeared first o",
+    "link": "https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/",
+    "date": "2026-10-12T07:23:11+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/05092510/letsencrypt-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "1fadf61833201a86",
+    "source": "Cyber Security News",
+    "title": "Midnight Mimosa Infects Android Phones Before Users Even Turn Them On",
+    "description": "Midnight Mimosa is reaching Android phones before their owners even press the power button. The malware arrives inside device firmware, giving its operators a hidden foothold that does not depend on a malicious download, a phishing link, or someone accepting an app permission request. The campaign affects low-cost Android devices from several brands built on […] The post Midnight Mimosa Infects Android Phones Before Users Even Turn Them On appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/midnight-mimosa/",
+    "date": "2026-10-12T07:18:04+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Midnight-Mimosa-Infects-Android-Phones-Before-Users-Even-Turn-Them-On.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "c88595185faa5a3f",
+    "source": "Cyber Security News",
+    "title": "Discourse Image Pipeline Exploit Chains JPEG Race, GhostScript and ImageMagick for File Read",
+    "description": "A Discourse image upload exploit allowed basic users to read server files by chaining a JPEG processing delay, Ghostscript execution, and ImageMagick features. The research also exposed a separate cache poisoning flaw that could run JavaScript for anonymous visitors. Researchers reported both issues in June 2026 and patched them before publication. The technical report from […] The post Discourse Image Pipeline Exploit Chains JPEG Race, GhostScript and ImageMagick for File Read appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/discourse-image-pipeline-exploit/",
+    "date": "2026-10-12T06:43:59+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Discourse-Image-Pipeline-Exploit-Chains-JPEG-Race-GhostScript-and-ImageMagick-for-File-Read.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "da3d9f3732001557",
+    "source": "Help Net Security",
+    "title": "Geopolitics and the cyber resilience gap belong in your threat model",
+    "description": "In this Help Net Security interview, Akshay Joshi, Head of the Centre for Cybersecurity at the World Economic Forum, talks about how AI, geopolitics and industrialized fraud are changing cyber risk. He discusses findings from the Global Cybersecurity Outlook 2026, including that CEOs now rank cyber-enabled fraud above ransomware as their top concern. Joshi explains the widening resilience gap between large and small organizations and between regions, the role of skills shortages, and what public-private … More → The post Geopolitics and the cyber resilience gap belong in your threat model appe",
+    "link": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
+    "date": "2026-10-12T06:00:12+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/08105701/akshay_joshi-2-wef.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "16adfc9d19679438",
+    "source": "Security Affairs",
+    "title": "GTA 6 Leaker Demands $30M Meme Coin Market Cap to Release Full Game",
+    "description": "CyberLeek threatens to leak a playable GTA 6 build if its Solana meme coin hits a $30 million market cap, but the build remains unverified. CyberLeek, the anonymous figure behind this summer’s wave of GTA 6 leaks, just raised the stakes considerably. After dropping 25 minutes of gameplay footage earlier last week, including nudity and […]",
+    "link": "https://securityaffairs.com/200780/cyber-crime/gta-6-leaker-demands-30m-meme-coin-market-cap-to-release-full-game.html",
+    "date": "2026-10-12T05:43:37+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-72.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "6754be9d298e300f",
+    "source": "Help Net Security",
+    "title": "Strands Box: Open-source sandbox for AI agents",
+    "description": "AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules that can weigh what an agent has already done before letting it act again. Box is in developer preview and runs on Macs with Apple silicon, with Linux support planned. If you run coding assistants, you’re familiar with the problem Strands Box targets. Agents read files, run shell commands, execute code they wrote and call APIs, and many … More → The post Strands Box: Open-source sandbox for AI agents appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/",
+    "date": "2026-10-12T05:30:34+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/08083429/aws-strands-1500.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "629bd15dd5bbb891",
+    "source": "Newsbeast Technology",
+    "title": "Τέλος τα social media για τους ανηλίκους κάτω των 15 ετών: Σήμερα τα «αποκαλυπτήρια» του νέου πλαισίου, τι αλλάζει από το 2027",
+    "description": "Το νέο πλαίσιο των ρυθμίσεων για την πρόσβαση των ανηλίκων στα μέσα κοινωνικής δικτύωσης παρουσιάζεται σήμερα, Δευτέρα 12 Οκτωβρίου 2026. Ειδικότερα, στις 11:00 το πρωί, στο Μέγαρο Μποδοσάκη, θα παραχωρήσουν διυπουργική συνέντευξη Τύπου οι υπουργοί Επικρατείας, Άκης Σκέρτσος, Υγείας, Άδωνις Γεωργιάδης και Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης, Δημήτρης Παπαστεργίου, προκειμένου να παρουσιάσουν το νέο κυβερνητικό σχέδιο. Το νομοσχέδιο με τίτλο «Απαγόρευση χρήσης επιγραμμικών υπηρεσιών κοινωνικής δικτύωσης από ανηλίκους», εισάγεται στην αρμόδια κοινοβουλευτική επιτροπή προς επεξεργασία ",
+    "link": "https://www.newsbeast.gr/politiki/arthro/13417636/telos-ta-social-media-gia-tous-anilikous-kato-ton-15-eton-simera-ta-apokalyptiria-tou-neou-plaisiou-ti-allazei-apo-to-2027",
+    "date": "2026-10-12T05:25:00+00:00",
+    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2025/10/SOCIAL.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "f100640ef4b7f2df",
+    "source": "Cyber Security News",
+    "title": "NVIDIA DCGM Exporter Bug Exposes GPU Servers to Resource Exhaustion Attacks",
+    "description": "NVIDIA patched high-severity flaw CVE-2026-47483 in DCGM Exporter that allows unauthenticated remote attackers to exhaust server resources, crash GPU monitoring, and disrupt AI workloads. DCGM Exporter is a common monitoring tool for GPU servers and Kubernetes clusters. It reads details such as GPU model, temperature, memory use, power draw, errors, and workload activity, then serves […] The post NVIDIA DCGM Exporter Bug Exposes GPU Servers to Resource Exhaustion Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/nvidia-dcgm-exporter-bug-exposes/",
+    "date": "2026-10-12T04:52:16+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/NVIDIA-DCGM-Exporter-Bug-Exposes-GPU-Servers-to-Resource-Exhaustion-Attacks.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "10ac6ac90412ee1b",
+    "source": "Help Net Security",
+    "title": "AI vulnerability patching has a grading problem",
+    "description": "Researchers at Northwestern University tested AI coding agents on 112 real security bugs. They found that a patch which stops a crash often fails the checks the project’s maintainers wrote for the fix. With Claude Opus 4.7, third of the patches that made the crash go away still failed those maintainer tests. If you’re thinking about letting an AI tool patch vulnerabilities for you, this is the number to look at. Many security patching benchmarks … More → The post AI vulnerability patching has a grading problem appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem/",
+    "date": "2026-10-12T04:45:43+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/08114618/check-approve.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "55853b6b7cbbe27e",
+    "source": "Cyber Security News",
+    "title": "Admin Password “123456” Led to 8.8 Million Danish CPR Data Breach",
+    "description": "A weak administrator password is linked to a major Danish data breach that exposed information tied to about 8.8 million national identification numbers. At least three accounts at Pays, an IT company on the island of Funen, reportedly used “123456”, including an administrator account. The case shows how poor security at a company with trusted […] The post Admin Password “123456” Led to 8.8 Million Danish CPR Data Breach appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/admin-password-danish-data-breach/",
+    "date": "2026-10-12T04:42:30+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Danish-CPR-Data-Breach.webp",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
+    "id": "2133cfdeef191459",
+    "source": "Help Net Security",
+    "title": "What makes some open source updates so difficult?",
+    "description": "Many organizations adopt open source software because they see it as a cheaper alternative to proprietary development. Maintaining it, however, still requires engineering effort, according to Google’s case study, “How much does it cost to maintain a copy of an open source software package (at Google)?” Study suggests that most updates to its internal copies of open source packages should take four engineering hours or less. More demanding updates can require days or months of … More → The post What makes some open source updates so difficult? appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/12/google-open-source-maintenance-costs-report/",
+    "date": "2026-10-12T04:00:49+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/04/02103244/open_source-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "4901a0842317d6c8",
+    "source": "Cyber Security News",
+    "title": "KFC Named in Gentlemen Ransomware Group’s Latest Breach Claim",
+    "description": "The Gentlemen ransomware group has allegedly claimed to have breached KFC, with a listing observed on October 10, 2026. The supplied alert identifies the target as United States KFC and places it in the hospitality sector. The claim remains unverified, and the available material does not establish a confirmed compromise of KFC’s U.S. systems. A […] The post KFC Named in Gentlemen Ransomware Group’s Latest Breach Claim appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/gentlemen-ransomware-kfc-breach/",
+    "date": "2026-10-12T03:21:04+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Alleged-KFC-Breach.webp",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
     "id": "0f5553de85413433",
     "source": "Security Affairs",
     "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3",
@@ -39,7 +204,7 @@
     "description": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
     "date": "2026-10-11T14:23:46+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/09/bigecho.jpg",
+    "image": "",
     "category": "Malware",
     "hot": false
   },
@@ -245,7 +410,7 @@
     "id": "6f89a3d2cbd6e53c",
     "source": "The Hacker News",
     "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-    "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
+    "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
     "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
     "date": "2026-10-10T09:18:45+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg",
@@ -275,46 +440,13 @@
     "hot": false
   },
   {
-    "id": "ae0a904067484fed",
-    "source": "Cyber Security News",
-    "title": "One Prompt Could Hijack AWS AI Agents and Steal Cloud Credentials",
-    "description": "A single prompt sent to a public-facing AI agent could have exposed every Amazon Bedrock AgentCore agent in the same AWS account and region, according to new research from Zenity Labs. The attack chain, named AgentCorruption, gave the researchers access to private chats, source code, long-term memories, API keys, OAuth tokens, and secrets held in […] The post One Prompt Could Hijack AWS AI Agents and Steal Cloud Credentials appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/agentcorruption-attack/",
-    "date": "2026-10-10T06:58:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/AWS-AgentCorruption1.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "daa96eff2adb78af",
-    "source": "Cyber Security News",
-    "title": "Microsoft Teams to Warn Users About Malicious Links Hidden in QR Codes",
-    "description": "Microsoft is extending Teams security to detect malicious links hidden inside QR codes and warn users after a message has been delivered. The update adds QR code checks to existing Microsoft Defender for Office 365 protections, giving users clearer warnings and security teams more data to investigate suspicious messages. According to Message Center notice MC1490905, […] The post Microsoft Teams to Warn Users About Malicious Links Hidden in QR Codes appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/teams-qr-code-protection/",
-    "date": "2026-10-10T05:49:32+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Teams-QR-Code-Protection.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "893ac417ef0d825e",
-    "source": "Cyber Security News",
-    "title": "AT&T to Pay $177 Million After Two Massive Customer Data Breaches",
-    "description": "AT&T will pay $177 million to settle lawsuits over two major customer data breaches disclosed in 2024, after a federal judge granted final approval on October 2, 2026. The agreement covers separate incidents that exposed personal details and call records, creating lasting privacy risks for millions of current and former customers. Judge Sidney A. Fitzwater […] The post AT&T to Pay $177 Million After Two Massive Customer Data Breaches appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/att-to-pay-177-million/",
-    "date": "2026-10-10T04:57:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/ATT-to-Pay-177-Million.webp",
-    "category": "Privacy",
-    "hot": true
-  },
-  {
     "id": "878d602d6c0b2414",
     "source": "Krebs on Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -440,37 +572,15 @@
     "hot": true
   },
   {
-    "id": "0a47d5ab9fc14be8",
-    "source": "Cyber Security News",
-    "title": "AnyDesk Linux Flaw Lets Remote Attackers Execute Code as Root Without Authentication",
-    "description": "A working proof-of-concept for a serious AnyDesk Linux vulnerability that can let remote attackers run commands as root without authentication or user approval. The issue, named AnyPwn, affects AnyDesk Linux 8.0.2 and was fixed in version 8.0.3. Organizations using AnyDesk for Linux should update immediately and check whether TCP port 7070 is exposed to untrusted […] The post AnyDesk Linux Flaw Lets Remote Attackers Execute Code as Root Without Authentication appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/anydesk-linux-vulnerability/",
-    "date": "2026-10-09T17:15:43+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/AnyDesk-Linux-Flaw.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "893ae173cb3284d9",
     "source": "BleepingComputer",
     "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
     "description": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
     "date": "2026-10-09T17:02:29+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/25/Hacker_prison.jpg",
+    "image": "",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "df93958d47f4a81f",
-    "source": "Cyber Security News",
-    "title": "New GhostAction Attack Compromises Hundreds of GitHub Repos to Steal Secrets",
-    "description": "A new GhostAction campaign has compromised 346 GitHub repositories after threat actors used two hijacked maintainer accounts to add a fake “security audit” workflow designed to steal CI/CD secrets, cloud keys, API tokens, and credentials stored in source-code history. Security firm Socket reported that the October 8 activity affected repositories connected to the GitHub accounts […] The post New GhostAction Attack Compromises Hundreds of GitHub Repos to Steal Secrets appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/ghostaction-github-repo-attack/",
-    "date": "2026-10-09T16:38:01+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/GhostAction-Attack.webp",
-    "category": "Hacking",
-    "hot": false
   },
   {
     "id": "b6cc4882f7906431",
@@ -481,17 +591,6 @@
     "date": "2026-10-09T16:25:05+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "b6a93450d38bc8a4",
-    "source": "Cyber Security News",
-    "title": "New Agentic AI Red Team Checklist Adds 222 Tests Across 20 Attack Categories",
-    "description": "A free agentic AI red-team checklist offers 222 tests across 20 attack categories to assess autonomous AI systems beyond prompt injection, covering infrastructure, cloud access, tools, memory, and agent communications. The checklist targets a common testing gap. Teams may spend days trying to manipulate a model while overlooking an exposed MLflow server, a reachable cloud […] The post New Agentic AI Red Team Checklist Adds 222 Tests Across 20 Attack Categories appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/agentic-ai-red-team-checklist/",
-    "date": "2026-10-09T16:06:56+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/New-Agentic-AI-Red-Team-Checklist-Adds-222-Tests-Across-20-Attack-Categories.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -534,7 +633,7 @@
     "description": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
     "date": "2026-10-09T15:38:56+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/09/police-arrest.jpg",
+    "image": "",
     "category": "Ransomware",
     "hot": true
   },
@@ -567,19 +666,8 @@
     "description": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
     "date": "2026-10-09T14:01:11+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/10/07/token-ai-agents.jpg",
+    "image": "",
     "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "54cc26e1e081dc6d",
-    "source": "Security Affairs",
-    "title": "Claude Helps Secure Open Source as Anthropic Offers Free Vulnerability Scanning",
-    "description": "Anthropic launches free OSS Scanner, using AI to find open-source vulnerabilities and help maintainers fix bugs before attackers exploit them. Anthropic is launching OSS Scanner, a vulnerability scanner for open-source code that costs nothing for projects to join. It grew directly out of lessons learned running Claude against real-world targets during Project Glasswing. The backdrop […]",
-    "link": "https://securityaffairs.com/200685/ai/claude-helps-secure-open-source-as-anthropic-offers-free-vulnerability-scanning.html",
-    "date": "2026-10-09T13:56:30+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -732,7 +820,7 @@
     "description": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
     "date": "2026-10-09T10:12:24+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/22/Windows.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -880,17 +968,6 @@
     "hot": true
   },
   {
-    "id": "3d5d439dddcef96c",
-    "source": "SecurityWeek",
-    "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
-    "description": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-    "date": "2026-10-09T06:39:55+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/08/Pwn2Own-hackers-hacking-competition.jpeg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "702682673ffff9b1",
     "source": "The Hacker News",
     "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
@@ -902,59 +979,15 @@
     "hot": true
   },
   {
-    "id": "8afff3b3a34f7175",
-    "source": "Help Net Security",
-    "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup",
-    "description": "September 2026 Patch Tuesday set an all-time record with 973 CVEs addressed across the Microsoft portfolio. We’re only four months into the Patch Apocalypse and everyone seems to be numb with respect to the insane number of CVEs reported. Despite this massive number, only two, CVE-2026-85880 and CVE-2026-81963, were reported Known Exploited and none were Publicly Disclosed. So for most of us, it’s still business as usual, patch systems at highest risk, but be prepared … More → The post October 2026 Patch Tuesday forecast: Time for an Office cleanup appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/",
-    "date": "2026-10-09T06:32:58+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/08114409/patch_tuesday-broken.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "1cf81704a20da582",
-    "source": "Help Net Security",
-    "title": "What the BPFDoor backdoor tells us about attacks on the network edge",
-    "description": "A backdoor that makes no noise is hard to catch, and that’s the point of BPFDoor. The Linux malware waits for a special “magic packet” before it acts. In this interview with Help Net Security, Christiaan Beek, VP of Rapid7 Intelligence, explains why its operators go after mail gateways and other edge devices that can’t run endpoint agents, and why a hacked telecom network can put a whole nation at risk. Beek also covers how … More → The post What the BPFDoor backdoor tells us about attacks on the network edge appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/10/09/christiaan-beek-rapid7-bpfdoor-backdoor/",
-    "date": "2026-10-09T06:00:22+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/08074923/christiaan_beek-2-rapid7.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "3e37ab113b6db45d",
     "source": "BleepingComputer",
     "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
     "description": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
     "date": "2026-10-09T05:41:04+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/07/Pwn2Own_Ireland.jpg",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "1330aaa19d9a5c76",
-    "source": "Help Net Security",
-    "title": "Thousands of wind and solar park systems sit exposed on the internet across Europe",
-    "description": "Modat and NCSC-NL, the Dutch government’s cybersecurity center, found 8,547 internet-facing systems at wind farms and solar parks in 35 countries in and around the EU that should not be reachable from the internet. The systems range from login screens to a turbine control page that offers a Stop button to anyone with a browser. Operators in Spain, Greece, Italy and Germany account for most of the confirmed systems. The real number is higher. A … More → The post Thousands of wind and solar park systems sit exposed on the internet across Europe appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/10/09/eu-renewable-energy-cybersecurity/",
-    "date": "2026-10-09T05:30:52+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/05105923/europe-1500-2.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "5f598982f0c83ad1",
-    "source": "Help Net Security",
-    "title": "PCI SSC calls for human approval of AI agent actions involving cardholder data",
-    "description": "The PCI Security Standards Council (PCI SSC) has published Security Considerations for AI Systems, guidance covering the protection of data supplied to AI systems in payment environments and defenses against AI-assisted attacks. Developed with industry stakeholders, the document addresses governance, deployment, access controls, testing and the application of PCI standards. Its recommendations are advisory, and existing PCI requirements take precedence. “As AI is increasingly used in payment environments, there is an obligation for all parties … More → The post PCI SSC calls for human approval",
-    "link": "https://www.helpnetsecurity.com/2026/10/09/pci-ssc-payment-environments-ai-security-guidance/",
-    "date": "2026-10-09T05:00:25+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/21081700/nfc-1500.webp",
-    "category": "AI Security",
-    "hot": false
   },
   {
     "id": "190884752c56f58b",
@@ -965,17 +998,6 @@
     "date": "2026-10-09T04:46:11+00:00",
     "image": "https://media.wired.com/photos/6ac86cf153985a35c7b2ab41/master/pass/2298652701",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "5ec31ed48fe974c0",
-    "source": "Help Net Security",
-    "title": "Companies want autonomous IT operations but hesitate to let AI act alone",
-    "description": "Ninety percent of companies want to move toward autonomous IT operations over the next two years, with agentic AI, software that plans and carries out multi-step tasks on its own, doing the work. Yet 77 percent say their own organization hesitates to let AI make an operational decision without a human approving it. Most of those companies mean autonomy with a person at the approval step, and few have the groundwork for even that. Only … More → The post Companies want autonomous IT operations but hesitate to let AI act alone appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/10/09/move-toward-autonomous-it-operations/",
-    "date": "2026-10-09T04:30:25+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/25153022/automation-1500.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -1447,7 +1469,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -1879,17 +1901,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMENqm_uSfWzk7VlgN5LXTaqUnYGOAelJ9aFsc6s57oUV43awGRScfhyphenhyphenaOYpv1eWkCfunH00lWMH6uUS9sUav8nBmwSHh9w_e3VL1F5AvjF9tpbUeFHCu6ohHZbqOqujA75PEZo_DbtWTv1NtQOKLwaIwJvGZw8rdFDEMcCm_0DvIOfeVPzW8ITMmVwg/s1600/git.gif",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "aba6e94b07c2f2da",
-    "source": "The Hacker News",
-    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-    "description": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary STUN behavior into a practical command-and-control channel,\" Nozomi Networks said in a report",
-    "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-    "date": "2026-10-05T11:46:25+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg",
-    "category": "Malware",
-    "hot": true
   },
   {
     "id": "70a890f169c3c921",
@@ -2668,7 +2679,7 @@
     "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2789,7 +2800,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3163,7 +3174,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Privacy",
     "hot": false
   },
@@ -3449,7 +3460,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": false
   },
@@ -3614,7 +3625,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "General Security",
     "hot": false
   },
@@ -3724,7 +3735,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3769,17 +3780,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13314511/o-bil-gkeits-proeidopoiei-i-techniti-noimosyni-einai-pio-epikindyni-apo-oti-paradechontai-oi-megales-etaireies-technologias",
     "date": "2026-08-26T10:52:44+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/08/gates.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "f76931dc521b8411",
-    "source": "Newsbeast Technology",
-    "title": "Οι νέοι δορυφόροι της Ευρώπης και πού υπερέχει η Ελλάδα στο ευρωπαϊκό αμυντικό οικοσύστημα",
-    "description": "Οι μυριάδες μικροί δορυφόροι στο μέγεθος… βαλίτσας που πετούν πάνω απο το κεφάλι μας έχουν αποδείξει πως το Διάστημα δεν είναι μόνο ένα νέο «σύνορο», αλλά μια απαραίτητη προϋπόθεση ασφάλειας για τα κράτη. Η Ευρωπαϊκή Επιτροπή ανακοίνωσε την έναρξη της πλήρους υλοποίησης του IRIS², του νέου ευρωπαϊκού δορυφορικού δικτύου ασφαλών επικοινωνιών. Η συμφωνία ενισχύει, μάλιστα, σημαντικά το πρόγραμμα, προσθέτοντας 66 επιπλέον δορυφόρους χαμηλής γήινης τροχιάς, κάτι που θα αυξήσει κατά περίπου 60% τη διαθέσιμη ασφαλή χωρητικότητα για κυβερνητικές επικοινωνίες και θα φέρει έναν αστερισμό από 348 ευρωπα",
-    "link": "https://www.newsbeast.gr/technology/arthro/13312231/oi-neoi-doryforoi-tis-evropis-kai-pou-yperechei-i-ellada-sto-evropaiko-amyntiko-oikosystima",
-    "date": "2026-08-25T07:49:00+00:00",
-    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/08/IRIS2.png",
     "category": "General Security",
     "hot": false
   },
@@ -3834,7 +3834,7 @@
     "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Vulnerability",
     "hot": true
   },
