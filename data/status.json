@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T22:18:36.391797+00:00",
+  "updated": "2026-10-12T01:33:31.779907+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -101,19 +101,19 @@
     {
       "name": "Newsbeast Technology",
       "url": "https://www.newsbeast.gr/technology/feed",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "ok": true,
+      "count": 100
     }
   ],
   "image_fallback": {
     "enabled": true,
     "articles_checked": 148,
-    "images_found": 144,
+    "images_found": 145,
     "by_source": {
       "Security Affairs": 10,
-      "BleepingComputer": 14,
+      "BleepingComputer": 12,
       "Help Net Security": 10,
+      "News.gr Technology": 3,
       "CyberScoop": 10,
       "SecurityWeek": 10,
       "Krebs on Security": 10,
