@@ -1,5 +1,137 @@
 [
   {
+    "id": "c5a36601271c1897",
+    "source": "Krebs on Security",
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
+    "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+    "date": "2026-10-13T23:24:53+00:00",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "3f2e90657cc5f486",
+    "source": "WIRED Security",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "description": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "date": "2026-10-13T23:17:59+00:00",
+    "image": "https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "5ac3a335c5b34653",
+    "source": "SecurityWeek",
+    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+    "description": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+    "date": "2026-10-13T23:07:00+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/OpenAI.jpeg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "1af528fdd559d169",
+    "source": "BleepingComputer",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "description": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+    "date": "2026-10-13T22:33:02+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/openai-listening-device.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "15a5455bc4c3ad4c",
+    "source": "Dark Reading",
+    "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+    "description": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+    "date": "2026-10-13T22:29:57+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "c13a60fe8227a1e0",
+    "source": "CyberScoop",
+    "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
+    "description": "Ivanti customers are in familiar territory, responding to yet another actively exploited zero-day affecting one of the vendor’s most commonly targeted security products. Volexity researchers, which discovered in-the-wild exploitation earlier this month, said attackers actually exploited three zero-days in a chain that allowed them to bypass authentication, execute code remotely and escalate privileges. Ivanti disclosed and issued a patch for the authentication bypass and remote-code execution components of the exploit chain as a single vulnerability in Ivanti Connect Secure. The company said i",
+    "link": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
+    "date": "2026-10-13T22:10:42+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2025/04/WAWPWY.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "391eca441c55c60a",
+    "source": "CyberScoop",
+    "title": "DOJ charges 14 over a sprawling North Korean remote work scheme",
+    "description": "Federal authorities have charged 14 people and seized roughly 187 computers in their newest effort to disrupt North Korea’s remote IT worker scheme. The Justice Department announced the indictment Tuesday, highlighting two arrests and searches of more than 40 residences in Texas known or suspected to operate as “laptop farms,” where facilitators maintain employer-issued laptops so North Korean engineers can use them while abroad. An indictment unsealed in the Northern District of Ohio charges two U.S. citizens, Michael James Bostelle of Pennsylvania and Juan Cecilio Pena Carrillo of Texas. It ",
+    "link": "https://cyberscoop.com/doj-north-korea-remote-work-laptop-farms/",
+    "date": "2026-10-13T21:43:23+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2192647275.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "ed470aa91adf508e",
+    "source": "BleepingComputer",
+    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+    "description": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+    "date": "2026-10-13T21:33:26+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/ghostscript.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "760a13919a741991",
+    "source": "Dark Reading",
+    "title": "North Korea Phishes Ukrainians for War Intel",
+    "description": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+    "date": "2026-10-13T21:24:45+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "50d08d939d9402aa",
+    "source": "BleepingComputer",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+    "description": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+    "date": "2026-10-13T21:16:34+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/worm.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "dd5c9c35ce2e3058",
+    "source": "The Record",
+    "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
+    "description": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.",
+    "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
+    "date": "2026-10-13T20:55:00+00:00",
+    "image": "http://cms.therecord.media/uploads/lala_azizli_g2warq_Cl_K_c_unsplash_10392c4957.jpg",
+    "category": "Cyberwarfare",
+    "hot": false
+  },
+  {
+    "id": "40cd4369221c894e",
+    "source": "Dark Reading",
+    "title": "Anthropic Finds Ingredients for Future AI Worms",
+    "description": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+    "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+    "date": "2026-10-13T20:35:23+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&quality=80&disable=upscale",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "a90ad3aad932e7ae",
     "source": "The Record",
     "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide",
@@ -88,6 +220,17 @@
     "hot": false
   },
   {
+    "id": "528157e69230124d",
+    "source": "Cyber Security News",
+    "title": "Microsoft Fixes 1,118 Vulnerabilities in October Patch Tuesday and Introduces New Risk Cohorts",
+    "description": "Microsoft’s October 2026 Patch Tuesday briefing outlines 1,118 vulnerabilities across 15 risk groups, alongside a new approach designed to help security teams review large update releases. Called risk cohorts, these groups bring together flaws that require similar questions about an organization’s systems, users, and exposure. Microsoft’s accompanying document maps individual CVEs to these shared areas of assessment. The goal is to reduce repeated work without removing the need to review each vulnerability. Instead of asking the same deployment questions hundreds of times, analysts can assess ",
+    "link": "https://cybersecuritynews.com/microsoft-october-patch-tuesday-2026/",
+    "date": "2026-10-13T18:19:38+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Patch-Tuesday-October-2026.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "8e8688899ce3b33d",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog",
@@ -106,6 +249,17 @@
     "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
     "date": "2026-10-13T18:03:18+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "4cfa7005bb0900c7",
+    "source": "Cyber Security News",
+    "title": "Critical FortiSandbox GUI Vulnerability Allows Remote Attackers to Bypass Authentication",
+    "description": "Fortinet disclosed a critical authentication-bypass vulnerability in the FortiSandbox graphical user interface that could let remote attackers access protected functions without valid credentials. Tracked as CVE-2026-107656, the flaw carries a reported CVSSv3 score of 9.6 and affects both FortiSandbox appliances and selected FortiSandbox PaaS releases. Published on October 13, 2026, the disclosure is tracked under Fortinet advisory FG-IR-26-185 . Fortinet lists the potential impact as execution of unauthorized code or commands. Its advisory marks known exploitation as “No,” meaning the disclos",
+    "link": "https://cybersecuritynews.com/fortisandbox-gui-vulnerability/",
+    "date": "2026-10-13T17:54:42+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/FortiSandbox-GUI-Vulnerability.webp",
     "category": "Vulnerability",
     "hot": true
   },
@@ -143,6 +297,17 @@
     "hot": true
   },
   {
+    "id": "254e6380d2ab0830",
+    "source": "Cyber Security News",
+    "title": "TFG London Cyberattack Disrupts IT Systems Used by Phase Eight, Hobbs, and Whistles Brands",
+    "description": "TFG London has confirmed a cyberattack that disrupted IT systems supporting Phase Eight, Hobbs, and Whistles. South Africa’s The Foschini Group detected the incident on October 11, 2026, and disclosed it to shareholders on October 13. Several systems remained unavailable, although stores continued trading. According to the company’s shareholder announcement , Inside Story and White Stuff were not affected. TFG Africa and TFG Australia also remained unaffected because they operate on separate systems. The confirmed disruption is therefore limited to part of the group’s UK business, rather than ",
+    "link": "https://cybersecuritynews.com/tfg-london-cyberattack/",
+    "date": "2026-10-13T17:26:27+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/TFG-London-Cyberattack.webp",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
     "id": "09dcfc4fd0e37661",
     "source": "SecurityWeek",
     "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
@@ -163,6 +328,28 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
     "category": "Vulnerability",
     "hot": false
+  },
+  {
+    "id": "4193a215f1daeda8",
+    "source": "Cyber Security News",
+    "title": "Critical Docker Hub Flaw Lets Attackers Impersonate Users and Push Container Images",
+    "description": "Docker has disclosed a critical Docker Hub vulnerability that could let attackers impersonate other users and publish container images under trusted names. Tracked as CVE-2026-105445, the flaw affected personal access tokens transferred during account conversions. Docker resolved the issue on September 30, 2026, stating its investigation found no evidence of exploitation. This issue posed a software supply chain risk, as attackers could potentially alter images that developers relied on. Depending on the token’s permissions and the target user’s access, they could pull, push, or delete images ",
+    "link": "https://cybersecuritynews.com/docker-hub-vulnerability/",
+    "date": "2026-10-13T16:55:34+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Docker-Hub-vulnerability.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
+    "id": "c57b55ffec6d931b",
+    "source": "Cyber Security News",
+    "title": "CrowdStrike Joins Anthropic Defense Program to Advance AI-powered Defense for Critical Infrastructure",
+    "description": "CrowdStrike has joined Anthropic’s Critical Infrastructure Defense Program to help strengthen AI-powered cybersecurity across energy, water, manufacturing, and transportation systems. Announced on October 8, 2026, the partnership combines CrowdStrike’s experience protecting business and industrial networks with Anthropic’s advanced Claude models, technical support, and cybersecurity research. The initiative targets a difficult security challenge. Critical infrastructure often connects modern information technology, or IT, with older operational technology, or OT, that controls physical equipme",
+    "link": "https://cybersecuritynews.com/crowdstrike-joins-anthropic-defense-program/",
+    "date": "2026-10-13T16:49:50+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Anthropic-Defense-Program.webp",
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "471a0b4b10193ea2",
@@ -195,6 +382,17 @@
     "date": "2026-10-13T16:18:00+00:00",
     "image": "http://cms.therecord.media/uploads/sandbox_aa2fb683ac.jpg",
     "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "c6fb0d3b5234176f",
+    "source": "Cyber Security News",
+    "title": "Zoom Clients for Certificate Validation Flaw Exposes Sensitive Information via Network Access",
+    "description": "Two high-severity certificate validation flaws in Zoom clients could allow attackers without login credentials to access sensitive information over a network, according to advisory text dated October 13, 2026. The issues affect Windows clients and the My Notes feature across desktop and mobile platforms, making updates important for both personal users and business deployments. The vulnerabilities, tracked as CVE-2026-108184 and CVE-2026-108185, each carry a CVSS v3.1 score of 7.4. Zoom Offensive Security reported both. The supplied bulletins describe information disclosure risks but do not id",
+    "link": "https://cybersecuritynews.com/zoom-certificate-validation-flaw/",
+    "date": "2026-10-13T16:15:16+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Zoom-certificate-validation-flaw.webp",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -231,6 +429,28 @@
     "hot": true
   },
   {
+    "id": "3da93c68f8ea60ef",
+    "source": "Cyber Security News",
+    "title": "Ivanti Connect Secure 0-Day Vulnerability Actively Exploited in the Wild",
+    "description": "Ivanti has disclosed an actively exploited zero-day vulnerability in Ivanti Connect Secure (ICS) that allows remote attackers to execute arbitrary commands without logging in. Tracked as CVE-2026-104935, the flaw carries a high-severity CVSS score of 8.6. Ivanti confirmed that exploitation affected a limited number of customers in its October 13, 2026 advisory. The vulnerability involves authentication bypass through spoofing, classified as CWE-290. An attacker can exploit the flaw over a network without credentials or user interaction. Ivanti Connect Secure zero-day The CVSS assessment indica",
+    "link": "https://cybersecuritynews.com/ivanti-connect-secure-zero-day/",
+    "date": "2026-10-13T15:55:26+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Ivanti-Connect-Secure-zero-day.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "d2bf11a92c03f7dd",
+    "source": "Cyber Security News",
+    "title": "Danfoss Refrigeration Hack Update – 4,980 Hosts Found Exposed to Internet",
+    "description": "France accounts for more than half of the internet-facing hosts found in a Shodan search for Danfoss web pages, following a cyberattack that disrupted supermarket refrigeration systems . An update from International Cyber Digest on October 13 reports a total of 4,980 hosts identified, with 2,911 located in France and 517 in South Africa. These findings raise new concerns about exposed cooling controls; however, they do not confirm that every listed host has been hacked. According to Shodan, Germany ranks third with 171 results, followed by Portugal with 158 and the United States with 141. Pola",
+    "link": "https://cybersecuritynews.com/danfoss-refrigeration-hack-exposed-hosts/",
+    "date": "2026-10-13T15:49:00+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Danfoss-refrigeration-hack.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "9922431bdc94a91a",
     "source": "BleepingComputer",
     "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
@@ -242,13 +462,24 @@
     "hot": true
   },
   {
+    "id": "66af888d14deddd1",
+    "source": "Cyber Security News",
+    "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely",
+    "description": "Threat actors are actively exploiting two critical zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances, allowing them to execute code remotely on exposed systems. The flaws, tracked as CVE-2026-88771 and CVE-2026-88772 , received a CVSS v4 severity score of 9.5 out of 10 and have been added to the U.S. Cybersecurity and Infrastructure Security Agency’s Known Exploited Vulnerabilities catalog. CISA confirmed that it received reports and partner intelligence showing global exploitation activity. Citrix released emergency updates after confirming that exploitation ha",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/",
+    "date": "2026-10-13T15:26:50+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/CISA-Warns-of-Two-Citrix-NetScaler-0-Days.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "9586aa342a7d60eb",
     "source": "BleepingComputer",
     "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
     "description": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
     "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
     "date": "2026-10-13T15:20:20+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/docker.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -261,6 +492,17 @@
     "date": "2026-10-13T15:15:00+00:00",
     "image": "http://cms.therecord.media/uploads/NK_military_8b739bf964.jpg",
     "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "f72c57c3993a6d29",
+    "source": "Cyber Security News",
+    "title": "Threat Intelligence Guide for US SOC Teams and CISOs: How to Choose the Right Solution",
+    "description": "Choosing an enterprise threat intelligence solution is about more than just data volume or integrations. The right provider should deliver relevant intelligence, fit existing workflows, and help security teams investigate threats faster. While SOCs may prioritize rapid investigation and enrichment at scale, MSSPs may focus more on multi-tenancy and customer separation. This enterprise threat intelligence buying guide covers the key criteria to consider, including intelligence quality, integrations, data privacy, scalability, and proof-of-concept testing. Start With Your Security Team’s Require",
+    "link": "https://cybersecuritynews.com/threat-intelligence-guide/",
+    "date": "2026-10-13T15:02:20+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Threat-Intelligence-Guide.webp",
+    "category": "Malware",
     "hot": false
   },
   {
@@ -281,7 +523,7 @@
     "description": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
     "date": "2026-10-13T14:01:11+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/10/06/specops-mfa-gaps.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": false
   },
@@ -292,7 +534,7 @@
     "description": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
     "date": "2026-10-13T13:51:02+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/14/SAP.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": false
   },
@@ -327,17 +569,6 @@
     "date": "2026-10-13T13:26:43+00:00",
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "48fb4e9a11de4702",
-    "source": "The Record",
-    "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
-    "description": "One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video conferencing.",
-    "link": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
-    "date": "2026-10-13T13:20:00+00:00",
-    "image": "http://cms.therecord.media/uploads/St_Petersburg_Russia_64699d0dbe.jpg",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -401,6 +632,17 @@
     "title": "Swann Communications SWIFI-SE2KIC",
     "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to view video information without authentication. The following versions of Swann Communications SWIFI-SE2KIC are affected: SWIFI-SE2KIC firmware <=2.0.22 (CVE-2026-107605, CVE-2026-107606, CVE-2026-107607) CVSS Vendor Equipment v3 6.2 Swann Communications SWIFI-SE2KIC firmware 1 Vulnerability Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Australia Vulnerabilities Expand All",
     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
+    "date": "2026-10-13T12:00:00+00:00",
+    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "fd7b8d816a4e8c7d",
+    "source": "CISA Advisories",
+    "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
+    "description": "CISA is aware of Ivanti’s disclosure of a newly exploited vulnerability, CVE-2026-104935 , affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this zero-day authentication bypass vulnerability, which allows remote, unauthenticated execution of arbitrary commands, to conduct credential theft and data exfiltration. CISA added CVE-2026-104935 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 13, 2026. CISA urges organizations with affected Ivanti Connect Secure appliances and deployment",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
     "date": "2026-10-13T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
@@ -572,17 +814,6 @@
     "hot": false
   },
   {
-    "id": "e3e6c15c2f5ea4bf",
-    "source": "SecurityWeek",
-    "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-    "description": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-    "date": "2026-10-13T08:28:51+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/supermarket-refrigerators.jpeg",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
     "id": "f79be027314df7c1",
     "source": "Security Affairs",
     "title": "Hackers cranked French supermarkets’ freezers up to 50 degrees, causing hundreds of stores to lose their stock",
@@ -704,17 +935,6 @@
     "hot": false
   },
   {
-    "id": "a4e7108432c67e42",
-    "source": "BleepingComputer",
-    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-    "description": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-    "date": "2026-10-12T18:51:59+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/12/anthropic.jpg",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
     "id": "d0687e269f627a4d",
     "source": "Dark Reading",
     "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
@@ -734,28 +954,6 @@
     "date": "2026-10-12T18:12:10+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2294813845-1.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "7464c947e51fd6f8",
-    "source": "BleepingComputer",
-    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-    "description": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-    "date": "2026-10-12T16:27:23+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/12/Ledger.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "5aa5bb4235af2c78",
-    "source": "BleepingComputer",
-    "title": "Cyberattack shuts down refrigerators at French supermarkets",
-    "description": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-    "date": "2026-10-12T15:23:34+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/empty-supermarket-shelves.jpg",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -963,7 +1161,7 @@
     "description": "Παπαστεργίου: «Ανοίγει τον δρόμο για την εκπαίδευση μοντέλων ΤΝ στην Ελλάδα»",
     "link": "https://www.news.gr/tech/article/4229518/dedalos-ti-dinatotites-prosferi-o-neos-ethnikos-iperipologistis.html",
     "date": "2026-10-11T06:55:08+00:00",
-    "image": "https://www.news.gr/wp-content/uploads/images/2026/10/11/de/Dedalos.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1040,7 +1238,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1061,7 +1259,7 @@
     "title": "Friday Squid Blogging: I Caught a Squid",
     "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-    "date": "2026-10-09T20:25:01+00:00",
+    "date": "2026-10-09T20:24:45+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
     "category": "General Security",
     "hot": false
@@ -1320,28 +1518,6 @@
     "hot": false
   },
   {
-    "id": "30907e5f5d119005",
-    "source": "CyberScoop",
-    "title": "DOJ, FBI seize Flax Typhoon-linked hacking tools Microscan, FishHub",
-    "description": "The Justice Department and FBI announced that they had seized two hacking tools connected to the Chinese government-linked group Flax Typhoon and a China-based company that the U.S. government has repeatedly taken action against, including with a new multi-agency advisory Thursday. The domain name seizures were meant to deny hackers access to the vulnerability scanning tool Microscan and the spearphishing tool FishHub created by the Chinese firm Integrity Technology Group, which the United States sanctioned last year. The U.S. government in 2024 also made the company the focus of a takedown op",
-    "link": "https://cyberscoop.com/doj-fbi-seize-flax-typhoon-hacking-tools-microscan-fishhub/",
-    "date": "2026-10-08T20:02:11+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-1493380206.jpg",
-    "category": "Malware",
-    "hot": true
-  },
-  {
-    "id": "bab0a5c733a4b452",
-    "source": "CyberScoop",
-    "title": "Ransomware recovery CEO indicted after allegedly paying hackers and pocketing millions",
-    "description": "Authorities accuse the owner of a so-called ransomware remediation company of swindling clients victimized by ransomware attacks into paying the company inflated fees under false pretenses. Zohar Pinhasi, owner and operator of MonsterCloud, claimed he could decrypt and recover victims’ data with specialized, proprietary tools and avoid paying cybercriminals. Yet, no such tool existed, the Justice Department said Wednesday. Pinhasi allegedly used MonsterCloud clients’ fees to pay off cybercriminals and recover encrypted data without telling clients ransom payments were made on their behalf. The",
-    "link": "https://cyberscoop.com/monstercloud-zohar-pinhasi-ransomware-recovery-scheme/",
-    "date": "2026-10-08T19:44:29+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-1197779904.jpg",
-    "category": "Ransomware",
-    "hot": true
-  },
-  {
     "id": "691e0f7c7a9dae8c",
     "source": "Dark Reading",
     "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
@@ -1479,7 +1655,7 @@
     "title": "How Technology Empowers—and Imperils—Dictators",
     "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Marga",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "date": "2026-10-08T11:08:05+00:00",
+    "date": "2026-10-08T11:07:35+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1502,7 +1678,7 @@
     "description": "Οι Τζάσμιν Γουάνγκ, Τόμεκ Κόρμπακ και Μικίτα Μπαλέσνι κατηγορούνται από την εταιρεία ότι έδωσαν ευαίσθητες πληροφορίες",
     "link": "https://www.news.gr/tech/article/4228335/tris-erevnites-pou-apolithikan-apo-tin-openai-tin-kaloun-na-min-dimiourgisi-ai-me-sillogismo-pou-tha-ine-akatanoitos-apo-tous-anthropous.html",
     "date": "2026-10-08T10:01:47+00:00",
-    "image": "https://www.news.gr/wp-content/uploads/images/2024/03/04/te/texniti-noimosyni.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1559,17 +1735,6 @@
     "date": "2026-10-08T05:46:20+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg",
     "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "164755aee07efe9e",
-    "source": "Schneier on Security",
-    "title": "Apple’s Verified Photography System",
-    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
-    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-    "date": "2026-10-08T05:44:43+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -1716,6 +1881,17 @@
     "hot": false
   },
   {
+    "id": "164755aee07efe9e",
+    "source": "Schneier on Security",
+    "title": "Apple’s Verified Photography System",
+    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
+    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+    "date": "2026-10-07T11:07:36+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
     "id": "199209a862a654b7",
     "source": "Newsbeast Technology",
     "title": "Ελληνική τεχνολογία στην καρδιά ενός δορυφόρου «τσέπης» για λογαριασμό ενός σχολείου στο Καζακστάν",
@@ -1853,7 +2029,7 @@
     "title": "Possible Vulnerability in Apple’s Automatic Reboot",
     "description": "404Media is reporting (alternate link ) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn’t been used for 72 hours. The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones and Android smartphones . Magnet has developed a new device called GrayKey Preserve and a featur",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-    "date": "2026-10-06T11:07:20+00:00",
+    "date": "2026-10-06T11:06:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1919,7 +2095,7 @@
     "title": "Another Historic Cipher Falls to AI",
     "description": "This one is from 1809, written by Napoleon’s nephew.",
     "link": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-    "date": "2026-10-05T11:04:48+00:00",
+    "date": "2026-10-05T11:04:47+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2007,7 +2183,7 @@
     "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
     "description": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-    "date": "2026-10-02T21:02:21+00:00",
+    "date": "2026-10-02T21:02:18+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2084,7 +2260,7 @@
     "title": "Unidentified Flock Cameras in Florida",
     "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel ...",
     "link": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-    "date": "2026-10-02T15:30:13+00:00",
+    "date": "2026-10-02T14:52:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Privacy",
     "hot": false
@@ -2128,7 +2304,7 @@
     "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
     "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
-    "date": "2026-10-02T11:03:09+00:00",
+    "date": "2026-10-02T11:02:19+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2167,17 +2343,6 @@
     "hot": false
   },
   {
-    "id": "4eea68c2ad9f036c",
-    "source": "Schneier on Security",
-    "title": "Connected Cars Are a Surveillance Platform",
-    "description": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation ha",
-    "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
-    "date": "2026-10-01T16:23:25+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
-    "hot": false
-  },
-  {
     "id": "25d3c88627c707af",
     "source": "Newsbeast Technology",
     "title": "Πράκτορες τεχνητής νοημοσύνης της OpenAI χάκαραν 55 κυβερνητικές ιστοσελίδες και «έσβησαν» τα ίχνη τους",
@@ -2211,11 +2376,33 @@
     "hot": false
   },
   {
-    "id": "0e96c0cb01f5cb2f",
+    "id": "804ca3f7571b21ea",
     "source": "CISA Advisories",
-    "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
-    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker tointercept and read sensitive information, including credentials andsession data. The following versions of Johnson Controls EasyIO Neo Series EC and CW Controllers are affected: EasyIO Neo Series EC Controllers V3.3b62 (CVE-2026-64893) EasyIO Neo Series EC Controllers V3.3b63 (CVE-2026-64893) EasyIO Neo Series CW Controllers V3.3b24 (CVE-2026-64893) EasyIO Neo Series CW Controllers V3.3b25 (CVE-2026-64893) CVSS Vendor Equipment Vulnerabilities v3 5.4 Johnson Controls Johnson Controls EasyIO Neo Series EC ",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-05",
+    "title": "ABB Protection and Control IED Manager PCM600",
+    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to escalate privileges or overwrite files. The following versions of ABB Protection and Control IED Manager PCM600 are affected: Protection and Control IED Manager PCM600 <=2.14 (CVE-2026-15952, CVE-2026-15953) CVSS Vendor Equipment Vulnerabilities v3 6.4 ABB ABB Protection and Control IED Manager PCM600 Incorrect Permission Assignment for Critical Resource, Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Critical Infrastructure Sectors: Energy Countries/Areas De",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
+    "date": "2026-10-01T12:00:00+00:00",
+    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "c9d9b2c17acfc0f5",
+    "source": "CISA Advisories",
+    "title": "Monta monta.app",
+    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Monta monta.app are affected: monta.app vers:all/* (CVE-2026-95102, CVE-2026-97363, CVE-2026-97212, CVE-2026-93474) CVSS Vendor Equipment Vulnerabilities v3 9.4 Monta Monta monta.app Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient Session Expiration, Insufficiently Protec",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02",
+    "date": "2026-10-01T12:00:00+00:00",
+    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "df4de4f9ef5d7f06",
+    "source": "CISA Advisories",
+    "title": "Meari IoT Cloud Platform OpenAPI Service",
+    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to manipulate device configurations, trigger unauthorized behaviors, and access sensitive information such as device credentials, owner details, and network data without proper authorization. The following versions of Meari IoT Cloud Platform OpenAPI Service are affected: IoT Cloud Platform OpenAPI Service vers:all/* (CVE-2026-101104, CVE-2026-96613) CVSS Vendor Equipment Vulnerabilities v3 7.7 Meari Meari IoT Cloud Platform OpenAPI Service Missing Authorization Background Critical Infrastructure Sectors: ",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
     "date": "2026-10-01T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
@@ -2231,6 +2418,17 @@
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
     "hot": false
+  },
+  {
+    "id": "0e96c0cb01f5cb2f",
+    "source": "CISA Advisories",
+    "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
+    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker tointercept and read sensitive information, including credentials andsession data. The following versions of Johnson Controls EasyIO Neo Series EC and CW Controllers are affected: EasyIO Neo Series EC Controllers V3.3b62 (CVE-2026-64893) EasyIO Neo Series EC Controllers V3.3b63 (CVE-2026-64893) EasyIO Neo Series CW Controllers V3.3b24 (CVE-2026-64893) EasyIO Neo Series CW Controllers V3.3b25 (CVE-2026-64893) CVSS Vendor Equipment Vulnerabilities v3 5.4 Johnson Controls Johnson Controls EasyIO Neo Series EC ",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-05",
+    "date": "2026-10-01T12:00:00+00:00",
+    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "c68623f24506174a",
@@ -2266,39 +2464,6 @@
     "hot": true
   },
   {
-    "id": "df4de4f9ef5d7f06",
-    "source": "CISA Advisories",
-    "title": "Meari IoT Cloud Platform OpenAPI Service",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to manipulate device configurations, trigger unauthorized behaviors, and access sensitive information such as device credentials, owner details, and network data without proper authorization. The following versions of Meari IoT Cloud Platform OpenAPI Service are affected: IoT Cloud Platform OpenAPI Service vers:all/* (CVE-2026-101104, CVE-2026-96613) CVSS Vendor Equipment Vulnerabilities v3 7.7 Meari Meari IoT Cloud Platform OpenAPI Service Missing Authorization Background Critical Infrastructure Sectors: ",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
-    "date": "2026-10-01T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "c9d9b2c17acfc0f5",
-    "source": "CISA Advisories",
-    "title": "Monta monta.app",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Monta monta.app are affected: monta.app vers:all/* (CVE-2026-95102, CVE-2026-97363, CVE-2026-97212, CVE-2026-93474) CVSS Vendor Equipment Vulnerabilities v3 9.4 Monta Monta monta.app Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient Session Expiration, Insufficiently Protec",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02",
-    "date": "2026-10-01T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "804ca3f7571b21ea",
-    "source": "CISA Advisories",
-    "title": "ABB Protection and Control IED Manager PCM600",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to escalate privileges or overwrite files. The following versions of ABB Protection and Control IED Manager PCM600 are affected: Protection and Control IED Manager PCM600 <=2.14 (CVE-2026-15952, CVE-2026-15953) CVSS Vendor Equipment Vulnerabilities v3 6.4 ABB ABB Protection and Control IED Manager PCM600 Incorrect Permission Assignment for Critical Resource, Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Critical Infrastructure Sectors: Energy Countries/Areas De",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
-    "date": "2026-10-01T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "1170803830831453",
     "source": "NIST Cybersecurity",
     "title": "Securing Water and Wastewater Operational Technology Environments",
@@ -2308,6 +2473,17 @@
     "image": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
     "category": "Hacking",
     "hot": true
+  },
+  {
+    "id": "4eea68c2ad9f036c",
+    "source": "Schneier on Security",
+    "title": "Connected Cars Are a Surveillance Platform",
+    "description": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation ha",
+    "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
+    "date": "2026-10-01T11:06:14+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Privacy",
+    "hot": false
   },
   {
     "id": "419649be9f9ba47a",
@@ -2508,17 +2684,6 @@
     "hot": false
   },
   {
-    "id": "693397efb9bcdd43",
-    "source": "CISA Advisories",
-    "title": "Viidure Dashcam Android Application",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to access, modify, or delete sensitive user data and critical system files, potentially compromising the operation of the entire platform. The following versions of Viidure Dashcam Android Application are affected: Dashcam Android Application <=3.3.1.260403 (CVE-2026-94204, CVE-2026-96587) CVSS Vendor Equipment Vulnerabilities v3 10 Viidure Viidure Dashcam Android Application Incorrect Permission Assignment for Critical Resource, Use of Hard-coded Credentials Background Critical Infrastructure Sectors: Tra",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
-    "date": "2026-09-29T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "08f1dee7607d86e8",
     "source": "CISA Advisories",
     "title": "Anjvision YSSD-RTMP-H5",
@@ -2530,11 +2695,11 @@
     "hot": true
   },
   {
-    "id": "5dece8a44505e222",
+    "id": "35974d04783522d0",
     "source": "CISA Advisories",
-    "title": "MikroTik RouterOS",
-    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution or cause a denial of service. The following versions of MikroTik RouterOS are affected: RouterOS <7.24 (CVE-2026-84411) CVSS Vendor Equipment Vulnerabilities v3 9.8 MikroTik MikroTik RouterOS Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Communications, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Latvia Vulnerabilities Expand All + CVE-2026-84411 The web management service in affected RouterOS",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
+    "title": "Baicells Nova 430H",
+    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to inject malformed messages which may lead to a denial-of-service condition. The following versions of Baicells Nova 430H are affected: Nova 430H eNodeB (model pBS3101SH) <=BaiBLQ_3.0.12 (CVE-2026-96274) CVSS Vendor Equipment Vulnerabilities v3 7.4 Baicells Technologies Baicells Nova 430H Uncaught Exception Background Critical Infrastructure Sectors: Communications, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
     "date": "2026-09-29T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
@@ -2552,22 +2717,22 @@
     "hot": true
   },
   {
-    "id": "faa5485e88790927",
+    "id": "5dece8a44505e222",
     "source": "CISA Advisories",
-    "title": "Lantronix G520 Series Cellular Gateway",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to replace software and execute arbitrary code with root privileges. The following versions of Lantronix G520 Series Cellular Gateway are affected: G520 Series 2.6.0.4R6_stable (CVE-2026-84409, CVE-2026-91191) CVSS Vendor Equipment Vulnerabilities v3 7.5 Lantronix Lantronix G520 Series Cellular Gateway Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'), Improper Verification of Cryptographic Signature Background Critical Infrastructure Sectors: Transportation Systems, En",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
+    "title": "MikroTik RouterOS",
+    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution or cause a denial of service. The following versions of MikroTik RouterOS are affected: RouterOS <7.24 (CVE-2026-84411) CVSS Vendor Equipment Vulnerabilities v3 9.8 MikroTik MikroTik RouterOS Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Communications, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Latvia Vulnerabilities Expand All + CVE-2026-84411 The web management service in affected RouterOS",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
     "date": "2026-09-29T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
     "hot": true
   },
   {
-    "id": "35974d04783522d0",
+    "id": "693397efb9bcdd43",
     "source": "CISA Advisories",
-    "title": "Baicells Nova 430H",
-    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to inject malformed messages which may lead to a denial-of-service condition. The following versions of Baicells Nova 430H are affected: Nova 430H eNodeB (model pBS3101SH) <=BaiBLQ_3.0.12 (CVE-2026-96274) CVSS Vendor Equipment Vulnerabilities v3 7.4 Baicells Technologies Baicells Nova 430H Uncaught Exception Background Critical Infrastructure Sectors: Communications, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
+    "title": "Viidure Dashcam Android Application",
+    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to access, modify, or delete sensitive user data and critical system files, potentially compromising the operation of the entire platform. The following versions of Viidure Dashcam Android Application are affected: Dashcam Android Application <=3.3.1.260403 (CVE-2026-94204, CVE-2026-96587) CVSS Vendor Equipment Vulnerabilities v3 10 Viidure Viidure Dashcam Android Application Incorrect Permission Assignment for Critical Resource, Use of Hard-coded Credentials Background Critical Infrastructure Sectors: Tra",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
     "date": "2026-09-29T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
@@ -2625,39 +2790,6 @@
     "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
     "date": "2026-09-28T20:23:58+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "6c171bd048f5ece9",
-    "source": "Dark Reading",
-    "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-    "description": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-    "date": "2026-09-28T18:44:22+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "80afc635fb9a9436",
-    "source": "Dark Reading",
-    "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
-    "description": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
-    "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
-    "date": "2026-09-28T16:51:25+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt58ef6fb504edd4a8/6ab6fbfc80fa6786057ac6ea/Spying-DrAfter123-Getty.jpg?width=720&quality=80&disable=upscale",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "334da3fd35259044",
-    "source": "Dark Reading",
-    "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-    "description": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-    "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-    "date": "2026-09-28T15:33:21+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale",
     "category": "AI Security",
     "hot": false
   },
@@ -2945,17 +3077,6 @@
     "date": "2026-09-21T12:42:34+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2025/04/AI1.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "6bac70c66f905135",
-    "source": "WIRED Security",
-    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "description": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "date": "2026-09-21T10:34:43+00:00",
-    "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -3383,7 +3504,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3658,7 +3779,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3705,17 +3826,6 @@
     "image": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "30cb08c656eb99c6",
-    "source": "Krebs on Security",
-    "title": "Microsoft Plugs Nearly 400 Security Holes",
-    "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided",
-    "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-    "date": "2026-08-11T21:28:35+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "bf214207d7ff5aad",
