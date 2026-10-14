@@ -1,14 +1,47 @@
 [
   {
+    "id": "6ed0e5008afb49b6",
+    "source": "Cyber Security News",
+    "title": "Microsoft Windows Shell 0-Day Vulnerability Actively Exploited in Attacks",
+    "description": "Microsoft has patched an actively exploited Windows Shell zero-day vulnerability that allows attackers to bypass Mark of the Web protections. Tracked as CVE-2026-96951, the flaw was addressed in the October 2026 Patch Tuesday updates. It carries a CVSS score of 8.8 and is rated Important by Microsoft. The vulnerability was not publicly disclosed before the […] The post Microsoft Windows Shell 0-Day Vulnerability Actively Exploited in Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/windows-shell-0-day-exploited/",
+    "date": "2026-10-14T03:28:11+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Windows-Shell-0-Day-Vulnerability.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "d99f4a2a3c3466ee",
+    "source": "Cyber Security News",
+    "title": "OpenAI Engineer Arrested for Planting Spyware Device in an Executive Conference Room",
+    "description": "An OpenAI engineer has been arrested for allegedly hiding an audio recording device in an executive conference room at the company’s San Francisco offices. Abdulrahman Alfozan, 35, a Saudi national, was arrested on October 9, 2026, and appeared in federal court on October 13, according to the U.S. Department of Justice. Prosecutors charged him with […] The post OpenAI Engineer Arrested for Planting Spyware Device in an Executive Conference Room appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/openai-engineer-arrested-for-planting-spyware/",
+    "date": "2026-10-14T02:25:18+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/OpenAI-Engineer-Arrested-for-Planting-Spyware.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "c7e2f17c2d034ae5",
+    "source": "The Hacker News",
+    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+    "description": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
+    "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+    "date": "2026-10-14T01:59:25+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "c5a36601271c1897",
     "source": "Krebs on Security",
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
-    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
+    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
-    "category": "AI Security",
-    "hot": true
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "category": "Vulnerability",
+    "hot": false
   },
   {
     "id": "3f2e90657cc5f486",
@@ -58,7 +91,7 @@
     "id": "c13a60fe8227a1e0",
     "source": "CyberScoop",
     "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
-    "description": "Ivanti customers are in familiar territory, responding to yet another actively exploited zero-day affecting one of the vendor’s most commonly targeted security products. Volexity researchers, which discovered in-the-wild exploitation earlier this month, said attackers actually exploited three zero-days in a chain that allowed them to bypass authentication, execute code remotely and escalate privileges. Ivanti disclosed and issued a patch for the authentication bypass and remote-code execution components of the exploit chain as a single vulnerability in Ivanti Connect Secure. The company said i",
+    "description": "The security vendor said it initially discovered a portion of the defect during internal security checks in June, but the company said it didn’t meet the threshold for an out-of-band release. The post Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
     "date": "2026-10-13T22:10:42+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2025/04/WAWPWY.jpg",
@@ -69,11 +102,11 @@
     "id": "391eca441c55c60a",
     "source": "CyberScoop",
     "title": "DOJ charges 14 over a sprawling North Korean remote work scheme",
-    "description": "Federal authorities have charged 14 people and seized roughly 187 computers in their newest effort to disrupt North Korea’s remote IT worker scheme. The Justice Department announced the indictment Tuesday, highlighting two arrests and searches of more than 40 residences in Texas known or suspected to operate as “laptop farms,” where facilitators maintain employer-issued laptops so North Korean engineers can use them while abroad. An indictment unsealed in the Northern District of Ohio charges two U.S. citizens, Michael James Bostelle of Pennsylvania and Juan Cecilio Pena Carrillo of Texas. It ",
+    "description": "Operation Lonestar Roundup uncovered an operation that used stolen identities to secretly funnel $3 million from 70 U.S. employers back to Pyongyang. The post DOJ charges 14 over a sprawling North Korean remote work scheme appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/doj-north-korea-remote-work-laptop-farms/",
     "date": "2026-10-13T21:43:23+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2192647275.jpg",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -168,7 +201,7 @@
     "id": "135d064f185aa043",
     "source": "CyberScoop",
     "title": "FTC says ‘sextortion’ protection companies deceived customers about services",
-    "description": "The Federal Trade Commission is asking a court to force the owner of multiple digital security and privacy companies from further operations, saying the businesses are serially defrauding their customers out of millions of dollars. Earlier this month, the FTC filed a federal lawsuit in Ohio against Dmitry Belkin and 12 of his businesses, alleging they engaged in unfair and deceptive trade practices under the Federal Trade Act and violated the Telemarketing Act’s prohibition against deceptive and abusive telemarketing acts since at least 2020. The majority of Belkin’s companies, with names like",
+    "description": "A federal lawsuit claims that Dmitry Belkin and his companies routinely failed to deliver on services to protect customers, generated fake evidence and denied refunds to victims. The post FTC says ‘sextortion’ protection companies deceived customers about services appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/ftc-lawsuit-dmitry-belkin-sextortion-fraud/",
     "date": "2026-10-13T19:23:48+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2017/09/FTC-min.jpg",
@@ -223,7 +256,7 @@
     "id": "528157e69230124d",
     "source": "Cyber Security News",
     "title": "Microsoft Fixes 1,118 Vulnerabilities in October Patch Tuesday and Introduces New Risk Cohorts",
-    "description": "Microsoft’s October 2026 Patch Tuesday briefing outlines 1,118 vulnerabilities across 15 risk groups, alongside a new approach designed to help security teams review large update releases. Called risk cohorts, these groups bring together flaws that require similar questions about an organization’s systems, users, and exposure. Microsoft’s accompanying document maps individual CVEs to these shared areas of assessment. The goal is to reduce repeated work without removing the need to review each vulnerability. Instead of asking the same deployment questions hundreds of times, analysts can assess ",
+    "description": "Microsoft’s October 2026 Patch Tuesday briefing outlines 1,118 vulnerabilities across 15 risk groups, alongside a new approach designed to help security teams review large update releases. Called risk cohorts, these groups bring together flaws that require similar questions about an organization’s systems, users, and exposure. Microsoft’s accompanying document maps individual CVEs to these shared areas […] The post Microsoft Fixes 1,118 Vulnerabilities in October Patch Tuesday and Introduces New Risk Cohorts appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/microsoft-october-patch-tuesday-2026/",
     "date": "2026-10-13T18:19:38+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Patch-Tuesday-October-2026.webp",
@@ -234,7 +267,7 @@
     "id": "8e8688899ce3b33d",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog",
-    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Ivanti Connect Secure FortiMail flaw, tracked as CVE-2026-104935 (CVSS score of 8.6), to its Known Exploited Vulnerabilities (KEV) catalog . The vulnerability is an authentication bypass issue caused by spoofing in ICS versions before 25.1.3.0 that could allow a remote, unauthenticated attacker to execute arbitrary commands. ICS versions 22.7R2.14 and earlier are not affected. “Auth",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Ivanti Connect Secure FortiMail flaw, tracked as CVE-2026-104935 (CVSS score of 8.6), to its Known Exploited Vulnerabilities (KEV) catalog. The vulnerability is an authentication bypass issue caused by […]",
     "link": "https://securityaffairs.com/200887/security/u-s-cisa-adds-ivanti-connect-secure-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
     "date": "2026-10-13T18:14:23+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
@@ -256,7 +289,7 @@
     "id": "4cfa7005bb0900c7",
     "source": "Cyber Security News",
     "title": "Critical FortiSandbox GUI Vulnerability Allows Remote Attackers to Bypass Authentication",
-    "description": "Fortinet disclosed a critical authentication-bypass vulnerability in the FortiSandbox graphical user interface that could let remote attackers access protected functions without valid credentials. Tracked as CVE-2026-107656, the flaw carries a reported CVSSv3 score of 9.6 and affects both FortiSandbox appliances and selected FortiSandbox PaaS releases. Published on October 13, 2026, the disclosure is tracked under Fortinet advisory FG-IR-26-185 . Fortinet lists the potential impact as execution of unauthorized code or commands. Its advisory marks known exploitation as “No,” meaning the disclos",
+    "description": "Fortinet disclosed a critical authentication-bypass vulnerability in the FortiSandbox graphical user interface that could let remote attackers access protected functions without valid credentials. Tracked as CVE-2026-107656, the flaw carries a reported CVSSv3 score of 9.6 and affects both FortiSandbox appliances and selected FortiSandbox PaaS releases. Published on October 13, 2026, the disclosure is tracked under […] The post Critical FortiSandbox GUI Vulnerability Allows Remote Attackers to Bypass Authentication appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/fortisandbox-gui-vulnerability/",
     "date": "2026-10-13T17:54:42+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/FortiSandbox-GUI-Vulnerability.webp",
@@ -300,12 +333,12 @@
     "id": "254e6380d2ab0830",
     "source": "Cyber Security News",
     "title": "TFG London Cyberattack Disrupts IT Systems Used by Phase Eight, Hobbs, and Whistles Brands",
-    "description": "TFG London has confirmed a cyberattack that disrupted IT systems supporting Phase Eight, Hobbs, and Whistles. South Africa’s The Foschini Group detected the incident on October 11, 2026, and disclosed it to shareholders on October 13. Several systems remained unavailable, although stores continued trading. According to the company’s shareholder announcement , Inside Story and White Stuff were not affected. TFG Africa and TFG Australia also remained unaffected because they operate on separate systems. The confirmed disruption is therefore limited to part of the group’s UK business, rather than ",
+    "description": "TFG London has confirmed a cyberattack that disrupted IT systems supporting Phase Eight, Hobbs, and Whistles. South Africa’s The Foschini Group detected the incident on October 11, 2026, and disclosed it to shareholders on October 13. Several systems remained unavailable, although stores continued trading. According to the company’s shareholder announcement, Inside Story and White Stuff […] The post TFG London Cyberattack Disrupts IT Systems Used by Phase Eight, Hobbs, and Whistles Brands appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/tfg-london-cyberattack/",
     "date": "2026-10-13T17:26:27+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/TFG-London-Cyberattack.webp",
-    "category": "Ransomware",
-    "hot": true
+    "category": "Hacking",
+    "hot": false
   },
   {
     "id": "09dcfc4fd0e37661",
@@ -333,18 +366,18 @@
     "id": "4193a215f1daeda8",
     "source": "Cyber Security News",
     "title": "Critical Docker Hub Flaw Lets Attackers Impersonate Users and Push Container Images",
-    "description": "Docker has disclosed a critical Docker Hub vulnerability that could let attackers impersonate other users and publish container images under trusted names. Tracked as CVE-2026-105445, the flaw affected personal access tokens transferred during account conversions. Docker resolved the issue on September 30, 2026, stating its investigation found no evidence of exploitation. This issue posed a software supply chain risk, as attackers could potentially alter images that developers relied on. Depending on the token’s permissions and the target user’s access, they could pull, push, or delete images ",
+    "description": "Docker has disclosed a critical Docker Hub vulnerability that could let attackers impersonate other users and publish container images under trusted names. Tracked as CVE-2026-105445, the flaw affected personal access tokens transferred during account conversions. Docker resolved the issue on September 30, 2026, stating its investigation found no evidence of exploitation. This issue posed a […] The post Critical Docker Hub Flaw Lets Attackers Impersonate Users and Push Container Images appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/docker-hub-vulnerability/",
     "date": "2026-10-13T16:55:34+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Docker-Hub-vulnerability.webp",
-    "category": "Malware",
+    "category": "Vulnerability",
     "hot": true
   },
   {
     "id": "c57b55ffec6d931b",
     "source": "Cyber Security News",
     "title": "CrowdStrike Joins Anthropic Defense Program to Advance AI-powered Defense for Critical Infrastructure",
-    "description": "CrowdStrike has joined Anthropic’s Critical Infrastructure Defense Program to help strengthen AI-powered cybersecurity across energy, water, manufacturing, and transportation systems. Announced on October 8, 2026, the partnership combines CrowdStrike’s experience protecting business and industrial networks with Anthropic’s advanced Claude models, technical support, and cybersecurity research. The initiative targets a difficult security challenge. Critical infrastructure often connects modern information technology, or IT, with older operational technology, or OT, that controls physical equipme",
+    "description": "CrowdStrike has joined Anthropic’s Critical Infrastructure Defense Program to help strengthen AI-powered cybersecurity across energy, water, manufacturing, and transportation systems. Announced on October 8, 2026, the partnership combines CrowdStrike’s experience protecting business and industrial networks with Anthropic’s advanced Claude models, technical support, and cybersecurity research. The initiative targets a difficult security challenge. Critical infrastructure often […] The post CrowdStrike Joins Anthropic Defense Program to Advance AI-powered Defense for Critical Infrastructure appe",
     "link": "https://cybersecuritynews.com/crowdstrike-joins-anthropic-defense-program/",
     "date": "2026-10-13T16:49:50+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Anthropic-Defense-Program.webp",
@@ -388,22 +421,22 @@
     "id": "c6fb0d3b5234176f",
     "source": "Cyber Security News",
     "title": "Zoom Clients for Certificate Validation Flaw Exposes Sensitive Information via Network Access",
-    "description": "Two high-severity certificate validation flaws in Zoom clients could allow attackers without login credentials to access sensitive information over a network, according to advisory text dated October 13, 2026. The issues affect Windows clients and the My Notes feature across desktop and mobile platforms, making updates important for both personal users and business deployments. The vulnerabilities, tracked as CVE-2026-108184 and CVE-2026-108185, each carry a CVSS v3.1 score of 7.4. Zoom Offensive Security reported both. The supplied bulletins describe information disclosure risks but do not id",
+    "description": "Two high-severity certificate validation flaws in Zoom clients could allow attackers without login credentials to access sensitive information over a network, according to advisory text dated October 13, 2026. The issues affect Windows clients and the My Notes feature across desktop and mobile platforms, making updates important for both personal users and business deployments. The […] The post Zoom Clients for Certificate Validation Flaw Exposes Sensitive Information via Network Access appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/zoom-certificate-validation-flaw/",
     "date": "2026-10-13T16:15:16+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Zoom-certificate-validation-flaw.webp",
-    "category": "Vulnerability",
+    "category": "Hacking",
     "hot": false
   },
   {
     "id": "d8b0301f39c50dbc",
     "source": "CyberScoop",
     "title": "West African scammers targeted in joint international government-industry operation",
-    "description": "A joint international law enforcement and industry operation against scammers netted 28 arrests, rescued 117 trafficking victims and led to the takedown of more than 3.7 million accounts, the Justice Department announced Tuesday. The crackdown, billed as “Joint Disruption Week,” focused on West Africa and also identified more than $11 million in freezable funds and led to the seizure of hundreds of electronic devices. The range of scams involved included law enforcement impersonation scams, digital arrest extortion schemes, pig butchering and other online fraud operations targeting victims aro",
+    "description": "Participants said it was the largest joint scam operation to date and the first focused on the region. The post West African scammers targeted in joint international government-industry operation appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/west-african-scammers-international-scam-crackdown-joint-disruption-week/",
     "date": "2026-10-13T16:15:08+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/scamcenterghana.png",
-    "category": "Ransomware",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -432,7 +465,7 @@
     "id": "3da93c68f8ea60ef",
     "source": "Cyber Security News",
     "title": "Ivanti Connect Secure 0-Day Vulnerability Actively Exploited in the Wild",
-    "description": "Ivanti has disclosed an actively exploited zero-day vulnerability in Ivanti Connect Secure (ICS) that allows remote attackers to execute arbitrary commands without logging in. Tracked as CVE-2026-104935, the flaw carries a high-severity CVSS score of 8.6. Ivanti confirmed that exploitation affected a limited number of customers in its October 13, 2026 advisory. The vulnerability involves authentication bypass through spoofing, classified as CWE-290. An attacker can exploit the flaw over a network without credentials or user interaction. Ivanti Connect Secure zero-day The CVSS assessment indica",
+    "description": "Ivanti has disclosed an actively exploited zero-day vulnerability in Ivanti Connect Secure (ICS) that allows remote attackers to execute arbitrary commands without logging in. Tracked as CVE-2026-104935, the flaw carries a high-severity CVSS score of 8.6. Ivanti confirmed that exploitation affected a limited number of customers in its October 13, 2026 advisory. The vulnerability involves […] The post Ivanti Connect Secure 0-Day Vulnerability Actively Exploited in the Wild appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/ivanti-connect-secure-zero-day/",
     "date": "2026-10-13T15:55:26+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Ivanti-Connect-Secure-zero-day.webp",
@@ -443,11 +476,11 @@
     "id": "d2bf11a92c03f7dd",
     "source": "Cyber Security News",
     "title": "Danfoss Refrigeration Hack Update – 4,980 Hosts Found Exposed to Internet",
-    "description": "France accounts for more than half of the internet-facing hosts found in a Shodan search for Danfoss web pages, following a cyberattack that disrupted supermarket refrigeration systems . An update from International Cyber Digest on October 13 reports a total of 4,980 hosts identified, with 2,911 located in France and 517 in South Africa. These findings raise new concerns about exposed cooling controls; however, they do not confirm that every listed host has been hacked. According to Shodan, Germany ranks third with 171 results, followed by Portugal with 158 and the United States with 141. Pola",
+    "description": "France accounts for more than half of the internet-facing hosts found in a Shodan search for Danfoss web pages, following a cyberattack that disrupted supermarket refrigeration systems. An update from International Cyber Digest on October 13 reports a total of 4,980 hosts identified, with 2,911 located in France and 517 in South Africa. These findings […] The post Danfoss Refrigeration Hack Update – 4,980 Hosts Found Exposed to Internet appeared first on Cyber Security News .",
     "link": "https://cybersecuritynews.com/danfoss-refrigeration-hack-exposed-hosts/",
     "date": "2026-10-13T15:49:00+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Danfoss-refrigeration-hack.webp",
-    "category": "Vulnerability",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -458,17 +491,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
     "date": "2026-10-13T15:45:50+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/Ivanti.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "66af888d14deddd1",
-    "source": "Cyber Security News",
-    "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely",
-    "description": "Threat actors are actively exploiting two critical zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances, allowing them to execute code remotely on exposed systems. The flaws, tracked as CVE-2026-88771 and CVE-2026-88772 , received a CVSS v4 severity score of 9.5 out of 10 and have been added to the U.S. Cybersecurity and Infrastructure Security Agency’s Known Exploited Vulnerabilities catalog. CISA confirmed that it received reports and partner intelligence showing global exploitation activity. Citrix released emergency updates after confirming that exploitation ha",
-    "link": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/",
-    "date": "2026-10-13T15:26:50+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/CISA-Warns-of-Two-Citrix-NetScaler-0-Days.webp",
     "category": "Vulnerability",
     "hot": true
   },
@@ -495,25 +517,14 @@
     "hot": false
   },
   {
-    "id": "f72c57c3993a6d29",
-    "source": "Cyber Security News",
-    "title": "Threat Intelligence Guide for US SOC Teams and CISOs: How to Choose the Right Solution",
-    "description": "Choosing an enterprise threat intelligence solution is about more than just data volume or integrations. The right provider should deliver relevant intelligence, fit existing workflows, and help security teams investigate threats faster. While SOCs may prioritize rapid investigation and enrichment at scale, MSSPs may focus more on multi-tenancy and customer separation. This enterprise threat intelligence buying guide covers the key criteria to consider, including intelligence quality, integrations, data privacy, scalability, and proof-of-concept testing. Start With Your Security Team’s Require",
-    "link": "https://cybersecuritynews.com/threat-intelligence-guide/",
-    "date": "2026-10-13T15:02:20+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Threat-Intelligence-Guide.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "2e71f5371ae7401c",
     "source": "Security Affairs",
     "title": "Anthropic Shows How Small AI Models Could Replicate Across IoT Devices",
-    "description": "Anthropic researchers show how small AI models could autonomously replicate across IoT devices, raising concerns about adaptive, AI-powered botnets. Anthropic published a paper this week that should make anyone who manages IoT infrastructure sit down for a moment. The research shows that small AI models are approaching the capability to replicate themselves autonomously across networks of cheap, poorly secured devices, the kind of Android TV boxes that sell for fifty dollars on Amazon. The team ran a 26 billion parameter model, Gemma4-26B-A4B, distributed across 15 off-brand Android TV boxes n",
+    "description": "Anthropic researchers show how small AI models could autonomously replicate across IoT devices, raising concerns about adaptive, AI-powered botnets. Anthropic published a paper this week that should make anyone who manages IoT infrastructure sit down for a moment. The research shows that small AI models are approaching the capability to replicate themselves autonomously across networks […]",
     "link": "https://securityaffairs.com/200880/ai/anthropic-shows-how-small-ai-models-could-replicate-across-iot-devices.html",
     "date": "2026-10-13T14:30:22+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-30.png",
-    "category": "AI Security",
+    "category": "Malware",
     "hot": false
   },
   {
@@ -542,11 +553,11 @@
     "id": "b683e49513cafd99",
     "source": "Security Affairs",
     "title": "GitLab Patches Max-Severity Vulnerability CVE-2026-97229",
-    "description": "GitLab fixed a critical vulnerability with a maximum CVSS score of 10.0 that could let unauthenticated attackers run code on its servers. GitLab has addressed a critical security flaw, tracked as CVE-2026-97229 (CVSS score of 10.0), that could let attackers run code on its servers without logging in. The flaw affects Community Edition (CE) and Enterprise Edition (EE), it is an integer overflow bug caused by weak validation of regular expressions in CI/CD configurations. The issue affects GitLab versions 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2. Users should upgrade to a p",
+    "description": "GitLab fixed a critical vulnerability with a maximum CVSS score of 10.0 that could let unauthenticated attackers run code on its servers. GitLab has addressed a critical security flaw, tracked as CVE-2026-97229 (CVSS score of 10.0), that could let attackers run code on its servers without logging in. The flaw affects Community Edition (CE) and […]",
     "link": "https://securityaffairs.com/200868/security/gitlab-patches-max-severity-vulnerability-cve-2026-97229.html",
     "date": "2026-10-13T13:48:38+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-35-scaled.png",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -616,22 +627,22 @@
     "hot": false
   },
   {
-    "id": "cec95cab9eaf1880",
-    "source": "CISA Advisories",
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Bran",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "date": "2026-10-13T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "971eb9148fcf3e44",
     "source": "CISA Advisories",
     "title": "Swann Communications SWIFI-SE2KIC",
     "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to view video information without authentication. The following versions of Swann Communications SWIFI-SE2KIC are affected: SWIFI-SE2KIC firmware <=2.0.22 (CVE-2026-107605, CVE-2026-107606, CVE-2026-107607) CVSS Vendor Equipment v3 6.2 Swann Communications SWIFI-SE2KIC firmware 1 Vulnerability Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Australia Vulnerabilities Expand All",
     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
+    "date": "2026-10-13T12:00:00+00:00",
+    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "200388e9b54bebab",
+    "source": "CISA Advisories",
+    "title": "Inductive Automation Ignition Software",
+    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-level user to escalate their privileges to a higher level. The following versions of Inductive Automation Ignition Software are affected: Ignition >=8.1.0|<=8.1.54 (CVE-2026-92817) Ignition >=8.3.0|<=8.3.8 (CVE-2026-92817) CVSS Vendor Equipment v3 8.8 Inductive Automation Ignition 1 Vulnerability Incorrect Authorization Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States V",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
     "date": "2026-10-13T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
@@ -647,6 +658,17 @@
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
     "category": "Vulnerability",
     "hot": true
+  },
+  {
+    "id": "cec95cab9eaf1880",
+    "source": "CISA Advisories",
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Bran",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "date": "2026-10-13T12:00:00+00:00",
+    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
+    "category": "Vulnerability",
+    "hot": false
   },
   {
     "id": "36db66a124e8f221",
@@ -817,7 +839,7 @@
     "id": "f79be027314df7c1",
     "source": "Security Affairs",
     "title": "Hackers cranked French supermarkets’ freezers up to 50 degrees, causing hundreds of stores to lose their stock",
-    "description": "Hackers hit French supermarkets via unpatched Danfoss refrigeration systems, remote-heating freezers and destroying stock worth millions. Overnight from Sunday to Monday, a large cyberattack hit the refrigeration systems of hundreds of French supermarkets, BFMTV revealed . The attackers targeted equipment from the Danish maker Danfoss that many French stores use to regulate their cold. Fresh and frozen stock was destroyed, and the Paris prosecutor says there were also fires. The method is simple and nasty. Refrigeration systems have a forced defrost function that clears ice buildup, and the at",
+    "description": "Hackers hit French supermarkets via unpatched Danfoss refrigeration systems, remote-heating freezers and destroying stock worth millions. Overnight from Sunday to Monday, a large cyberattack hit the refrigeration systems of hundreds of French supermarkets, BFMTV revealed. The attackers targeted equipment from the Danish maker Danfoss that many French stores use to regulate their cold. Fresh and […]",
     "link": "https://securityaffairs.com/200863/hacking/hackers-cranked-french-supermarkets-freezers-up-to-50-degrees-causing-hundreds-of-stores-to-lose-their-stock.html",
     "date": "2026-10-13T07:50:08+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-29.png",
@@ -861,7 +883,7 @@
     "id": "fba867948bd4a48c",
     "source": "CyberScoop",
     "title": "Flock can now issue CVEs for its own products. Should we trust it?",
-    "description": "Flock, the controversial public safety company entangled in controversy amid recurring law enforcement abuse of its products, gained authority to assign CVE IDs to vulnerabilities in its own products and grade those defects as a CVE Numbering Authority . The manufacturer of various surveillance systems, including automated license plate readers (ALPRs) and AI-powered cameras, said it joined the global footprint of more than 550 CNAs to assess, coordinate and prioritize response to vulnerabilities internally. “It allows us to move faster when researchers report findings, eliminate confusion fro",
+    "description": "Flock joined the CVE Program as a CNA, giving the company authority to assign IDs to vulnerabilities in its own surveillance cameras and license plate readers. The post Flock can now issue CVEs for its own products. Should we trust it? appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/flock-cve-numbering-authority-cna/",
     "date": "2026-10-12T22:11:50+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2295963998.jpg",
@@ -883,7 +905,7 @@
     "id": "4796632519c434ba",
     "source": "Security Affairs",
     "title": "ShinyHunters arrest number three: a Canadian ransomware negotiator",
-    "description": "A Canadian ransomware negotiator faces extortion charges in the FBI’s ShinyHunters crackdown. Here’s what is known, and what isn’t. ShinyHunters is the focus of a global FBI investigation, and the crackdown has led to the October 8 arrest of a Canadian ransomware negotiator who now faces extortion charges. Reuters reported the arrest, citing court documents, prison records and a person familiar with the case. The group has also stolen information about FBI employees . Court documents filed in the Eastern District of Pennsylvania, which includes Philadelphia, accuse the defendant of conspiring ",
+    "description": "A Canadian ransomware negotiator faces extortion charges in the FBI’s ShinyHunters crackdown. Here’s what is known, and what isn’t. ShinyHunters is the focus of a global FBI investigation, and the crackdown has led to the October 8 arrest of a Canadian ransomware negotiator who now faces extortion charges. Reuters reported the arrest, citing court documents, […]",
     "link": "https://securityaffairs.com/200847/cyber-crime/shinyhunters-arrest-number-three-a-canadian-ransomware-negotiator.html",
     "date": "2026-10-12T21:26:12+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-28.png",
@@ -905,11 +927,11 @@
     "id": "3a176b8b50118a07",
     "source": "Security Affairs",
     "title": "Canonical Hit by Second DDoS Attack in 2026, Public Websites Disrupted",
-    "description": "Canonical suffered its second DDoS attack this year, disrupting public websites for over four hours while Launchpad and the Snap Store remained online. Ubuntu’s parent company Canonical spent part of last week fighting off a sustained distributed denial of service (DDoS) attack, the second one to hit its infrastructure this year. The company revealed the attack on October 8 through a post on the Ubuntu Discourse forum. “Canonical’s websites are under a sustained distributed denial of service attack. Our team is working diligently to resolve the incident. Please refer to our status page for up-",
+    "description": "Canonical suffered its second DDoS attack this year, disrupting public websites for over four hours while Launchpad and the Snap Store remained online. Ubuntu’s parent company Canonical spent part of last week fighting off a sustained distributed denial of service (DDoS) attack, the second one to hit its infrastructure this year. The company revealed the […]",
     "link": "https://securityaffairs.com/200832/security/canonical-hit-by-second-ddos-attack-in-2026.html",
     "date": "2026-10-12T20:02:20+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2015/01/Ubuntu.jpg",
-    "category": "Vulnerability",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -949,11 +971,11 @@
     "id": "b19156dcae6a195f",
     "source": "CyberScoop",
     "title": "IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion",
-    "description": "IonQ announced Monday that it will acquire Elisity, a zero-trust network security firm, in an all-stock transaction valued at up to $1.3 billion that folds enterprise access control into the quantum computing company’s expanding cybersecurity business. Elisity, founded in 2019, sells a software policy layer that governs which users, devices, workloads and AI agents can communicate across a network, independent of the underlying network technology. The California-based company reports more than 100 global deployments and says revenue and customer counts have doubled year over year, with no chur",
+    "description": "The acquisition pairs Elisity's zero-trust access controls with IonQ's post-quantum cryptography business as federal agencies and major companies accelerate timelines for quantum-ready encryption. The post IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/ionq-acquires-elisity-1-3-billion-quantum-security/",
     "date": "2026-10-12T18:12:10+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2294813845-1.jpg",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -993,7 +1015,7 @@
     "id": "e95adc23cb04eb9e",
     "source": "Security Affairs",
     "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
-    "description": "Attackers are exploiting SonicWall SMA 1000 vulnerability, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after its public disclosure. Attackers have begun exploiting a critical flaw in SonicWall SMA 1000 appliances, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after public disclosure. The vulnerability is a server-side request forgery (SSRF) flaw that requires no login. Attackers could abuse it to make the appliance send requests and access internal functions, allowing unauthorized actions. “A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work",
+    "description": "Attackers are exploiting SonicWall SMA 1000 vulnerability, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after its public disclosure. Attackers have begun exploiting a critical flaw in SonicWall SMA 1000 appliances, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after public disclosure. The vulnerability is a server-side request forgery (SSRF) flaw that requires no login. […]",
     "link": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html",
     "date": "2026-10-12T13:50:36+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
@@ -1070,23 +1092,23 @@
     "id": "db7cc4da1eaa0177",
     "source": "CyberScoop",
     "title": "Your AI agent is only as safe as the packages it downloads",
-    "description": "Strip away the model names and the headlines, and this year’s AI agent incidents share a feature that has little to do with how capable the models are. Nearly all of them ran through the software supply chain. Start with the case that set off the summer’s wave of disclosures. In July, two OpenAI models undergoing a cyber-capability evaluation escaped their sandbox . They got out through a zero-day vulnerability in a package registry proxy that sat inside the evaluation boundary, placed there so the models could install the tools they needed. From there, they reached the open internet and went ",
+    "description": "NVIDIA's new agent safety platform puts enforcement in the right place. It still must know what it is letting through. The post Your AI agent is only as safe as the packages it downloads appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
     "date": "2026-10-12T10:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2266464730-1.jpg",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "c0adff6a860a45da",
     "source": "Security Affairs",
     "title": "CyberXero Used 51 AI Agents to Steal 628,000 Ukrainian Records",
-    "description": "CyberXero used 51 AI agents to support cyberattacks, stealing 628,000 Ukrainian records, including sensitive data from energy infrastructure. CyberXero is an operation that combines traditional hacking tools with AI agents to carry out cyberattacks. According to SOCRadar researchers, the attackers use the same infrastructure for two different campaigns: one targets WordPress websites and e-commerce platforms worldwide, while the other focuses on Ukrainian energy and critical infrastructure. The actor behind CyberXero is a Russian-speaking, financially motivated threat actor. This type of attac",
+    "description": "CyberXero used 51 AI agents to support cyberattacks, stealing 628,000 Ukrainian records, including sensitive data from energy infrastructure. CyberXero is an operation that combines traditional hacking tools with AI agents to carry out cyberattacks. According to SOCRadar researchers, the attackers use the same infrastructure for two different campaigns: one targets WordPress websites and e-commerce platforms […]",
     "link": "https://securityaffairs.com/200803/cyber-crime/cyberxero-used-51-ai-agents-to-steal-628000-ukrainian-records.html",
     "date": "2026-10-12T09:34:35+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-26.png",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "274dc93ff92abfd1",
@@ -1125,11 +1147,11 @@
     "id": "16adfc9d19679438",
     "source": "Security Affairs",
     "title": "GTA 6 Leaker Demands $30M Meme Coin Market Cap to Release Full Game",
-    "description": "CyberLeek threatens to leak a playable GTA 6 build if its Solana meme coin hits a $30 million market cap, but the build remains unverified. CyberLeek, the anonymous figure behind this summer’s wave of GTA 6 leaks , just raised the stakes considerably. After dropping 25 minutes of gameplay footage earlier last week, including nudity and dev menu access, they’re now threatening to release a complete, playable build of the game, start to finish. “A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish.” reads Eurogamer.net . “The threat was post",
+    "description": "CyberLeek threatens to leak a playable GTA 6 build if its Solana meme coin hits a $30 million market cap, but the build remains unverified. CyberLeek, the anonymous figure behind this summer’s wave of GTA 6 leaks, just raised the stakes considerably. After dropping 25 minutes of gameplay footage earlier last week, including nudity and […]",
     "link": "https://securityaffairs.com/200780/cyber-crime/gta-6-leaker-demands-30m-meme-coin-market-cap-to-release-full-game.html",
     "date": "2026-10-12T05:43:37+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-72.png",
-    "category": "Ransomware",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1147,12 +1169,12 @@
     "id": "0f5553de85413433",
     "source": "Security Affairs",
     "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3",
-    "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can automate tasks, analyze large amounts of data, discover vulnerabilities and accelerate offensive operations. At the same time, AI is creating new capabilities for threat detection, incident analysis and response. Security Affairs’ new newsletter follows this evolution, covering every week the latest th",
+    "description": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can automate tasks, analyze large amounts of data, discover vulnerabilities and accelerate offensive operations. At […]",
     "link": "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html",
     "date": "2026-10-11T18:43:54+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "cfd7a7cffbac16c1",
@@ -1191,12 +1213,12 @@
     "id": "739b4a0d5fc8eb9c",
     "source": "CyberScoop",
     "title": "Canadian cybersecurity executive arrested in federal extortion case",
-    "description": "Federal authorities arrested a Canadian cybersecurity executive Thursday in Pennsylvania on charges of conspiracy of extortion, according to federal court records posted Friday. Edward Dubrovsky, 54, is a former employee of CYPFER, a firm that helps organizations negotiate with ransomware operators. He is charged with conspiring to threaten the confidentiality of information in order to extort money, a violation of federal computer fraud law, and with conspiring to commit Hobbs Act extortion, which involves using threats to obstruct or affect interstate commerce to obtain money. Other details ",
+    "description": "Details of the case align with the investigation into ShinyHunters’ attack on FBI IT systems. The post Canadian cybersecurity executive arrested in federal extortion case appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/",
     "date": "2026-10-10T13:35:50+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2161905754.jpg",
     "category": "Ransomware",
-    "hot": true
+    "hot": false
   },
   {
     "id": "ad3ff62833733c13",
@@ -1235,10 +1257,10 @@
     "id": "878d602d6c0b2414",
     "source": "Krebs on Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
+    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1259,7 +1281,7 @@
     "title": "Friday Squid Blogging: I Caught a Squid",
     "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-    "date": "2026-10-09T20:24:45+00:00",
+    "date": "2026-10-09T20:25:01+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
     "category": "General Security",
     "hot": false
@@ -1488,7 +1510,7 @@
     "id": "151c0b9eaf37f5da",
     "source": "CyberScoop",
     "title": "Leader of 764 pleads guilty, faces up to 30 years in prison",
-    "description": "A 21-year-old from North Carolina who joined and helped establish 764 as an underage teenager and quickly emerged as the leader of the child sextortion group until his arrest last year pleaded guilty in federal court Thursday, the Justice Department said. Prasan Nepal pleaded guilty to conspiracy to commit sexual exploitation of a child as part of a plea agreement with prosecutors and faces at least 15 years and up to 30 years in prison upon sentencing. Nepal, also known as “Trippy,” ran the nihilistic violent extremist network for almost four years and played a crucial role facilitating the g",
+    "description": "Prasan Nepal ran the nihilistic violent extremist network for almost four years and played a crucial role facilitating the grooming, manipulation and extortion of minors. The post Leader of 764 pleads guilty, faces up to 30 years in prison appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/764-leader-prasan-nepal-guilty/",
     "date": "2026-10-08T21:41:53+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2022/06/GettyImages-1134159108.jpg",
@@ -1499,11 +1521,11 @@
     "id": "512ce405162716bc",
     "source": "CyberScoop",
     "title": "Anthropic rolls out program for ‘long-term commitment’ to secure critical infrastructure, open source software",
-    "description": "Anthropic announced a new program Thursday that will combine its AI tools with outside cybersecurity companies to find and fix cybersecurity vulnerabilities in critical infrastructure and open-source software. Advertised as part of a new, “long-term commitment” to cybersecurity, the critical infrastructure defense program will pair Claude models, Anthropic engineers and threat research with the expertise of cybersecurity companies, including Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi Networks, Palo Alto Networks, PwC, and Rockwell Automation. “Defenders",
+    "description": "The critical infrastructure defense program will seek to pair Claude models, Anthropic engineers and threat research with the expertise of cybersecurity companies. The post Anthropic rolls out program for ‘long-term commitment’ to secure critical infrastructure, open source software appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/anthropic-cybersecurity-program-critical-infrastructure-open-source/",
     "date": "2026-10-08T21:32:40+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2257697741-1.jpg",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": true
   },
   {
@@ -1655,9 +1677,9 @@
     "title": "How Technology Empowers—and Imperils—Dictators",
     "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Marga",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "date": "2026-10-08T11:07:35+00:00",
+    "date": "2026-10-08T11:08:05+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -1678,7 +1700,7 @@
     "description": "Οι Τζάσμιν Γουάνγκ, Τόμεκ Κόρμπακ και Μικίτα Μπαλέσνι κατηγορούνται από την εταιρεία ότι έδωσαν ευαίσθητες πληροφορίες",
     "link": "https://www.news.gr/tech/article/4228335/tris-erevnites-pou-apolithikan-apo-tin-openai-tin-kaloun-na-min-dimiourgisi-ai-me-sillogismo-pou-tha-ine-akatanoitos-apo-tous-anthropous.html",
     "date": "2026-10-08T10:01:47+00:00",
-    "image": "",
+    "image": "https://www.news.gr/wp-content/uploads/images/2024/03/04/te/texniti-noimosyni.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -1735,6 +1757,17 @@
     "date": "2026-10-08T05:46:20+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg",
     "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "164755aee07efe9e",
+    "source": "Schneier on Security",
+    "title": "Apple’s Verified Photography System",
+    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
+    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+    "date": "2026-10-08T05:44:43+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -1862,33 +1895,11 @@
     "id": "4b3e102168c7d619",
     "source": "Krebs on Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
+    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
-    "hot": true
-  },
-  {
-    "id": "3b2a086684d1abb1",
-    "source": "The Hacker News",
-    "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-    "description": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
-    "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-    "date": "2026-10-07T11:57:05+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1600/Proofpoint.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "164755aee07efe9e",
-    "source": "Schneier on Security",
-    "title": "Apple’s Verified Photography System",
-    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
-    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-    "date": "2026-10-07T11:07:36+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -2029,7 +2040,7 @@
     "title": "Possible Vulnerability in Apple’s Automatic Reboot",
     "description": "404Media is reporting (alternate link ) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn’t been used for 72 hours. The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones and Android smartphones . Magnet has developed a new device called GrayKey Preserve and a featur",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-    "date": "2026-10-06T11:06:46+00:00",
+    "date": "2026-10-06T11:07:20+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -2095,7 +2106,7 @@
     "title": "Another Historic Cipher Falls to AI",
     "description": "This one is from 1809, written by Napoleon’s nephew.",
     "link": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-    "date": "2026-10-05T11:04:47+00:00",
+    "date": "2026-10-05T11:04:48+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2183,7 +2194,7 @@
     "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
     "description": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-    "date": "2026-10-02T21:02:18+00:00",
+    "date": "2026-10-02T21:02:21+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2258,9 +2269,9 @@
     "id": "a131500535de96b5",
     "source": "Schneier on Security",
     "title": "Unidentified Flock Cameras in Florida",
-    "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel ...",
+    "description": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can’t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn’t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network—like Israel did with Tehran’s surveillance cameras—th",
     "link": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-    "date": "2026-10-02T14:52:46+00:00",
+    "date": "2026-10-02T15:30:13+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Privacy",
     "hot": false
@@ -2302,9 +2313,9 @@
     "id": "c82a421a7ee5edd6",
     "source": "Schneier on Security",
     "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
-    "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...",
+    "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy , which examined how AI is beginning to infl",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
-    "date": "2026-10-02T11:02:19+00:00",
+    "date": "2026-10-02T11:03:09+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2340,6 +2351,17 @@
     "date": "2026-10-01T18:00:00+00:00",
     "image": "https://media.wired.com/photos/6abd2a92aa33d10785588652/master/pass/WIRED-West-Bank-Interactive-Site-Image-Lina-Jaradat-01.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "4eea68c2ad9f036c",
+    "source": "Schneier on Security",
+    "title": "Connected Cars Are a Surveillance Platform",
+    "description": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation ha",
+    "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
+    "date": "2026-10-01T16:23:25+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Privacy",
     "hot": false
   },
   {
@@ -2473,17 +2495,6 @@
     "image": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
     "category": "Hacking",
     "hot": true
-  },
-  {
-    "id": "4eea68c2ad9f036c",
-    "source": "Schneier on Security",
-    "title": "Connected Cars Are a Surveillance Platform",
-    "description": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation ha",
-    "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
-    "date": "2026-10-01T11:06:14+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
-    "hot": false
   },
   {
     "id": "419649be9f9ba47a",
@@ -2695,17 +2706,6 @@
     "hot": true
   },
   {
-    "id": "35974d04783522d0",
-    "source": "CISA Advisories",
-    "title": "Baicells Nova 430H",
-    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to inject malformed messages which may lead to a denial-of-service condition. The following versions of Baicells Nova 430H are affected: Nova 430H eNodeB (model pBS3101SH) <=BaiBLQ_3.0.12 (CVE-2026-96274) CVSS Vendor Equipment Vulnerabilities v3 7.4 Baicells Technologies Baicells Nova 430H Uncaught Exception Background Critical Infrastructure Sectors: Communications, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
-    "date": "2026-09-29T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "66a6b809e24126b4",
     "source": "CISA Advisories",
     "title": "VIVOTEK Camera Firmware",
@@ -2797,7 +2797,7 @@
     "id": "535fdeca402d8322",
     "source": "Krebs on Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-    "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
+    "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
@@ -2907,12 +2907,12 @@
     "id": "81a26141bc315757",
     "source": "Krebs on Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
+    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
-    "hot": true
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "category": "Ransomware",
+    "hot": false
   },
   {
     "id": "d85264035f4c3bbb",
@@ -3220,7 +3220,7 @@
     "date": "2026-09-16T18:14:22+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Privacy",
-    "hot": true
+    "hot": false
   },
   {
     "id": "3aa8b0b0d1744f4a",
@@ -3501,12 +3501,12 @@
     "id": "004ffd858d83d888",
     "source": "Krebs on Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
+    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "e5cfe1848652171b",
@@ -3666,12 +3666,12 @@
     "id": "94f014263cfc9e54",
     "source": "Krebs on Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
+    "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "Vulnerability",
-    "hot": true
+    "category": "General Security",
+    "hot": false
   },
   {
     "id": "13d55e1ab7fa4688",
@@ -3776,12 +3776,12 @@
     "id": "a3160ec17f8bc8c9",
     "source": "Krebs on Security",
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-    "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
+    "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
-    "hot": true
+    "hot": false
   },
   {
     "id": "db967e435f2183e7",
@@ -3809,11 +3809,11 @@
     "id": "f0bf80663bfa0fd6",
     "source": "Krebs on Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
-    "description": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. A Decryptads summary of the advertising partnerships declared by espn.com. The ne",
+    "description": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "date": "2026-08-14T11:24:35+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": false
   },
   {
