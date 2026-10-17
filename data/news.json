@@ -1,5 +1,60 @@
 [
   {
+    "id": "54f6eff0525c59aa",
+    "source": "The Hacker News",
+    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+    "description": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
+    "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+    "date": "2026-10-17T11:11:56+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "ef62e1419c6ecc22",
+    "source": "SecurityWeek",
+    "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+    "description": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+    "date": "2026-10-17T11:00:00+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/01/spyware-predator.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "980e5dfe535eebd0",
+    "source": "Security Affairs",
+    "title": "U.S. CISA adds Fortinet Multiple Products and BeyondTrust Remote Support flaws to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Fortinet Multiple Products and BeyondTrust Remote Support flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: This week, Palo Alto Netwoks researchers reported that PEERSTITCH malware exploited FortiManager to expose 500+ firewalls, […]",
+    "link": "https://securityaffairs.com/201178/security/u-s-cisa-adds-fortinet-multiple-products-and-beyondtrust-remote-support-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+    "date": "2026-10-17T10:35:48+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "ee2d3300d6b39c76",
+    "source": "Security Affairs",
+    "title": "BAE Systems Cyber Incident Takes US Bankruptcy Noticing Center Offline for a Week",
+    "description": "A cyber incident at a BAE Systems subsidiary just stopped every bankruptcy court in the US from sending notices, and the problem started a week ago. A security incident at BAE Systems Inc., the US subsidiary of British defense contractor BAE Systems, has taken the Bankruptcy Noticing Center offline since October 9. The Bankruptcy Noticing […]",
+    "link": "https://securityaffairs.com/201166/security/bae-systems-cyber-incident-takes-us-bankruptcy-noticing-center-offline-for-a-week.html",
+    "date": "2026-10-17T10:08:42+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-43.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "357e514f574efeec",
+    "source": "Security Affairs",
+    "title": "AI Agents Accessed Indian Organizations Without Authorization, CERT-In Warns",
+    "description": "India’s CERT-In warns AI agents accessed confidential data undetected, while attackers used offensive AI frameworks to accelerate cyberattacks. CERT-In, India’s national cyber response team, published a critical-severity advisory 15 documenting two distinct categories of AI-related incidents. In one, AI models under research and evaluation exceeded their assigned tasks and accessed live Indian systems without authorization. […]",
+    "link": "https://securityaffairs.com/201130/ai/ai-agents-accessed-indian-organizations-without-authorization-cert-in-warns.html",
+    "date": "2026-10-17T08:55:55+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2024/07/india-flag-digital.jpg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "c1803be2a6a63cfc",
     "source": "News.gr Technology",
     "title": "Ποια χαρακτηριστικά αναζητούν οι καταναλωτές για την επιλογή του επόμενου smartphone",
@@ -19,39 +74,6 @@
     "date": "2026-10-17T06:16:46+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg",
     "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "046d21d7cef1ea26",
-    "source": "Cyber Security News",
-    "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
-    "description": "Google released a Chrome Stable security update fixing 10 vulnerabilities across Windows, Mac, and Linux, including a high-severity DOM memory corruption flaw reported by Xinyang Ge of Anthropic with Claude AI. The update also addresses one critical, six high-severity, and three medium-severity vulnerabilities. Google announced the update on October 15, 2026. Google is rolling out […] The post Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
-    "date": "2026-10-17T05:29:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Google-Fixes-Chrome-Vulnerabilities-Including-Memory-Corruption-Flaw-Found-With-Claude-AI.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "109a6f27792fd9e6",
-    "source": "Cyber Security News",
-    "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers",
-    "description": "Hackers are exploiting a critical flaw in the Collabora Online Built-in CODE Server app for Nextcloud, with users reporting web shells on compromised servers. Tracked as CVE-2026-110447, the vulnerability allows remote attackers to run operating system commands without logging in. It affects the richdocumentscode app before version 26.4.303 and carries a CVSS v4 score of […] The post Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/",
-    "date": "2026-10-17T05:24:55+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Exploit-Critical-Collabora-Online-Flaw-to-Backdoor-Nextcloud-Servers.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "c6106a120f221b46",
-    "source": "Cyber Security News",
-    "title": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds",
-    "description": "OpenAI has confirmed that an internal AI model hacked an unnamed government statistics website while trying to count hospital beds. The June 17, 2026 incident started as a data task during reinforcement-learning training, but turned into unauthorized access involving server files, exposed credentials, fake login tokens, and 24 years of downloaded statistics. OpenAI found the […] The post OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/",
-    "date": "2026-10-17T04:15:46+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/OpenAI-Confirms-AI-Model-Hacked.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -231,17 +253,6 @@
     "hot": false
   },
   {
-    "id": "70ef3dde2e070237",
-    "source": "Cyber Security News",
-    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver Malware and Evade Security Detection",
-    "description": "Hackers are using a newly identified platform called ROMULUS to deliver malware through ClickFix traps, combining hidden PowerShell scripts, altered software installers, and encrypted archives. The platform supports separate infection paths, including one that installs LegionLoader and another that abuses a legitimate Stardock program to load malicious code. The findings show how a single delivery […] The post Hackers Use New ROMULUS ClickFix Platform to Deliver Malware and Evade Security Detection appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/new-romulus-clickfix-platform/",
-    "date": "2026-10-16T14:42:10+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-New-ROMULUS-ClickFix-Platform-to-Deliver-Malware-and-Evade-Security-Detection.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "9a13923e850d4932",
     "source": "SecurityWeek",
     "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
@@ -249,17 +260,6 @@
     "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
     "date": "2026-10-16T14:09:51+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "3e22241e2913a9f0",
-    "source": "Cyber Security News",
-    "title": "New YuanKong Android RAT Hijacks Phones to Steal Banking PINs and Passwords",
-    "description": "A newly analyzed Android remote-access Trojan called YuanKong can watch and control a victim’s phone, capture passwords and payment PINs, and send stolen information to operators. Rather than relying on access to text messages or contact lists, it uses Android’s Accessibility features and screen controls to observe what people do inside apps, including banking and […] The post New YuanKong Android RAT Hijacks Phones to Steal Banking PINs and Passwords appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/new-yuankong-android-rat/",
-    "date": "2026-10-16T14:08:06+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/New-YuanKong-Android-RAT-Hijacks-Phones-to-Steal-Banking-PINs-and-Passwords.webp",
     "category": "Malware",
     "hot": false
   },
@@ -283,17 +283,6 @@
     "date": "2026-10-16T14:03:04+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "9a9dcac8e3f01e74",
-    "source": "Cyber Security News",
-    "title": "37-Year-Old Kernel Flaw Exploited to Gain Root Access on OpenBSD — PoC Released",
-    "description": "A proof-of-concept exploit that gains root access on OpenBSD by chaining two kernel flaws. The main bug dates back about 37 years to the original BSD source code. According to Security researchers at Calif, the flaw survived because a shared memory attachment counter named shm_nattch used a signed 16-bit value. OpenBSD fixed both issues before […] The post 37-Year-Old Kernel Flaw Exploited to Gain Root Access on OpenBSD — PoC Released appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/37-year-old-kernel-openbsd-flaw/",
-    "date": "2026-10-16T14:01:26+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/37-Year-Old-Kernel-OpenBSD-Flaw.webp",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -341,17 +330,6 @@
     "hot": true
   },
   {
-    "id": "f0386f6ecad99913",
-    "source": "Cyber Security News",
-    "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords",
-    "description": "A campaign against government organizations and state-linked infrastructure used AI-assisted scripts to steal credentials, maintain access to Linux servers and seek sensitive data, according to new research. The attackers altered users’ shell startup files to intercept the sudo command, then copied entered passwords to a file while passing them to the real command. This let […] The post Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/",
-    "date": "2026-10-16T13:23:48+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-AI-Generated-Scripts-to-Hijack-Linux-Sudo-Commands-and-Steal-Passwords.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "fbeb5e30e9e1eddb",
     "source": "The Record",
     "title": "Baltimore suburb confirms August data breach after ransomware claims",
@@ -393,39 +371,6 @@
     "date": "2026-10-16T12:45:43+00:00",
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/18125728/phishing-3-1500.webp",
     "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "ca1b4f7efd90a23c",
-    "source": "Cyber Security News",
-    "title": "Hackers Abuse 20,000 Cloudflare Pages Domains to Push Fake Microsoft Security Alerts",
-    "description": "Hackers have abused more than 20,000 Cloudflare Pages domains over six months to spread fake Microsoft security alerts and steer users toward scam call centers. The campaign uses Help Traffic Distribution System, or Help TDS, to route visitors from compromised websites, malicious ads, social media, and spam into tech support scams. The pages claim that […] The post Hackers Abuse 20,000 Cloudflare Pages Domains to Push Fake Microsoft Security Alerts appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/cloudflare-pages-domains/",
-    "date": "2026-10-16T12:43:37+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Abuse-20000-Cloudflare-Pages-Domains-to-Push-Fake-Microsoft-Security-Alerts.webp",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "95fb6e6de7a3e3bd",
-    "source": "Cyber Security News",
-    "title": "Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide",
-    "description": "A cybercrime campaign used hundreds of AI agents to target internet-facing PaperCut NG and MF print-management servers, compromising at least 440 instances linked to 395 organizations in 48 countries, according to GreyNoise. The operation paired OpenAI’s Codex coding-agent harness with a DeepSeek model and common security tools, allowing the operator to develop and test exploits […] The post Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/breach-440-papercut-servers/",
-    "date": "2026-10-16T12:23:47+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-Codex-and-DeepSeek-AI-Agents-to-Breach-440-PaperCut-Servers-WorldwideCopy.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "f53fe98cce5f0862",
-    "source": "Cyber Security News",
-    "title": "iOS 27.0.1 Untethered Jailbreak Demonstrated on iPhone 18 Pro",
-    "description": "Security researchers from the cybersecurity firm Calif demonstrated a working untethered jailbreak for iOS 27.0.1 on Apple’s newest iPhone 18 Pro. The live demo took place at Hexacon 2026, the offensive security conference organized by Synacktiv in Paris on October 16. It is one of the first public signs that Apple’s latest phone and software […] The post iOS 27.0.1 Untethered Jailbreak Demonstrated on iPhone 18 Pro appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/ios-27-0-1-jailbreak-demonstrated/",
-    "date": "2026-10-16T12:21:57+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/iOS-27.0.1-Untethered-Jailbreak.webp",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -535,7 +480,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
     "date": "2026-10-16T11:05:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -1012,28 +957,6 @@
     "hot": false
   },
   {
-    "id": "166e64afc977e9c7",
-    "source": "SecurityWeek",
-    "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-    "description": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-    "date": "2026-10-15T14:22:34+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/UK_Cyberwarfare.jpg",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "5cf3e84833d2f336",
-    "source": "Security Affairs",
-    "title": "AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks",
-    "description": "Spyware vendors use online ad infrastructure to profile targets and deliver exploits without requiring users to click anything. The investigation links Discover-Tech to Candiru, an Israeli spyware vendor that the US government placed on its Entity List in 2021. Candiru has since used the name Integrity Labs. Citizen Lab also identified links involving other surveillance […]",
-    "link": "https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html",
-    "date": "2026-10-15T14:21:49+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-39.png",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "e0c20d0c0e8cab33",
     "source": "The Hacker News",
     "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
@@ -1183,7 +1106,7 @@
     "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
     "date": "2026-10-15T11:55:38+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Arrest.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1252,17 +1175,6 @@
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2280733367.jpg",
     "category": "Malware",
     "hot": false
-  },
-  {
-    "id": "75619b2e4beb3a65",
-    "source": "Security Affairs",
-    "title": "Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise",
-    "description": "Attackers exploit a critical Cisco email gateway flaw to gain root access. Cisco urges customers to update scanner tools and check for compromise. Cisco confirmed this week that threat actors are exploiting a critical vulnerability in Cisco Secure Email Gateway, tracked as CVE-2026-76519 with a CVSS score of 9.8. An attacker can exploit the flaw […]",
-    "link": "https://securityaffairs.com/200985/security/cisco-urges-customers-to-patch-email-gateway-flaw-and-check-for-compromise.html",
-    "date": "2026-10-15T09:27:34+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "513a815b8c095d85",
@@ -1334,22 +1246,11 @@
     "id": "e1e7b17e135b767d",
     "source": "Schneier on Security",
     "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
     "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
     "date": "2026-10-15T06:17:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "338029c878c8c11a",
-    "source": "Security Affairs",
-    "title": "Hirudo Android Trojan Replaces Banking Apps to Steal Credentials",
-    "description": "Android trojan Hirudo replaces genuine banking apps with modified versions to steal credentials and bypass security checks, enabling financial fraud. ThreatFabric researchers detailed a new Android banking trojan called Hirudo that takes a genuinely different approach to defeating banking security. Instead of throwing a fake login screen over the real app, it uninstalls the real […]",
-    "link": "https://securityaffairs.com/200970/malware/hirudo-android-trojan-replaces-banking-apps-to-steal-credentials.html",
-    "date": "2026-10-15T06:06:13+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-36-scaled.png",
-    "category": "Malware",
     "hot": false
   },
   {
@@ -1480,7 +1381,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1492,7 +1393,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
     "date": "2026-10-14T14:10:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -1689,7 +1590,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Vulnerability",
     "hot": false
   },
@@ -1903,17 +1804,6 @@
     "hot": true
   },
   {
-    "id": "2c682e78b0afefc0",
-    "source": "The Hacker News",
-    "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-    "description": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD",
-    "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-    "date": "2026-10-13T08:43:37+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "5683be8fa16b7125",
     "source": "Newsbeast Technology",
     "title": "Η «έκρηξη» της AI αλλάζει το παγκόσμιο εμπόριο: Κερδίζουν έδαφος οι ασιατικές χώρες, αλλά το ΔΝΤ προειδοποιεί για τα ελλείμματα",
@@ -2063,7 +1953,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2262,7 +2152,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
     "date": "2026-10-08T11:08:05+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -2284,7 +2174,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
     "date": "2026-10-08T05:44:43+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -2360,7 +2250,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -2888,7 +2778,7 @@
     "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2998,7 +2888,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3570,7 +3460,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": false
   },
