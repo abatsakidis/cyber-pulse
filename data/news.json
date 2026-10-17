@@ -1,5 +1,27 @@
 [
   {
+    "id": "fedded7f6b39895a",
+    "source": "Cyber Security News",
+    "title": "Claude AI Solves 25-Year NSA Cryptography Mystery in Just 30 Minutes",
+    "description": "Anthropic says an internal Claude research model has traced the origins of five NSA-supplied elliptic curve seeds in under 30 minutes, answering a cryptography question that remained open for roughly 25 years. The finding explains how important public security parameters were chosen, rather than exposing secret keys or breaking encryption. In a report published October 16, 2026 , researchers said the seeds behind NIST curves P-192, P-224, P-256, P-384 and P-521 came from lrand48, an older C library random-number generator initialized with Unix timestamps. The result challenges a long-running t",
+    "link": "https://cybersecuritynews.com/claude-ai-cryptography-mystery/",
+    "date": "2026-10-17T16:59:29+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Claude-AI-Cryptography-Mystery.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "c4b7f47a893a827c",
+    "source": "Security Affairs",
+    "title": "North Korean IT Workers Used Stolen US Identities to Earn $3 Million",
+    "description": "The FBI raided 40 Texas homes over a North Korean scheme that used fake IT workers to target 70 US companies and generate $3 million. The Justice Department (DoJ) announced coordinated enforcement actions this week targeting North Korea’s long-running scheme to place fake IT workers inside American companies. Two US nationals were arrested, 14 people charged across two separate indictments, and the FBI searched more than 40 residences in Texas, seizing approximately 187 laptops and KVM switch devices. The Texas operation, called Operation Lonestar Roundup, ran between September 21 and 25. The ",
+    "link": "https://securityaffairs.com/201193/intelligence/north-korean-it-workers-used-stolen-us-identities-to-earn-3-million.html",
+    "date": "2026-10-17T16:29:10+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "2dc614012f73e45b",
     "source": "BleepingComputer",
     "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
@@ -256,7 +278,7 @@
     "id": "b4e69c832b8d07e6",
     "source": "The Hacker News",
     "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-    "description": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+    "description": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
     "date": "2026-10-16T17:48:45+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
@@ -504,17 +526,6 @@
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Abuse-20000-Cloudflare-Pages-Domains-to-Push-Fake-Microsoft-Security-Alerts.webp",
     "category": "Malware",
     "hot": false
-  },
-  {
-    "id": "95fb6e6de7a3e3bd",
-    "source": "Cyber Security News",
-    "title": "Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide",
-    "description": "A cybercrime campaign used hundreds of AI agents to target internet-facing PaperCut NG and MF print-management servers, compromising at least 440 instances linked to 395 organizations in 48 countries, according to GreyNoise. The operation paired OpenAI’s Codex coding-agent harness with a DeepSeek model and common security tools, allowing the operator to develop and test exploits before running them against exposed systems at scale. The incident shows how AI agents can help an operator move quickly through a complex intrusion, but the breach still depended on vulnerable or poorly protected syst",
-    "link": "https://cybersecuritynews.com/breach-440-papercut-servers/",
-    "date": "2026-10-16T12:23:47+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-Codex-and-DeepSeek-AI-Agents-to-Breach-440-PaperCut-Servers-WorldwideCopy.webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "4ddcc21ef659b347",
@@ -999,17 +1010,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "0b4d5435d4e97842",
-    "source": "Security Affairs",
-    "title": "Silent Lynx: Kazakhstan-Linked Hackers Target Russian Refinery and Government",
-    "description": "Silent Lynx, a group likely based in Kazakhstan, targets Russian energy and government entities in espionage campaigns across Central Asia. Researchers from Cisco Talos and Recorded Future published a detailed paper on a threat actor they call Silent Lynx (aka UAT-6275, TAG-193), a Kazakhstan nexus group conducting espionage across Central Asia. The targets include the Orsk Oil Refinery in southern Russia, about 25 kilometers from the Kazakhstan border, and the government of Nizhny Novgorod, a major city about 425 kilometers east of Moscow. The city lies where the Volga and Oka rivers meet, an",
-    "link": "https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html",
-    "date": "2026-10-15T18:33:35+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-37.png",
-    "category": "Malware",
-    "hot": true
   },
   {
     "id": "e41496e0efaad927",
@@ -2899,7 +2899,7 @@
     "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3009,7 +3009,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3284,7 +3284,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Privacy",
     "hot": true
   },
@@ -3570,7 +3570,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
