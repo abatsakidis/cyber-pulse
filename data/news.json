@@ -632,9 +632,9 @@
     "title": "Backdooring Open-Weight AI Models",
     "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "date": "2026-10-16T11:05:50+00:00",
+    "date": "2026-10-16T11:04:53+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -1128,7 +1128,7 @@
     "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
     "date": "2026-10-15T13:18:36+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Windows__Server.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1364,28 +1364,6 @@
     "hot": false
   },
   {
-    "id": "e1e7b17e135b767d",
-    "source": "Schneier on Security",
-    "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
-    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-    "date": "2026-10-15T06:17:50+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "a554a3d3d3594c19",
-    "source": "Schneier on Security",
-    "title": "The Future of AI Cryptanalysis",
-    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-    "date": "2026-10-14T21:59:16+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "e8a4f7f4b95c9f1b",
     "source": "CyberScoop",
     "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
@@ -1485,6 +1463,17 @@
     "hot": false
   },
   {
+    "id": "e1e7b17e135b767d",
+    "source": "Schneier on Security",
+    "title": "Upcoming Speaking Engagements",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
+    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+    "date": "2026-10-14T16:02:17+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "cdd00dd0e1b02e68",
     "source": "CyberScoop",
     "title": "Senators press Trump admin to rally federal government around AI safety, security",
@@ -1494,6 +1483,17 @@
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/Jay-Clayton-AI.jpeg",
     "category": "AI Security",
     "hot": true
+  },
+  {
+    "id": "a554a3d3d3594c19",
+    "source": "Schneier on Security",
+    "title": "The Future of AI Cryptanalysis",
+    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+    "date": "2026-10-14T14:24:18+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
   },
   {
     "id": "064694cebfd2555d",
@@ -1514,7 +1514,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
     "date": "2026-10-14T14:10:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -1626,17 +1626,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg",
     "category": "AI Security",
     "hot": true
-  },
-  {
-    "id": "b449e7e8a3d156a6",
-    "source": "Schneier on Security",
-    "title": "Friday Squid Blogging: I Caught a Squid",
-    "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-    "date": "2026-10-14T09:35:26+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
-    "category": "General Security",
-    "hot": false
   },
   {
     "id": "6acd562a29a85766",
@@ -2074,7 +2063,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2088,6 +2077,17 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
     "hot": true
+  },
+  {
+    "id": "b449e7e8a3d156a6",
+    "source": "Schneier on Security",
+    "title": "Friday Squid Blogging: I Caught a Squid",
+    "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+    "date": "2026-10-09T20:24:45+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
+    "category": "General Security",
+    "hot": false
   },
   {
     "id": "e70cc4a0becbaeaf",
@@ -2271,9 +2271,9 @@
     "title": "How Technology Empowers—and Imperils—Dictators",
     "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Marga",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "date": "2026-10-08T11:08:05+00:00",
+    "date": "2026-10-08T11:07:35+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -2285,17 +2285,6 @@
     "date": "2026-10-08T09:00:00+00:00",
     "image": "https://media.wired.com/photos/6ac6a0115f6cc15e079284f6/master/pass/Anas%20Hattab%20and%20Janiyah%20village%20by%20Samar%20Hazboun-29.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "164755aee07efe9e",
-    "source": "Schneier on Security",
-    "title": "Apple’s Verified Photography System",
-    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
-    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-    "date": "2026-10-08T05:44:43+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -2374,6 +2363,17 @@
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
+  },
+  {
+    "id": "164755aee07efe9e",
+    "source": "Schneier on Security",
+    "title": "Apple’s Verified Photography System",
+    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
+    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+    "date": "2026-10-07T11:07:36+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Hacking",
+    "hot": false
   },
   {
     "id": "199209a862a654b7",
@@ -3284,7 +3284,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Privacy",
     "hot": true
   },
@@ -3570,7 +3570,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3735,7 +3735,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -3812,7 +3812,7 @@
     "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
