@@ -1,5 +1,16 @@
 [
   {
+    "id": "8ad60a56e31c99da",
+    "source": "CyberScoop",
+    "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
+    "description": "The federal government is advising AI companies to set more industry standards for securing agents in sandbox testing environments. In joint guidance from the Cybersecurity and Infrastructure Security Agency, the National Security Agency and the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) at the Department of Commerce, AI companies are encouraged to lean more heavily on cybersecurity technical controls, independent testing and evaluation of new models and develop “shut down policies” that govern when a model or test should be taken offline. The guidance comes ",
+    "link": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
+    "date": "2026-10-17T00:34:02+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/CISA.jpeg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "3e99bd23e18fe43d",
     "source": "Schneier on Security",
     "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
@@ -113,7 +124,7 @@
     "id": "b6a5a16acfbf71b5",
     "source": "CyberScoop",
     "title": "Prolific Chinese espionage group exploits BeyondTrust zero-day",
-    "description": "Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers. The post Prolific Chinese espionage group exploits BeyondTrust zero-day appeared first on CyberScoop .",
+    "description": "Suspected Chinese hackers with a proven knack for exploiting zero-days in security products are at it again, targeting BeyondTrust customers in attacks that researchers have traced back to late August. Mandiant researchers said a likely Chinese government-backed espionage group it previously tracked as UNC5221, and now calls Armory Castle , exploited the critical defect — CVE-2026-102764 — then showcased multiple tactics to escalate privileges, hop around the compromised network and evade detection. The same threat group has repeatedly exploited a series of defects in Ivanti products since 202",
     "link": "https://cyberscoop.com/china-espionage-attacks-beyondtrust-zero-day-armory-castle/",
     "date": "2026-10-16T17:09:09+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/04/GettyImages-1332529886.jpg",
@@ -146,12 +157,12 @@
     "id": "9b13db5b8ade4050",
     "source": "CyberScoop",
     "title": "Cybersecurity incident at BAE Systems disrupts US bankruptcy court system",
-    "description": "The outage has stopped official bankruptcy notices nationwide since Oct. 9, with no cause or restoration date announced. The post Cybersecurity incident at BAE Systems disrupts US bankruptcy court system appeared first on CyberScoop .",
+    "description": "A cybersecurity incident at BAE Systems has halted the production and delivery of bankruptcy notices for every federal bankruptcy court in the United States, disrupting a core administrative function of the judiciary with no announced date for restoration. The Bankruptcy Noticing Center, known as the BNC, produces and transmits notices in bankruptcy cases nationwide. BAE Systems, a defense contractor, operates the center’s systems and websites on behalf of the federal judiciary. In a statement published Thursday , the Administrative Office of the U.S. Courts said the incident affected BAE’s in",
     "link": "https://cyberscoop.com/bae-systems-cybersecurity-incident-us-bankruptcy-courts/",
     "date": "2026-10-16T15:12:44+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-88092263.jpg",
     "category": "General Security",
-    "hot": false
+    "hot": true
   },
   {
     "id": "b99b663ac03a319c",
@@ -162,6 +173,17 @@
     "date": "2026-10-16T14:45:00+00:00",
     "image": "http://cms.therecord.media/uploads/proofpoint_rsac_2026_f941477750.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "70ef3dde2e070237",
+    "source": "Cyber Security News",
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver Malware and Evade Security Detection",
+    "description": "Hackers are using a newly identified platform called ROMULUS to deliver malware through ClickFix traps, combining hidden PowerShell scripts, altered software installers, and encrypted archives. The platform supports separate infection paths, including one that installs LegionLoader and another that abuses a legitimate Stardock program to load malicious code. The findings show how a single delivery system can serve different malware packages while hiding activity behind trusted tools. ClickFix tricks people into running commands themselves, often through fake verification prompts or repair inst",
+    "link": "https://cybersecuritynews.com/new-romulus-clickfix-platform/",
+    "date": "2026-10-16T14:42:10+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-New-ROMULUS-ClickFix-Platform-to-Deliver-Malware-and-Evade-Security-Detection.webp",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -176,10 +198,21 @@
     "hot": false
   },
   {
+    "id": "3e22241e2913a9f0",
+    "source": "Cyber Security News",
+    "title": "New YuanKong Android RAT Hijacks Phones to Steal Banking PINs and Passwords",
+    "description": "A newly analyzed Android remote-access Trojan called YuanKong can watch and control a victim’s phone, capture passwords and payment PINs, and send stolen information to operators. Rather than relying on access to text messages or contact lists, it uses Android’s Accessibility features and screen controls to observe what people do inside apps, including banking and payment apps. Researchers warn that this approach can expose sensitive information even when the user is interacting with a genuine app. The malware is also built to stay active and give operators control from afar. Its capabilities ",
+    "link": "https://cybersecuritynews.com/new-yuankong-android-rat/",
+    "date": "2026-10-16T14:08:06+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/New-YuanKong-Android-RAT-Hijacks-Phones-to-Steal-Banking-PINs-and-Passwords.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
     "id": "bd3efb2947655f6e",
     "source": "Security Affairs",
     "title": "Burger King Japan Data Breach Impacted 11 Million Customers",
-    "description": "Burger King Japan disclosed a breach exposing 11.18 million app users’ personal data after attackers accessed its membership system in early October. Burger King Japan has disclosed a data breach that exposed the personal information of approximately 11.18 million official app members. Burger King Japan, the company operating the fast-food chain in the country, said […]",
+    "description": "Burger King Japan disclosed a breach exposing 11.18 million app users’ personal data after attackers accessed its membership system in early October. Burger King Japan has disclosed a data breach that exposed the personal information of approximately 11.18 million official app members. Burger King Japan, the company operating the fast-food chain in the country, said attackers accessed the system managing customer membership information between October 2 and October 7, 2026. The company disclosed the incident on October 15, after discovering the data leak two days earlier. In its official notic",
     "link": "https://securityaffairs.com/201119/security/burger-king-japan-data-breach-impacted-11-million-customers.html",
     "date": "2026-10-16T14:04:38+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-42-1024x575.png",
@@ -195,6 +228,17 @@
     "date": "2026-10-16T14:03:04+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "9a9dcac8e3f01e74",
+    "source": "Cyber Security News",
+    "title": "37-Year-Old Kernel Flaw Exploited to Gain Root Access on OpenBSD — PoC Released",
+    "description": "A proof-of-concept exploit that gains root access on OpenBSD by chaining two kernel flaws. The main bug dates back about 37 years to the original BSD source code. According to Security researchers at Calif, the flaw survived because a shared memory attachment counter named shm_nattch used a signed 16-bit value. OpenBSD fixed both issues before Calif published the exploit on October 16, 2026. The published research covers a local privilege escalation exploit and does not report active use in real-world attacks. 37-Year-Old OpenBSD Flaw The first flaw affects System V shared memory handling. By ",
+    "link": "https://cybersecuritynews.com/37-year-old-kernel-openbsd-flaw/",
+    "date": "2026-10-16T14:01:26+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/37-Year-Old-Kernel-OpenBSD-Flaw.webp",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -223,7 +267,7 @@
     "id": "22c979b1853735b7",
     "source": "Security Affairs",
     "title": "F5 addressed critical RCE flaws in NGINX",
-    "description": "F5 addressed multiple vulnerabilities, including critical RCE flaws in NGINX that attackers could exploit without authentication. Security and application delivery firm F5 announced fixes for eleven security issues in NGINX. Among them, critical vulnerabilities tracked as CVE-2026-15176 and CVE-2026-93479 could be exploited without authentication via crafted HTTP requests. Under certain conditions beyond their control, an […]",
+    "description": "F5 addressed multiple vulnerabilities, including critical RCE flaws in NGINX that attackers could exploit without authentication. Security and application delivery firm F5 announced fixes for eleven security issues in NGINX. Among them, critical vulnerabilities tracked as CVE-2026-15176 and CVE-2026-93479 could be exploited without authentication via crafted HTTP requests. Under certain conditions beyond their control, an unauthenticated attacker could exploit the security flaws to trigger a buffer overflow leading to a restart. If ASLR is disabled or can be bypassed, the attacker could achiev",
     "link": "https://securityaffairs.com/201106/security/f5-addressed-critical-rce-flaws-in-nginx.html",
     "date": "2026-10-16T13:36:52+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/f5-networks-bg.jpg",
@@ -240,6 +284,17 @@
     "image": "http://cms.therecord.media/uploads/Datasuckers_f214f20b32.jpg",
     "category": "Hacking",
     "hot": true
+  },
+  {
+    "id": "f0386f6ecad99913",
+    "source": "Cyber Security News",
+    "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords",
+    "description": "A campaign against government organizations and state-linked infrastructure used AI-assisted scripts to steal credentials, maintain access to Linux servers and seek sensitive data, according to new research. The attackers altered users’ shell startup files to intercept the sudo command, then copied entered passwords to a file while passing them to the real command. This let a user’s request appear to work normally as the password was stolen. Unit 42’s investigation says the activity also involved web shells, custom malware, mailbox searches and attempts to erase evidence. The operation shows h",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/",
+    "date": "2026-10-16T13:23:48+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-AI-Generated-Scripts-to-Hijack-Linux-Sudo-Commands-and-Steal-Passwords.webp",
+    "category": "AI Security",
+    "hot": false
   },
   {
     "id": "fbeb5e30e9e1eddb",
@@ -284,6 +339,39 @@
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/18125728/phishing-3-1500.webp",
     "category": "Hacking",
     "hot": false
+  },
+  {
+    "id": "ca1b4f7efd90a23c",
+    "source": "Cyber Security News",
+    "title": "Hackers Abuse 20,000 Cloudflare Pages Domains to Push Fake Microsoft Security Alerts",
+    "description": "Hackers have abused more than 20,000 Cloudflare Pages domains over six months to spread fake Microsoft security alerts and steer users toward scam call centers. The campaign uses Help Traffic Distribution System, or Help TDS, to route visitors from compromised websites, malicious ads, social media, and spam into tech support scams. The pages claim that Microsoft has disabled the computer, play loud alarms, and display a support number. A browser lock makes the device appear unusable, pushing victims to call someone posing as a Microsoft technician. The goal is remote access, not simply a payme",
+    "link": "https://cybersecuritynews.com/cloudflare-pages-domains/",
+    "date": "2026-10-16T12:43:37+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Abuse-20000-Cloudflare-Pages-Domains-to-Push-Fake-Microsoft-Security-Alerts.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "95fb6e6de7a3e3bd",
+    "source": "Cyber Security News",
+    "title": "Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide",
+    "description": "A cybercrime campaign used hundreds of AI agents to target internet-facing PaperCut NG and MF print-management servers, compromising at least 440 instances linked to 395 organizations in 48 countries, according to GreyNoise. The operation paired OpenAI’s Codex coding-agent harness with a DeepSeek model and common security tools, allowing the operator to develop and test exploits before running them against exposed systems at scale. The incident shows how AI agents can help an operator move quickly through a complex intrusion, but the breach still depended on vulnerable or poorly protected syst",
+    "link": "https://cybersecuritynews.com/breach-440-papercut-servers/",
+    "date": "2026-10-16T12:23:47+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-Codex-and-DeepSeek-AI-Agents-to-Breach-440-PaperCut-Servers-WorldwideCopy.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "f53fe98cce5f0862",
+    "source": "Cyber Security News",
+    "title": "iOS 27.0.1 Untethered Jailbreak Demonstrated on iPhone 18 Pro",
+    "description": "Security researchers from the cybersecurity firm Calif demonstrated a working untethered jailbreak for iOS 27.0.1 on Apple’s newest iPhone 18 Pro. The live demo took place at Hexacon 2026, the offensive security conference organized by Synacktiv in Paris on October 16. It is one of the first public signs that Apple’s latest phone and software can already be fully opened up, only weeks after both reached users. On stage, the researchers restarted the iPhone 18 Pro. It booted to the Apple logo, reached the lock screen, and was unlocked with the passcode. The jailbreak then came back on its own w",
+    "link": "https://cybersecuritynews.com/ios-27-0-1-jailbreak-demonstrated/",
+    "date": "2026-10-16T12:21:57+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/iOS-27.0.1-Untethered-Jailbreak.webp",
+    "category": "Malware",
+    "hot": true
   },
   {
     "id": "4ddcc21ef659b347",
@@ -374,10 +462,21 @@
     "hot": false
   },
   {
+    "id": "e62d6792c77cae41",
+    "source": "Cyber Security News",
+    "title": "Chinese Phishing Network Uses 17,000 Domains to Target Japanese Banks and Steal Credentials",
+    "description": "A large Chinese-language phishing operation has used around 17,000 internet domains to impersonate banks, payment services, retailers and other well-known brands, with Japan as its main target. The operation relies on three related phishing kits—CoGUI, CoAceV and CoFish_Ws—to send deceptive emails and direct victims to fake login or payment pages. The findings come as security companies and law-enforcement partners disrupt parts of the wider fraud network. Microsoft and Health-ISAC filed a civil lawsuit against people linked to the operation and seized or redirected domains connected to YAM St",
+    "link": "https://cybersecuritynews.com/chinese-phishing-network-2/",
+    "date": "2026-10-16T11:26:28+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Chinese-Phishing-Network-Uses-17000-Domains-to-Target-Japanese-Banks-and-Steal-Credentials.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
     "id": "4699d752a74fe86b",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Atlassian flaw to its Known Exploited Vulnerabilities catalog",
-    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Atlassian flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Atlassian flaw, tracked as CVE-2026-21589 (CVSS score of 9.3), to its Known Exploited Vulnerabilities (KEV) catalog. In early October, threat actors started exploiting CVE-2026-21589, a critical arbitrary file access flaw […]",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Atlassian flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Atlassian flaw, tracked as CVE-2026-21589 (CVSS score of 9.3), to its Known Exploited Vulnerabilities (KEV) catalog . In early October, threat actors started exploiting CVE-2026-21589 , a critical arbitrary file access flaw in Atlassian Data Center products. The vulnerability could allow attackers to access sensitive files under certain conditions. Affected products include Bitbucket, Confluenc",
     "link": "https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
     "date": "2026-10-16T11:05:55+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
@@ -418,6 +517,28 @@
     "hot": false
   },
   {
+    "id": "5fe892eeaf1c5237",
+    "source": "Cyber Security News",
+    "title": "New Aoki Malware Targets ChatGPT, Claude, Codex and Gemini to Steal Credentials",
+    "description": "Aoki, also known as Aokigahara, is a data-stealing malware that has added credentials for AI tools to its growing list of targets. Recent versions seek local files and session data linked to ChatGPT, Claude, OpenAI Codex, Cursor, Codeium and Gemini. The change raises the risk for developers who use AI assistants alongside source-code repositories, cloud accounts and other work systems. Unlike a flaw in an AI service, Aoki’s activity focuses on data stored on an infected computer. A stolen key or token may let an intruder use an account as its owner, run up paid usage or reach services connecte",
+    "link": "https://cybersecuritynews.com/new-aoki-malware/",
+    "date": "2026-10-16T10:22:47+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/New-Aoki-Malware-Targets-ChatGPT-Claude-Codex-and-Gemini-to-Steal-Credentials.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "7295d471efcabe5f",
+    "source": "Cyber Security News",
+    "title": "Google Automatically Adds Your Phone Number to Every Google Account on Your Android Phone",
+    "description": "Google automatically verifies phone numbers on Android devices and adds them to every Google account signed in on the Phone. The setting is enabled by default, raising privacy concerns for users who keep personal, work, and secondary accounts separate. Google’s documentation confirms that the behavior covers both existing accounts and accounts added later. The feature, called Phone number verification, also covers new phone numbers added to a device. Adding another Google account can link it to numbers already on the Phone, while adding a new number can attach it to accounts already signed in.",
+    "link": "https://cybersecuritynews.com/google-automatically-adds-your-phone-number/",
+    "date": "2026-10-16T10:07:02+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Google-Automatically-Adds-Your-Phone-Number-to-Every-Google-Account-on-Your-Android-Phone.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
     "id": "8efae4bc38a7edcc",
     "source": "Help Net Security",
     "title": "Fake Arch Linux AUR packages exploit typos to run malware with root privileges",
@@ -443,12 +564,12 @@
     "id": "ea5ddb0113daa688",
     "source": "Security Affairs",
     "title": "PEERSTITCH malware: How Attackers Compromised 500 Firewalls Through FortiManager",
-    "description": "PEERSTITCH malware exploited FortiManager to expose 500+ firewalls, evade detection inside FortiOS memory, and maintain stealthy access. PEERSTITCH, a stealthy implant deployed during a prolonged intrusion, helped attackers maintain access to a telecom managed service provider after compromising its FortiManager appliance. Palo Alto Networks Unit 42 documented the operation, which began in September 2024 and […]",
+    "description": "PEERSTITCH malware exploited FortiManager to expose 500+ firewalls, evade detection inside FortiOS memory, and maintain stealthy access. PEERSTITCH, a stealthy implant deployed during a prolonged intrusion, helped attackers maintain access to a telecom managed service provider after compromising its FortiManager appliance. Palo Alto Networks Unit 42 documented the operation, which began in September 2024 and exposed credentials and configurations for more than 500 downstream firewalls. “Unit 42 investigated a multi-stage network intrusion against a telecommunications organization that occurred",
     "link": "https://securityaffairs.com/201077/malware/peerstitch-malware-how-attackers-compromised-500-firewalls-through-fortimanager.html",
     "date": "2026-10-16T09:08:57+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-41.png",
     "category": "Malware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "945cf02baa5eb58b",
@@ -498,7 +619,7 @@
     "id": "70dc40826a26af9d",
     "source": "Security Affairs",
     "title": "CenterPoint Energy Data Breach: More Than 1 Million Texans Affected",
-    "description": "The regulated utility company CenterPoint Energy says a data breach exposed the personal information of more than 1 million people in Texas. CenterPoint Energy is a regulated utility company used to deliver natural gas and electricity infrastructure, maintain power grids and pipelines, and restore service across parts of Texas, Indiana, Ohio, and Minnesota. The organization […]",
+    "description": "The regulated utility company CenterPoint Energy says a data breach exposed the personal information of more than 1 million people in Texas. CenterPoint Energy is a regulated utility company used to deliver natural gas and electricity infrastructure, maintain power grids and pipelines, and restore service across parts of Texas, Indiana, Ohio, and Minnesota. The organization disclosed a data breach affecting more than 1 million people in Texas. This week, CenterPoint Energy told the Texas Attorney General’s Office that the breach affected 1,062,060 Texas residents. The company does not appear t",
     "link": "https://securityaffairs.com/201054/cyber-crime/centerpoint-energy-data-breach-more-than-1-million-texans-affected.html",
     "date": "2026-10-16T07:31:41+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-43.png",
@@ -663,12 +784,12 @@
     "id": "27b5c7fe9ba45a17",
     "source": "CyberScoop",
     "title": "Proofpoint to buy Varonis for $6.3 billion",
-    "description": "The deal pairs the email security giant's massive threat intelligence with Varonis' visibility into corporate data, as both companies race to secure the AI agents now roaming enterprise networks. The post Proofpoint to buy Varonis for $6.3 billion appeared first on CyberScoop .",
+    "description": "Proofpoint agreed Thursday to acquire Varonis Systems in a cash transaction valued at approximately $6.3 billion, combining two companies that have positioned themselves around a shared bet: that securing data has become the central problem of the AI era. The acquisition pairs two distinct approaches to security. Varonis specializes in data security, mapping where sensitive information sits inside an organization, who can reach it, and how it is actually used. Proofpoint, owned by private equity company Thoma Bravo, built its business around protecting people, blocking phishing, fraud and othe",
     "link": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
     "date": "2026-10-15T21:13:58+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-1202852957.jpg",
-    "category": "General Security",
-    "hot": false
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "6a10c7946f296217",
@@ -740,7 +861,7 @@
     "id": "e3fa6be8194f7189",
     "source": "CyberScoop",
     "title": "The next election influence campaign will target your AI chatbot",
-    "description": "Someone is seeding the internet with hyperlocal content about political races. Researchers say it’s designed to train AI chatbots to favor candidates across a broad range of issues. The post The next election influence campaign will target your AI chatbot appeared first on CyberScoop .",
+    "description": "Election influence campaigns, particularly ones playing out over social media, are a dime a dozen. Such campaigns – sometimes devised by foreign powers, other times by domestic groups – are often designed to influence the U.S. electorate. Fake accounts and online personas are created, networks of propaganda are disseminated and the campaign seeks to nudge American voters into thinking a certain way. Mostly, these efforts are known for getting little to no traction with U.S. audiences. But while social media influence campaigns may not be effective, bad actors continue to adapt their coordinate",
     "link": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
     "date": "2026-10-15T19:29:58+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2263341708.jpg",
@@ -751,7 +872,7 @@
     "id": "813a5058b960c20e",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog",
-    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: Cisco confirmed this week that threat actors are exploiting a critical vulnerability […]",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : CVE-2026-0322 Palo Alto Networks PAN-OS Code Injection Vulnerability CVE-2026-76519 Cisco Secure Email Gateway Relative Path Traversal Vulnerability CVE-2026-105133 Ahsay AhsayCBS Improper Authentication Vulnerability CVE-2026-105134 Ahsay AhsayCBS C",
     "link": "https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
     "date": "2026-10-15T19:21:30+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
@@ -773,12 +894,12 @@
     "id": "0b4d5435d4e97842",
     "source": "Security Affairs",
     "title": "Silent Lynx: Kazakhstan-Linked Hackers Target Russian Refinery and Government",
-    "description": "Silent Lynx, a group likely based in Kazakhstan, targets Russian energy and government entities in espionage campaigns across Central Asia. Researchers from Cisco Talos and Recorded Future published a detailed paper on a threat actor they call Silent Lynx (aka UAT-6275, TAG-193), a Kazakhstan nexus group conducting espionage across Central Asia. The targets include the […]",
+    "description": "Silent Lynx, a group likely based in Kazakhstan, targets Russian energy and government entities in espionage campaigns across Central Asia. Researchers from Cisco Talos and Recorded Future published a detailed paper on a threat actor they call Silent Lynx (aka UAT-6275, TAG-193), a Kazakhstan nexus group conducting espionage across Central Asia. The targets include the Orsk Oil Refinery in southern Russia, about 25 kilometers from the Kazakhstan border, and the government of Nizhny Novgorod, a major city about 425 kilometers east of Moscow. The city lies where the Volga and Oka rivers meet, an",
     "link": "https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html",
     "date": "2026-10-15T18:33:35+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-37.png",
-    "category": "Cyberwarfare",
-    "hot": false
+    "category": "Malware",
+    "hot": true
   },
   {
     "id": "e41496e0efaad927",
@@ -883,12 +1004,12 @@
     "id": "5cf3e84833d2f336",
     "source": "Security Affairs",
     "title": "AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks",
-    "description": "Spyware vendors use online ad infrastructure to profile targets and deliver exploits without requiring users to click anything. The investigation links Discover-Tech to Candiru, an Israeli spyware vendor that the US government placed on its Entity List in 2021. Candiru has since used the name Integrity Labs. Citizen Lab also identified links involving other surveillance […]",
+    "description": "Spyware vendors use online ad infrastructure to profile targets and deliver exploits without requiring users to click anything. The investigation links Discover-Tech to Candiru , an Israeli spyware vendor that the US government placed on its Entity List in 2021. Candiru has since used the name Integrity Labs . Citizen Lab also identified links involving other surveillance companies, including Bindecy and Intelos, suggesting that Discover-Tech’s infrastructure served more than one customer. The researchers examined almost four billion advertising bid records covering March to June 2026. During ",
     "link": "https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html",
     "date": "2026-10-15T14:21:49+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-39.png",
     "category": "Malware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "e0c20d0c0e8cab33",
@@ -919,7 +1040,7 @@
     "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
     "date": "2026-10-15T13:18:36+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Windows__Server.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -1040,7 +1161,7 @@
     "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
     "date": "2026-10-15T11:55:38+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Arrest.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -1103,7 +1224,7 @@
     "id": "4688363014ce97de",
     "source": "CyberScoop",
     "title": "AdFection: How mercenary spyware invades victims’ devices through targeted advertising",
-    "description": "Researchers say the attacks have serious implications for the online advertising world, and regulators. The post AdFection: How mercenary spyware invades victims’ devices through targeted advertising appeared first on CyberScoop .",
+    "description": "That online ad you saw for earbuds, a drone or bubble gum-scented car air freshener may have been a gateway for mercenary spyware that can infect your device without you ever having to click on it. The Citizen Lab at the University of Toronto on Thursday said it was revealing the first details of zero-click spyware being delivered through targeted advertising, which it’s calling AdFection. It concluded that while the Israeli company Discover-Tech presents itself as a legitimate advertising firm, in actuality it operates as a facilitator for multiple mercenary spyware partners, including the we",
     "link": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
     "date": "2026-10-15T10:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2280733367.jpg",
@@ -1114,11 +1235,11 @@
     "id": "75619b2e4beb3a65",
     "source": "Security Affairs",
     "title": "Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise",
-    "description": "Attackers exploit a critical Cisco email gateway flaw to gain root access. Cisco urges customers to update scanner tools and check for compromise. Cisco confirmed this week that threat actors are exploiting a critical vulnerability in Cisco Secure Email Gateway, tracked as CVE-2026-76519 with a CVSS score of 9.8. An attacker can exploit the flaw […]",
+    "description": "Attackers exploit a critical Cisco email gateway flaw to gain root access. Cisco urges customers to update scanner tools and check for compromise. Cisco confirmed this week that threat actors are exploiting a critical vulnerability in Cisco Secure Email Gateway, tracked as CVE-2026-76519 with a CVSS score of 9.8. An attacker can exploit the flaw by sending a crafted email attachment through the gateway and, if it lands right, writing arbitrary files to the underlying operating system. “A vulnerability in the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway could allow an",
     "link": "https://securityaffairs.com/200985/security/cisco-urges-customers-to-patch-email-gateway-flaw-and-check-for-compromise.html",
     "date": "2026-10-15T09:27:34+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
-    "category": "Vulnerability",
+    "category": "Malware",
     "hot": true
   },
   {
@@ -1191,7 +1312,7 @@
     "id": "338029c878c8c11a",
     "source": "Security Affairs",
     "title": "Hirudo Android Trojan Replaces Banking Apps to Steal Credentials",
-    "description": "Android trojan Hirudo replaces genuine banking apps with modified versions to steal credentials and bypass security checks, enabling financial fraud. ThreatFabric researchers detailed a new Android banking trojan called Hirudo that takes a genuinely different approach to defeating banking security. Instead of throwing a fake login screen over the real app, it uninstalls the real […]",
+    "description": "Android trojan Hirudo replaces genuine banking apps with modified versions to steal credentials and bypass security checks, enabling financial fraud. ThreatFabric researchers detailed a new Android banking trojan called Hirudo that takes a genuinely different approach to defeating banking security. Instead of throwing a fake login screen over the real app, it uninstalls the real app and puts a modified copy in its place. “What sets it apart is the lengths its operators go to once a bank is in their sights: rather than overlaying a fake screen on top of the genuine banking app, Hirudo attempts ",
     "link": "https://securityaffairs.com/200970/malware/hirudo-android-trojan-replaces-banking-apps-to-steal-credentials.html",
     "date": "2026-10-15T06:06:13+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-36-scaled.png",
@@ -1202,11 +1323,11 @@
     "id": "e8a4f7f4b95c9f1b",
     "source": "CyberScoop",
     "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
-    "description": "Officials disrupted the cybercrime marketplace in April and arrested the alleged 20-year-old operator at that time. Illicit sales reportedly exceeded $500,000 since 2023. The post Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia appeared first on CyberScoop .",
+    "description": "Authorities in the Republic of North Macedonia filed charges against the alleged administrator of OLVX, a cybercrime marketplace that sold stolen personal data, credentials and malicious tools for attacks since 2023. The 20-year-old citizen of North Macedonia, who officials identified as “E.A.” in a news release , is accused of commiting computer fraud, misuse of personal data, and production and distribution of child sexual abuse material. The arrest comes six months after authorities dismantled the cybercrime platform , arrested the alleged administrator and searched their home in April, acc",
     "link": "https://cyberscoop.com/olvx-cybercrime-marketplace-operator-charged-north-macedonia/",
     "date": "2026-10-14T21:40:31+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/08/GettyImages-2221205586.jpg",
-    "category": "General Security",
+    "category": "Privacy",
     "hot": false
   },
   {
@@ -1257,7 +1378,7 @@
     "id": "e6bf758f9b62b37d",
     "source": "CyberScoop",
     "title": "Microsoft drops an actively exploited zero-day among record high of 1,413 vulnerabilities",
-    "description": "In its October Patch Tuesday, the tech giant addressed more defects in one month than any annual total on record. Nearly 4 in 5 vulnerabilities affect Windows. The post Microsoft drops an actively exploited zero-day among record high of 1,413 vulnerabilities appeared first on CyberScoop .",
+    "description": "Microsoft’s streak of record-breaking vulnerability disclosures continued with a mega Patch Tuesday , containing 1,413 defects affecting the company’s various enterprise products and services. The monthly batch of patches surpassed the company’s previous annual record of 1,261 common vulnerabilities and exposures (CVEs) set in 2020. “Hundreds of CVEs in a single release used to be the exception — now it’s the baseline,” Dustin Childs, head of threat awareness at TrendAI’s Zero Day Initiative, wrote in an email. AI is partly to blame, he added, but it “isn’t creating these bugs out of thin air;",
     "link": "https://cyberscoop.com/microsoft-patch-tuesday-october-2026/",
     "date": "2026-10-14T17:42:11+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2024/09/GettyImages-1408775753.jpg",
@@ -1312,12 +1433,12 @@
     "id": "cdd00dd0e1b02e68",
     "source": "CyberScoop",
     "title": "Senators press Trump admin to rally federal government around AI safety, security",
-    "description": "The letter argues federal agencies should more rigorously test AI models for security threats and sandbox evasion, set new safety standards and lean into defensive AI. The post Senators press Trump admin to rally federal government around AI safety, security appeared first on CyberScoop .",
+    "description": "Members of Congress are pressing the Trump administration to expand the federal government’s role in securing artificial intelligence, wanting new safety standards and regulations, independent testing of models and more “aggressive” use of AI for defensive cybersecurity purposes. In a letter , Sens. Maria Cantwell, D-Wash., and Mike Rounds, R-S.D., said that multiple incidents of frontier AI models escaping sandbox protections and breaching real companies, organizations and governments necessitate a stronger federal role in regulating the technology. Recent revelations that hundreds, and possi",
     "link": "https://cyberscoop.com/congress-presses-trump-administration-ai-safety-cybersecurity/",
     "date": "2026-10-14T15:11:31+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/Jay-Clayton-AI.jpeg",
     "category": "AI Security",
-    "hot": false
+    "hot": true
   },
   {
     "id": "a554a3d3d3594c19",
@@ -1334,7 +1455,7 @@
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-    "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+    "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
@@ -1367,7 +1488,7 @@
     "id": "91a47c2910d7c5d8",
     "source": "CyberScoop",
     "title": "Microsoft and partners disrupt vast Chinese-language phishing kit ecosystem",
-    "description": "In less than 10 months, cybercriminals used the arsenal of customized, targeted phishing kits to send more than 1 billion malicious messages to more than 75,000 organizations globally. The post Microsoft and partners disrupt vast Chinese-language phishing kit ecosystem appeared first on CyberScoop .",
+    "description": "Microsoft collaborated with Japanese authorities, Health-ISAC and several cybersecurity companies to dismantle an expansive, seemingly disconnected ecosystem of Chinese-language cybercrime tools and services, the company announced Wednesday. Since the start of the year, a vast collection of customized phishing kits developed and sold by Chinese-speaking threat actors — a cluster Microsoft tracks as Storm-2990 — have delivered more than 1 billion phishing emails and SMS messages to more than 75,000 organizations globally. More than three-quarters of those malicious messages targeted Microsoft c",
     "link": "https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/",
     "date": "2026-10-14T13:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/03/GettyImages-1467743069.jpg",
@@ -1480,7 +1601,7 @@
     "description": "«Η πρωτοβουλία αυτή αποσκοπεί στην επιτάχυνση της καινοτομίας στην Ευρώπη»",
     "link": "https://www.news.gr/tech/article/4232101/i-google-tha-dosi-prosvasi-se-200-evropeous-erevnites-sta-pio-exeligmena-montela-tis-technitis-noimosinis.html",
     "date": "2026-10-14T06:11:26+00:00",
-    "image": "https://www.news.gr/wp-content/uploads/images/2025/11/11/go/google-germania.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1532,12 +1653,12 @@
     "id": "c5a36601271c1897",
     "source": "Krebs on Security",
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
-    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
-    "category": "Vulnerability",
-    "hot": false
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "3f2e90657cc5f486",
@@ -1558,17 +1679,6 @@
     "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
     "date": "2026-10-13T22:29:57+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "c13a60fe8227a1e0",
-    "source": "CyberScoop",
-    "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
-    "description": "The security vendor said it initially discovered a portion of the defect during internal security checks in June, but the company said it didn’t meet the threshold for an out-of-band release. The post Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day appeared first on CyberScoop .",
-    "link": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
-    "date": "2026-10-13T22:10:42+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2025/04/WAWPWY.jpg",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1928,7 +2038,7 @@
     "id": "878d602d6c0b2414",
     "source": "Krebs on Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
@@ -2225,12 +2335,12 @@
     "id": "4b3e102168c7d619",
     "source": "Krebs on Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
+    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "164755aee07efe9e",
@@ -2764,10 +2874,10 @@
     "id": "535fdeca402d8322",
     "source": "Krebs on Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-    "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
+    "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2874,12 +2984,12 @@
     "id": "81a26141bc315757",
     "source": "Krebs on Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
-    "category": "Ransomware",
-    "hot": false
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "d85264035f4c3bbb",
@@ -3165,7 +3275,7 @@
     "date": "2026-09-16T18:14:22+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Privacy",
-    "hot": false
+    "hot": true
   },
   {
     "id": "3aa8b0b0d1744f4a",
@@ -3446,12 +3556,12 @@
     "id": "004ffd858d83d888",
     "source": "Krebs on Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
+    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
-    "hot": false
+    "hot": true
   },
   {
     "id": "e5cfe1848652171b",
@@ -3611,12 +3721,12 @@
     "id": "94f014263cfc9e54",
     "source": "Krebs on Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
+    "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "General Security",
-    "hot": false
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "13d55e1ab7fa4688",
@@ -3688,12 +3798,12 @@
     "id": "a3160ec17f8bc8c9",
     "source": "Krebs on Security",
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-    "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
+    "description": "Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real ",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "date": "2026-08-27T11:04:15+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "db967e435f2183e7",
