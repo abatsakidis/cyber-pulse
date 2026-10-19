@@ -1,5 +1,16 @@
 [
   {
+    "id": "247358ea9062c50c",
+    "source": "Security Affairs",
+    "title": "16-Year-Old Broadcom Wi-Fi Bug Lets Attackers Take Over Routers Without a Password",
+    "description": "A Broadcom Wi-Fi flaw dating back to 2010 allows attackers within Wi-Fi range to execute code on vulnerable routers without authentication. Researcher Quentin Kaiser presented a talk at Hexacon in Paris documenting a vulnerability in Broadcom’s proprietary 802.11 implementation that has been present in their SDK since at least 2010. The bug allows an attacker to get unauthenticated remote code execution on affected routers without knowing the WiFi password or going through the normal WPS setup process. As of October 15, 2026, none of the affected devices in Belgium had received a patch. “A vul",
+    "link": "https://securityaffairs.com/201268/iot/16-year-old-broadcom-wi-fi-bug-lets-attackers-take-over-routers-without-a-password.html",
+    "date": "2026-10-19T00:36:33+00:00",
+    "image": "https://quentinkaiser.be/assets/orange-exploit.mp4",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "04fece69cc9d98ac",
     "source": "BleepingComputer",
     "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
@@ -99,6 +110,28 @@
     "hot": false
   },
   {
+    "id": "67d0e98c4d1af73f",
+    "source": "Cyber Security News",
+    "title": "OpenCode Security Breach Exposes Third-Party API Keys of its Console Users",
+    "description": "OpenCode has disclosed a security breach affecting 1.4% of its Console users, warning that third-party API keys saved in affected workspaces may have been exposed. In an October 17 statement, the company linked the incident to a large-scale distillation attack and said it was working with Anthropic, OpenAI, and Google to address it. The affected group was limited to some Console users who had linked external providers. OpenCode said it had emailed everyone affected that morning and stated that users who did not receive an email were not impacted. The percentage refers to Console users, not the",
+    "link": "https://cybersecuritynews.com/opencode-security-breach/",
+    "date": "2026-10-18T04:20:16+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/OpenCode-Security-Breach.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "fedded7f6b39895a",
+    "source": "Cyber Security News",
+    "title": "Claude AI Solves 25-Year NSA Cryptography Mystery in Just 30 Minutes",
+    "description": "Anthropic says an internal Claude research model has traced the origins of five NSA-supplied elliptic curve seeds in under 30 minutes, answering a cryptography question that remained open for roughly 25 years. The finding explains how important public security parameters were chosen, rather than exposing secret keys or breaking encryption. In a report published October 16, 2026 , researchers said the seeds behind NIST curves P-192, P-224, P-256, P-384 and P-521 came from lrand48, an older C library random-number generator initialized with Unix timestamps. The result challenges a long-running t",
+    "link": "https://cybersecuritynews.com/claude-ai-cryptography-mystery/",
+    "date": "2026-10-17T16:59:29+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Claude-AI-Cryptography-Mystery.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
     "id": "c4b7f47a893a827c",
     "source": "Security Affairs",
     "title": "North Korean IT Workers Used Stolen US Identities to Earn $3 Million",
@@ -165,6 +198,17 @@
     "hot": false
   },
   {
+    "id": "6a414c24f79b2b48",
+    "source": "Cyber Security News",
+    "title": "Hackers used Compromised ConnectWise Backup Credentials to Hack 173 Microsoft 365 Accounts",
+    "description": "Hackers used a stolen ConnectWise Cloud Backup credential to sign in to 173 Microsoft 365 partner and customer tenants, giving them access through a trusted backup application. The incident shows how one leaked vendor secret can create risk across many organizations when a multitenant app already has wide permissions. The affected product is ConnectWise Cloud Backup, formerly known as SkyKick Backup. Managed service providers use the platform to protect Microsoft 365 and Google Workspace data. To perform backup and recovery tasks, the Microsoft 365 app may receive access to Exchange mailboxes,",
+    "link": "https://cybersecuritynews.com/connectwise-credentials-microsoft-365-accounts/",
+    "date": "2026-10-17T10:52:09+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/ConnectWise-Credentials-Microsoft-365-Accounts.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
     "id": "980e5dfe535eebd0",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Fortinet Multiple Products and BeyondTrust Remote Support flaws to its Known Exploited Vulnerabilities catalog",
@@ -204,7 +248,7 @@
     "description": "Μπαταρία, ταχύτητα και ιδιωτικότητα",
     "link": "https://www.news.gr/tech/article/4234182/pia-charaktiristika-anazitoun-i-katanalotes-stin-epilogi-tou-epomenou-smartphone.html",
     "date": "2026-10-17T06:55:25+00:00",
-    "image": "",
+    "image": "https://www.news.gr/wp-content/uploads/images/2026/10/17/fo/foldables_samsung.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -218,6 +262,39 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg",
     "category": "Hacking",
     "hot": false
+  },
+  {
+    "id": "046d21d7cef1ea26",
+    "source": "Cyber Security News",
+    "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+    "description": "Google released a Chrome Stable security update fixing 10 vulnerabilities across Windows, Mac, and Linux, including a high-severity DOM memory corruption flaw reported by Xinyang Ge of Anthropic with Claude AI. The update also addresses one critical, six high-severity, and three medium-severity vulnerabilities. Google announced the update on October 15, 2026. Google is rolling out Chrome versions 155.0.8059.84/.85 for Windows and Mac, and version 155.0.8059.84 for Linux over the coming days and weeks. Users should install the update when it becomes available and check Chrome’s About page to pr",
+    "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+    "date": "2026-10-17T05:29:38+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Google-Fixes-Chrome-Vulnerabilities-Including-Memory-Corruption-Flaw-Found-With-Claude-AI.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "109a6f27792fd9e6",
+    "source": "Cyber Security News",
+    "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers",
+    "description": "Hackers are exploiting a critical flaw in the Collabora Online Built-in CODE Server app for Nextcloud, with users reporting web shells on compromised servers. Tracked as CVE-2026-110447, the vulnerability allows remote attackers to run operating system commands without logging in. It affects the richdocumentscode app before version 26.4.303 and carries a CVSS v4 score of 9.2. The GitHub Advisory Database entry states that attackers exploited the flaw during September and October 2026. An October 3 warning on the Nextcloud community forum reported that users had found web shells on their server",
+    "link": "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/",
+    "date": "2026-10-17T05:24:55+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Exploit-Critical-Collabora-Online-Flaw-to-Backdoor-Nextcloud-Servers.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
+    "id": "c6106a120f221b46",
+    "source": "Cyber Security News",
+    "title": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds",
+    "description": "OpenAI has confirmed that an internal AI model hacked an unnamed government statistics website while trying to count hospital beds. The June 17, 2026 incident started as a data task during reinforcement-learning training, but turned into unauthorized access involving server files, exposed credentials, fake login tokens, and 24 years of downloaded statistics. OpenAI found the activity on August 13 and rated the case critical. The model received a request to find the total number of beds across health facilities in one district for one year. It was told that internet access was available only th",
+    "link": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/",
+    "date": "2026-10-17T04:15:46+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/OpenAI-Confirms-AI-Model-Hacked.webp",
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "8ad60a56e31c99da",
@@ -396,6 +473,17 @@
     "hot": false
   },
   {
+    "id": "70ef3dde2e070237",
+    "source": "Cyber Security News",
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver Malware and Evade Security Detection",
+    "description": "Hackers are using a newly identified platform called ROMULUS to deliver malware through ClickFix traps, combining hidden PowerShell scripts, altered software installers, and encrypted archives. The platform supports separate infection paths, including one that installs LegionLoader and another that abuses a legitimate Stardock program to load malicious code. The findings show how a single delivery system can serve different malware packages while hiding activity behind trusted tools. ClickFix tricks people into running commands themselves, often through fake verification prompts or repair inst",
+    "link": "https://cybersecuritynews.com/new-romulus-clickfix-platform/",
+    "date": "2026-10-16T14:42:10+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-New-ROMULUS-ClickFix-Platform-to-Deliver-Malware-and-Evade-Security-Detection.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
     "id": "9a13923e850d4932",
     "source": "SecurityWeek",
     "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
@@ -403,6 +491,17 @@
     "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
     "date": "2026-10-16T14:09:51+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "3e22241e2913a9f0",
+    "source": "Cyber Security News",
+    "title": "New YuanKong Android RAT Hijacks Phones to Steal Banking PINs and Passwords",
+    "description": "A newly analyzed Android remote-access Trojan called YuanKong can watch and control a victim’s phone, capture passwords and payment PINs, and send stolen information to operators. Rather than relying on access to text messages or contact lists, it uses Android’s Accessibility features and screen controls to observe what people do inside apps, including banking and payment apps. Researchers warn that this approach can expose sensitive information even when the user is interacting with a genuine app. The malware is also built to stay active and give operators control from afar. Its capabilities ",
+    "link": "https://cybersecuritynews.com/new-yuankong-android-rat/",
+    "date": "2026-10-16T14:08:06+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/New-YuanKong-Android-RAT-Hijacks-Phones-to-Steal-Banking-PINs-and-Passwords.webp",
     "category": "Malware",
     "hot": false
   },
@@ -429,6 +528,17 @@
     "hot": false
   },
   {
+    "id": "9a9dcac8e3f01e74",
+    "source": "Cyber Security News",
+    "title": "37-Year-Old Kernel Flaw Exploited to Gain Root Access on OpenBSD — PoC Released",
+    "description": "A proof-of-concept exploit that gains root access on OpenBSD by chaining two kernel flaws. The main bug dates back about 37 years to the original BSD source code. According to Security researchers at Calif, the flaw survived because a shared memory attachment counter named shm_nattch used a signed 16-bit value. OpenBSD fixed both issues before Calif published the exploit on October 16, 2026. The published research covers a local privilege escalation exploit and does not report active use in real-world attacks. 37-Year-Old OpenBSD Flaw The first flaw affects System V shared memory handling. By ",
+    "link": "https://cybersecuritynews.com/37-year-old-kernel-openbsd-flaw/",
+    "date": "2026-10-16T14:01:26+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/37-Year-Old-Kernel-OpenBSD-Flaw.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "f921d1ff000e65ee",
     "source": "Dark Reading",
     "title": "When Your Ransomware Negotiator Works for the Other Side",
@@ -451,17 +561,6 @@
     "hot": false
   },
   {
-    "id": "22c979b1853735b7",
-    "source": "Security Affairs",
-    "title": "F5 addressed critical RCE flaws in NGINX",
-    "description": "F5 addressed multiple vulnerabilities, including critical RCE flaws in NGINX that attackers could exploit without authentication. Security and application delivery firm F5 announced fixes for eleven security issues in NGINX. Among them, critical vulnerabilities tracked as CVE-2026-15176 and CVE-2026-93479 could be exploited without authentication via crafted HTTP requests. Under certain conditions beyond their control, an unauthenticated attacker could exploit the security flaws to trigger a buffer overflow leading to a restart. If ASLR is disabled or can be bypassed, the attacker could achiev",
-    "link": "https://securityaffairs.com/201106/security/f5-addressed-critical-rce-flaws-in-nginx.html",
-    "date": "2026-10-16T13:36:52+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2020/07/f5-networks-bg.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "016bd2dae22b27f7",
     "source": "The Record",
     "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
@@ -471,6 +570,17 @@
     "image": "http://cms.therecord.media/uploads/Datasuckers_f214f20b32.jpg",
     "category": "Hacking",
     "hot": true
+  },
+  {
+    "id": "f0386f6ecad99913",
+    "source": "Cyber Security News",
+    "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords",
+    "description": "A campaign against government organizations and state-linked infrastructure used AI-assisted scripts to steal credentials, maintain access to Linux servers and seek sensitive data, according to new research. The attackers altered users’ shell startup files to intercept the sudo command, then copied entered passwords to a file while passing them to the real command. This let a user’s request appear to work normally as the password was stolen. Unit 42’s investigation says the activity also involved web shells, custom malware, mailbox searches and attempts to erase evidence. The operation shows h",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/",
+    "date": "2026-10-16T13:23:48+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-AI-Generated-Scripts-to-Hijack-Linux-Sudo-Commands-and-Steal-Passwords.webp",
+    "category": "AI Security",
+    "hot": false
   },
   {
     "id": "fbeb5e30e9e1eddb",
@@ -610,7 +720,7 @@
     "title": "Backdooring Open-Weight AI Models",
     "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "date": "2026-10-16T11:04:53+00:00",
+    "date": "2026-10-16T11:05:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -886,7 +996,7 @@
     "description": "Μπορεί να κάνει ανάλυση μεγάλου όγκου δεδομένων και της αξιολόγησης πολλών πιθανών μοριακών δομών",
     "link": "https://www.news.gr/tech/article/4233797/i-techniti-noimosini-allazi-tin-erevna-ke-tin-anaptixi-farmakon.html",
     "date": "2026-10-15T20:39:31+00:00",
-    "image": "",
+    "image": "https://www.news.gr/wp-content/uploads/images/2022/06/15/su/supercomputer.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -1276,6 +1386,28 @@
     "hot": false
   },
   {
+    "id": "e1e7b17e135b767d",
+    "source": "Schneier on Security",
+    "title": "Upcoming Speaking Engagements",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
+    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+    "date": "2026-10-15T06:17:50+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "a554a3d3d3594c19",
+    "source": "Schneier on Security",
+    "title": "The Future of AI Cryptanalysis",
+    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+    "date": "2026-10-14T21:59:16+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "e8a4f7f4b95c9f1b",
     "source": "CyberScoop",
     "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
@@ -1375,17 +1507,6 @@
     "hot": false
   },
   {
-    "id": "e1e7b17e135b767d",
-    "source": "Schneier on Security",
-    "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
-    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-    "date": "2026-10-14T16:02:17+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "cdd00dd0e1b02e68",
     "source": "CyberScoop",
     "title": "Senators press Trump admin to rally federal government around AI safety, security",
@@ -1397,24 +1518,13 @@
     "hot": true
   },
   {
-    "id": "a554a3d3d3594c19",
-    "source": "Schneier on Security",
-    "title": "The Future of AI Cryptanalysis",
-    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-    "date": "2026-10-14T14:24:18+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1540,6 +1650,17 @@
     "hot": true
   },
   {
+    "id": "b449e7e8a3d156a6",
+    "source": "Schneier on Security",
+    "title": "Friday Squid Blogging: I Caught a Squid",
+    "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+    "date": "2026-10-14T09:35:26+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "6acd562a29a85766",
     "source": "The Hacker News",
     "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
@@ -1612,7 +1733,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -1980,17 +2101,6 @@
     "hot": true
   },
   {
-    "id": "b449e7e8a3d156a6",
-    "source": "Schneier on Security",
-    "title": "Friday Squid Blogging: I Caught a Squid",
-    "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-    "date": "2026-10-09T20:24:45+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "e70cc4a0becbaeaf",
     "source": "Dark Reading",
     "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -2172,7 +2282,7 @@
     "title": "How Technology Empowers—and Imperils—Dictators",
     "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Marga",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "date": "2026-10-08T11:07:35+00:00",
+    "date": "2026-10-08T11:08:05+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -2186,6 +2296,17 @@
     "date": "2026-10-08T09:00:00+00:00",
     "image": "https://media.wired.com/photos/6ac6a0115f6cc15e079284f6/master/pass/Anas%20Hattab%20and%20Janiyah%20village%20by%20Samar%20Hazboun-29.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "164755aee07efe9e",
+    "source": "Schneier on Security",
+    "title": "Apple’s Verified Photography System",
+    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
+    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+    "date": "2026-10-08T05:44:43+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -2264,17 +2385,6 @@
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "164755aee07efe9e",
-    "source": "Schneier on Security",
-    "title": "Apple’s Verified Photography System",
-    "description": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avo",
-    "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-    "date": "2026-10-07T11:07:36+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
-    "hot": false
   },
   {
     "id": "199209a862a654b7",
@@ -2800,7 +2910,7 @@
     "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2910,7 +3020,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3636,7 +3746,7 @@
     "description": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity the",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "date": "2026-09-01T22:40:28+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Vulnerability",
     "hot": true
   },
