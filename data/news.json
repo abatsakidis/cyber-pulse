@@ -1,5 +1,49 @@
 [
   {
+    "id": "8199a728f033a4d2",
+    "source": "BleepingComputer",
+    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+    "description": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+    "date": "2026-10-19T21:49:48+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/19/nikkei.jpg",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
+    "id": "f955257e4c86ff0b",
+    "source": "BleepingComputer",
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+    "description": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+    "date": "2026-10-19T21:24:51+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "38e8956eec079f46",
+    "source": "Dark Reading",
+    "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+    "description": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+    "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+    "date": "2026-10-19T21:13:41+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?width=720&quality=80&disable=upscale",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "f0f853d3ed401c01",
+    "source": "Dark Reading",
+    "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+    "description": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+    "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+    "date": "2026-10-19T19:55:01+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "category": "Malware",
+    "hot": false
+  },
+  {
     "id": "0e6854bf5331053f",
     "source": "WIRED Security",
     "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
@@ -41,6 +85,17 @@
     "date": "2026-10-19T19:40:58+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/19/backupper-supply-chain-attack.jpg",
     "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "e6485c0a6100f225",
+    "source": "Dark Reading",
+    "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+    "description": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
+    "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+    "date": "2026-10-19T19:19:33+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?width=720&quality=80&disable=upscale",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -533,7 +588,7 @@
     "title": "Training AIs to Solve CAPTCHAs",
     "description": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither improves with exposure. We study what changes when a solver improves with use. Our system pairs a fine-tuned YOLOv8 detector with an open-weight VLM behind a confidence-based rou",
     "link": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-    "date": "2026-10-19T11:07:43+00:00",
+    "date": "2026-10-19T11:08:01+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -1122,17 +1177,6 @@
     "hot": true
   },
   {
-    "id": "fcd8a4d8a86d257d",
-    "source": "BleepingComputer",
-    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-    "description": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-    "date": "2026-10-16T13:50:59+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/10/12/chat-prompt-header.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "0a82419f5aa8562c",
     "source": "Dark Reading",
     "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
@@ -1141,17 +1185,6 @@
     "date": "2026-10-16T13:00:00+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
-    "hot": true
-  },
-  {
-    "id": "4ddcc21ef659b347",
-    "source": "BleepingComputer",
-    "title": "Burger King Japan data breach exposes 11 million customer records",
-    "description": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-    "date": "2026-10-16T12:01:29+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/16/Burger-King-Japan.jpg",
-    "category": "Privacy",
     "hot": true
   },
   {
@@ -1215,9 +1248,9 @@
     "title": "Backdooring Open-Weight AI Models",
     "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "date": "2026-10-16T11:04:53+00:00",
+    "date": "2026-10-16T11:05:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -1639,6 +1672,28 @@
     "hot": false
   },
   {
+    "id": "e1e7b17e135b767d",
+    "source": "Schneier on Security",
+    "title": "Upcoming Speaking Engagements",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
+    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+    "date": "2026-10-15T06:17:50+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "a554a3d3d3594c19",
+    "source": "Schneier on Security",
+    "title": "The Future of AI Cryptanalysis",
+    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+    "date": "2026-10-14T21:59:16+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "e8a4f7f4b95c9f1b",
     "source": "CyberScoop",
     "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
@@ -1727,28 +1782,6 @@
     "hot": false
   },
   {
-    "id": "e1e7b17e135b767d",
-    "source": "Schneier on Security",
-    "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
-    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-    "date": "2026-10-14T16:02:17+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "a554a3d3d3594c19",
-    "source": "Schneier on Security",
-    "title": "The Future of AI Cryptanalysis",
-    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-    "date": "2026-10-14T14:24:18+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -1767,7 +1800,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
     "date": "2026-10-14T14:10:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -1870,6 +1903,17 @@
     "hot": true
   },
   {
+    "id": "b449e7e8a3d156a6",
+    "source": "Schneier on Security",
+    "title": "Friday Squid Blogging: I Caught a Squid",
+    "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+    "date": "2026-10-14T09:35:26+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "6acd562a29a85766",
     "source": "The Hacker News",
     "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
@@ -1942,7 +1986,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2206,7 +2250,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2220,17 +2264,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
     "hot": true
-  },
-  {
-    "id": "b449e7e8a3d156a6",
-    "source": "Schneier on Security",
-    "title": "Friday Squid Blogging: I Caught a Squid",
-    "description": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-    "date": "2026-10-09T20:24:45+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg",
-    "category": "General Security",
-    "hot": false
   },
   {
     "id": "e70cc4a0becbaeaf",
@@ -2414,9 +2447,9 @@
     "title": "How Technology Empowers—and Imperils—Dictators",
     "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Marga",
     "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "date": "2026-10-08T11:07:35+00:00",
+    "date": "2026-10-08T11:08:05+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -2503,7 +2536,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2772,17 +2805,6 @@
     "hot": false
   },
   {
-    "id": "795d6aacc7a5bc8d",
-    "source": "Dark Reading",
-    "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-    "description": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-    "date": "2026-10-02T20:18:37+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "e0de2526243bbef5",
     "source": "WIRED Security",
     "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
@@ -2791,28 +2813,6 @@
     "date": "2026-10-02T19:52:36+00:00",
     "image": "https://media.wired.com/photos/6abfefc1a18993c6adb83fa3/master/pass/GettyImages-2285538235.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "4087908017c5b615",
-    "source": "Dark Reading",
-    "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
-    "description": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-    "date": "2026-10-02T16:56:30+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f39295ab2cc8617/6abec652493aca7db2e138d1/hear-no-evil-see-no-evil-monkeys-robert_lemos.jpg?width=720&quality=80&disable=upscale",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "c982085140306da5",
-    "source": "Dark Reading",
-    "title": "SWIFT Banking & Government Middleware Enables RCE",
-    "description": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-    "date": "2026-10-02T16:27:54+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb2cd941ab8738/6abfc2b68e913fc976ab5ea7/USB-years-Getty.jpg?width=720&quality=80&disable=upscale",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -3009,7 +3009,7 @@
     "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
