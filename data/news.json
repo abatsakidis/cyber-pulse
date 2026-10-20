@@ -165,28 +165,6 @@
     "hot": false
   },
   {
-    "id": "6c8e8d3094a3e787",
-    "source": "Cyber Security News",
-    "title": "Critical Drupal RCE Vulnerability Could Let Attackers Take Over Websites Without Authentication",
-    "description": "Drupal has released security updates for a critical remote code execution vulnerability that could let attackers take over affected websites without logging in. Tracked as CVE-2026-108097, the flaw affects the Field UI module in Drupal core. The Drupal Security Team published its warning on October 14, 2026. The official security advisory, SA-CORE-2026-014, assigns the issue a risk score of 19 out of 25 under Drupal’s rating system. Successful exploitation could expose all private website data and allow attackers to change or delete information. The score is not a CVSS rating. The most importa",
-    "link": "https://cybersecuritynews.com/drupal-rce-vulnerability/",
-    "date": "2026-10-19T18:13:51+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Critical-Drupal-RCE-Vulnerability-Could-Let-Attackers-Take-Over-Websites-Without-Authentication.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
-    "id": "dfbe7d2a8ac105f2",
-    "source": "Cyber Security News",
-    "title": "Microsoft Says AI Agents Cannot Be Trusted and Could Become Insider Security Threats",
-    "description": "Microsoft warns organizations to treat AI agents as potential insider risks not because they are automatically malicious, but because they can access company data, apps, and tools and act on that access at high speed. The warning, published on October 19, 2026, comes as businesses use agents to handle tasks such as writing code, reviewing documents, and processing expenses. An agent’s actions can change as its instructions, data, or working context change. It may make a mistake, follow harmful directions hidden in a document, or be compromised. Because agents can act across connected systems, ",
-    "link": "https://cybersecuritynews.com/ai-models-as-insider-threats/",
-    "date": "2026-10-19T18:04:16+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/AI-Models-as-Insider-Threats.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "41e2678d48f6897a",
     "source": "The Hacker News",
     "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
@@ -205,17 +183,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
     "date": "2026-10-19T17:27:15+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/19/key.jpg",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "3ee91216bfcf7004",
-    "source": "Cyber Security News",
-    "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
-    "description": "San Rafael, United States, October 19th, 2026, CyberNewswire Built on an evolutionary engine first released in 2018, STAR Fuzzer by Bright Security finds crashes, memory exhaustion and memory-safety bugs in security-critical code without a running application. In its first open source research run, it found High or Critical issues in 45% of the projects tested, and in its first month of availability it produced ten published findings in eight projects, including the Crystal standard library, htop and RIOT OS. Bright Security , the Agentic Offensive Application Security company, today announced",
-    "link": "https://cybersecuritynews.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/",
-    "date": "2026-10-19T17:11:36+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGCsD2tSPkES2TpGHmakSaEtOSSVV3ANJJxK5SfNyYMzCK4DE9BSg1HdFHlk6e2JQvE-9jDoX4mbUMmeH9aYvh37sbVfPBE2IVUqI63Ph22fwbjUfGSCXwJ2zrQWeJkQknTBazbm4vor4rxV3kbYWgNnPmkj4QsNkoenNFdgkfUlSuRdacK8WzpBGi1U/s1600/Insignary%20Launches%20Clarity%20On-Demand%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20proj%20-%202026-10-19T194625.64.webp",
     "category": "AI Security",
     "hot": true
   },
@@ -473,28 +440,6 @@
     "hot": false
   },
   {
-    "id": "9f21f8952354b061",
-    "source": "Cyber Security News",
-    "title": "NSA, CISA and NIST Release New Security Guidelines to Detect and Shut Down Rogue AI Agents",
-    "description": "NSA, CISA, and NIST have released joint security guidelines to help organizations detect, contain, and shut down AI agents that act beyond their approved tasks. Published October 16, 2026, the voluntary guidance sets out ten practices for managing incidents during superintelligence training and evaluation, with a focus on maintaining human oversight. The NIST announcement groups the practices into preparation, detection, response, recovery, and reporting. Its main audience is organizations training or testing highly capable agents on lengthy tasks with limited human supervision. The recommenda",
-    "link": "https://cybersecuritynews.com/nsa-cisa-and-nist-release-guidelines-to-rogue-ai-agents/",
-    "date": "2026-10-19T12:08:04+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/NSA-CISA-and-NIST-Release-New-Security-Guidelines-to-Detect-and-Shut-Down-Rogue-AI-Agents-1.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "d12a6b491e31c163",
-    "source": "Cyber Security News",
-    "title": "Hackers Exploit SiteGuard WAF Vulnerability That Could Give Them Full Control of Servers",
-    "description": "Hackers are exploiting a command injection flaw in SiteGuard Server Edition, a web application firewall installed directly on protected servers. Tracked as CVE-2026-106931, the vulnerability could let attackers run operating system commands with root or SYSTEM privileges, potentially giving them full control of an affected server. The flaw affects the product’s statistics function, which is enabled by default. EG Secure Solutions confirmed exploitation and notified customers with direct support contracts on September 29, 2026. Japan’s vulnerability coordination service published its JVN adviso",
-    "link": "https://cybersecuritynews.com/hackers-exploit-siteguard-waf-vulnerability/",
-    "date": "2026-10-19T12:07:14+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Exploit-SiteGuard-WAF-Vulnerability-That-Could-Give-Them-Full-Control-of-Servers.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "1230fd93bbf624ee",
     "source": "SecurityWeek",
     "title": "One Compromised Login Exposed Millions of California Students’ Records",
@@ -525,28 +470,6 @@
     "date": "2026-10-19T11:50:00+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "35eb9bc70cefa835",
-    "source": "Cyber Security News",
-    "title": "Hackers Registered New Teams-Based Domains and Used a Login Page to Steal Your Logins",
-    "description": "A newly registered domain copies Microsoft Teams’ login page and interface, raising concerns about a phishing attempt targeting workplace users. Security researcher Steven Lim reported that teams-cloud[.]live was just five days old when he flagged it on October 18, 2026. He urged organizations to block the address before employees encounter the fake site. The alert highlights phishing built around a familiar business tool. A copied Teams screen could persuade employees to trust a sign-in request. However, the available report does not establish how many people visited the site, whether passwor",
-    "link": "https://cybersecuritynews.com/teams-domain-login-page/",
-    "date": "2026-10-19T11:40:57+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Registered-New-Teams-based-Domains-and-Uses-Login-Page-to-Steas-Your-Logins.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
-    "id": "5aee9bc81efea2de",
-    "source": "Cyber Security News",
-    "title": "16-Year-Old Broadcom Wi-Fi Flaw Lets Attackers Hack Routers Without Knowing Passwords",
-    "description": "A 16-year-old flaw in Broadcom’s Wi-Fi software can let attackers within wireless range take control of affected routers without knowing the network password. Security researcher Quentin Kaiser disclosed the issue at Hexacon in Paris on October 16, 2026, warning that old code remains in widely deployed devices. According to Kaiser’s research, the flaw has existed in Broadcom’s software development kit since at least 2010. It affects its proprietary Wi-Fi Protected Setup (WPS) implementation. It allows memory leaks and attacker-controlled code execution before normal WPS enrollment finishes. Th",
-    "link": "https://cybersecuritynews.com/16-year-old-broadcom-wi-fi-flaw/",
-    "date": "2026-10-19T11:36:47+00:00",
-    "image": "https://quentinkaiser.be/assets/orange-exploit.mp4",
-    "category": "Malware",
     "hot": false
   },
   {
@@ -737,17 +660,6 @@
     "hot": true
   },
   {
-    "id": "c387057dcfbcfbb3",
-    "source": "Cyber Security News",
-    "title": "Google Unveils New Android AI Protections to Block Scam Calls, Phishing Links and OTP Theft",
-    "description": "Google has announced a new set of Android security protections designed to stop mobile scams across calls, text messages, chat apps, web links, and account verification codes. The update comes as criminals increasingly use spoofed phone numbers, fake bank alerts, phishing pages, remote screen sharing, and AI-generated voices to trick users into giving up money or login details. Google said its existing AI-powered scam detection tools in Phone by Google and Google Messages already identify more than five million suspected scam calls and texts each month. The new protections focus on preventing ",
-    "link": "https://cybersecuritynews.com/google-unveils-new-android-ai-protections/",
-    "date": "2026-10-19T06:04:18+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Google-Unveils-New-Android-AI-Protections-to-Block-Scam-Calls-Phishing-Links-and-OTP-Theft.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "c9534b710b4f3702",
     "source": "Help Net Security",
     "title": "Bearer CLI: Free, source-available code security scanning tool (SAST)",
@@ -792,17 +704,6 @@
     "hot": false
   },
   {
-    "id": "1bd2ad5d526e5779",
-    "source": "Cyber Security News",
-    "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
-    "description": "Hackers are exploiting flaws in Plex Media Server to install cryptocurrency mining malware, with a researcher recording successful attacks against a honeypot on October 17, 2026. The activity follows the release of Plex2Shell, a public exploit that chains four vulnerabilities to run code without logging in. Later observations also revealed proxy software running alongside the miner. The findings from Boredhackerblog show active exploitation of an exposed test server, rather than scanning alone. However, the available evidence does not establish how many real servers have been compromised or id",
-    "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/",
-    "date": "2026-10-19T04:14:01+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Plex2Shell-Attack-Chain.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "093720795dff7670",
     "source": "Help Net Security",
     "title": "Ransomware pressure now reaches employees’ homes and families",
@@ -812,17 +713,6 @@
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/21131911/ransomare-threat-2.webp",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "7c2f8b6c08cbf587",
-    "source": "Cyber Security News",
-    "title": "Microsoft Confirms October Windows Updates Can Break Exchange Server Email Services",
-    "description": "Microsoft has confirmed that Windows Server security updates released on October 13, 2026, can disrupt Exchange Server email services, blocking webmail access and leaving messages undelivered. The issue affects some on-premises systems running Exchange Server 2016, Exchange Server 2019, and Exchange Server Subscription Edition. Microsoft has published a workaround and advises administrators not to uninstall the Windows updates. The failures stem from changes in Windows Server, not the separate October Exchange Server security updates. Servers can experience problems even without installing the",
-    "link": "https://cybersecuritynews.com/october-updates-break-exchange-server/",
-    "date": "2026-10-19T03:39:03+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/October-Updates-Break-Exchange-Server.webp",
-    "category": "Vulnerability",
-    "hot": false
   },
   {
     "id": "247358ea9062c50c",
@@ -2250,7 +2140,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2536,7 +2426,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
