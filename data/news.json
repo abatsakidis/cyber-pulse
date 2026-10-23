@@ -1,5 +1,104 @@
 [
   {
+    "id": "b49bd9228562e860",
+    "source": "BleepingComputer",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "description": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "date": "2026-10-23T18:54:41+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/23/Microsoft-Teams-phishing.jpg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "7a194473c6c8f656",
+    "source": "The Hacker News",
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+    "description": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "date": "2026-10-23T18:50:13+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "ade767df0aef559a",
+    "source": "Security Affairs",
+    "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches",
+    "description": "PHP warns of a new, unlikely code execution flaw, CVE-2026-115560, and advises disabling session upload progress until a fix is released. PHP has warned of a new code execution vulnerability, tracked as CVE-2026-115560, just two days after releasing emergency patches for the critical PHP2Shell flaws. The vulnerability affects only a specific PHP configuration that PHP says is unlikely to be used in practice. An application must meet several conditions: it must configure session.serialize_handler as php_binary or php_serialize , change it to php at runtime using ini_set() , and make this change",
+    "link": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html",
+    "date": "2026-10-23T18:07:27+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "aacb1fddcce072c4",
+    "source": "The Hacker News",
+    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+    "description": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
+    "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+    "date": "2026-10-23T17:54:08+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "70b87dccc7c23a24",
+    "source": "The Hacker News",
+    "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+    "description": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+    "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+    "date": "2026-10-23T17:50:47+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "52128c2d5b967cec",
+    "source": "The Record",
+    "title": "FCC bans two devices with surveillance chips linked to Huawei",
+    "description": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
+    "link": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
+    "date": "2026-10-23T17:28:00+00:00",
+    "image": "http://cms.therecord.media/uploads/fcc_f0096cadc5.jpg",
+    "category": "Privacy",
+    "hot": false
+  },
+  {
+    "id": "6a47ade02f339fa2",
+    "source": "Dark Reading",
+    "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+    "description": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+    "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+    "date": "2026-10-23T17:26:59+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "d5edc3c797acfa99",
+    "source": "BleepingComputer",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+    "description": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+    "date": "2026-10-23T17:05:07+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Windows_Server_headpic.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "cc7505d8e47d1dae",
+    "source": "BleepingComputer",
+    "title": "Quest Diagnostics confirms data breach exposed patient records",
+    "description": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+    "date": "2026-10-23T16:40:07+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/23/quest.jpg",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
     "id": "d3c136c1f6daa0ca",
     "source": "CyberScoop",
     "title": "Senators say targeted ads are a security risk. Ad groups say the critics are off base.",
@@ -267,7 +366,7 @@
     "id": "0447ea467bbc88e5",
     "source": "Dark Reading",
     "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-    "description": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+    "description": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
     "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
     "date": "2026-10-23T11:38:28+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale",
@@ -297,9 +396,9 @@
     "hot": false
   },
   {
-    "id": "e57cce4078a9bb63",
+    "id": "bc22f3bdface284f",
     "source": "The Hacker News",
-    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
     "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
     "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
     "date": "2026-10-23T11:11:23+00:00",
@@ -311,11 +410,11 @@
     "id": "47c32ad646064c6f",
     "source": "Schneier on Security",
     "title": "Compromised TLS Certificates",
-    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237. “That is extremely in the ‘this ",
+    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237...",
     "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-    "date": "2026-10-23T11:05:16+00:00",
+    "date": "2026-10-23T11:04:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -539,6 +638,17 @@
     "hot": false
   },
   {
+    "id": "f4bb3aa2dc2eb9e0",
+    "source": "The Record",
+    "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+    "description": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+    "link": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+    "date": "2026-10-23T04:00:00+00:00",
+    "image": "http://cms.therecord.media/uploads/php_shahadat_rahman_unsplash_14f00bee62.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "511e6eb83911eade",
     "source": "Dark Reading",
     "title": "State Bank of India Suffers a Customer PII Data Leak",
@@ -660,17 +770,6 @@
     "hot": true
   },
   {
-    "id": "e047ab7bd0297a6d",
-    "source": "The Record",
-    "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
-    "description": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
-    "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
-    "date": "2026-10-22T18:46:00+00:00",
-    "image": "http://cms.therecord.media/uploads/vulnerability_digital_64411ae86a.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "1ca9a3482ceb9d7e",
     "source": "Security Affairs",
     "title": "Signal Vulnerability Could Keep Calls Alive After Users Hang Up",
@@ -737,17 +836,6 @@
     "hot": true
   },
   {
-    "id": "563f4047898d62df",
-    "source": "The Record",
-    "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
-    "description": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the globe, Microsoft said.",
-    "link": "https://therecord.media/china-cyber-connectwise-ai",
-    "date": "2026-10-22T16:30:00+00:00",
-    "image": "http://cms.therecord.media/uploads/AI_agents_1_e0b6353553.jpg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "d1924fbc416a7888",
     "source": "The Hacker News",
     "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
@@ -792,17 +880,6 @@
     "hot": true
   },
   {
-    "id": "39946f88107ac431",
-    "source": "Schneier on Security",
-    "title": "New Serious PHP Vulnerabilities Released and Patched",
-    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption, CVE-",
-    "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-    "date": "2026-10-22T14:36:29+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "d4d38d99a51457a2",
     "source": "SecurityWeek",
     "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
@@ -817,7 +894,7 @@
     "id": "65593bc8a8775268",
     "source": "Dark Reading",
     "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-    "description": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+    "description": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
     "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
     "date": "2026-10-22T14:21:22+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -845,6 +922,17 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg",
     "category": "General Security",
     "hot": false
+  },
+  {
+    "id": "39946f88107ac431",
+    "source": "Schneier on Security",
+    "title": "New Serious PHP Vulnerabilities Released and Patched",
+    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs...",
+    "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+    "date": "2026-10-22T13:26:51+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "b81577baa97a1729",
@@ -1045,17 +1133,6 @@
     "hot": false
   },
   {
-    "id": "c77bbf1fb26fec17",
-    "source": "BleepingComputer",
-    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-    "description": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-    "date": "2026-10-21T22:16:26+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/07/chrome.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "9f2cb0fcbf09ee38",
     "source": "CyberScoop",
     "title": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
@@ -1064,17 +1141,6 @@
     "date": "2026-10-21T21:58:21+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2023/03/GettyImages-1459359048.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "80d74d77dab3e7db",
-    "source": "BleepingComputer",
-    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-    "description": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-    "date": "2026-10-21T21:43:27+00:00",
-    "image": "",
-    "category": "Malware",
     "hot": false
   },
   {
@@ -1108,17 +1174,6 @@
     "date": "2026-10-21T20:56:01+00:00",
     "image": "https://www.news.gr/wp-content/uploads/images/2022/01/07/xa/xaker.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "e9fd103e823adf14",
-    "source": "BleepingComputer",
-    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-    "description": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-    "date": "2026-10-21T20:31:48+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg",
-    "category": "Malware",
     "hot": false
   },
   {
@@ -1271,7 +1326,7 @@
     "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -1353,17 +1408,6 @@
     "hot": false
   },
   {
-    "id": "bcdfd0eca2dd73ec",
-    "source": "Security Affairs",
-    "title": "US Government Orders DeepSeek Out of Federal Civilian Systems",
-    "description": "PHP prepares emergency patches for two critical RCE flaws, while older, unsupported versions could remain exposed without vendor fixes. The U.S. government ordered federal civilian agencies to remove DeepSeek products from their IT systems and stop buying them. The order also reaches third-party tools and services built with DeepSeek implementations, which is the part most organizations should notice. The notice doesn’t explain exactly what counts as a “DeepSeek implementation.” Agencies will need to ask suppliers whether their products fall under the ban. “The Department of Homeland Security ",
-    "link": "https://securityaffairs.com/201417/ai/us-government-orders-deepseek-out-of-federal-civilian-systems.html",
-    "date": "2026-10-21T12:06:36+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2025/01/image-44.png",
-    "category": "Malware",
-    "hot": true
-  },
-  {
     "id": "36d5c30d3b550a4c",
     "source": "The Hacker News",
     "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
@@ -1391,7 +1435,7 @@
     "title": "Workshop on Economics and Information Security (WEIS) Archive",
     "description": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay on the economics of information security.",
     "link": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-    "date": "2026-10-21T11:02:49+00:00",
+    "date": "2026-10-21T11:02:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1774,9 +1818,9 @@
     "id": "d3ef535e3a2b6dc4",
     "source": "Schneier on Security",
     "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters. AU = Advanced Unlocks,",
+    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters...",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-    "date": "2026-10-20T11:03:58+00:00",
+    "date": "2026-10-20T11:03:13+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": true
@@ -1811,39 +1855,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13437312/iphone-duo-asyllipti-zitisi-gia-to-anadiploumeno-kinito-tis-apple-oi-paradoseis-ftanoun-eos-ton-ianouario-tou-2027",
     "date": "2026-10-20T08:58:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/2-iPhone-Duo.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "c21f23f9cad907c9",
-    "source": "The Hacker News",
-    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-    "description": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
-    "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-    "date": "2026-10-20T08:21:29+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "881d9e344c05135d",
-    "source": "The Hacker News",
-    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-    "description": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
-    "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-    "date": "2026-10-20T07:11:45+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "cc97221540a42f02",
-    "source": "The Hacker News",
-    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-    "description": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
-    "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-    "date": "2026-10-20T05:53:16+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -1953,7 +1964,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1985,7 +1996,7 @@
     "title": "Training AIs to Solve CAPTCHAs",
     "description": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither improves with exposure. We study what changes when a solver improves with use. Our system pairs a fine-tuned YOLOv8 detector with an open-weight VLM behind a confidence-based rou",
     "link": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-    "date": "2026-10-19T11:08:01+00:00",
+    "date": "2026-10-19T11:07:43+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -2139,9 +2150,9 @@
     "title": "Backdooring Open-Weight AI Models",
     "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "date": "2026-10-16T11:05:50+00:00",
+    "date": "2026-10-16T11:04:53+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -2266,28 +2277,6 @@
     "hot": false
   },
   {
-    "id": "e1e7b17e135b767d",
-    "source": "Schneier on Security",
-    "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
-    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-    "date": "2026-10-15T06:17:50+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "a554a3d3d3594c19",
-    "source": "Schneier on Security",
-    "title": "The Future of AI Cryptanalysis",
-    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
-    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-    "date": "2026-10-14T21:59:16+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "478e7dd7a99761f3",
     "source": "Dark Reading",
     "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
@@ -2321,13 +2310,35 @@
     "hot": false
   },
   {
+    "id": "e1e7b17e135b767d",
+    "source": "Schneier on Security",
+    "title": "Upcoming Speaking Engagements",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
+    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+    "date": "2026-10-14T16:02:17+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "a554a3d3d3594c19",
+    "source": "Schneier on Security",
+    "title": "The Future of AI Cryptanalysis",
+    "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
+    "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+    "date": "2026-10-14T14:24:18+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2371,7 +2382,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2475,17 +2486,6 @@
     "hot": false
   },
   {
-    "id": "ebaf8540b40349b6",
-    "source": "Dark Reading",
-    "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-    "description": "Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.",
-    "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-    "date": "2026-10-12T12:30:58+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "0bf854ee82d89018",
     "source": "WIRED Security",
     "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
@@ -2558,7 +2558,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2866,7 +2866,7 @@
     "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2954,7 +2954,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3218,7 +3218,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Privacy",
     "hot": true
   },
