@@ -1,5 +1,291 @@
 [
   {
+    "id": "ba1aae23c24a18b2",
+    "source": "Help Net Security",
+    "title": "Microsoft 365 accounts compromised at 79 organizations, no passwords needed",
+    "description": "An attacker who spent ten weeks replaying stolen Microsoft 365 sign-in sessions broke into email accounts at 79 organizations and used hidden inbox rules to keep victims from seeing parts of their own mail, according to Huntress. The researchers tracked the campaign between July 14 and September 22, 2026, counting 497 successful sign-ins and more than 200,000 failed login attempts. The stolen sessions were replayed from servers at 1337 Services GmbH, a hosting provider incorporated … More → The post Microsoft 365 accounts compromised at 79 organizations, no passwords needed appeared first on H",
+    "link": "https://www.helpnetsecurity.com/2026/10/23/microsoft-365-accounts-stolen-sessions/",
+    "date": "2026-10-23T11:45:12+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25130053/email-2-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "cf5e4bf39b14c99e",
+    "source": "Security Affairs",
+    "title": "Meta Faces $25 Billion Penalty Linked to Cambridge Analytica Scandal",
+    "description": "A New Mexico judge ordered Meta to pay $25 billion for misleading users about privacy, setting a record penalty. Meta plans to appeal. This week a New Mexico judge ordered Meta to pay the state $25 billion. The order follows a jury finding that the company deceived Facebook users about their privacy, and it’s the […]",
+    "link": "https://securityaffairs.com/201582/laws-and-regulations/meta-faces-25-billion-penalty-linked-to-cambridge-analytica-scandal.html",
+    "date": "2026-10-23T11:42:24+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/08/meta-logo.jpg",
+    "category": "Privacy",
+    "hot": false
+  },
+  {
+    "id": "1ecc5d5a881ceca5",
+    "source": "The Hacker News",
+    "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+    "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk. The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
+    "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "date": "2026-10-23T11:25:43+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "659b52644dd7443f",
+    "source": "Cyber Security News",
+    "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems",
+    "description": "A new UEFI bootkit called BlackX has been used in cyberespionage attacks against diplomatic organizations in Tajikistan, Uzbekistan, and Turkmenistan. The malware targets Secure Boot, a feature designed to help stop untrusted software from running before Windows starts. Researchers say the infected computers had received Windows updates, but a key Secure Boot protection had not […] The post Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/",
+    "date": "2026-10-23T11:23:35+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-New-BlackX-Bootkit-to-Bypass-Windows-Secure-Boot-on-Fully-Patched-Systems.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "e57cce4078a9bb63",
+    "source": "The Hacker News",
+    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
+    "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+    "date": "2026-10-23T11:11:23+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "47c32ad646064c6f",
+    "source": "Schneier on Security",
+    "title": "Compromised TLS Certificates",
+    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237...",
+    "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+    "date": "2026-10-23T11:04:22+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "a61353491282b4c1",
+    "source": "Security Affairs",
+    "title": "PHP2Shell: Millions of Attacks, No Confirmed Successful Exploits Yet",
+    "description": "PHP2Shell attacks have surged into the millions, but no successful exploitation is confirmed. Patch it immediately. On October 21, PHP released emergency patches for two critical vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619 (CVSS score of 9.2), affecting every PHP version that handles web requests. The bug code dates back to PHP 5.4 from 2012, lives […]",
+    "link": "https://securityaffairs.com/201538/hacking/php2shell-millions-of-attacks-no-confirmed-successful-exploits-yet.html",
+    "date": "2026-10-23T10:52:00+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-56.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "9d680bfa8cf9286d",
+    "source": "SecurityWeek",
+    "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+    "description": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+    "date": "2026-10-23T10:31:16+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/02/China-Surveillence-Threat.jpg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "cdea8f0935860d64",
+    "source": "SecurityWeek",
+    "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+    "description": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+    "date": "2026-10-23T09:58:34+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/arista.jpeg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "eeaa27e385a63323",
+    "source": "The Hacker News",
+    "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+    "description": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
+    "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "date": "2026-10-23T09:36:00+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "da52c38d5223ff13",
+    "source": "Cyber Security News",
+    "title": "SBI Notifies Customers Impacted by the Recent Cyber Incident",
+    "description": "State Bank of India (SBI) has individually notified customers whose information was identified in a recent cyber incident, sending alerts through email and WhatsApp. In its latest advisory on October 23, the bank said customer account balances and funds remain safe while investigators examine the suspected exposure of personal information found on the dark web. […] The post SBI Notifies Customers Impacted by the Recent Cyber Incident appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/sbi-notifies-customers-with-cyber-incident/",
+    "date": "2026-10-23T09:20:41+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Multiple-waves-of-DDoS-attacks-caused-this-weeks-outage-in-North-Korea-1.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "ad7ee4c0c2f89915",
+    "source": "Newsbeast Technology",
+    "title": "Γιατί να βγάλεις το smartwatch μετά την προπόνηση; Η σειρά HUAWEI WATCH GT 7 σε ακολουθεί όλη μέρα",
+    "description": "Η τσάντα του γυμναστηρίου βρίσκεται δίπλα στην τσάντα της δουλειάς. Το απόγευμα έχεις κανονίσει να βγεις για ποδήλατο, ενώ ένα μήνυμα στην ομαδική συνομιλία μπορεί να προσθέσει στο πρόγραμμα και μια συνάντηση με φίλους. Κάπως έτσι κυλούν πολλές ημέρες μας, με διαφορετικές δραστηριότητες και ελάχιστο χρόνο ανάμεσά τους. Σε ένα τέτοιο πρόγραμμα, όσα επιλέγεις να φοράς χρειάζεται να σε εξυπηρετούν για αρκετές ώρες. Ανάμεσά τους, το ρολόι συνδυάζει την πρακτική χρήση με το προσωπικό σου στιλ. Το κοιτάζεις όταν βιάζεσαι, το συμβουλεύεσαι στην άσκηση και το συνδυάζεις με τα ρούχα σου πριν φύγεις από",
+    "link": "https://www.newsbeast.gr/technology/arthro/13434630/giati-na-vgaleis-to-smartwatch-meta-tin-proponisi-i-seira-huawei-watch-gt-7-se-akolouthei-oli-mera",
+    "date": "2026-10-23T09:20:00+00:00",
+    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/10/HUAWEI-WATCH-GT7-PRO2.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "4686166c5afcda19",
+    "source": "Help Net Security",
+    "title": "Capcom data breach exposes 11.7 million account records",
+    "description": "Players who signed up for Capcom’s online account service may want to look twice at emails that seem to come from the company. The company has disclosed that a third party gained unauthorized access to customer information linked to CAPCOM ID, the account people use to sign in to the company’s web services and to play some of its games online. It detected suspicious activity on October 19 and confirmed the intrusion the same day. … More → The post Capcom data breach exposes 11.7 million account records appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/23/capcom-id-data-breach-11-million-records-exposed/",
+    "date": "2026-10-23T09:07:31+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/27172252/gaming-threat-1500.webp",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
+    "id": "233572b610c0680c",
+    "source": "The Hacker News",
+    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+    "description": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
+    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+    "date": "2026-10-23T08:40:43+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "eafd11f37b2eec96",
+    "source": "The Hacker News",
+    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+    "description": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
+    "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+    "date": "2026-10-23T08:35:45+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
+    "category": "General Security",
+    "hot": true
+  },
+  {
+    "id": "cc38997887342189",
+    "source": "SecurityWeek",
+    "title": "11 Million Impacted by Capcom Data Breach",
+    "description": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+    "date": "2026-10-23T08:34:14+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Capcom.jpeg",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
+    "id": "069b0d061cac6d29",
+    "source": "SecurityWeek",
+    "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+    "description": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’ appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+    "date": "2026-10-23T08:25:06+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/data-breach-healthcare-medical.jpg",
+    "category": "General Security",
+    "hot": true
+  },
+  {
+    "id": "e6986ed742b8fe2d",
+    "source": "Cyber Security News",
+    "title": "Top 10 Best Email Encryption Services in 2026 [Ranked & Scored]",
+    "description": "Email encryption has a usability paradox: the strongest cryptography loses to the recipient who gives up at the portal login and asks for the file “some other way.” The 2026 winners solve for both ends sender-side automation (policies, DLP triggers, one-click protect) and recipient experiences that don’t require a manual. We scored ten services on […] The post Top 10 Best Email Encryption Services in 2026 [Ranked & Scored] appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/best-email-encryption-services/",
+    "date": "2026-10-23T08:22:52+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Best-Email-Encryption-Services.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "1f0bd2209d9564d6",
+    "source": "Help Net Security",
+    "title": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense",
+    "description": "An attack tool built around AI goes looking for AI models that anyone on the internet can reach, then uses them to plan break-ins while the model’s owner pays for the computing power. Symantec captured the agent’s instruction set this summer through a honeypot posing as an unprotected AI service, researchers Priti More and Susmit Yenkar wrote. Its operators sent their entire working prompt to the decoy, expecting a live model on the other end … More → The post Hackers hijack exposed AI models to launch cyberattacks at victims’ expense appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/",
+    "date": "2026-10-23T08:21:48+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/18171505/digital-code.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "a3a741d40f8911a0",
+    "source": "Cyber Security News",
+    "title": "Top 9 Best Managed File Transfer (MFT) Solutions in 2026 [Ranked & Scored]",
+    "description": "No category has been breached more publicly this decade than managed file transfer mass-exploitation campaigns against MFT products turned quiet integration plumbing into board-level risk, and the 2023–2024 waves rewrote the buying criteria. In 2026 you evaluate an MFT vendor’s security engineering exposure architecture, patch velocity, hardening posture before its scheduler. Our sheet listed ten […] The post Top 9 Best Managed File Transfer (MFT) Solutions in 2026 [Ranked & Scored] appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/best-managed-file-transfer/",
+    "date": "2026-10-23T08:16:37+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Best-Managed-File-Transfer-Solutions-.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "b7e3da41eb8430b7",
+    "source": "SecurityWeek",
+    "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+    "description": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+    "date": "2026-10-23T08:10:46+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/supply-chain-attack.jpeg",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "179a7972e8866b9f",
+    "source": "SecurityWeek",
+    "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+    "description": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+    "date": "2026-10-23T07:54:47+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/Atlassian.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "f10bfe33cab1a4a9",
+    "source": "Cyber Security News",
+    "title": "Hackers Exploit Critical Citrix NetScaler RCE Flaw to Deploy Web Shells and Malware",
+    "description": "A critical vulnerability in Citrix NetScaler ADC and NetScaler Gateway is being exploited to run commands on exposed appliances, install web shells and deliver malware. Tracked as CVE-2026-88771, the flaw allows an unauthenticated attacker to execute commands remotely. Citrix disclosed it on September 27, 2026, and confirmed exploitation of appliances that had not been protected […] The post Hackers Exploit Critical Citrix NetScaler RCE Flaw to Deploy Web Shells and Malware appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-rce-flaw/",
+    "date": "2026-10-23T07:50:58+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Exploit-Critical-Citrix-NetScaler-RCE-Flaw-to-Deploy-Web-Shells-and-Malware.webp",
+    "category": "Malware",
+    "hot": true
+  },
+  {
+    "id": "e9571da54a228abf",
+    "source": "The Hacker News",
+    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+    "description": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+    "date": "2026-10-23T07:40:45+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "f8282a1e9a207928",
+    "source": "Cyber Security News",
+    "title": "Hacker With Limited Skills Used DeepSeek AI to Breach Indian University and Steal Over 5,200 Records",
+    "description": "A cybercriminal using the online handle BUGSTER used artificial intelligence tools to support attacks on Indian organizations, including two universities. In one confirmed intrusion, the attacker stole a MongoDB database containing more than 5,200 records, including personal information about students and staff, according to Palo Alto Networks’ Unit 42. The researchers did not name the […] The post Hacker With Limited Skills Used DeepSeek AI to Breach Indian University and Steal Over 5,200 Records appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/hacker-with-limited-skills-used-deepseek-ai/",
+    "date": "2026-10-23T07:13:36+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hacker-With-Limited-Skills-Used-DeepSeek-AI-to-Breach-Indian-University-and-Steal-Over-5200-Records.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "f40ad20e4821c93d",
+    "source": "SecurityWeek",
+    "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+    "description": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016 appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+    "date": "2026-10-23T06:39:29+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/03/Irianian-cyberattacks-hacks.jpg",
+    "category": "Cyberwarfare",
+    "hot": false
+  },
+  {
     "id": "2532e5424e730ef4",
     "source": "Security Affairs",
     "title": "INTERPOL Operation Serengeti III Nets 1,462 Arrests and Recovers $105 Million in Cybercrime Crackdown",
@@ -107,28 +393,6 @@
     "date": "2026-10-23T03:30:00+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "Privacy",
-    "hot": true
-  },
-  {
-    "id": "c13b04ed6f53f738",
-    "source": "Cyber Security News",
-    "title": "Quest Diagnostics Hacked – Attackers Accessed the System to Order Tests and View Results",
-    "description": "Quest Diagnostics has disclosed a cyberattack involving unauthorized access to its Quanum LSM system, which healthcare clients use to order laboratory tests and view results. The company discovered the incident on October 21, 2026, and suspended access to the platform while investigating whether patient records were exposed. The affected service, Quanum Lab Services Manager, supports […] The post Quest Diagnostics Hacked – Attackers Accessed the System to Order Tests and View Results appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/quest-diagnostics-hacked/",
-    "date": "2026-10-23T03:29:20+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Quest-Diagnostics-Hacked.webp",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "e582ee0e605b08b5",
-    "source": "Cyber Security News",
-    "title": "Critical Unpatched Linux Kernel Flaws Accidentally Disclosed on Public List",
-    "description": "Several unpatched Linux-related security flaws were posted to public mailing lists in October, exposing technical details before fixes were ready. The reports, submitted by Trend Micro’s Zero Day Initiative (ZDI), include two critical flaws rated CVSS 9.0 that could let a remote attacker run code on systems using the Linux kernel’s KSMBD file server. Other […] The post Critical Unpatched Linux Kernel Flaws Accidentally Disclosed on Public List appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/linux-kernel-flaws-accidentally-disclosed/",
-    "date": "2026-10-23T02:09:49+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Linux-kernel-Flaws-Accidentally-Disclosed.webp",
-    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -341,17 +605,6 @@
     "hot": false
   },
   {
-    "id": "a6a1bc6df6532d76",
-    "source": "Cyber Security News",
-    "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
-    "description": "Contern, Luxembourg, October 22nd, 2026, CyberNewswire Gcore is offering its WAAP Enterprise plan free of charge to any government body or public agency until December 31, 2026. The offer follows the php2shell vulnerabilities that forced public websites offline across Europe earlier this week. Gcore WAAP blocks the php2shell attack path (CVE-2026-109618 and CVE-2026-109619) by default […] The post Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/",
-    "date": "2026-10-22T16:12:01+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizBd1a5aVYe8UIXbYWj0_y9fSHoJAbzNUG_gVz8Vesod6L4b_D2mbULJOIVUGz3TJhImRViil0iNc-gKhFB6NwwC1el5_w4A7FGCB0msh_htxi1E3iaXey26Ss1wFN0LuFv8SghYzNUqOR3EWbL0aJLA6pZrHiawKxGkYv4gXNuNXWELH3ToHDfVt4F6c/s1600/Insignary%20Launches%20Clarity%20On-Demand%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20proj%20-%202026-10-22T195022.98.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "fb01f8f3c6422027",
     "source": "BleepingComputer",
     "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
@@ -360,17 +613,6 @@
     "date": "2026-10-22T15:49:32+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/Exchange_Online.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "995b3e4fc26acb19",
-    "source": "Cyber Security News",
-    "title": "Major U.S. Banks Detect Unauthorized AI Agents Operating Inside Customer Accounts",
-    "description": "Major U.S. banks are detecting third-party AI agents inside customer accounts, raising concerns that automated tools could act beyond the instructions customers give them. Some agents have contacted call centers or appeared to attempt independent actions, according to an Axios report published October 22, citing people familiar with the matter. Morgan Stanley, Bank of America, […] The post Major U.S. Banks Detect Unauthorized AI Agents Operating Inside Customer Accounts appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/u-s-banks-detect-unauthorized-ai-agents/",
-    "date": "2026-10-22T15:23:07+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/U.S.-Banks-Detect-AI-Agents.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -394,28 +636,6 @@
     "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "af27bc5e3933eff9",
-    "source": "Cyber Security News",
-    "title": "eMudhra Exits Global SSL/TLS Certificate Business Following the Vulnerability Disclosure",
-    "description": "eMudhra Limited has announced it is exiting the global SSL/TLS certificate business after disclosing weak private keys in eight intermediate certificate authority certificates. The October 22, 2026, decision follows emergency browser protections and growing questions about the company’s certificate issuance controls. eMudhra said its other digital trust services remain unaffected. In its official announcement, the company said […] The post eMudhra Exits Global SSL/TLS Certificate Business Following the Vulnerability Disclosure appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/emudhra-exits-global-ssl-tls-certificate/",
-    "date": "2026-10-22T14:52:11+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/eMudhra-Exits-Global-SSLTLS-Certificate.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "965c929e9fcd3b36",
-    "source": "Cyber Security News",
-    "title": "Claude Security Now Scans Repositories Continuously to Find Flaws and Track Fixes",
-    "description": "Anthropic has updated Claude Security so it can keep checking connected code repositories as they change, rather than waiting for a person to start each scan. The service also tracks reported vulnerabilities after developers make changes, marks them fixed when a correction is detected, and reopens them if they return. The updated product is in […] The post Claude Security Now Scans Repositories Continuously to Find Flaws and Track Fixes appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/claude-security-continuous-scans/",
-    "date": "2026-10-22T14:40:43+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Claude-Security-Continuous-Scans.webp",
-    "category": "Vulnerability",
-    "hot": false
   },
   {
     "id": "d4d38d99a51457a2",
@@ -465,7 +685,7 @@
     "id": "39946f88107ac431",
     "source": "Schneier on Security",
     "title": "New Serious PHP Vulnerabilities Released and Patched",
-    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption, CVE-",
+    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs...",
     "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
     "date": "2026-10-22T13:26:51+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -539,17 +759,6 @@
     "hot": false
   },
   {
-    "id": "1f0c316916e0a27a",
-    "source": "SecurityWeek",
-    "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-    "description": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
-    "date": "2026-10-22T12:20:23+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/05/firewall.jpeg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "d64d713f64fa8b80",
     "source": "The Record",
     "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
@@ -572,17 +781,6 @@
     "hot": false
   },
   {
-    "id": "d3972b144dd109af",
-    "source": "Help Net Security",
-    "title": "Fingerprint uses AI coding tools to automate fraud detection setup",
-    "description": "Fingerprint has announced Agentic Installation, the AI-powered onboarding path for companies to deploy device intelligence to their websites or apps in minutes to detect and stop fraud. By running a single prompt in an AI coding tool, such as Claude Code, Codex or Cursor, developers take Fingerprint from zero to production-ready in minutes, reducing manual setup and stopping fraud faster. What can take days or weeks with other device intelligence providers takes minutes with Fingerprint. … More → The post Fingerprint uses AI coding tools to automate fraud detection setup appeared first on Help",
-    "link": "https://www.helpnetsecurity.com/2026/10/22/fingerprint-agentic-installation/",
-    "date": "2026-10-22T11:45:24+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "b4ac0af611026eff",
     "source": "BleepingComputer",
     "title": "GitLab warns of new max severity code execution vulnerability",
@@ -591,28 +789,6 @@
     "date": "2026-10-22T11:41:48+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/GitLab-headpic.jpg",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "abb4d1061578eca7",
-    "source": "Help Net Security",
-    "title": "XTIUM expands XTAI with centralized AI governance and cost management",
-    "description": "XTIUM has released the latest version of XTAI (XTIUM Trusted AI), expanding its AI Service Platform with XTAI Orchestrator. The new governance platform brings together managed AI services, AI-powered voice, custom XTAI Agents, managed networks, and managed cloud. Building on XTAI’s initial focus on AI assessment, planning, governance, adoption, and deployment, the release helps enterprises move beyond pilots to operate, monitor, and control AI in production. Enterprises are rolling out end-user AI apps such as … More → The post XTIUM expands XTAI with centralized AI governance and cost managem",
-    "link": "https://www.helpnetsecurity.com/2026/10/22/xtium-xtai-orchestrator/",
-    "date": "2026-10-22T11:41:02+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "4c2b05a6798d5793",
-    "source": "Help Net Security",
-    "title": "SentinelOne brings runtime threat detection and response to AI agents",
-    "description": "SentinelOne has unveiled Singularity Agentic Detection and Response (ADR), a new offering that discovers AI agents, enforces what agents are allowed to do, monitors agent behavior in depth, and detects and stops unintended and malicious activity in real time. Bringing together visibility and governance of agent activity with SentinelOne’s signature runtime behavioral prevention, detection and response, the new offering is built directly on the Singularity Platform, giving new and existing customers a battle-tested foundation to … More → The post SentinelOne brings runtime threat detection and ",
-    "link": "https://www.helpnetsecurity.com/2026/10/22/sentinelone-singularity-agentic-detection-and-response/",
-    "date": "2026-10-22T11:27:36+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -627,17 +803,6 @@
     "hot": false
   },
   {
-    "id": "dd5aae9786c7d431",
-    "source": "SecurityWeek",
-    "title": "Splunk, SolarWinds Release Fresh Security Updates",
-    "description": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-    "date": "2026-10-22T10:45:24+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "8facd0dde7242865",
     "source": "The Hacker News",
     "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
@@ -649,17 +814,6 @@
     "hot": false
   },
   {
-    "id": "6332eb3e5ec8ae4c",
-    "source": "SecurityWeek",
-    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-    "description": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-    "date": "2026-10-22T10:05:21+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Cisco-company-logo.jpeg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "4075a2623dbcb8ed",
     "source": "CyberScoop",
     "title": "Encryption isn’t enough to protect data wherever it goes",
@@ -668,17 +822,6 @@
     "date": "2026-10-22T10:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2283773175.jpg",
     "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "7f14dbb249eb442e",
-    "source": "SecurityWeek",
-    "title": "PHP2Shell Exploitation Started Days Before Patches",
-    "description": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-    "date": "2026-10-22T09:48:58+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -712,28 +855,6 @@
     "date": "2026-10-22T07:47:22+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "d1058ee2a6c5559b",
-    "source": "SecurityWeek",
-    "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-    "description": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-    "date": "2026-10-22T07:38:14+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Oracle.jpeg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "51dd36c3f7d3ee55",
-    "source": "SecurityWeek",
-    "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
-    "description": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-    "date": "2026-10-22T07:26:54+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/01/instagram-facebook-meta-threads-social-media.jpeg",
-    "category": "Privacy",
     "hot": false
   },
   {
@@ -781,9 +902,9 @@
     "hot": false
   },
   {
-    "id": "91028ebdc7a91834",
+    "id": "3797e7d83061a8be",
     "source": "Dark Reading",
-    "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+    "title": "UAE Transitions 50% of Government Services to Agentic AI",
     "description": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
     "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
     "date": "2026-10-22T05:00:00+00:00",
@@ -861,7 +982,7 @@
     "id": "153ad33d500a1b4a",
     "source": "Dark Reading",
     "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-    "description": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+    "description": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
     "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
     "date": "2026-10-21T21:15:39+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -1001,17 +1122,6 @@
     "hot": true
   },
   {
-    "id": "aa1ad7d1c13c6cc2",
-    "source": "SecurityWeek",
-    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-    "description": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-    "date": "2026-10-21T17:00:00+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "d58953e49dc9df42",
     "source": "Dark Reading",
     "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
@@ -1073,7 +1183,7 @@
     "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1095,7 +1205,7 @@
     "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
     "date": "2026-10-21T14:07:05+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/PHP.jpg",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1243,17 +1353,6 @@
     "hot": false
   },
   {
-    "id": "b49adf099a255950",
-    "source": "Security Affairs",
-    "title": "PHP Prepares Emergency Fixes for Two Critical Remote Code Execution Flaws",
-    "description": "PHP will release emergency fixes for two critical RCE flaws rated 9.2, as researchers warn of potential risks to exposed and unsupported systems. PHP is preparing an emergency security release for two critical vulnerabilities that could let attackers execute code remotely on affected servers. The update is scheduled for today, October 21 at 14:00 UTC, […]",
-    "link": "https://securityaffairs.com/201403/security/php-prepares-emergency-fixes-for-two-critical-remote-code-execution-flaws.html",
-    "date": "2026-10-21T10:13:52+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "aa0a4f53dee60dee",
     "source": "Newsbeast Technology",
     "title": "Μπορεί να σε «προδώσει» η AI; Οι πληροφορίες που πρέπει να κρατήσεις μακριά από τα chatbots",
@@ -1353,24 +1452,13 @@
     "hot": false
   },
   {
-    "id": "6faa0483a7e46c71",
-    "source": "Security Affairs",
-    "title": "NSO Spyware Pegasus Hit a Serbian University Rector Six Days Before Snap Elections",
-    "description": "Citizen Lab confirmed Pegasus on a Serbian rector’s iPhone 6 days before elections, raising the known civil society spyware target count to 16. The Citizen Lab published a research note confirming that the iPhone of Vladan Đokić, Rector of the University of Belgrade, was infected with NSO Group’s Pegasus spyware sometime in 2026. The infection […]",
-    "link": "https://securityaffairs.com/201389/intelligence/nso-spyware-pegasus-hit-a-serbian-university-rector-six-days-before-snap-elections.html",
-    "date": "2026-10-21T05:57:29+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/NSO-Group-Pegasus.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "db7841d5f162100f",
     "source": "News.gr Technology",
     "title": "Πώς θα ονομαστεί η αποστολή του πρώτου Έλληνα αστροναύτη στο διάστημα;",
     "description": "Το Ελληνικό Κέντρο Διαστήματος μας καλεί να προτείνουμε ιδέες",
     "link": "https://www.news.gr/tech/article/4237040/pos-tha-onomasti-i-apostoli-tou-protou-ellina-astronafti-to-elliniko-kentro-diastimatos-mas-kali-na-protinoume-idees.html",
     "date": "2026-10-21T05:49:24+00:00",
-    "image": "https://www.news.gr/wp-content/uploads/images/2026/10/21/go/golemis_astronautis.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1620,7 +1708,7 @@
     "id": "d3ef535e3a2b6dc4",
     "source": "Schneier on Security",
     "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters. AU = Advanced Unlocks,",
+    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters...",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
     "date": "2026-10-20T11:03:13+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1760,28 +1848,6 @@
     "hot": false
   },
   {
-    "id": "41e2678d48f6897a",
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-    "description": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell. The vulnerabilities",
-    "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-    "date": "2026-10-19T17:32:13+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "b29b02994726eb7f",
-    "source": "The Hacker News",
-    "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-    "description": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be treated as compromised, and the",
-    "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-    "date": "2026-10-19T16:28:47+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "219c9af2c61cb0e7",
     "source": "WIRED Security",
     "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
@@ -1804,17 +1870,6 @@
     "hot": false
   },
   {
-    "id": "28713aa873966f5a",
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-    "description": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-    "date": "2026-10-19T14:14:07+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "3e1d6f4a44010753",
     "source": "Newsbeast Technology",
     "title": "Ποιους απειλεί περισσότερο η AI; Τι μας διδάσκουν τρεις τεχνολογικές επαναστάσεις",
@@ -1829,7 +1884,7 @@
     "id": "d5a5e889d2a62942",
     "source": "Dark Reading",
     "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
-    "description": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
+    "description": "An industry-wide, laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
     "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
     "date": "2026-10-19T14:00:00+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?width=720&quality=80&disable=upscale",
@@ -1846,28 +1901,6 @@
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "1aad9c4239489422",
-    "source": "The Hacker News",
-    "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-    "description": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps",
-    "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-    "date": "2026-10-19T13:05:45+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "f9cb75cb5efaa801",
-    "source": "The Hacker News",
-    "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-    "description": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support intake. Both are standard, documented, as-designed features. Chained together,",
-    "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-    "date": "2026-10-19T11:50:00+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif",
-    "category": "General Security",
-    "hot": false
   },
   {
     "id": "e2f740f703984375",
@@ -1911,17 +1944,6 @@
     "date": "2026-10-19T10:15:30+00:00",
     "image": "https://www.news.gr/wp-content/uploads/images/2026/10/19/mi/mitsotakis_daidalos9.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "0269f6c4e86e6ec6",
-    "source": "The Hacker News",
-    "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-    "description": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
-    "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-    "date": "2026-10-19T10:06:40+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -2064,7 +2086,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
     "date": "2026-10-16T11:04:53+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -2225,7 +2247,7 @@
     "id": "e1e7b17e135b767d",
     "source": "Schneier on Security",
     "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
     "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
     "date": "2026-10-14T16:02:17+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -2253,17 +2275,6 @@
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "30bc53bd049394fa",
-    "source": "Schneier on Security",
-    "title": "Cyberattack on Connected Fridges in France",
-    "description": "Another IoT cyberattack , this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. […] Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to heat up and stay hot, although Danfoss did not confirm any reports about just how warm the fridges and freezers could become in that process. Danfoss said the affected cold units were older models whose s",
-    "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-    "date": "2026-10-14T14:10:22+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
-    "hot": false
   },
   {
     "id": "824515dbcc503af1",
@@ -2624,7 +2635,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -2844,7 +2855,7 @@
     "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3494,17 +3505,6 @@
     "link": "https://www.newsbeast.gr/financial/arthro/13340377/i-elliniki-kainotomia-mesa-apo-treis-epicheirimatikes-istories-pou-axizei-na-gnorisoume",
     "date": "2026-09-08T15:28:36+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/BRABEIA1.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "71895caf9efacf18",
-    "source": "Newsbeast Technology",
-    "title": "AI και αισθητήρες αλλάζουν τις οικιακές συσκευές – Η νέα γενιά του έξυπνου σπιτιού αποκαλύφθηκε στην IFA 2026",
-    "description": "Πλυντήρια που αναγνωρίζουν τι βρίσκεται μέσα στον κάδο, φούρνοι που «βλέπουν» το φαγητό και επιλέγουν τις κατάλληλες ρυθμίσεις, πλυντήρια πιάτων με κάμερα και τεχνητή νοημοσύνη, αλλά και ρομπότ καθαρισμού που εξαφανίζονται μέσα στα έπιπλα της κουζίνας. Από το Βερολίνο, η IFA 2026 έδειξε με σαφήνεια προς τα πού κινούνται οι οικιακές συσκευές: περισσότερη συνδεσιμότητα, αυτοματοποίηση και ουσιαστικότερη αξιοποίηση της τεχνητής νοημοσύνης. Από την κουζίνα και το πλύσιμο μέχρι την καθαριότητα και τη διαχείριση της ενέργειας, οι κατασκευαστές παρουσιάζουν συστήματα που προσαρμόζουν τη λειτουργία το",
-    "link": "https://www.newsbeast.gr/technology/arthro/13340548/ai-kai-aisthitires-allazoun-tis-oikiakes-syskeves-i-nea-genia-tou-exypnou-spitiou-apokalyfthike-stin-ifa-2026",
-    "date": "2026-09-08T13:28:00+00:00",
-    "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/09/Ifa-smarthome1.jpg",
     "category": "General Security",
     "hot": false
   },
