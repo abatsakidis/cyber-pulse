@@ -1,5 +1,16 @@
 [
   {
+    "id": "31ce8c1ae55d5e34",
+    "source": "Security Affairs",
+    "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
+    "description": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and personal data. 1. Your latest report reveals that hackers began exploiting the PHP2Shell vulnerability four days before it was publicly disclosed. First, can you explain what PHP is, how widely it is used across the internet, and why this particular security flaw is so serious? PHP is a programming language widely used to build websites and web applications. It powers a significant share of the web. PHP2Shell is serious because it can allow ",
+    "link": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
+    "date": "2026-10-24T18:58:38+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/10/Pierluigi_Paganini-newsletter.jpg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
     "id": "3c48baf82576768b",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
@@ -170,7 +181,7 @@
     "title": "Friday Squid Blogging: Increasing Squid Populations",
     "description": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-    "date": "2026-10-23T21:00:09+00:00",
+    "date": "2026-10-23T21:00:55+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -586,11 +597,11 @@
     "id": "47c32ad646064c6f",
     "source": "Schneier on Security",
     "title": "Compromised TLS Certificates",
-    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237...",
+    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237. “That is extremely in the ‘this ",
     "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-    "date": "2026-10-23T11:04:22+00:00",
+    "date": "2026-10-23T11:05:16+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -946,17 +957,6 @@
     "hot": true
   },
   {
-    "id": "1ca9a3482ceb9d7e",
-    "source": "Security Affairs",
-    "title": "Signal Vulnerability Could Keep Calls Alive After Users Hang Up",
-    "description": "A critical Signal flaw could keep calls active after hang-up, exposing microphone or camera. Update to a fixed version immediately. A critical vulnerability, tracked as CVE-2026-113380 (CVSS score 9.3 of 10), in Signal ’s calling library could allow a malicious caller to interfere with call termination, potentially leaving the victim’s microphone and camera active after they believe the conversation has ended. The flaw affects versions before 2.72.0 of the library RingRTC, which the messaging app uses to provide voice and video calling. It highlights a security problem that deserves attention ",
-    "link": "https://securityaffairs.com/201490/security/signal-vulnerability-could-keep-calls-alive-after-users-hang-up.html",
-    "date": "2026-10-22T18:17:24+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2016/08/signal-app.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "a06b67015b3ea69a",
     "source": "The Hacker News",
     "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
@@ -996,7 +996,7 @@
     "description": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
     "date": "2026-10-22T17:18:22+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/Arista.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1029,7 +1029,7 @@
     "description": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
     "date": "2026-10-22T15:49:32+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/Exchange_Online.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1041,6 +1041,17 @@
     "link": "https://cyberscoop.com/emudhra-shuts-down-certificate-business-weak-private-keys/",
     "date": "2026-10-22T14:57:06+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-1501199059.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "39946f88107ac431",
+    "source": "Schneier on Security",
+    "title": "New Serious PHP Vulnerabilities Released and Patched",
+    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption, CVE-",
+    "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+    "date": "2026-10-22T14:36:29+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1073,7 +1084,7 @@
     "description": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
     "date": "2026-10-22T14:02:12+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/10/20/exaforce-header-iamge.jpg",
+    "image": "",
     "category": "AI Security",
     "hot": true
   },
@@ -1087,17 +1098,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "39946f88107ac431",
-    "source": "Schneier on Security",
-    "title": "New Serious PHP Vulnerabilities Released and Patched",
-    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs...",
-    "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-    "date": "2026-10-22T13:26:51+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "b81577baa97a1729",
@@ -1545,7 +1545,7 @@
     "title": "Workshop on Economics and Information Security (WEIS) Archive",
     "description": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay on the economics of information security.",
     "link": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-    "date": "2026-10-21T11:02:22+00:00",
+    "date": "2026-10-21T11:02:49+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1884,9 +1884,9 @@
     "id": "d3ef535e3a2b6dc4",
     "source": "Schneier on Security",
     "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters...",
+    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters. AU = Advanced Unlocks,",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-    "date": "2026-10-20T11:03:13+00:00",
+    "date": "2026-10-20T11:03:58+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": true
@@ -2051,7 +2051,7 @@
     "title": "Training AIs to Solve CAPTCHAs",
     "description": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither improves with exposure. We study what changes when a solver improves with use. Our system pairs a fine-tuned YOLOv8 detector with an open-weight VLM behind a confidence-based rou",
     "link": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-    "date": "2026-10-19T11:07:43+00:00",
+    "date": "2026-10-19T11:08:01+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -2205,9 +2205,9 @@
     "title": "Backdooring Open-Weight AI Models",
     "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "date": "2026-10-16T11:04:53+00:00",
+    "date": "2026-10-16T11:05:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -2332,6 +2332,17 @@
     "hot": false
   },
   {
+    "id": "e1e7b17e135b767d",
+    "source": "Schneier on Security",
+    "title": "Upcoming Speaking Engagements",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
+    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+    "date": "2026-10-15T06:17:50+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "478e7dd7a99761f3",
     "source": "Dark Reading",
     "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
@@ -2365,24 +2376,13 @@
     "hot": false
   },
   {
-    "id": "e1e7b17e135b767d",
-    "source": "Schneier on Security",
-    "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
-    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-    "date": "2026-10-14T16:02:17+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2580,7 +2580,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2668,7 +2668,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2877,7 +2877,7 @@
     "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2965,7 +2965,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3504,7 +3504,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": true
   },
