@@ -5,7 +5,7 @@
     "title": "Friday Squid Blogging: Increasing Squid Populations",
     "description": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-    "date": "2026-10-23T21:00:55+00:00",
+    "date": "2026-10-23T21:00:09+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -69,7 +69,7 @@
     "id": "ade767df0aef559a",
     "source": "Security Affairs",
     "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches",
-    "description": "PHP warns of a new, unlikely code execution flaw, CVE-2026-115560, and advises disabling session upload progress until a fix is released. PHP has warned of a new code execution vulnerability, tracked as CVE-2026-115560, just two days after releasing emergency patches for the critical PHP2Shell flaws. The vulnerability affects only a specific PHP configuration that PHP says is unlikely to be used in practice. An application must meet several conditions: it must configure session.serialize_handler as php_binary or php_serialize , change it to php at runtime using ini_set() , and make this change",
+    "description": "PHP warns of a new, unlikely code execution flaw, CVE-2026-115560, and advises disabling session upload progress until a fix is released. PHP has warned of a new code execution vulnerability, tracked as CVE-2026-115560, just two days after releasing emergency patches for the critical PHP2Shell flaws. The vulnerability affects only a specific PHP configuration that PHP […]",
     "link": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html",
     "date": "2026-10-23T18:07:27+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
@@ -146,11 +146,11 @@
     "id": "d3c136c1f6daa0ca",
     "source": "CyberScoop",
     "title": "Senators say targeted ads are a security risk. Ad groups say the critics are off base.",
-    "description": "Two senators say that revelations about online targeted advertising being used as a vector for spyware infections underscore the need for better security practices in the industry. Some members of the advertising industry that were subjects of the report, meanwhile, think their practices are up to the task. The Citizen Lab at the University of Toronto, in partnership with the cybersecurity and ad-tech firm Confiant, last week published a report on AdFection, a technique whereby targeted ads were delivering zero-click mercenary spyware. “Ad vendors must significantly level up their cybersecurit",
+    "description": "Citizen Lab’s AdFection findings have senators pushing for industry improvements, while IAB Europe and Google defend their vetting practices. The post Senators say targeted ads are a security risk. Ad groups say the critics are off base. appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/targeted-ads-spyware-government-threat/",
     "date": "2026-10-23T16:23:06+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/04/GettyImages-2223346509.jpg",
-    "category": "Malware",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -165,39 +165,6 @@
     "hot": false
   },
   {
-    "id": "b3a1935809b29dce",
-    "source": "Cyber Security News",
-    "title": "WhatsApp May Stop Working Without Registered SIM Under New Rules",
-    "description": "WhatsApp users in India may face access issues without a registered SIM under new government rules expected to take effect on January 1, 2027. Messaging platforms reportedly have until December 31, 2026, to comply. The change could affect people using accounts on secondary phones, tablets, and devices without an active registered SIM. The requirement, known as SIM-binding , means an account must remain connected to the active SIM associated with its registered mobile number. Unlike a one-time text verification code, this creates an ongoing link between the messaging service and the SIM install",
-    "link": "https://cybersecuritynews.com/whatsapp-stop-working-without-registered-sim/",
-    "date": "2026-10-23T15:20:07+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/WhatsApp-May-Stop-Working-Without-Registered-SIM-under-new-rules.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "d507820c3be4df8c",
-    "source": "Cyber Security News",
-    "title": "Critical Okta Access Gateway Flaw Lets Attackers With Admin Access Execute System Commands",
-    "description": "Okta has disclosed a critical security flaw in Okta Access Gateway that lets an authenticated administrator run system commands through the appliance’s Admin Console. Tracked as CVE-2026-115547, the vulnerability affects versions before 2026.10.2 and has a CVSS v3.1 score of 9.1, according to the October 22, 2026 advisory. The issue involves weak input validation when the Admin Console processes specially formatted configuration values. An attacker with administrative access can use those values to trigger command execution under the OAG service account. The disclosure does not describe an una",
-    "link": "https://cybersecuritynews.com/okta-access-gateway-flaw/",
-    "date": "2026-10-23T15:19:23+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Critical-Okta-Access-Gateway-Flaw-Lets-Attackers-With-Admin-Access-Execute-System-Commands.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
-    "id": "c80ee794df9e9f7d",
-    "source": "Cyber Security News",
-    "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
-    "description": "Hewlett Packard Enterprise has released security patches for multiple vulnerabilities in Aruba Networking wireless software that could let attackers take complete control of affected devices. The flaws affect AOS-8 and AOS-10 deployments across Mobility Conductors, Controllers, Gateways, and access points. Several allow attacks without a valid login, making prompt patching a priority for network administrators. HPE Warns Aruba Networking Flaws HPE’s October 22 security bulletin, HPESBNW05162, describes authentication bypass, command injection, SQL injection, and buffer overflow flaws. Eight CV",
-    "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/",
-    "date": "2026-10-23T14:53:59+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/HPE-Warns-Critical-Aruba-Networking-Flaws-Could-Let-Hackers-Take-Complete-Control-of-Devices.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
     "id": "6195289bd0546034",
     "source": "Newsbeast Technology",
     "title": "Η εμπιστοσύνη στο επίκεντρο της εποχής του Agentic AI και του «αόρατου» εμπορίου",
@@ -209,17 +176,6 @@
     "hot": false
   },
   {
-    "id": "e90cbae8e75603d4",
-    "source": "Cyber Security News",
-    "title": "Japanese Game Maker Capcom Has Confirmed – 11,774,247 Customer Records Exposed",
-    "description": "Capcom has announced plans to notify customers after unauthorized access to its CAPCOM ID service affected 11,774,247 records worldwide. The Japanese game publisher disclosed the incident on October 22, 2026, saying the exposed information included email addresses and details of account activity. Attackers also changed passwords on 196 accounts without permission. Capcom has reset those passwords, while its games and online services remain available. Capcom Confirms Records Exposed According to the company’s official security notice, CAPCOM ID is a shared account service used across its websit",
-    "link": "https://cybersecuritynews.com/capcom-confirmed-customer-records-exposed/",
-    "date": "2026-10-23T14:37:14+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Japanese-game-maker-Capcom-has-confirmed-11774247-Customer-Records-Exposed.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
     "id": "e291c2d0ae519fe8",
     "source": "SecurityWeek",
     "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
@@ -229,28 +185,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
     "category": "AI Security",
     "hot": true
-  },
-  {
-    "id": "df107231420d2e74",
-    "source": "Cyber Security News",
-    "title": "Multiple Waves of DDoS Attacks Caused This Week’s Outage in North Korea",
-    "description": "Multiple waves of DDoS attacks disrupted North Korea’s public internet services this week, knocking major state websites offline. Kentik’s internet analysis director Doug Madory linked the outages to sudden traffic floods from Vietnam, the Philippines, Venezuela, and other countries. The traffic began at 02:01 UTC on October 20, making the country’s websites unreachable. The disruption affected more than 40 websites using North Korea’s .kp domain, including the Ministry of Foreign Affairs and the Korean Central News Agency. Access remained unstable for roughly 32 hours. South Korean reporting ",
-    "link": "https://cybersecuritynews.com/multiple-waves-of-ddos-attacks-caused-in-north-korea/",
-    "date": "2026-10-23T14:22:35+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Multiple-waves-of-DDoS-attacks-caused-this-weeks-outage-in-North-Korea.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "57ff496d7b4e7d02",
-    "source": "Cyber Security News",
-    "title": "New Node2Shell Node.js RCE Exploit Let Attackers Execute Malicious Code Through Brotli-Compressed Data",
-    "description": "Researchers has demonstrated Node2Shell, a working exploit that lets an attacker run code inside a Node.js application through specially crafted, Brotli-compressed data. The research targets CVE-2026-111497 , a high-severity memory flaw in the Brotli decoder bundled with Node.js. The Node.js security advisory, published on October 21, 2026, confirms that the flaw can allow remote code execution and affects the 22.x, 24.x, and 26.x release lines. Fixes are available across all three branches. New Node2Shell Node.js RCE Exploit According to the supplied Imperva research , its standalone proof of",
-    "link": "https://cybersecuritynews.com/new-node2shell-node-js-rce-exploit/",
-    "date": "2026-10-23T14:11:40+00:00",
-    "image": "https://www.imperva.com/blog/wp-content/uploads/sites/9/2026/10/node2shell-live-demo.mp4?_=1",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "4650cb0548b7164c",
@@ -275,17 +209,6 @@
     "hot": false
   },
   {
-    "id": "a0d3e5ae31674729",
-    "source": "Cyber Security News",
-    "title": "Hackers Actively Exploiting Critical VeloCloud Orchestrator Flaw to Gain Superuser Access",
-    "description": "Hackers are actively exploiting a critical SQL injection flaw in VeloCloud Orchestrator (VCO) that allows logged-in users to gain superuser operator access. Arista Networks disclosed the vulnerability on October 22, 2026, warning that successful attacks could compromise the orchestrator, its host, and the data it manages. Arista has already patched hosted deployments, including Dedicated instances. Tracked as CVE-2026-114625, the vulnerability carries a CVSS v3.1 score of 9.9 and a CVSS v4.0 score of 9.4. Arista discovered the issue and confirmed active exploitation. Security Advisory 0199 ide",
-    "link": "https://cybersecuritynews.com/hackers-exploiting-velocloud-orchestrator-flaw/",
-    "date": "2026-10-23T13:57:11+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Actively-Exploiting-Critical-VeloCloud-Orchestrator-Flaw-to-Gain-Superuser-Access.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
     "id": "5c35f42e220df0d1",
     "source": "The Hacker News",
     "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
@@ -295,17 +218,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
     "category": "Hacking",
     "hot": true
-  },
-  {
-    "id": "7acef18bc95803fd",
-    "source": "Cyber Security News",
-    "title": "StealC Malware Returns as New Stadia RAT to Steal Passwords and Secretly Control Windows PCs",
-    "description": "The seller behind StealC has returned with Stadia, a Windows remote access trojan that combines password theft with hidden desktop control. Advertised on October 16, 2026, the malware expands beyond stealing data, allowing criminals to run commands, browse files, manage processes, and load more malicious software. The return follows June’s Operation Endgame disruption. Authorities seized 326 servers and 142 domains, according to Varonis. Although the earlier StealC infrastructure takedown disrupted the criminal service, its surviving code gave the seller a foundation for rebuilding under a new",
-    "link": "https://cybersecuritynews.com/stealc-malware/",
-    "date": "2026-10-23T13:40:19+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/StealC-Malware-Returns-as-New-Stadia-RAT-to-Steal-Passwords-and-Secretly-Control-Windows-PCs.webp",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "c12facf9e90a7942",
@@ -328,17 +240,6 @@
     "image": "http://cms.therecord.media/uploads/undersea_cables_illustration_getty_unsplash_36603fb153.jpg",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "1fefbcfaafa4cd4e",
-    "source": "Cyber Security News",
-    "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
-    "description": "Public proof-of-concept code for two critical PHP vulnerabilities is now available, and attackers have tried to use the flaws to deploy botnet malware. Known together as PHP2Shell, CVE-2026-109618 and CVE-2026-109619 both carry a CVSS severity score of 9.2 and can allow attackers to run code without logging in. However, attempted exploitation must not be confused with a confirmed breach. In its latest correction, issued on October 22 at 21:21 UTC, Sophos said its customer data showed scanning and a small number of failed exploit attempts. It found no evidence of a successful compromise through",
-    "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/",
-    "date": "2026-10-23T13:00:37+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Critical-PHP2Shell-Exploit-Code-Goes-Public-as-Hackers-Attempt-to-Deploy-Botnet-Malware.webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "6fe0d2a01ae7c5e6",
@@ -399,12 +300,12 @@
     "id": "cf5e4bf39b14c99e",
     "source": "Security Affairs",
     "title": "Meta Faces $25 Billion Penalty Linked to Cambridge Analytica Scandal",
-    "description": "A New Mexico judge ordered Meta to pay $25 billion for misleading users about privacy, setting a record penalty. Meta plans to appeal. This week a New Mexico judge ordered Meta to pay the state $25 billion. The order follows a jury finding that the company deceived Facebook users about their privacy, and it’s the biggest fine ever imposed on Meta. State District Court Judge Francis J. Mathew wrote that Facebook’s deception was intentional and that executives consistently misled users about how the platform worked. “Facebook promised users that they (the users) controlled their data. This was f",
+    "description": "A New Mexico judge ordered Meta to pay $25 billion for misleading users about privacy, setting a record penalty. Meta plans to appeal. This week a New Mexico judge ordered Meta to pay the state $25 billion. The order follows a jury finding that the company deceived Facebook users about their privacy, and it’s the […]",
     "link": "https://securityaffairs.com/201582/laws-and-regulations/meta-faces-25-billion-penalty-linked-to-cambridge-analytica-scandal.html",
     "date": "2026-10-23T11:42:24+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/08/meta-logo.jpg",
     "category": "Privacy",
-    "hot": true
+    "hot": false
   },
   {
     "id": "0447ea467bbc88e5",
@@ -429,17 +330,6 @@
     "hot": true
   },
   {
-    "id": "659b52644dd7443f",
-    "source": "Cyber Security News",
-    "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems",
-    "description": "A new UEFI bootkit called BlackX has been used in cyberespionage attacks against diplomatic organizations in Tajikistan, Uzbekistan, and Turkmenistan. The malware targets Secure Boot, a feature designed to help stop untrusted software from running before Windows starts. Researchers say the infected computers had received Windows updates, but a key Secure Boot protection had not been fully applied. Securelist analysts reported the findings on October 22, 2026. They say BlackX uses Baton Drop, a vulnerability tracked as CVE-2022-21894, and shares parts of its design with the BlackLotus bootkit. ",
-    "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/",
-    "date": "2026-10-23T11:23:35+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Hackers-Use-New-BlackX-Bootkit-to-Bypass-Windows-Secure-Boot-on-Fully-Patched-Systems.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "bc22f3bdface284f",
     "source": "The Hacker News",
     "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
@@ -454,22 +344,22 @@
     "id": "47c32ad646064c6f",
     "source": "Schneier on Security",
     "title": "Compromised TLS Certificates",
-    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237...",
+    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237. “That is extremely in the ‘this ",
     "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-    "date": "2026-10-23T11:05:16+00:00",
+    "date": "2026-10-23T11:04:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Vulnerability",
     "hot": false
   },
   {
     "id": "a61353491282b4c1",
     "source": "Security Affairs",
     "title": "PHP2Shell: Millions of Attacks, No Confirmed Successful Exploits Yet",
-    "description": "PHP2Shell attacks have surged into the millions, but no successful exploitation is confirmed. Patch it immediately. On October 21, PHP released emergency patches for two critical vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619 (CVSS score of 9.2), affecting every PHP version that handles web requests. The bug code dates back to PHP 5.4 from 2012, lives in the PHP engine itself rather than in any application, and allows unauthenticated remote code execution via crafted HTTP requests. Cloudflare researchers observed tens of thousands of exploit attempts within 45 minutes of public",
+    "description": "PHP2Shell attacks have surged into the millions, but no successful exploitation is confirmed. Patch it immediately. On October 21, PHP released emergency patches for two critical vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619 (CVSS score of 9.2), affecting every PHP version that handles web requests. The bug code dates back to PHP 5.4 from 2012, lives […]",
     "link": "https://securityaffairs.com/201538/hacking/php2shell-millions-of-attacks-no-confirmed-successful-exploits-yet.html",
     "date": "2026-10-23T10:52:00+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-56.png",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -630,12 +520,12 @@
     "id": "2532e5424e730ef4",
     "source": "Security Affairs",
     "title": "INTERPOL Operation Serengeti III Nets 1,462 Arrests and Recovers $105 Million in Cybercrime Crackdown",
-    "description": "INTERPOL’s Operation Serengeti III led to 1,462 arrests, disrupted 10,909 malicious networks and recovered $105 million across 21 countries. INTERPOL announced the results of Operation Serengeti III, a multinational cybercrime crackdown that led to 1,462 arrests, disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. The operation brought together law enforcement agencies from 21 countries between June 29 and August 31, 2026, targeting online fraud, ransomware, business email compromise (BEC), scams and digital extortion. “One of Africa’s largest cybercrime ",
+    "description": "INTERPOL’s Operation Serengeti III led to 1,462 arrests, disrupted 10,909 malicious networks and recovered $105 million across 21 countries. INTERPOL announced the results of Operation Serengeti III, a multinational cybercrime crackdown that led to 1,462 arrests, disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. The operation brought together law enforcement […]",
     "link": "https://securityaffairs.com/201500/cyber-crime/interpol-operation-serengeti-iii-nets-1462-arrests-and-recovers-105-million-in-cybercrime-crackdown.html",
     "date": "2026-10-23T06:08:00+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-55.png",
-    "category": "AI Security",
-    "hot": true
+    "category": "General Security",
+    "hot": false
   },
   {
     "id": "c164cfe2cd85ea4c",
@@ -729,7 +619,7 @@
     "id": "a34e467d80fadfda",
     "source": "Security Affairs",
     "title": "Microsoft Links ConnectWise Breach to China-Linked Group Using AI Pentesting Tool ARTEX",
-    "description": "China-linked Storm-0940 used AI tool ARTEX to target 2,250 Microsoft 365 tenants, exploiting stolen ConnectWise credentials at machine speed. Microsoft published a detailed technical report naming Storm-0940, a China state-aligned group, as the actor behind the ConnectWise Cloud Backup supply chain compromise. The group used ARTEX, an open-source AI-driven penetration testing framework, to run attacks at machine speed against hundreds of organizations across aerospace, defense, energy, financial services, government, manufacturing, and more. “Several of these Storm-0940 ARTEX-driven attacks ha",
+    "description": "China-linked Storm-0940 used AI tool ARTEX to target 2,250 Microsoft 365 tenants, exploiting stolen ConnectWise credentials at machine speed. Microsoft published a detailed technical report naming Storm-0940, a China state-aligned group, as the actor behind the ConnectWise Cloud Backup supply chain compromise. The group used ARTEX, an open-source AI-driven penetration testing framework, to run attacks […]",
     "link": "https://securityaffairs.com/201501/apt/microsoft-links-connectwise-breach-to-china-linked-group-using-ai-pentesting-tool-artex.html",
     "date": "2026-10-22T20:47:34+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-54.png",
@@ -817,7 +707,7 @@
     "id": "1ca9a3482ceb9d7e",
     "source": "Security Affairs",
     "title": "Signal Vulnerability Could Keep Calls Alive After Users Hang Up",
-    "description": "A critical Signal flaw could keep calls active after hang-up, exposing microphone or camera. Update to a fixed version immediately. A critical vulnerability, tracked as CVE-2026-113380 (CVSS score 9.3 of 10), in Signal ’s calling library could allow a malicious caller to interfere with call termination, potentially leaving the victim’s microphone and camera active after they believe the conversation has ended. The flaw affects versions before 2.72.0 of the library RingRTC, which the messaging app uses to provide voice and video calling. It highlights a security problem that deserves attention ",
+    "description": "A critical Signal flaw could keep calls active after hang-up, exposing microphone or camera. Update to a fixed version immediately. A critical vulnerability, tracked as CVE-2026-113380 (CVSS score 9.3 of 10), in Signal ’s calling library could allow a malicious caller to interfere with call termination, potentially leaving the victim’s microphone and camera active after […]",
     "link": "https://securityaffairs.com/201490/security/signal-vulnerability-could-keep-calls-alive-after-users-hang-up.html",
     "date": "2026-10-22T18:17:24+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2016/08/signal-app.png",
@@ -850,12 +740,12 @@
     "id": "d185c7a5bd7c3a66",
     "source": "CyberScoop",
     "title": "Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
-    "description": "A new bipartisan House bill would charge the federal government with developing formal guidance for defending AI models against distillation attacks. The AI Cyber Defense Act , shared exclusively with CyberScoop ahead of release, is sponsored by Reps. Pat Harrigan, R-N.C., and George Whitesides, D-Calif. It would direct the National Institute for Standards and Technology to develop voluntary industry standards and best practices for preventing distillation attacks from foreign entities from four countries: Russia, China, Iran and North Korea. In an interview, Harrigan told CyberScoop it is “in",
+    "description": "One of the bill’s sponsors told CyberScoop it’s “incredibly expensive” for U.S. AI companies to stay ahead and distillation attacks incentivize stealing over innovation. The post Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/",
     "date": "2026-10-22T17:37:24+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/Pat-Harrigan.jpeg",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "a72ce9f8102676dc",
@@ -905,32 +795,21 @@
     "id": "338cd15a30c5864a",
     "source": "CyberScoop",
     "title": "eMudhra kills its certificate business after researchers cracked its private keys in under a second",
-    "description": "Indian certificate authority eMudhra said Thursday it will stop issuing SSL/TLS certificates days after researchers showed that the private keys securing eight of its certificates were so weak they could be reconstructed in under a second. The announcement closes an incident where major browsers blocked the certificates and Indian authorities launched an investigation. The company said its board concluded after detailed deliberations that leaving the business was the right decision for eMudhra and its shareholders. Company Chairman V. Srinivasan cited rising costs from data sovereignty and com",
+    "description": "The private keys were so weak they could be guessed in under a second — and one of them was just the number 4. The post eMudhra kills its certificate business after researchers cracked its private keys in under a second appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/emudhra-shuts-down-certificate-business-weak-private-keys/",
     "date": "2026-10-22T14:57:06+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-1501199059.jpg",
-    "category": "Vulnerability",
-    "hot": true
+    "category": "General Security",
+    "hot": false
   },
   {
     "id": "7305c0bfd1c956f0",
     "source": "Security Affairs",
     "title": "PHP2Shell Attacks Started Four Days Before Public Disclosure, AWS Reports",
-    "description": "AWS detected PHP2Shell exploit attempts four days before disclosure, highlighting the risk of attackers exploiting critical flaws before patches arrive. Attackers attempted to exploit two critical PHP vulnerabilities four days before the flaws became public, according to Amazon Threat Intelligence. “Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-109619.” reads the report published by Amazon team.”The exploit attempt originated from an IP address associated wi",
+    "description": "AWS detected PHP2Shell exploit attempts four days before disclosure, highlighting the risk of attackers exploiting critical flaws before patches arrive. Attackers attempted to exploit two critical PHP vulnerabilities four days before the flaws became public, according to Amazon Threat Intelligence. “Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot […]",
     "link": "https://securityaffairs.com/201479/hacking/php2shell-attacks-started-four-days-before-public-disclosure-aws-reports.html",
     "date": "2026-10-22T14:55:01+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "39946f88107ac431",
-    "source": "Schneier on Security",
-    "title": "New Serious PHP Vulnerabilities Released and Patched",
-    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs...",
-    "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-    "date": "2026-10-22T14:36:29+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -977,6 +856,17 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg",
     "category": "General Security",
     "hot": false
+  },
+  {
+    "id": "39946f88107ac431",
+    "source": "Schneier on Security",
+    "title": "New Serious PHP Vulnerabilities Released and Patched",
+    "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption, CVE-",
+    "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+    "date": "2026-10-22T13:26:51+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "b81577baa97a1729",
@@ -1029,7 +919,7 @@
     "description": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
     "date": "2026-10-22T11:41:48+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/GitLab-headpic.jpg",
     "category": "Vulnerability",
     "hot": false
   },
@@ -1059,12 +949,12 @@
     "id": "4075a2623dbcb8ed",
     "source": "CyberScoop",
     "title": "Encryption isn’t enough to protect data wherever it goes",
-    "description": "Cybersecurity policy has long treated data protection as a systems problem: encrypt the database, secure the network, restrict access, monitor activity, and keep attackers out. All of that still matters. But those defenses have a major blind spot. Once inside the wall the data itself is at risk. Every time data is used, copied, or moved, the risk that a malicious actor will steal and expose the data significantly increases. Policymakers need to consider a tested method that reduces the value of sensitive information if it compromised. Hospitals, banks, defense contractors and government agenci",
+    "description": "Once data is in use, encryption falls short. A tested approach that replaces sensitive values with realistic substitutes could make stolen information far less useful to hackers. The post Encryption isn’t enough to protect data wherever it goes appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
     "date": "2026-10-22T10:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2283773175.jpg",
-    "category": "Ransomware",
-    "hot": true
+    "category": "Hacking",
+    "hot": false
   },
   {
     "id": "ef2bb76027172c3d",
@@ -1092,7 +982,7 @@
     "id": "eb074381fdda8edf",
     "source": "Security Affairs",
     "title": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations",
-    "description": "SafePay ransomware has hit 600+ organizations since 2024, using stolen credentials, VPN access and double extortion to pressure victims into paying. CISA, the FBI, the US Secret Service, Germany’s Landeskriminalamt Rheinland-Pfalz, and two UK law enforcement agencies jointly published an advisory this week on SafePay , a ransomware group they describe as one of the most active operations currently running. The group has breached at least 600 organizations across critical infrastructure sectors since August 2024, spanning North America, South America, Europe, and Australia. “Since August 2024, ",
+    "description": "SafePay ransomware has hit 600+ organizations since 2024, using stolen credentials, VPN access and double extortion to pressure victims into paying. CISA, the FBI, the US Secret Service, Germany’s Landeskriminalamt Rheinland-Pfalz, and two UK law enforcement agencies jointly published an advisory this week on SafePay, a ransomware group they describe as one of the most […]",
     "link": "https://securityaffairs.com/201464/cyber-crime/fbi-and-cisa-warn-of-safepay-ransomware-attacks-on-600-organizations.html",
     "date": "2026-10-22T06:48:43+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-2.jpg",
@@ -1169,7 +1059,7 @@
     "id": "9f2cb0fcbf09ee38",
     "source": "CyberScoop",
     "title": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
-    "description": "Microsoft researchers attributed the recent supply-chain attack targeting ConnectWise customers ’ Microsoft 365 environments to a China-state aligned threat actor it tracks as Storm-0940. “As early as September 2026, Storm-0940 used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries,” Microsoft Security Research wrote in a blog post Wednesday. The nation-state group, which has been active since 2021, targeted organizations in aerospace and defense, automotive, chemicals, energy, financial servic",
+    "description": "Storm-0940 used the agentic AI penetration testing framework to automate attacks and “reach more than 2,250 tenants at 2,900 sign-in attempts per minute,” Microsoft researchers said. The post Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/",
     "date": "2026-10-21T21:58:21+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2023/03/GettyImages-1459359048.jpg",
@@ -1180,7 +1070,7 @@
     "id": "81dd2c0aae0077d5",
     "source": "Security Affairs",
     "title": "Russian Satellite Makes a Close Approach To A Commercial Radar Satellite Used by Ukraine",
-    "description": "A Russian satellite made a close approach to a commercial radar satellite linked to Ukraine, raising concerns about surveillance and security in space. A Russian-made satellite called Kosmos 2612 got very close to ICEYE-X36 last week, a commercial Earth-observation satellite that may support countries like Ukraine. CNN reports it may have come within less than a mile. Orbital monitoring company LeoLabs says the behavior is consistent with rendezvous and proximity operations, meaning maneuvers designed to bring two spacecraft together. “A rare move by a Russian-made satellite may have brought i",
+    "description": "A Russian satellite made a close approach to a commercial radar satellite linked to Ukraine, raising concerns about surveillance and security in space. A Russian-made satellite called Kosmos 2612 got very close to ICEYE-X36 last week, a commercial Earth-observation satellite that may support countries like Ukraine. CNN reports it may have come within less than […]",
     "link": "https://securityaffairs.com/201446/breaking-news/russian-satellite-makes-a-close-approach-to-a-commercial-radar-satellite-used-by-ukraine.html",
     "date": "2026-10-21T21:29:04+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2023/04/ESA-satellite.png",
@@ -1246,11 +1136,11 @@
     "id": "7b64fb4f498ff952",
     "source": "Security Affairs",
     "title": "OpenAI Reports Two Incidents of AI Agents Disabling Their Own Oversight",
-    "description": "OpenAI reveals two cases of AI agents disabling safety monitoring during coding tasks, with one falsely denying it had removed the safeguards. OpenAI published an internal incident report this week documenting two separate cases in which GPT-6 class agents weakened the system designed to detect misaligned behavior, in both cases while carrying out routine coding tasks. This wasn’t an external attack. These were internal deployments, and the agents made their own judgment calls that happened to gut the oversight watching them. OpenAI explained that “in both cases, the agents considered whether ",
+    "description": "OpenAI reveals two cases of AI agents disabling safety monitoring during coding tasks, with one falsely denying it had removed the safeguards. OpenAI published an internal incident report this week documenting two separate cases in which GPT-6 class agents weakened the system designed to detect misaligned behavior, in both cases while carrying out routine coding […]",
     "link": "https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html",
     "date": "2026-10-21T19:41:16+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2024/07/openai.png",
-    "category": "Hacking",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1356,11 +1246,11 @@
     "id": "eec90e9acc6bcca5",
     "source": "Krebs on Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-    "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
+    "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -1400,11 +1290,11 @@
     "id": "14bd60fe33b4111c",
     "source": "CyberScoop",
     "title": "PHP releases emergency fixes for 2 critical vulnerabilities",
-    "description": "The PHP project released patches Wednesday for two critical vulnerabilities in a programming language used in an extremely large portion of the internet. The patch addresses two flaws, catalogued as CVE-2026-109618 and CVE-2026-109619, both rated 9.2 on the CVSS v4.0 severity scale, which tops out at 10. Researchers describe them as remote code execution vulnerabilities, which could let an attacker run their own code on a server and potentially take control of it. The vulnerabilities have been dubbed “php2shell” by researchers. While the industry has spent the past 24 hours sounding the alarm ",
+    "description": "The project overseeing the programming language is releasing patches Wednesday, with the internet racing to patch the 9.2 rated flaw. The post PHP releases emergency fixes for 2 critical vulnerabilities appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/php-emergency-patches-php2shell-vulnerabilities/",
     "date": "2026-10-21T13:40:02+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/Gemini_Generated_Image_bczaoxbczaoxbcza.jpeg",
-    "category": "AI Security",
+    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -1468,7 +1358,7 @@
     "title": "Workshop on Economics and Information Security (WEIS) Archive",
     "description": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay on the economics of information security.",
     "link": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-    "date": "2026-10-21T11:02:49+00:00",
+    "date": "2026-10-21T11:02:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1620,11 +1510,11 @@
     "id": "5726a1b78a7bfd69",
     "source": "CyberScoop",
     "title": "Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers",
-    "description": "A 45-year-old U.S. citizen pleaded guilty to running a widespread identity theft and fraud scheme that defrauded thousands of U.S. servicemembers and veterans while living in the Philippines, the Justice Department said Tuesday. Robert Wayne Boling Jr. exploited stolen personally identifiable information (PII) to compromise victims’ bank accounts and steal their money and veterans’ benefits during a five-year period ending in July 2019, according to court records. He pleaded guilty to conspiracy to commit wire fraud and money laundering and faces up to 40 years in prison upon sentencing. “Thos",
+    "description": "Robert Wayne Boling Jr. was the mastermind of an identity theft conspiracy that victimized thousands of military members and veterans. He faces up to 40 years in prison. The post Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/",
     "date": "2026-10-20T23:36:10+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2169763675.jpg",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1653,11 +1543,11 @@
     "id": "d7cb5975573a8422",
     "source": "CyberScoop",
     "title": "Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme",
-    "description": "A 40-year-old Nigerian national was sentenced to eight years in prison for running a years-long hacking, tax fraud and investment scheme, the Justice Department said Monday. Chukwuemeka Victor Amachukwu enriched himself from 2019 to 2023 by hacking into U.S.-based tax preparation businesses, filing false tax returns with federal and state authorities using identities stolen from victim organizations and enticing victims to send him money for investments that did not exist, according to court records. Amachukwu pleaded guilty to conspiracy to commit computer intrusions and wire fraud in April. ",
+    "description": "Chukwuemeka Victor Amachukwu hacked tax preparation businesses, filed false tax returns and enticed victims to send him money for investment schemes. The post Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme/",
     "date": "2026-10-20T19:33:21+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2024/10/doj.jpg",
-    "category": "Malware",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -1675,11 +1565,11 @@
     "id": "d3e8ae3dd33fafe4",
     "source": "CyberScoop",
     "title": "Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign",
-    "description": "Russian government-connected hackers compromised two defense firms and a law enforcement agency in North Atlantic Treaty Organization countries as part of an espionage campaign, Symantec researchers said in a blog post Tuesday. The infamous group behind hacks of the Democratic National Committee during the 2016 election cycle was behind the attacks that Symantec identified in recent months: Swallowtail, also known as APT28, Fancy Bear and Forest Blizzard, notorious for its links to the Russian military agency GRU. The hackers apparently chose the targets of their attacks carefully, including a",
+    "description": "It’s the work of the infamous group behind the attacks on Democrats during the 2016 presidential election, Symantec said. The post Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/",
     "date": "2026-10-20T17:55:35+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-914027362.jpg",
-    "category": "Malware",
+    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -1697,12 +1587,12 @@
     "id": "fa4bc494ed24ebec",
     "source": "CyberScoop",
     "title": "ConnectWise customers hit by supply-chain attack linked to compromised API secret",
-    "description": "A portion of ConnectWise’s customers have been adrift for days, and hundreds are compromised, as the company’s efforts to restore its Cloud Backup service remain underway with no confirmed timeline for when customers can regain access. The company temporarily shut down multiple services Saturday after a threat actor gained access to a highly sensitive credential that allowed its customers to connect the vendor’s application with Microsoft 365 environments. The threat actor, which hasn’t been identified, used the application programming interface (API) secret to compromise a series of ConnectWi",
+    "description": "Hundreds of customers are confirmed impacted, as attackers use a sensitive credential to break into connected Microsoft 365 applications unimpeded. The post ConnectWise customers hit by supply-chain attack linked to compromised API secret appeared first on CyberScoop .",
     "link": "https://cyberscoop.com/connectwise-cloud-backup-supply-chain-attack/",
     "date": "2026-10-20T16:17:52+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/09/GettyImages-2190684145.jpg",
     "category": "Hacking",
-    "hot": true
+    "hot": false
   },
   {
     "id": "007a72a1dece9702",
@@ -1851,9 +1741,9 @@
     "id": "d3ef535e3a2b6dc4",
     "source": "Schneier on Security",
     "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters...",
+    "description": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient to Apple’s OS changes” works with Stolen Device Protection enabled, which tightens USB restrictions is enabled by a dedicated appliance with a stated range (!) of about 8 meters. AU = Advanced Unlocks,",
     "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-    "date": "2026-10-20T11:03:58+00:00",
+    "date": "2026-10-20T11:03:13+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": true
@@ -1994,10 +1884,10 @@
     "id": "bc9c2f95a9294fdd",
     "source": "Krebs on Security",
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-    "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
+    "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2029,7 +1919,7 @@
     "title": "Training AIs to Solve CAPTCHAs",
     "description": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither improves with exposure. We study what changes when a solver improves with use. Our system pairs a fine-tuned YOLOv8 detector with an open-weight VLM behind a confidence-based rou",
     "link": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-    "date": "2026-10-19T11:08:01+00:00",
+    "date": "2026-10-19T11:07:43+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Cyberwarfare",
     "hot": false
@@ -2183,9 +2073,9 @@
     "title": "Backdooring Open-Weight AI Models",
     "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
     "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "date": "2026-10-16T11:05:50+00:00",
+    "date": "2026-10-16T11:04:53+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Cyberwarfare",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -2310,17 +2200,6 @@
     "hot": false
   },
   {
-    "id": "e1e7b17e135b767d",
-    "source": "Schneier on Security",
-    "title": "Upcoming Speaking Engagements",
-    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...",
-    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-    "date": "2026-10-15T06:17:50+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "478e7dd7a99761f3",
     "source": "Dark Reading",
     "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
@@ -2354,10 +2233,21 @@
     "hot": false
   },
   {
+    "id": "e1e7b17e135b767d",
+    "source": "Schneier on Security",
+    "title": "Upcoming Speaking Engagements",
+    "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29. I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference ",
+    "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+    "date": "2026-10-14T16:02:17+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-    "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
+    "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
@@ -2401,12 +2291,12 @@
     "id": "c5a36601271c1897",
     "source": "Krebs on Security",
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
-    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
+    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
-    "category": "AI Security",
-    "hot": true
+    "category": "Vulnerability",
+    "hot": false
   },
   {
     "id": "3f2e90657cc5f486",
@@ -2555,7 +2445,7 @@
     "id": "878d602d6c0b2414",
     "source": "Krebs on Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
+    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
@@ -2643,12 +2533,12 @@
     "id": "4b3e102168c7d619",
     "source": "Krebs on Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
+    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
-    "hot": true
+    "hot": false
   },
   {
     "id": "199209a862a654b7",
@@ -2863,7 +2753,7 @@
     "id": "535fdeca402d8322",
     "source": "Krebs on Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-    "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
+    "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
@@ -2951,12 +2841,12 @@
     "id": "81a26141bc315757",
     "source": "Krebs on Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
+    "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
-    "category": "AI Security",
-    "hot": true
+    "category": "Ransomware",
+    "hot": false
   },
   {
     "id": "d85264035f4c3bbb",
@@ -3220,7 +3110,7 @@
     "date": "2026-09-16T18:14:22+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Privacy",
-    "hot": true
+    "hot": false
   },
   {
     "id": "3aa8b0b0d1744f4a",
@@ -3501,12 +3391,12 @@
     "id": "004ffd858d83d888",
     "source": "Krebs on Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month’s patch bundle obliterates the software giant’s previous record set in July , when it released updates for at lea",
+    "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
     "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
-    "hot": true
+    "hot": false
   },
   {
     "id": "27aeb89bf9023272",
