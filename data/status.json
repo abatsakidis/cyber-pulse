@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T12:33:58.768259+00:00",
+  "updated": "2026-10-27T18:18:38.265677+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -60,7 +60,7 @@
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "ok": false,
       "count": 0,
-      "error": "no element found: line 83408, column 53"
+      "error": "unclosed token: line 77583, column 7"
     },
     {
       "name": "NIST Cybersecurity",
@@ -90,8 +90,9 @@
     {
       "name": "Cyber Security News",
       "url": "https://cybersecuritynews.com/feed/",
-      "ok": true,
-      "count": 10
+      "ok": false,
+      "count": 0,
+      "error": "not well-formed (invalid token): line 1, column 119"
     },
     {
       "name": "News.gr Technology",
@@ -109,15 +110,15 @@
   "image_fallback": {
     "enabled": true,
     "articles_checked": 118,
-    "images_found": 116,
+    "images_found": 114,
     "by_source": {
       "Help Net Security": 10,
+      "BleepingComputer": 11,
       "SecurityWeek": 10,
+      "CyberScoop": 10,
       "NIST Cybersecurity": 40,
       "Schneier on Security": 10,
       "Security Affairs": 10,
-      "BleepingComputer": 13,
-      "CyberScoop": 10,
       "News.gr Technology": 3,
       "Krebs on Security": 10
     }
