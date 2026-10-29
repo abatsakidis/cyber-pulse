@@ -1,5 +1,82 @@
 [
   {
+    "id": "dab94ad7ac05c0da",
+    "source": "Cyber Security News",
+    "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
+    "description": "Hackers combined PHP2Shell vulnerabilities with a Linux kernel exploit to gain root access on 25 servers across the United States, Japan, Taiwan, and South Korea, including three systems in a US government-affiliated environment. Dream researchers uncovered the campaign’s files on October 25, revealing a path from exposed firewall management interfaces to internal Active Directory services. […] The post Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/",
+    "date": "2026-10-29T03:55:14+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/PHP2Shell-Root-Access-on-25-Servers.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "c269b2e160c06a03",
+    "source": "WIRED Security",
+    "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+    "description": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
+    "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+    "date": "2026-10-29T03:34:46+00:00",
+    "image": "https://media.wired.com/photos/6ae2b697af20331957eab942/master/pass/2195830714",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "e28d3658b5537034",
+    "source": "Cyber Security News",
+    "title": "Hackers Leak Records of 41,000 DHS Personnel, Exposing Undercover ICE Agents",
+    "description": "A leak of records covering more than 41,000 Department of Homeland Security employees and contractors has exposed contact details, work assignments, and links to sensitive operations, including undercover ICE work. Published on October 28, the archive reveals far more than a staff directory, offering a view of internal teams and reporting lines. Distributed Denial of […] The post Hackers Leak Records of 41,000 DHS Personnel, Exposing Undercover ICE Agents appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/dhs-data-leak/",
+    "date": "2026-10-29T03:13:31+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/DHS-Data-Leak.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "92d188531725268f",
+    "source": "Cyber Security News",
+    "title": "WatchGuard Discloses 7 Critical Firewall Flaws Allowing Remote Code Execution and Root-Level Attacks",
+    "description": "WatchGuard disclosed seven critical Fireware OS vulnerabilities in an October 27, 2026 advisory, affecting Firebox firewalls and potentially enabling remote code execution, root-level action injection, and memory corruption. They are part of a wider release that covers 18 security issues across Fireware OS and the Windows Mobile VPN with SSL client. The seven critical entries […] The post WatchGuard Discloses 7 Critical Firewall Flaws Allowing Remote Code Execution and Root-Level Attacks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/watchguard-discloses-critical-firewall-flaws/",
+    "date": "2026-10-29T03:08:47+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/WatchGuard-Discloses-7-Critical-Firewall-Flaws-Allowing-Remote-Code-Execution-and-Root-Level-Attacks.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "7e327725728bd974",
+    "source": "Cyber Security News",
+    "title": "Fortinet Brings AI Agent Security to Oracle Cloud to Block Prompt Injection and Data Leaks",
+    "description": "Fortinet’s FortiAIGate is bringing AI security controls to enterprise workloads on Oracle Cloud Infrastructure (OCI), helping businesses inspect prompts, block sensitive data leaks, and control agent actions. An Oracle announcement published October 27 outlines how customers can combine the self-hosted gateway with OCI Enterprise AI to protect applications connected to company data and tools. The […] The post Fortinet Brings AI Agent Security to Oracle Cloud to Block Prompt Injection and Data Leaks appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/fortinet-brings-ai-agent-security-to-oracle-cloud/",
+    "date": "2026-10-29T02:46:10+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Fortinet-Brings-AI-Agent-Security-to-Oracle-Cloud-to-Block-Prompt-Injection-and-Data-Leaks.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "6ac43628e887909c",
+    "source": "Cyber Security News",
+    "title": "WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability",
+    "description": "WordPress released version 7.1.4 on October 28, 2026, fixing 22 security flaws, including an unauthenticated remote code execution vulnerability in its update process. The security release also addresses stored cross-site scripting, data exposure, and access control issues. WordPress urges website owners to install the update immediately. The official release announcement credits security researcher Umut Bayram […] The post WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/wordpress-7-1-4-fixes-security-flaws/",
+    "date": "2026-10-29T02:31:49+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/WordPress-7.1.4-Fixes-Security-Flaws.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "9a473a8cbb2c2fce",
+    "source": "CyberScoop",
+    "title": "Officials seize domain of top bulletproof hosting provider Virtualine",
+    "description": "The Russian-speaking cybercrime storefront was among the most active bulletproof hosting providers this year to date, receiving almost one-fifth of all illicit-attributed inflow tracked by researchers. The post Officials seize domain of top bulletproof hosting provider Virtualine appeared first on CyberScoop .",
+    "link": "https://cyberscoop.com/virtualine-bulletproof-hosting-provider-seized/",
+    "date": "2026-10-29T00:38:19+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2022/07/GettyImages-1238326969.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "3286f43117f15231",
     "source": "CyberScoop",
     "title": "Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists",
@@ -297,28 +374,6 @@
     "hot": false
   },
   {
-    "id": "b378309c512faafa",
-    "source": "Cyber Security News",
-    "title": "PropellerAds: Why Modern Malware Delivery Starts Before the Payload",
-    "description": "By Farukh Rakhimov, Head of Compliance, Data Protection, and Information Security at AdTech Holding In March 2026, Google Threat Intelligence Group (GTIG) disclosed Coruna, an iOS exploit kit with five exploit chains and 23 exploits covering iOS 13.0 through 17.2.1. The most instructive part of the disclosure is what happened before the exploit got any […] The post PropellerAds: Why Modern Malware Delivery Starts Before the Payload appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/propellerads-why-modern-malware-delivery-starts-before-the-payload/",
-    "date": "2026-10-28T15:28:59+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Farukh-Rakhimov.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "24da8eea0e2168a4",
-    "source": "Cyber Security News",
-    "title": "OWASP Finds ChatGPT Helped Low-Skilled User Take Over Admin Account in Hacking Test",
-    "description": "OWASP found that ChatGPT helped an operator with no offensive security knowledge take over an administrator account during a controlled hacking test. The operator largely copied commands, returned results to the chatbot, and followed its guidance to change a password and log in. The finding shows how AI can lower the skill needed for some […] The post OWASP Finds ChatGPT Helped Low-Skilled User Take Over Admin Account in Hacking Test appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/owasp-finds-chatgpt-assisted-admin-takeover/",
-    "date": "2026-10-28T15:28:23+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/OWASP-Finds-ChatGPT-Helped-Low-Skilled-User-Take-Over-Admin-Account-in-Hacking-Test.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "ae3d0faae9ee93b6",
     "source": "Help Net Security",
     "title": "I underestimated how fast security teams would trust AI to act in the SOC",
@@ -473,28 +528,6 @@
     "hot": true
   },
   {
-    "id": "267612c5aef1ef15",
-    "source": "Cyber Security News",
-    "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
-    "description": "Google released a Chrome security update that fixes 52 vulnerabilities, including four critical flaws affecting FileSystem, FileAPI, Skia, and Layout. According to the release notice, the Stable channel is moving to version 156.0.8078.73/.74 for Windows and Mac. At the same time, Linux users will receive version 156.0.8078.73. The update will reach users over the coming […] The post Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
-    "date": "2026-10-28T13:46:52+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Google-Fixes-52-Chrome-Security-Flaws-Including-Four-Critical-Vulnerabilities.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "caa0c3edae304d01",
-    "source": "Cyber Security News",
-    "title": "FBI Seizes Virtualine Bulletproof Hosting Domain Linked to Ransomware and Cybercrime",
-    "description": "The FBI seized virtualine.net, the main website of a bulletproof hosting provider linked to ransomware operators, stolen-data markets, and other cybercrime services. Announced on October 27, 2026, the court-authorized action targeted a business accused of helping criminals keep their websites online, ignore abuse complaints, and hide payments. The U.S. Justice Department said Virtualine also operated […] The post FBI Seizes Virtualine Bulletproof Hosting Domain Linked to Ransomware and Cybercrime appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/fbi-seizes-virtualine-bulletproof-hosting/",
-    "date": "2026-10-28T13:43:53+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/FBI-Seizes-Virtualine-Bulletproof-Hosting.webp",
-    "category": "Ransomware",
-    "hot": true
-  },
-  {
     "id": "90be277c6ae41c75",
     "source": "SecurityWeek",
     "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
@@ -514,17 +547,6 @@
     "date": "2026-10-28T13:31:26+00:00",
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/06/27170007/money-bank.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "77e1155c515a1172",
-    "source": "Cyber Security News",
-    "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Crypto Wallet Keys",
-    "description": "Three malicious Firefox extensions posed as the Phantom, Jupiter, and Bitget crypto wallets to steal recovery phrases and private keys. Whoever holds these secrets controls the wallet and every coin in it. All three listings were live on the Firefox Add-ons store during the research and have since been removed. The fake add-ons copied the […] The post Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Crypto Wallet Keys appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/malicious-firefox-extensions-3/",
-    "date": "2026-10-28T13:17:06+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Malicious-Firefox-Extensions-Impersonate-Phantom-Jupiter-and-Bitget-to-Steal-Crypto-Wallet-Keys.webp",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -908,7 +930,7 @@
     "description": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
     "date": "2026-10-27T20:57:25+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/27/cart.jpg",
+    "image": "",
     "category": "Hacking",
     "hot": false
   },
@@ -1007,7 +1029,7 @@
     "description": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
     "date": "2026-10-27T18:20:28+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/20/Windows-headpic.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1285,17 +1307,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "a0beec784c8177cb",
-    "source": "CyberScoop",
-    "title": "Experts temper emergency-level alarms over critical Brotli defect",
-    "description": "The defect in a widely distributed open-source library provoked an emergency response, yet exploitation hasn’t been observed in the wild. The post Experts temper emergency-level alarms over critical Brotli defect appeared first on CyberScoop .",
-    "link": "https://cyberscoop.com/brotli-critical-vulnerability-decompression-library-node2shell-broccoli2shell/",
-    "date": "2026-10-27T00:22:54+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/07/GettyImages-2263903662.jpg",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "30e527810b56b29f",
@@ -2327,7 +2338,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2569,7 +2580,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2591,7 +2602,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Vulnerability",
     "hot": false
   },
@@ -2735,17 +2746,6 @@
     "link": "https://www.newsbeast.gr/world/arthro/13412936/tromaktika-evrimata-gia-tin-techniti-noimosyni-to-parathyraki-asfaleias-pou-borei-na-ekmetalleftei-enas-tromokratis",
     "date": "2026-10-09T08:25:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/01/AI.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "190884752c56f58b",
-    "source": "WIRED Security",
-    "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
-    "description": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later found to be unlawful in federal court.",
-    "link": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
-    "date": "2026-10-09T04:46:11+00:00",
-    "image": "https://media.wired.com/photos/6ac86cf153985a35c7b2ab41/master/pass/2298652701",
     "category": "General Security",
     "hot": false
   },
@@ -3031,7 +3031,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": false
   },
@@ -3471,7 +3471,7 @@
     "description": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
     "date": "2026-09-08T21:44:22+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": false
   },
