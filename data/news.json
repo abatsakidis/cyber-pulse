@@ -1,5 +1,104 @@
 [
   {
+    "id": "9cdbd7d843382b2e",
+    "source": "BleepingComputer",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "description": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+    "date": "2026-10-31T14:05:15+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/30/reddit.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "dfc087e1fd583f00",
+    "source": "BleepingComputer",
+    "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+    "description": "[...]",
+    "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+    "date": "2026-10-31T13:10:19+00:00",
+    "image": "https://www.bleepstatic.com/content/posts/2026/10/30/tryhackme-laptop.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "10c4e07d550268c5",
+    "source": "BleepingComputer",
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+    "description": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+    "date": "2026-10-31T12:50:09+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/18/Blockchain-2.jpg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "aebc699ab28384fc",
+    "source": "The Hacker News",
+    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+    "description": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. \"This month, Chainalysis detected an external actor using offensive agentic",
+    "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "date": "2026-10-31T12:01:56+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg",
+    "category": "Hacking",
+    "hot": true
+  },
+  {
+    "id": "8f13ea5a2361e0f9",
+    "source": "WIRED Security",
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "description": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "date": "2026-10-31T12:00:00+00:00",
+    "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "d87ed91f79f55391",
+    "source": "SecurityWeek",
+    "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+    "description": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+    "date": "2026-10-31T11:00:00+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/03/hacker-sentenced-prison.jpeg",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "816d2d4098404d47",
+    "source": "Cyber Security News",
+    "title": "Cursor Confirms Malicious Claude Code Extension With SSH Backdoor Was Available for 11 Hours",
+    "description": "Cursor has confirmed that malicious Claude Code extension packages were available through its VS Code Extension Marketplace for roughly 11 hours on October 29, 2026. The altered packages targeted Windows and macOS users and attempted to install an SSH backdoor for lasting remote access. According to Cursor’s security notice, the affected versions were Anthropic.claude-code 2.1.312 and 2.1.313. They were available between approximately 2:27 a.m. and 1:35 p.m. Pacific Time, a window of 11 hours and eight minutes. Cursor said Anthropic did not develop these malicious versions. The confirmation ad",
+    "link": "https://cybersecuritynews.com/malicious-claude-code-extension-with-cursor/",
+    "date": "2026-10-31T10:41:18+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Cursor-Confirms-Malicious-Claude-Code-Extension.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "19bd4fb753300c74",
+    "source": "Security Affairs",
+    "title": "Attackers Exploit Critical Drupal Commerce Core Vulnerability CVE-2026-118539",
+    "description": "Drupal warns that attackers are exploiting a critical authorization flaw in Commerce Core, putting vulnerable online stores at risk. Drupal warns that threat actors are exploiting a highly critical security flaw, tracked as CVE-2026-118539 , in its Commerce Core module. The vulnerability is caused by missing authorization checks. “This module enables you to sell goods and services to customers through an included shopping cart and checkout form or through decoupled applications via APIs. The module doesn’t sufficiently protect certain routes and entity fields, leading to an access bypass that ",
+    "link": "https://securityaffairs.com/202162/security/attackers-exploit-critical-drupal-commerce-core-vulnerability-cve-2026-118539.html",
+    "date": "2026-10-31T09:08:58+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2014/10/drupal.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "7c2e99917669a36c",
+    "source": "The Hacker News",
+    "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
+    "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+    "date": "2026-10-31T08:27:43+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "e4512e203f72519a",
     "source": "Cyber Security News",
     "title": "Over 60,000 Attacks Target WordPress RCE Vulnerability Within 24 Hours",
@@ -374,17 +473,6 @@
     "hot": false
   },
   {
-    "id": "da278657ed9a90ed",
-    "source": "Cyber Security News",
-    "title": "Aur0ra Ransomware Hackers Use Cursor AI Agents to Gain Domain Admin Access and Steal Data",
-    "description": "Ransomware crews are now giving the hardest parts of a network break-in to AI coding tools. A group linked to Aur0ra ransomware used Cursor AI agents to go from stolen passwords to domain admin access, the highest level of control in a Windows network. From there, it collected data and prepared to deploy ransomware. The group behind Aur0ra, also spelled Aurora, is tracked as GOLD OGRE. Human operators supplied VPN access, targets and goals, and the agents handled most of the work with little help. This lowers the skill needed to run a full intrusion. It also matters for every company that reli",
-    "link": "https://cybersecuritynews.com/aur0ra-ransomware-hackers/",
-    "date": "2026-10-30T14:36:33+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Aur0ra-Ransomware-Hackers-Use-Cursor-AI-Agents-to-Gain-Domain-Admin-Access-and-Steal-Data.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
     "id": "bde921c4037516da",
     "source": "CyberScoop",
     "title": "Syrian hacker who served Assad regime gets 42 months in US prison",
@@ -715,17 +803,6 @@
     "hot": false
   },
   {
-    "id": "f29a45c4765ce793",
-    "source": "SecurityWeek",
-    "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-    "description": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-    "date": "2026-10-30T08:16:26+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Binance-hacked.jpeg",
-    "category": "Cyberwarfare",
-    "hot": false
-  },
-  {
     "id": "1ccf82f956467c6a",
     "source": "News.gr Technology",
     "title": "Η τεχνητή νοημοσύνη στις επιχειρήσεις: Πώς αλλάζουν τα εταιρικά δίκτυα και οι χώροι εργασίας",
@@ -913,17 +990,6 @@
     "hot": false
   },
   {
-    "id": "c8b49359c700f484",
-    "source": "BleepingComputer",
-    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-    "description": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-    "date": "2026-10-29T21:47:25+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/polymarket-crypto.jpg",
-    "category": "Hacking",
-    "hot": true
-  },
-  {
     "id": "f4cfd10954f022c2",
     "source": "Dark Reading",
     "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
@@ -968,17 +1034,6 @@
     "hot": false
   },
   {
-    "id": "a8ce7853aeb9c4aa",
-    "source": "BleepingComputer",
-    "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-    "description": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-    "date": "2026-10-29T19:23:41+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_cryptocurrency_red.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "7b85ad6143d01148",
     "source": "The Hacker News",
     "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
@@ -999,17 +1054,6 @@
     "image": "https://securityaffairs.com/wp-content/uploads/2026/10/image-69.png",
     "category": "Ransomware",
     "hot": true
-  },
-  {
-    "id": "442ce65fc609f15f",
-    "source": "BleepingComputer",
-    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-    "description": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-    "date": "2026-10-29T18:38:26+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Cisco.jpg",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "b086c83fa0eb735e",
@@ -1130,17 +1174,6 @@
     "date": "2026-10-29T10:44:46+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg",
     "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "b46e33c2012aa3e8",
-    "source": "Security Affairs",
-    "title": "Volt Typhoon Used Silent Train to Hide Zero-Day Attacks",
-    "description": "Volt Typhoon used disposable relay chains to hide zero-day attacks on critical systems. Lumen linked Silent Train to at least four zero-days. Lumen’s Black Lotus Labs has spent three years tracking a covert network it calls Silent Train, which it ties to Volt Typhoon, the China-linked APT group. The cybersecurity firm says the network hid exploitation of software flaws the vendors didn’t know about yet. Black Lotus sent hundreds of victim notifications along the way, and the investigations that followed revealed the exploitation of at least four confirmed zero-days and one likely. “Volt Typhoo",
-    "link": "https://securityaffairs.com/202023/intelligence/volt-typhoon-used-silent-train-to-hide-zero-day-attacks.html",
-    "date": "2026-10-29T10:34:54+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-    "category": "Malware",
     "hot": true
   },
   {
@@ -1760,17 +1793,6 @@
     "hot": false
   },
   {
-    "id": "f2521e9ee10b2567",
-    "source": "The Hacker News",
-    "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-    "description": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
-    "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-    "date": "2026-10-27T09:33:06+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "1ad053bde534e690",
     "source": "Newsbeast Technology",
     "title": "Τι ζητάς από το smartwatch σου; Οι νέες προτάσεις της HUAWEI για κάθε ρυθμό ζωής",
@@ -1778,17 +1800,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13435784/ti-zitas-apo-to-smartwatch-sou-oi-nees-protaseis-tis-huawei-gia-kathe-rythmo-zois",
     "date": "2026-10-27T09:15:00+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2026/10/HUAWEI-WATCH-GT7-PRO.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "b40303f48b4a3cc0",
-    "source": "The Hacker News",
-    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-    "description": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
-    "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-    "date": "2026-10-27T08:22:43+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -2250,7 +2261,7 @@
     "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2492,7 +2503,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2592,17 +2603,6 @@
     "link": "https://www.newsbeast.gr/technology/arthro/13427710/to-neo-kataskopeftiko-logismiko-pou-chakarei-kinita-kai-ypologistes-choris-na-kanete-oute-ena-klik-mono-me-tin-provoli-mias-diafimisis",
     "date": "2026-10-15T13:03:53+00:00",
     "image": "https://www.newsbeast.gr/image/s640x/file/files/1/2025/09/Spyware.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "091e3c88d89a838e",
-    "source": "WIRED Security",
-    "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
-    "description": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
-    "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
-    "date": "2026-10-15T10:00:00+00:00",
-    "image": "https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif",
     "category": "Malware",
     "hot": false
   },
@@ -2767,7 +2767,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3042,7 +3042,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona “ Kiberphant0m .” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large custom",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -3306,7 +3306,7 @@
     "description": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred t",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "date": "2026-09-16T18:14:22+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Privacy",
     "hot": true
   },
