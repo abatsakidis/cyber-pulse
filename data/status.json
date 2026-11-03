@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:34:58.942341+00:00",
+  "updated": "2026-11-03T22:32:02.773394+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -60,7 +60,7 @@
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "ok": false,
       "count": 0,
-      "error": "unclosed token: line 77105, column 0"
+      "error": "no element found: line 76967, column 160"
     },
     {
       "name": "NIST Cybersecurity",
@@ -109,11 +109,11 @@
   "image_fallback": {
     "enabled": true,
     "articles_checked": 116,
-    "images_found": 114,
+    "images_found": 116,
     "by_source": {
+      "BleepingComputer": 15,
       "CyberScoop": 10,
       "Security Affairs": 10,
-      "BleepingComputer": 13,
       "SecurityWeek": 10,
       "Help Net Security": 10,
       "Schneier on Security": 10,
