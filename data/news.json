@@ -1,5 +1,27 @@
 [
   {
+    "id": "7d93fb5a3dfe2dd0",
+    "source": "Cyber Security News",
+    "title": "DreamHost Confirms Data Breach – Hackers Stole Customer Credentials and Accessed Emails",
+    "description": "DreamHost has confirmed a breach that exposed customer login details after hackers exploited its web-based File Manager. The hosting provider said attackers obtained FTP/SFTP usernames and passwords, along with some webmail credentials. In a small number of cases, private mailbox contents may also have been viewed. The company discovered unauthorized access on October 23, 2026. […] The post DreamHost Confirms Data Breach – Hackers Stole Customer Credentials and Accessed Emails appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/dreamhost-confirms-data-breach/",
+    "date": "2026-11-05T03:00:40+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/DreamHost-Confirms-Data-Breach.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "b9c9105849692f1f",
+    "source": "Cyber Security News",
+    "title": "OpenAI Cyber Model Uncovers 948 Linux Kernel Privilege Escalation Vulnerabilities",
+    "description": "OpenAI says an automated research pipeline found and proved 948 separate Linux kernel privilege escalation flaws in one run. These bugs could let a normal local user gain root access. The run took place in mid-October 2026 and used an upcoming cyber model, as OpenAI explains in its research write-up. The system first scanned the […] The post OpenAI Cyber Model Uncovers 948 Linux Kernel Privilege Escalation Vulnerabilities appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/openai-uncovers-948-linux-kernel-vulnerabilities/",
+    "date": "2026-11-05T02:42:57+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/OpenAI-Uncovers-948-Linux-Kernel-Vulnerabilities.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "f54b63595f185541",
     "source": "CyberScoop",
     "title": "What Democratic control of Congress means for cybersecurity",
@@ -473,17 +495,6 @@
     "hot": true
   },
   {
-    "id": "3becc13371b8dadf",
-    "source": "Cyber Security News",
-    "title": "French Bank Crédit Mutuel Arkéa Confirms Cyberattack Amid Reports of $133 Million Theft",
-    "description": "French banking group Crédit Mutuel Arkéa has confirmed a cyberattack that enabled fraudulent transactions, following reports linking the institution to cryptocurrency theft exceeding $133 million. The bank says the incident is contained, operations are gradually resuming, and customer assets remain unaffected. It has not confirmed the reported loss figure. The group notified regulatory and supervisory […] The post French Bank Crédit Mutuel Arkéa Confirms Cyberattack Amid Reports of $133 Million Theft appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/credit-mutuel-arkea-confirms-cyberattack/",
-    "date": "2026-11-04T13:29:39+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Credit-Mutuel-Arkea-Confirms-Cyberattack.webp",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
     "id": "d37183f622ec9f76",
     "source": "BleepingComputer",
     "title": "US charges two Canadians accused of hacking US universities",
@@ -493,17 +504,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/11/04/Hackers-room.jpg",
     "category": "Hacking",
     "hot": false
-  },
-  {
-    "id": "3126f9ce8140dcab",
-    "source": "Cyber Security News",
-    "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
-    "description": "Barracuda has disclosed two security vulnerabilities that could allow attackers to bypass authorization controls and gain root access to affected appliances when exploited together. The flaws affect several Barracuda security products, but exploitation requires access to a device’s administrative interface, making exposed management systems a key concern for defenders. The vulnerabilities, tracked as CVE-2026-116606 and […] The post Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/",
-    "date": "2026-11-04T13:07:41+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Critical-Barracuda-Security-Flaws-Could-Let-Hackers-Bypass-Authentication-and-Gain-Root-Access.webp",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "e24d2cfbf2cf854e",
@@ -864,7 +864,7 @@
     "description": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
     "date": "2026-11-03T18:51:04+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/cloud-servers.jpg",
     "category": "AI Security",
     "hot": false
   },
@@ -1039,7 +1039,7 @@
     "title": "AIs Hacking the Law",
     "description": "In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite exploitation.1 Courts absorb most exploits through interpretation, and such vulnerabilities rarely surface in the first place. With highly capable AI systems enabling the discovery of vulnerabilities at unprecedented scale, we believe the latter could cha",
     "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-    "date": "2026-11-03T12:01:01+00:00",
+    "date": "2026-11-03T12:01:00+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1336,7 +1336,7 @@
     "title": "AI Vulnerability Finding",
     "description": "A comment : 3% of ‘critical’ software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is? Yes. It is a new world out there.",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-    "date": "2026-11-02T12:02:47+00:00",
+    "date": "2026-11-02T12:02:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": true
@@ -1545,7 +1545,7 @@
     "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
     "description": "Neat video : The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-    "date": "2026-10-30T21:04:37+00:00",
+    "date": "2026-10-30T21:04:36+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1930,7 +1930,7 @@
     "title": "Studying Fraudulent North Korean IT Workers",
     "description": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
     "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-    "date": "2026-10-28T11:05:31+00:00",
+    "date": "2026-10-28T11:05:00+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2073,7 +2073,7 @@
     "title": "Hiding Capabilities in AI Models",
     "description": "Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographi",
     "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-    "date": "2026-10-27T11:01:32+00:00",
+    "date": "2026-10-27T11:01:26+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2194,7 +2194,7 @@
     "title": "Bias in Qwen3-Coder Model",
     "description": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s weights, and that removing the model’s CCP alignment removes it. One word tilts the code against Americans. Ask for the app “for a US defense contractor” instead of “for a Chinese defense contractor”, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked. Hong Kong’s democracy movement gets apps that leak",
     "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-    "date": "2026-10-26T11:04:03+00:00",
+    "date": "2026-10-26T11:03:31+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -2249,7 +2249,7 @@
     "title": "Friday Squid Blogging: Increasing Squid Populations",
     "description": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-    "date": "2026-10-23T21:00:55+00:00",
+    "date": "2026-10-23T21:00:09+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2337,7 +2337,7 @@
     "title": "Compromised TLS Certificates",
     "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237. “That is extremely in the ‘this ",
     "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-    "date": "2026-10-23T11:05:16+00:00",
+    "date": "2026-10-23T11:04:22+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -2403,7 +2403,7 @@
     "title": "New Serious PHP Vulnerabilities Released and Patched",
     "description": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption, CVE-",
     "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-    "date": "2026-10-22T14:36:29+00:00",
+    "date": "2026-10-22T13:26:51+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": true
@@ -2602,7 +2602,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2701,7 +2701,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2800,7 +2800,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -3119,7 +3119,7 @@
     "description": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "date": "2026-09-25T21:44:40+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": false
   },
