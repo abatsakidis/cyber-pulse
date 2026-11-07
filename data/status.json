@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:42:19.653234+00:00",
+  "updated": "2026-11-07T00:23:11.804645+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -34,8 +34,9 @@
     {
       "name": "Help Net Security",
       "url": "https://www.helpnetsecurity.com/feed/",
-      "ok": true,
-      "count": 10
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
     },
     {
       "name": "Security Affairs",
@@ -58,8 +59,9 @@
     {
       "name": "CISA Advisories",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
-      "ok": true,
-      "count": 30
+      "ok": false,
+      "count": 0,
+      "error": "no element found: line 77289, column 52"
     },
     {
       "name": "NIST Cybersecurity",
@@ -96,7 +98,7 @@
       "name": "News.gr Technology",
       "url": "http://www.news.gr/rss.ashx?catid=12",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "name": "Newsbeast Technology",
@@ -108,18 +110,16 @@
   ],
   "image_fallback": {
     "enabled": true,
-    "articles_checked": 146,
-    "images_found": 141,
+    "articles_checked": 107,
+    "images_found": 104,
     "by_source": {
-      "BleepingComputer": 10,
+      "BleepingComputer": 12,
+      "Security Affairs": 10,
+      "Schneier on Security": 10,
+      "News.gr Technology": 2,
       "SecurityWeek": 10,
       "CyberScoop": 10,
-      "Schneier on Security": 10,
-      "Help Net Security": 10,
-      "Security Affairs": 10,
-      "CISA Advisories": 30,
       "Krebs on Security": 10,
-      "News.gr Technology": 1,
       "NIST Cybersecurity": 40
     }
   }

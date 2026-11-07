@@ -1,5 +1,71 @@
 [
   {
+    "id": "8d5355d3c50b21d9",
+    "source": "BleepingComputer",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "description": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "date": "2026-11-07T00:00:55+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/08/SonicWall.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "c17e7fe767eaa146",
+    "source": "BleepingComputer",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "description": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+    "date": "2026-11-06T22:27:25+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/workos.jpg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "3641b0945569e9ab",
+    "source": "Security Affairs",
+    "title": "White House Network Appears in Global Residential Proxy Traffic",
+    "description": "Layer3 found residential proxy traffic using the White House network, raising concerns about potential exposure of internal systems. Layer3 Intel says it found residential proxy traffic leaving through the White House network. The researchers spotted it while browsing their new Residential Proxy Observatory, a tool that gives a global view of residential proxy and anonymized internet activity. “While our team was looking through it, we noticed residential proxy exit activity on AS2650 . AS2650 is registered to the Executive Office of the President, the federal agency that hosts the White House",
+    "link": "https://securityaffairs.com/202563/security/white-house-network-appears-in-global-residential-proxy-traffic.html",
+    "date": "2026-11-06T22:17:34+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-35-1024x683.png",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "1fc3581220526e47",
+    "source": "Schneier on Security",
+    "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+    "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+    "date": "2026-11-06T22:05:12+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "68f28326cb2aa94a",
+    "source": "Dark Reading",
+    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+    "description": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+    "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+    "date": "2026-11-06T21:27:36+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "49600a8ef7cec313",
+    "source": "News.gr Technology",
+    "title": "Η ΕΕ κατηγορεί το TikTok για το επιβλαβές αλγοριθμικό φαινόμενο της «κουνελότρυπας»",
+    "description": "Διέταξε το μέσο κοινωνικής δικτύωσης να τροποποιήσει τις εξατομικευμένες ροές περιεχομένου",
+    "link": "https://www.news.gr/tech/article/4246325/i-ee-katigori-to-tiktok-gia-to-epivlaves-algorithmiko-fenomeno-tis-kounelotripas.html",
+    "date": "2026-11-06T21:14:10+00:00",
+    "image": "https://www.news.gr/wp-content/uploads/images/2024/04/18/ti/tiktok.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "eb3a032a9233266a",
     "source": "BleepingComputer",
     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
@@ -183,7 +249,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
     "date": "2026-11-06T14:57:48+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Privacy",
     "hot": false
   },
   {
@@ -319,17 +385,6 @@
     "hot": false
   },
   {
-    "id": "a4178f4a46194b9c",
-    "source": "Help Net Security",
-    "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
-    "description": "An OpenSSH flaw that lets remote attackers log into passwordless accounts on Alpine Linux and other musl-based systems is being exploited, threat intelligence firm Previdian has warned. The flaw (CVE-2026-123158), nicknamed sshole by Wakefield researcher Özgün Kültekin, was fixed in OpenSSH 10.6p2 on November 5. “An attacker who can reach your SSH port can log in without knowing any password. It takes one connection, works every time, and needs no retries,” the Alpine Linux team … More → The post OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158) appeared first on",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/",
-    "date": "2026-11-06T12:49:41+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/06145725/openssh-1500.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "c385b1d91357dfa6",
     "source": "SecurityWeek",
     "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
@@ -440,39 +495,6 @@
     "hot": false
   },
   {
-    "id": "32de7f284bc87696",
-    "source": "Help Net Security",
-    "title": "Residential proxy traffic caught leaving the White House network",
-    "description": "The White House network has been working as an exit point for residential proxy services, a setup that may open a path into one of the most closely guarded networks in the world, Layer3 Intel found. In a blog post, the threat intelligence firm reported that its proxy enumeration pipeline exited through AS2650, the network registered to the Executive Office of the President, 236 times between October 5 and November 3. The exits came from … More → The post Residential proxy traffic caught leaving the White House network appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
-    "date": "2026-11-06T10:29:58+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/24144037/whitehouse-design.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "9b8b159f5c564d48",
-    "source": "Help Net Security",
-    "title": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
-    "description": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes. The model is designed for authorized security testing of websites and applications. Vulnerability research and security testing OpenAI used GPT-6 Cyber to help secure its systems, including the infrastructure used to train its AI models. In controlled security tests, agents using GPT-6 Cyber and other OpenAI models combined vulnerabilities to … More → The post OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed ap",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
-    "date": "2026-11-06T10:19:49+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08084601/openai_person-1500.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "277e1a514bc9794b",
-    "source": "Help Net Security",
-    "title": "Sarajevo Cyber Security Summit 2026 puts the Western Balkans’ cyber resilience in focus",
-    "description": "Cyber Security Summit 2026 in Sarajevo will examine the practical security questions organizations face when a supplier, network device or critical digital service fails: what breaks, who decides, and how quickly can operations recover? A serious cyber incident does not need to begin on an organization’s core network to interrupt its operations. A compromised supplier account, an exposed edge device or an outage at a cloud provider can be enough to cut off access to … More → The post Sarajevo Cyber Security Summit 2026 puts the Western Balkans’ cyber resilience in focus appeared first on Help ",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
-    "date": "2026-11-06T10:18:30+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/12102008/cyber-security-summit-2026-poster.webp",
-    "category": "General Security",
-    "hot": true
-  },
-  {
     "id": "8cd1789bcd092f94",
     "source": "Security Affairs",
     "title": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe",
@@ -514,17 +536,6 @@
     "date": "2026-11-06T09:20:44+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-84.png",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "c991d9c66b94f39f",
-    "source": "Help Net Security",
-    "title": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine",
-    "description": "Threat actors are going after the controllers that keep grocery store freezers and cold storage rooms at safe temperatures, and they may push those units into continuous heating and defrost cycles, five US federal agencies warned in a joint advisory published on Thursday. CISA, the FBI, the Department of Health and Human Services (HHS), the US Department of Agriculture (USDA) and the Department of Transportation (DOT) issued the warning in response to ongoing malicious activity … More → The post US agencies warn attackers are targeting refrigeration systems that protect food and medicine appea",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
-    "date": "2026-11-06T09:04:36+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/02152704/hot-1500.webp",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -572,39 +583,6 @@
     "hot": true
   },
   {
-    "id": "fafb48da7c73e686",
-    "source": "Help Net Security",
-    "title": "November 2026 Patch Tuesday forecast: Old software continues to bite",
-    "description": "How did you enjoy October 2026 Patch Tuesday? Were there enough CVEs reported to keep you busy for the rest of the year or are you finished and ready for another round next week? They released the regularly scheduled update nearly two and a half hours late, but Microsoft did resolve another record-breaking 1,407 unique CVEs. As in previous months, there were limited CVEs we needed to immediately deal with. In October, one zero-day CVE-2026-96951 … More → The post November 2026 Patch Tuesday forecast: Old software continues to bite appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/",
-    "date": "2026-11-06T07:00:48+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/07160038/patch_tuesday-2024-1.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "a3a69be337829199",
-    "source": "Help Net Security",
-    "title": "Security certification is a snapshot, and buyers read too much into it",
-    "description": "In this Help Net Security video, Mariia Bakhtina, a research specialist at Masaryk University, explains what a Common Criteria or FIPS-140 certificate does and does not promise. In her team’s analysis, about 6 in 10 vulnerabilities matched to certified products, smartcards aside, were disclosed after the certification date. She also describes sec-certs and SCRUTINY, two open-source tools her lab builds, and the one question buyers should put to a vendor. Picture a procurement manager handed … More → The post Security certification is a snapshot, and buyers read too much into it appeared first ",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/",
-    "date": "2026-11-06T06:30:16+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/03120256/mariia_makhtina-2-masaryk_university.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "94e49183b37d2159",
-    "source": "Help Net Security",
-    "title": "87% say their AI controls need to work better",
-    "description": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or finish whole processes with no human approval. 87% of those same respondents say their organization needs a better way to approve, monitor and control how AI gets used. Vanson Bourne ran the … More → The post 87% say their AI controls need to work better appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
-    "date": "2026-11-06T06:00:03+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/02135045/ai-1500-2.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "bc24fe9c33258c08",
     "source": "The Hacker News",
     "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
@@ -624,28 +602,6 @@
     "date": "2026-11-06T05:39:10+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "910eecadcd816707",
-    "source": "Help Net Security",
-    "title": "99% of repository access tokens never expire",
-    "description": "Developers, automated tools and AI coding agents hold permissions that can outlast the work they were granted for. Without access reviews, organizations can leave accounts able to copy or change company code after the work ends, according to BlueFlag Security’s The State of Developer Risk 2026 report. Development accounts and tools create security blind spots Software development spans code repositories, review systems, build pipelines and connected applications. Developers, contractors, service accounts, bots and AI coding … More → The post 99% of repository access tokens never expire appeare",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/",
-    "date": "2026-11-06T05:30:23+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/12/15105916/ai-hand-1500.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "6a8d40d6d91733b2",
-    "source": "Help Net Security",
-    "title": "Rental phishing sites use live chat to win over hesitant travelers",
-    "description": "Holiday travelers looking for a place to stay are landing on copies of popular rental platforms, complete with host names, ratings and reviews, that ask for their passwords, personal details and credit card numbers. The sites, spotted and taken down by Fortra’s Intelligence and Research Experts (FIRE) team, rely on familiar branding, copied property listings and reservation details, along with urgent messages meant to rush visitors into acting. A phishing page imitating a rental marketplace … More → The post Rental phishing sites use live chat to win over hesitant travelers appeared first on H",
-    "link": "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/",
-    "date": "2026-11-06T05:00:41+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/07135238/travel_scams.webp",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -693,6 +649,17 @@
     "hot": false
   },
   {
+    "id": "7e687b176d505989",
+    "source": "Dark Reading",
+    "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+    "description": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+    "date": "2026-11-05T22:13:23+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "ee1bdf07a1bfa102",
     "source": "Dark Reading",
     "title": "US Government Email Systems Open to Abuse Thanks to Typos",
@@ -710,7 +677,7 @@
     "description": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
     "date": "2026-11-05T21:30:30+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/08/23/phishing-hook.jpg",
+    "image": "",
     "category": "Hacking",
     "hot": false
   },
@@ -754,7 +721,7 @@
     "description": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
     "date": "2026-11-05T19:24:26+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -825,28 +792,6 @@
     "hot": false
   },
   {
-    "id": "1180f3bdcf1cdb93",
-    "source": "BleepingComputer",
-    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-    "description": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-    "date": "2026-11-05T16:24:26+00:00",
-    "image": "",
-    "category": "Malware",
-    "hot": false
-  },
-  {
-    "id": "11301a278c835652",
-    "source": "BleepingComputer",
-    "title": "DigiCert data breach exposes customer information, identity documents",
-    "description": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-    "date": "2026-11-05T16:12:46+00:00",
-    "image": "",
-    "category": "Privacy",
-    "hot": true
-  },
-  {
     "id": "de9d7f190de32f44",
     "source": "The Hacker News",
     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
@@ -889,28 +834,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "0e989526297427ad",
-    "source": "CISA Advisories",
-    "title": "Post-Quantum Questions to Ask Your Vendors",
-    "description": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC—which includes algorithms capable of withstanding both clas",
-    "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-    "date": "2026-11-05T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "6cdf14f4cec3ef49",
-    "source": "CISA Advisories",
-    "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-    "description": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automat",
-    "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-    "date": "2026-11-05T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "50cac777489f01f4",
@@ -1007,7 +930,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": false
   },
@@ -1155,17 +1078,6 @@
     "hot": true
   },
   {
-    "id": "b45bce53e96246ed",
-    "source": "CISA Advisories",
-    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-    "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and r",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-    "date": "2026-11-04T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "87c453762b978def",
     "source": "The Hacker News",
     "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
@@ -1197,17 +1109,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg",
     "category": "Privacy",
     "hot": false
-  },
-  {
-    "id": "34863f73bbab8b47",
-    "source": "Security Affairs",
-    "title": "CVE-2026-58868: Critical Android Bug Could Let Attackers Run Remote Code",
-    "description": "Critical Android flaw CVE-2026-58868 could allow remote code execution without user interaction on devices running Android 14 through 17. Google has fixed CVE-2026-58868, a critical Android vulnerability affecting versions 14 through 17. The flaw is a critical Android vulnerability caused by a heap buffer overflow in the onOutputReceived function of FrameDecoder.cpp . The flaw can trigger an out-of-bounds write, potentially allowing a remote attacker to execute arbitrary code on a vulnerable device. Exploitation requires neither user interaction nor additional execution privileges, making it a",
-    "link": "https://securityaffairs.com/202414/mobile-2/cve-2026-58868-critical-android-bug-could-let-attackers-run-remote-code.html",
-    "date": "2026-11-04T10:26:52+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2022/02/Android-security.png",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "14e6dc3f880f428e",
@@ -1463,28 +1364,6 @@
     "hot": false
   },
   {
-    "id": "2198feb04772e275",
-    "source": "CISA Advisories",
-    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-    "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-    "date": "2026-11-03T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "f5dfb99c6a65ab06",
-    "source": "CISA Advisories",
-    "title": "Subnet Solutions PowerSYSTEM Center",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x (CVE-2026-63017) PowerSYSTEM Center 2024 >=6.0.x|<=6.2.x (CVE-2026-63017, CVE-2026-63774) PowerSYSTEM Center 2026 >=7.0.x|<=7.1.x (CVE-2026-63017, CVE-2026-63774) CVSS Vendor Equipment v3 9 Subnet Solutions PowerSYSTEM Center 2 Vulnerabilities Incorrect Authorization, Improper Neutralization of Special Elements used in",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-    "date": "2026-11-03T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "f97cc9eb44b8555e",
     "source": "The Hacker News",
     "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
@@ -1579,7 +1458,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet’s access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines. A report from the Google Threat Intelligence Group (GTIG) said Google has seve",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Malware",
     "hot": true
   },
@@ -1826,17 +1705,6 @@
     "hot": false
   },
   {
-    "id": "3465cc7651a508e2",
-    "source": "CISA Advisories",
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management r",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "date": "2026-10-30T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "edca80a72608235f",
     "source": "WIRED Security",
     "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
@@ -1923,50 +1791,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcb778399a7f6bf5/6ae2559253ec23dfb497d680/White_Board_ljubaphoto_Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
     "hot": false
-  },
-  {
-    "id": "0bdd7c9554884742",
-    "source": "CISA Advisories",
-    "title": "Hitachi Energy CoreTec Product",
-    "description": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/<=3.4.0, 5.0.0 (CVE-2026-13162, CVE-2026-43284) CoreTec4 vers:CoreTec4/<=3.4.0 (CVE-2026-13162) CVSS Vendor Equi",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-    "date": "2026-10-29T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "fca07afc1da53e00",
-    "source": "CISA Advisories",
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updat",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "date": "2026-10-29T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "09d1c3ea504462ce",
-    "source": "CISA Advisories",
-    "title": "Siemens Mendix SAML Module",
-    "description": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix SAML Module are affected: Mendix SAML (Mendix 10 compatible) vers:intdot/<4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 11 compatible) vers:intdot/<4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 9 compatible) vers:int",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
-    "date": "2026-10-29T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "20e00073aa21a0bc",
-    "source": "CISA Advisories",
-    "title": "Hitachi Energy TRO600 series products",
-    "description": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/<=9.2.1.6, vers:TRO600/<=9.1.1.0, 9.2.2.1, 9.1.2.0 (CVE-2026-10756, CVE-2026-106087) CVSS Vendor Equipment v3 7.",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
-    "date": "2026-10-29T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "78f1ba0ccb9e541c",
@@ -2065,17 +1889,6 @@
     "date": "2026-10-28T14:37:52+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf851053137fec653/6ae1e3cca1e4219344f6a136/credentials-NicoElNino-AdobeStock.png?width=720&quality=80&disable=upscale",
     "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "c832777393be421b",
-    "source": "CISA Advisories",
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "date": "2026-10-28T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -2178,39 +1991,6 @@
     "hot": false
   },
   {
-    "id": "720658b480e88094",
-    "source": "CISA Advisories",
-    "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with, destruction, or deletion of information, and a denial-of-service (DoS) condition of the system. The following versions of Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, HyperHistorian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32, BizViz, Mitsubishi Electric Iconics Digital Solutions GENE",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-    "date": "2026-10-27T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "fa61778c7fb4c795",
-    "source": "CISA Advisories",
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli Unchecked Return Value Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civ",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "date": "2026-10-27T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "2b68a1f051c94cc2",
-    "source": "CISA Advisories",
-    "title": "EPICS Base",
-    "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS Base release <=7.0.10 (CVE-2026-114595, CVE-2026-114596, CVE-2026-114597, CVE-2026-114598) CVSS Vendor Equipment v3 9.8 The EPICS Community EPICS Base release 3 Vulnerabilities Integer Overflow or Wraparound, Improper Handling of Length Parameter Inconsistency, Access of Resource Using Incompatible Type ('Type Confusion') B",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
-    "date": "2026-10-27T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "567265d6ada8534f",
     "source": "NIST Cybersecurity",
     "title": "Design Tenets for Agent Identity Management Systems",
@@ -2299,21 +2079,10 @@
     "hot": false
   },
   {
-    "id": "db43e74b73300163",
-    "source": "CISA Advisories",
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal Request-State Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Ex",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "date": "2026-10-26T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "b74197fe2cc7b19c",
     "source": "Schneier on Security",
     "title": "Bias in Qwen3-Coder Model",
-    "description": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s weights, and that removing the model’s CCP alignment removes it. One word tilts the code against Americans. Ask for the app “for a US defense contractor” instead of “for a Chinese defense contractor”, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked. ...",
+    "description": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s weights, and that removing the model’s CCP alignment removes it. One word tilts the code against Americans. Ask for the app “for a US defense contractor” instead of “for a Chinese defense contractor”, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked. Hong Kong’s democracy movement gets apps that leak",
     "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
     "date": "2026-10-26T11:03:31+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -2351,204 +2120,6 @@
     "date": "2026-10-23T20:57:56+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale",
     "category": "Malware",
-    "hot": true
-  },
-  {
-    "id": "1b2d756b1a641201",
-    "source": "Dark Reading",
-    "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-    "description": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-    "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-    "date": "2026-10-23T19:41:23+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
-    "hot": true
-  },
-  {
-    "id": "6a47ade02f339fa2",
-    "source": "Dark Reading",
-    "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-    "description": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-    "date": "2026-10-23T17:26:59+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "ce81ab7d208cd7fe",
-    "source": "CISA Advisories",
-    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-    "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-    "date": "2026-10-23T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "082679314b26de83",
-    "source": "CISA Advisories",
-    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-    "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requ",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-    "date": "2026-10-23T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "47c32ad646064c6f",
-    "source": "Schneier on Security",
-    "title": "Compromised TLS Certificates",
-    "description": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allowing almost 2 384 , or a number with 116 digits, different possibilities. The private key sizes of the compromised keys ranged from 3 to 8 bits. Astonishingly, the private keys were 4, 56, 66, 115, 155, 156, 230, 237...",
-    "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-    "date": "2026-10-23T11:04:22+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "ff396377228c19ac",
-    "source": "CISA Advisories",
-    "title": "Siemens Industrial Edge Device Kit",
-    "description": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends specific countermeasures for products where fixes are not, or not yet available. The following version",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "d2e6531bc2071b4f",
-    "source": "CISA Advisories",
-    "title": "Siemens SIMATIC S7-1500 TM MFP",
-    "description": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 TM MFP are affected: SIMATIC S7-1500 TM MFP - GNU/Linux subsystem vers:all/* CVSS Vendor Equipment v3 10 Siemens SIMATIC S7-1500 TM MFP - GNU/Linux subsystem 377 Vulnerabilities Access of Uninitialized Pointer, Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'), Deadlock,",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "7a991d240cfce54e",
-    "source": "CISA Advisories",
-    "title": "Kiloview E3 NDI Encoder",
-    "description": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CVE-2026-110491, CVE-2026-107861, CVE-2026-110243, CVE-2026-92450, CVE-2026-110825) CVSS Vendor Equipment v3 9.9 Kiloview E3 Firmware 6 Vulnerabilities Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Missing Authentication for Critical Function, Insufficient Session Expiration,",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "abea7e9ebc725fdc",
-    "source": "CISA Advisories",
-    "title": "Siemens RUGGEDCOM CROSSBOW",
-    "description": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modifying system configurations or causing a denial of service. Siemens has released a new version for RUGGEDCOM CROSSBOW and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW are affected: RUGGEDCOM CROSSBOW vers:intdot/<6.0 (CVE-2026-89196, CVE-2026-89197, CVE-2026-89198, CVE-",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "c5bbf83c5379c94b",
-    "source": "CISA Advisories",
-    "title": "Siemens SENTRON 3NA COM Fuse",
-    "description": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-established to restore normal operation. The following versions of Siemens SENTRON 3NA COM Fuse are affected: SENTRON 3NA COM Fuse vers:intdot/<5.2 (CVE-2024-7322) CVSS Vendor Equipment v3 5.8 Siemens SENTRON 3NA COM Fuse 1 Vulnerability Improper Verification of Source of a Communication Channel Background Critical Infrastructu",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "f5443454c2b70430",
-    "source": "CISA Advisories",
-    "title": "Siemens RUGGEDCOM APE1808 Devices",
-    "description": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update information. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-33387, CVE-2026-33388, CVE-2026-33389, CVE-2026-33391, CVE-2026-33920) CVSS Vendor Equipment v3 7.5 Siemens RUGGEDCOM APE1808 4 Vulnerabilities Improper Neutralization of Special Elements Used in a Tem",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "ae4fc3010732bd4e",
-    "source": "CISA Advisories",
-    "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
-    "description": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP are affected: SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AB0) vers:intdot/>=3.1.7 SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AC0) vers:intdot/>=3.1.7 SIMATIC S7-1500 CPU 1518F-4 PN/DP",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "cf81b6fd54772188",
-    "source": "CISA Advisories",
-    "title": "Siemens WinCC",
-    "description": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59241) SIMATIC WinCC V8.0 vers:intdot/<8.0.0.1",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "6807e66ee5282f6b",
-    "source": "CISA Advisories",
-    "title": "Siemens Capital Embedded AR Classic",
-    "description": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends updating to the latest version. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. The following versions of Siemens Capital Embedded AR Classic are affected: Capital Embedded AR Classic 431-422 vers:all/* (CVE-2026-89208) Capital Embed",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "e928d744b4fbe20f",
-    "source": "CISA Advisories",
-    "title": "InterSystems Corporation InterSystems IRIS for Health",
-    "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health 2026.2.0.221, 2026.1.0.235, 2025.3.0.226 (CVE-2026-111594, CVE-2026-111594, CVE-2026-111594) CVSS Vendor Equipment v3 8.1 InterSystems Corporation InterSystems IRIS for Health 1 Vulnerability Cleartext Transmission of Sensitive Information Background Critical Infrastructure Sectors: Healthcare and Public Health Countries",
-    "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "1ae90ad5923fc306",
-    "source": "CISA Advisories",
-    "title": "Siemens SIMATIC IPCs",
-    "description": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SIMATIC IPCs are affected: SIMATIC IPC BX-21A vers:intdot/<31.01.13 (CVE-2026-72895) SIMATIC IPC RW-543A vers:intdot/<1.1.4 (CVE-2026-72895) SIMATIC IPC227G / IPC277G / IPC277G PRO / IPC327G / IPC377G vers:intdot",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "b262f9f8a603ba92",
-    "source": "CISA Advisories",
-    "title": "Siemens Software Center",
-    "description": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application. Siemens has released a new version for Siemens Software Center and recommends to update to the latest version. Please refer to our blog post for additional information about current known active exploitation and how to detect it. The following versions of Siemens Software C",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "141dc631b2057a5f",
-    "source": "CISA Advisories",
-    "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-    "description": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW Station Access Controller are affected: RUGGEDCOM CROSSBOW Station Access Controller (SAC) vers:intdot/<6.0 (CVE-2025-6965, CVE-2025-70873, CVE-2025-71316,",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
-    "date": "2026-10-22T12:00:00+00:00",
-    "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
     "hot": true
   },
   {
@@ -2591,7 +2162,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2635,7 +2206,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2646,7 +2217,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
