@@ -1,12 +1,353 @@
 [
   {
-    "id": "f980d8c709a7b247",
+    "id": "f9393e7dada26482",
+    "source": "Help Net Security",
+    "title": "Microsoft researchers demonstrate hidden backdoor technique for AI agents",
+    "description": "Microsoft researchers have demonstrated how small changes to an AI model can implant a hidden backdoor, causing an agent to execute an attacker’s command when a specific trigger appears. The technique, called Lazarus, requires no model retraining and allows the agent to behave normally during standard safety evaluations. The company has not observed threat actors weaponizing the technique, but says the research highlights a security concern for organizations that give AI agents access to terminals, … More → The post Microsoft researchers demonstrate hidden backdoor technique for AI agents appe",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/",
+    "date": "2026-11-11T10:55:54+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/19154102/microsoft2.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "ffb5aa520c1b713b",
     "source": "Cyber Security News",
-    "title": "Microsoft Confirms Hackers Are Exploiting Outlook 0-Day to Steal Windows Authentication Hashes",
-    "description": "Microsoft has confirmed that hackers are exploiting an Outlook zero-day that can expose Windows authentication information when a user opens a malicious file. Tracked as CVE-2026-124194, the spoofing vulnerability was patched on November 10, 2026. Microsoft marks it “Exploitation Detected” and says it was not publicly disclosed before the update. The flaw carries a CVSS score of 6.5 and a Moderate severity rating. However, confirmed attacks make it a patching priority. Microsoft’s Exploitability Index states that “Exploitation Detected” means the company knows of actual exploitation, not just ",
-    "link": "https://cybersecuritynews.com/outlook-0-day-vulnerability/",
-    "date": "2026-11-11T02:35:43+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Outlook-0-Day-Vulnerability.webp",
+    "title": "Hackers Exploit AhsayCBS Vulnerabilities to Hide Malware in PNG Images and Deploy Stealthy Backdoors",
+    "description": "Hackers exploiting AhsayCBS backup servers have planted webshells, hidden encrypted code inside PNG images, and staged a Python implant designed to run only on its intended host. The findings show an intrusion that extended beyond cryptocurrency mining, giving attackers several ways to keep access to systems responsible for protecting an organization’s backups. The attack affected three AhsayCBS servers in one organization between October 8 and October 11, 2026, before vendor hotfixes became available. Attackers exploited CVE-2026-105133, an authentication bypass, and CVE-2026-105134, which al",
+    "link": "https://cybersecuritynews.com/hackers-exploit-ahsaycbs-vulnerabilities/",
+    "date": "2026-11-11T10:44:43+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Exploit-AhsayCBS-Vulnerabilities-to-Hide-Malware-in-PNG-Images-and-Deploy-Stealthy-Backdoors.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "2cc6b4e183dc5875",
+    "source": "SecurityWeek",
+    "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+    "description": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+    "date": "2026-11-11T10:35:15+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/11/ICS_Patches.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "22dff3a97074a719",
+    "source": "Cyber Security News",
+    "title": "ClickFix Attacks Evolve to Hide Malware in PNG Images and Hijack Windows Domain Controllers",
+    "description": "ClickFix attacks are moving beyond simple malware downloads, with recent investigations revealing executable payloads hidden inside PNG images and intrusions reaching Windows domain controllers. The activity shows how a fake verification prompt can become the starting point for persistent access, credential theft, and movement across corporate networks. The trick still depends on convincing someone to run a command copied from a webpage. Attackers now support that request with fake security checks, colored terminal messages, and animated progress bars, making malware installation look like a r",
+    "link": "https://cybersecuritynews.com/clickfix-attacks-evolve/",
+    "date": "2026-11-11T10:32:40+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/ClickFix-Attacks-Evolve-to-Hide-Malware-in-PNG-Images-and-Hijack-Windows-Domain-Controllers.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "8c826d76cd4f923a",
+    "source": "BleepingComputer",
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+    "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+    "date": "2026-11-11T10:12:08+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "e3e4ae0bdbd53455",
+    "source": "Help Net Security",
+    "title": "Ubuntu certificate revocation checks arrive in curl, OpenSSL is next",
+    "description": "Ubuntu 26.10 ships curl with certificate revocation checking built in. The check comes from upki, a project from the rustls developers. Ubuntu’s developers ran the same curl command on both releases: Ubuntu 26.04 accepted a revoked certificate and connected, while 26.10 refused it. A certificate authority revokes a certificate when it should stop being trusted before it expires. OpenSSL checks a certificate chain by default, but it doesn’t check whether any certificate in that chain … More → The post Ubuntu certificate revocation checks arrive in curl, OpenSSL is next appeared first on Help Ne",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/",
+    "date": "2026-11-11T09:46:23+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/11060336/ubuntu-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "9e147eda5a28d625",
+    "source": "Help Net Security",
+    "title": "Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds",
+    "description": "Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud application platform powered by Kubernetes. Purpose-built to streamline complex operations across data centers, cloud environments and disconnected deployments, the evolved platform enables IT teams to deploy AI workloads, virtual machines (VMs) and containerized workloads side-by-side through a simple, in-place update from Red Hat OpenShift 4. What Red … More → The post Red Hat OpenShift 5 brings autonomo",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/",
+    "date": "2026-11-11T09:31:00+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "46bff9114dd447e4",
+    "source": "Cyber Security News",
+    "title": "China-Linked Hackers Use Fake Chrome Certificate Warnings to Infect Victims With Sparrow Backdoor",
+    "description": "China-linked hackers are turning trusted websites into malware delivery points by displaying fake Google Chrome certificate warnings. The pages urge selected visitors to install a certificate repair utility, but the download instead installs a backdoor that gives attackers remote access to Windows computers. The campaign, tracked as SilentDelivery, targets high-profile organizations mainly across Europe and Asia. Attackers compromised websites connected to government, shipping, IT, and research sectors, using familiar browser error messages to persuade visitors that installing software was nec",
+    "link": "https://cybersecuritynews.com/fake-chrome-certificate/",
+    "date": "2026-11-11T09:24:07+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/China-Linked-Hackers-Use-Fake-Chrome-Certificate-Warnings-to-Infect-Victims-With-Sparrow-Backdoor.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "9a58dd1a28eb00a6",
+    "source": "Help Net Security",
+    "title": "Druva helps restore AI agents without rolling back entire environments",
+    "description": "Druva has announced Druva Agent Recovery, a new set of AI Resilience capabilities that keep the business running by quickly restoring AI agents when they are deleted or unexpectedly changed. Support begins with Microsoft Copilot Studio, Microsoft’s platform for building custom AI agents. Announcement also expands protection across Microsoft Power Platform, adding Power Apps and Power Automate to existing Power BI support. Additionally, Druva is introducing the industry’s first data protection integrations with Azure SRE … More → The post Druva helps restore AI agents without rolling back entir",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/",
+    "date": "2026-11-11T09:23:04+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "6368b5611a16976e",
+    "source": "Help Net Security",
+    "title": "Fingerprint trains specialized models to detect distinct fraud types",
+    "description": "Fingerprint has launched Fraud Score, a predictive fraud signal trained directly on customers’ own fraud outcomes and powered by Fingerprint’s device intelligence and machine learning models. Fraud Score learns the fraud types at each organization to help them identify fraud more accurately without having to build and maintain their own models. Basic risk scoring can’t match the many types of fraud “Businesses today face a wider range of fraud threats, amplified by AI-powered techniques,” said … More → The post Fingerprint trains specialized models to detect distinct fraud types appeared first",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/",
+    "date": "2026-11-11T09:12:57+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "26da0b24d8a01860",
+    "source": "BleepingComputer",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "description": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+    "date": "2026-11-11T09:07:27+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/Exchange_Online.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "17102ef9c41530bd",
+    "source": "Help Net Security",
+    "title": "Orca Security adds visibility into AI-generated code and agent risks",
+    "description": "Orca Security has announced new capabilities to help organizations discover and secure AI-generated applications and autonomous agents across their cloud environments. The expansion builds on Orca’s AI Security offering, enabling security teams to uncover previously unknown AI applications, assess the risks associated with autonomous agents, and gain deeper visibility into AI-generated code. AI is fundamentally changing who builds software and how it reaches production. Employees across business functions are creating applications using AI-powered tools, while … More → The post Orca Security a",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/",
+    "date": "2026-11-11T09:05:46+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "ad5fe6be18282e92",
+    "source": "Security Affairs",
+    "title": "Microsoft November Patch Tuesday: one exploited Outlook bug and 30 wormable flaws",
+    "description": "Microsoft November Patch Tuesday security updates fix 1,090 flaws, including one exploited Outlook bug and 30 potentially wormable issues. Microsoft November Patch Tuesday addressed about 1,090 new vulnerabilities, which is less than the roughly 1,400 last month. Two months in a row now exceed every previous year from Microsoft, and the overall count is a bit confusing, so other trackers report different totals. The release covers Windows and its components, Office, networking and remote access, graphics, media and printing, storage and file systems, .NET and Visual Studio, security and identi",
+    "link": "https://securityaffairs.com/202839/hacking/microsoft-november-patch-tuesday-one-exploited-outlook-bug-and-30-wormable-flaws.html",
+    "date": "2026-11-11T09:03:48+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2014/12/Microsoft-Patch-Tuesday-Exchange-server.png",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "9d681761d3da9329",
+    "source": "SecurityWeek",
+    "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+    "description": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+    "date": "2026-11-11T09:01:07+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Cisco-switches-network.jpeg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "3279b516c6082afc",
+    "source": "Help Net Security",
+    "title": "Obsidian expands AI agent security with runtime policy enforcement",
+    "description": "Obsidian Security has announced its Runtime Policy Decision Engine, giving security teams centralized control over AI agent actions before they run. Building on Obsidian’s extensive AI agent discovery and governance coverage, the engine uses context about who is behind an agent, its access and the third-party applications involved to allow or block actions, or require human approval where supported. Context from your apps, identity systems and your own labels feeds one Policy Decision Engine; each … More → The post Obsidian expands AI agent security with runtime policy enforcement appeared fir",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/",
+    "date": "2026-11-11T08:44:50+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "90b65585efc4e7af",
+    "source": "SecurityWeek",
+    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+    "description": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+    "date": "2026-11-11T08:42:44+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/11/chipmaker-patch-tuesday.jpeg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "135dfbeff680a36c",
+    "source": "The Hacker News",
+    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "description": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
+    "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "date": "2026-11-11T08:17:53+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s1600/patch-ms.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "26aebc330736633c",
+    "source": "SecurityWeek",
+    "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+    "description": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+    "date": "2026-11-11T07:53:51+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Barracuda.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "cbdb03ad105734ba",
+    "source": "The Hacker News",
+    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+    "description": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps for its customers and stores their secrets, such as API keys and database",
+    "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+    "date": "2026-11-11T07:49:04+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheDP-YSdactqjEqKJOJEJulSVt5fmo134ko3-hE9dbQrLkrcIuhIkAOQDPe4eGS8WR6mLJs3urGqLpdi9erHsuLMAQ1t2saYXZAhnIRNqzliU3reOp2uPoKCRlpWBj8JQcyRIwo9eqK4AuSFcsB5XhIdLFzNYudzLlW_eHiZ094cCzg_gjihMTAZufcCc/s1600/railway-ai.jpg",
+    "category": "General Security",
+    "hot": true
+  },
+  {
+    "id": "caeb4555f3a4c2d5",
+    "source": "Cyber Security News",
+    "title": "Top 10 Best Security Policy Management Tools in 2026 [Ranked & Scored]",
+    "description": "“Security policy management” is one shelf holding two different products: network security policy management (NSPM) firewall rulebases, segmentation intent, change automation and written-policy lifecycle the documents people sign and auditors demand. Our roster spans both, so this countdown declares the lane on every entry and ranks within the honest frame: rulebase engines first by estate scale, document platforms by attestation truth. Tufin takes 1 ; AlgoSec and FireMon complete the NSPM podium. Key Takeaways • 1 overall: Tufin policy orchestration at the largest hybrid-estate scale. • NSPM ",
+    "link": "https://cybersecuritynews.com/best-security-policy-management/",
+    "date": "2026-11-11T07:36:35+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Security-Policy-Management-Tools-2.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "9737ddf990bcf610",
+    "source": "Cyber Security News",
+    "title": "Top 10 Best Audit Management Software in 2026 [Ranked & Scored]",
+    "description": "Audit management software is graded by a brutal metric: the spreadsheet-reversion point the moment auditors flee the platform back to Excel. The 2026 rankings reward fieldwork ergonomics, evidence automation that pulls control tests from systems rather than people , and the committee-pack mile where most tools quietly fail. AuditBoard takes 1 ; ServiceNow and Workiva complete the podium. Key Takeaways • 1 overall: AuditBoard the adoption benchmark the profession measures everything against. • Podium: AuditBoard (floor-vote winner), ServiceNow (workflow-routed findings), Workiva (filing-grade r",
+    "link": "https://cybersecuritynews.com/best-audit-management-software/",
+    "date": "2026-11-11T07:35:03+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Best-Audit-Management-Software-.webp",
+    "category": "Cyberwarfare",
+    "hot": true
+  },
+  {
+    "id": "11b60eddbfafb74c",
+    "source": "Cyber Security News",
+    "title": "Top 10 Best Security Ratings Services in 2026 [Ranked & Scored]",
+    "description": "Security ratings grade organizations from the attacker’s side of the fence exposed services, patch cadence, breach signals and the grades now move real money: insurance pricing, vendor gates, board narratives. Two honesty notes shape this countdown: NormShield is Black Kite’s former name (one company, counted once), and Mastercard announced RiskRecon’s wind-down, making it a migration note rather than a pick so we rank nine services honestly. SecurityScorecard takes 1 ; BitSight and Black Kite complete the podium. Key Takeaways • 1 overall: SecurityScorecard the operational rating teams actual",
+    "link": "https://cybersecuritynews.com/best-security-ratings-services/",
+    "date": "2026-11-11T07:33:10+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Best-Security-Ratings-Services-.webp",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
+    "id": "9110a5b98f951d0e",
+    "source": "Cyber Security News",
+    "title": "Top 10 Best Third-Party / Vendor Risk Management (TPRM) Tools in 2026 [Ranked & Scored]",
+    "description": "Your security perimeter now includes every vendor with an API key, and TPRM tooling decides whether that truth lives in a spreadsheet or a signal. The 2026 rankings reward platforms that fuse the two lenses outside-in ratings for continuous truth, questionnaires for control depth and automate the reassessment triggers between them. OneTrust takes #1 ; SecurityScorecard and BitSight complete the podium. Key Takeaways • 1 overall: OneTrust vendor risk integrated with the privacy and data-map estate most enterprises already run. • Podium: OneTrust (suite integration), SecurityScorecard (continuou",
+    "link": "https://cybersecuritynews.com/best-tprm-tools/",
+    "date": "2026-11-11T07:31:25+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Third-Party-Vendor-Risk-Management-Tools-1.webp",
+    "category": "Cyberwarfare",
+    "hot": true
+  },
+  {
+    "id": "bc33165d1ac01354",
+    "source": "Cyber Security News",
+    "title": "Top 10 Best Compliance Automation Software (SOC 2 / ISO 27001) in 2026 [Ranked & Scored]",
+    "description": "Compliance automation turned certification from an archaeology project into a plumbing project: connectors pull evidence from cloud, HRIS, and device stacks continuously, and audits review live data instead of screenshot folders. One honest count note up front: our source list named ten brands, but Tugboat Logic was absorbed into OneTrust, so we rank nine platforms rather than pad the countdown. Vanta takes 1 ; Drata and AuditBoard complete the podium. Key Takeaways • 1 overall: Vanta the connector-evidence model the category copied, still the broadest expression of it. • Podium: Vanta, Drata ",
+    "link": "https://cybersecuritynews.com/best-compliance-automation/",
+    "date": "2026-11-11T07:29:05+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Compliance-Automation-Software-2.webp",
+    "category": "Cyberwarfare",
+    "hot": false
+  },
+  {
+    "id": "89f9ca7781a6f77a",
+    "source": "Cyber Security News",
+    "title": "Windows Active Directory RCE Vulnerability Allows Attacker to Execute Code Over a Network",
+    "description": "Microsoft has released security updates for a Windows Active Directory vulnerability that allows an authorized attacker to execute code over a network. Tracked as CVE-2026-119948, the flaw was disclosed on November 10, 2026, and affects multiple Windows desktop and server versions. Microsoft rates it Important, with a CVSS 3.1 base score of 7.5. The CVE record identifies the weakness as a stack-based buffer overflow. Exploitation requires low privileges and no user interaction, but the attack complexity is high. This means the flaw is not described as an unauthenticated attack that works again",
+    "link": "https://cybersecuritynews.com/windows-active-directory-rce-vulnerability/",
+    "date": "2026-11-11T07:21:28+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Windows-Active-Directory-RCE-Vulnerability-Allows-Attacker-to-execute-code-over-a-network.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "8b38e8a568f4c106",
+    "source": "The Hacker News",
+    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "description": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker must be able to change the model's weights. The team tested the method on",
+    "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+    "date": "2026-11-11T07:21:05+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3GT7PJRzHrU1jqZ7Qt0MYIOeL97NYpY4E-aY-Jh9WrLRSLpjaLEIjeAdOagTcUfo7MU9yXmk7HPgPHuGKkEidZkw-2Ojtty9z1PX2Qmmj-h0Kk3X-3VsIg6Lggpoblf-1SE5GHU9LB-P6WeOrfNVgIl1e7q0FxS6obF07BEd8HVcXgSyd_7ZSV8hB01E/s1600/ms-ai-backdoor.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "a1b8aa9dc3927614",
+    "source": "Cyber Security News",
+    "title": "Critical Fortinet2Shell Vulnerability Enables RCE Attacks in FortiClient with FortiPAM Enabled",
+    "description": "Fortinet has warned about a critical flaw in FortiClient that lets a remote attacker run code on a user’s computer. The attacker only needs the user to visit a malicious website . The bug is tracked as CVE-2026-121529 and carries a CVSS score of 9.1. Fortinet published the advisory on November 10, 2026. The issue is an origin validation error, classified as CWE-346. Researcher Kevin Joensen from Baldur Security discovered it during internal research and humorously dubbed it “Fortinet2Shell.” He noted that the root cause is a CORS misconfiguration . CORS, which stands for Cross-Origin Resource ",
+    "link": "https://cybersecuritynews.com/fortinet2shell-vulnerability/",
+    "date": "2026-11-11T07:05:55+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Critical-Fortinet2Shell-Vulnerability-Enables-RCE-Attacks-in-FortiClient-with-FortiPAM-enabled.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "349e92372be9d332",
+    "source": "Help Net Security",
+    "title": "The Cyber Resilience Act clock doesn’t stop for weekends",
+    "description": "In this Help Net Security interview, Aurimas Bakas, CEO of Copla, talks about what the EU Cyber Resilience Act‘s reporting duties mean for manufacturers. He explains why companies need a register of every product version still in use, why boards focus on CE marking while reporting obligations started in September 2026, and how to define the moment a company becomes aware of an exploited flaw. He also covers what CISOs should ask suppliers, and how … More → The post The Cyber Resilience Act clock doesn’t stop for weekends appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/aurimas-bakas-copla-cra-vulnerability-reporting/",
+    "date": "2026-11-11T07:00:54+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/10093912/aurimas_bakas-2-copla.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "76b751d1929ac1d0",
+    "source": "SecurityWeek",
+    "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+    "description": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+    "date": "2026-11-11T07:00:17+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Apple-iphone-bluetooth-airplay.jpeg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "57e692bd1717a990",
+    "source": "Help Net Security",
+    "title": "A CISO’s guide to trimming waste from a flat security budget",
+    "description": "In this Help Net Security video, Ken Leeser, CISO at Y Meadows, explains how security leaders can get more protection out of a flat budget. He argues a frozen budget gives teams a reason to cut waste and simplify their security stack. The first step is an inventory of every tool and what it costs, including renewals and storage fees. Next, teams should map those tools against attacker techniques using frameworks like MITRE ATT&CK, and … More → The post A CISO’s guide to trimming waste from a flat security budget appeared first on Help Net Security .",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/flat-security-budget-video/",
+    "date": "2026-11-11T06:30:10+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/02/18153803/cybersecurity_budgets-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "148916bac6a2746c",
+    "source": "The Hacker News",
+    "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity",
+    "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+    "date": "2026-11-11T06:04:02+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "63fc1ee530a3a379",
+    "source": "Help Net Security",
+    "title": "EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch",
+    "description": "Forty-five percent of surveyed IT service management providers in the EU took more than three months to apply critical patches to critical systems, according to ENISA’s 2026 assessment of cybersecurity in the Union. Attackers can turn a newly disclosed flaw into a working attack within days, and sometimes within hours or minutes. Those providers run systems for other organizations, so a slow patch at one becomes exposure for the customers that depend on it, and … More → The post EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch appeared first on Help Net Secur",
+    "link": "https://www.helpnetsecurity.com/2026/11/11/eu-enisa-cybersecurity-report/",
+    "date": "2026-11-11T06:00:09+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21142123/eu-people-1500.webp",
     "category": "Vulnerability",
     "hot": true
   },
@@ -50,7 +391,7 @@
     "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla . Image: Shutterstock.com. Diorama by @zepp1969. November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with li",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -242,17 +583,6 @@
     "hot": true
   },
   {
-    "id": "77e6d5bfa1bcfaf6",
-    "source": "Cyber Security News",
-    "title": "Microsoft November 2026 Patch Tuesday Fixes 1,093 Vulnerabilities, Including Outlook Zero-Day",
-    "description": "Microsoft has released its November 2026 Patch Tuesday updates, fixing 1,093 newly released vulnerabilities across Windows, Office, SQL Server, SharePoint, Exchange Server, Azure services, and developer tools. The release includes one actively exploited zero-day in Microsoft Outlook that can leak a user’s NTLMv2 authentication hash to an attacker. This update addresses 63 critical vulnerabilities, 1,029 important issues, and one moderate flaw among the newly released entries. Vulnerability Type Count Elevation of Privilege 535 Remote Code Execution 296 Information Disclosure 156 Denial of Serv",
-    "link": "https://cybersecuritynews.com/microsoft-november-2026-patch-tuesday/",
-    "date": "2026-11-10T19:01:53+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Microsoft-November-2026-Patch-Tuesday-Fixes-1093-Vulnerabilities-Including-Outlook-Zero-Day.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "dcf15d66a392cba5",
     "source": "Dark Reading",
     "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
@@ -275,17 +605,6 @@
     "hot": false
   },
   {
-    "id": "3672952a5eaf5bda",
-    "source": "Cyber Security News",
-    "title": "BYOD Ransomware Group Allegedly Claims Toyota Data Breach",
-    "description": "The BYOD ransomware group has allegedly claimed a Toyota data breach, saying it obtained personal information and access involving kiosk devices. A supplied screenshot shows a Toyota listing updated on November 10, 2026. The claim remains unverified, and the material does not establish that Toyota’s systems were breached or that files were encrypted. The listing names full names, email addresses, physical addresses, phone numbers, and dates of birth among the allegedly exposed information. It also mentions “Kiosk Devices,” but provides no explanation of their location, purpose, or ownership. T",
-    "link": "https://cybersecuritynews.com/toyota-data-breach-claim/",
-    "date": "2026-11-10T18:14:43+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Toyota-Data-Breach-Claim.webp",
-    "category": "Ransomware",
-    "hot": true
-  },
-  {
     "id": "256ab3091be6afd9",
     "source": "The Hacker News",
     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
@@ -305,17 +624,6 @@
     "date": "2026-11-10T18:11:54+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "67a4d93ee10720af",
-    "source": "Help Net Security",
-    "title": "Firefox free VPN drops its 50GB launch cap until January 31",
-    "description": "Mozilla has removed the data limit on the free VPN built into Firefox. Firefox users in supported regions get unlimited browsing on desktop and Android once they sign in with a Mozilla account. The VPN shipped with Firefox 149 in March with a 50GB monthly cap. That is plenty for reading and ordinary browsing, but someone streaming video through the browser can use it up fast. The VPN protects traffic inside Firefox and nothing else … More → The post Firefox free VPN drops its 50GB launch cap until January 31 appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/firefox-free-vpn-data/",
-    "date": "2026-11-10T18:05:38+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/10190256/mozilla-vpn-1500.webp",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -341,39 +649,6 @@
     "hot": true
   },
   {
-    "id": "a483a1cff1e20d03",
-    "source": "Cyber Security News",
-    "title": "Hackers Can Exploit SAP PROXYGATE and ICM2SHELL Flaws for Unauthorized Full System Access",
-    "description": "SAP has released fixes for PROXYGATE and ICM2SHELL, critical security flaws that could let attackers take control of SAP systems without signing in. Disclosed during the November 10, 2026, Security Patch Day , the vulnerabilities carry maximum CVSS scores of 10.0 and affect core components used across business applications. Onapsis Research Labs discovered and reported both issues. The flaws allow attackers with network access to run operating system commands under the <sid>adm account, which owns the SAP installation. This gives them control over the affected SAP environment, though it does n",
-    "link": "https://cybersecuritynews.com/sap-proxygate-and-icm2shell-flaws/",
-    "date": "2026-11-10T17:32:01+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/SAP-PROXYGATE-ICM2SHELL-Flaws.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
-    "id": "f5d9136534bf5cea",
-    "source": "Cyber Security News",
-    "title": "Railway Reveals How Hackers Used AI Agents to Steal API Keys and Rack Up $740,000 in Charges",
-    "description": "Railway has revealed how an attacker used AI agents, a build system flaw, and cloud access mistakes to steal customer secrets and generate an estimated $740,000 in unauthorized charges. Its November 10 report describes an attack that crossed several internal systems while engineers worked to close multiple entry points. The findings expand on the earlier Railway security incident disclosure . Up to 1.85% of workspaces, roughly 100,000, could have had environment variables decrypted. This is an upper limit, not a confirmed count of workspaces with stolen keys, because available logs identify af",
-    "link": "https://cybersecuritynews.com/railway-details-data-breach/",
-    "date": "2026-11-10T17:19:58+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Railway-Details-Data-breach.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "3f444f37094f65db",
-    "source": "Cyber Security News",
-    "title": "Notion Confirms AI Chat Transcripts Exposed in Fireworks AI Breach, Affecting Customer Workspaces",
-    "description": "Notion has confirmed that a security incident at Fireworks AI exposed Notion AI chat transcripts linked to fewer than 1% of its customer workspaces. Insights, a feature that helps teams understand their AI usage, used the affected conversations. Notion said its own systems were not breached and no other Notion features were affected. The company has contacted affected customers and provided instructions for reviewing the impacted data securely inside their workspaces. Customers who have not received a notification have not been identified as affected and need no action right now. However, Noti",
-    "link": "https://cybersecuritynews.com/notion-confirms-data-breach/",
-    "date": "2026-11-10T16:54:37+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Notion-Confirms-Data-Breach-.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
     "id": "adbae7e2ed7c0c82",
     "source": "SecurityWeek",
     "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
@@ -383,17 +658,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Allan-Friedman_SBOM-Podcast.jpg",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "f39e6e9095cc7154",
-    "source": "Cyber Security News",
-    "title": "Ivanti Patches New Security Flaws Affecting Endpoint Manager, EPMM, Sentry, CSA, and Workspace Manager",
-    "description": "Ivanti has released security updates for Endpoint Manager, Endpoint Manager Mobile, Sentry, Cloud Services Application, and User Workspace Manager. The November 2026 disclosures cover flaws that could allow remote code execution, changes to trusted certificates, data exposure, and service disruption. Two critical vulnerabilities in Endpoint Manager and CSA present the highest risks. Ivanti said it was not aware of customers being exploited through these vulnerabilities before public disclosure. The issues were reported through its responsible disclosure program. However, the lack of reported a",
-    "link": "https://cybersecuritynews.com/ivanti-security-flaws/",
-    "date": "2026-11-10T16:43:58+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Ivanti-Security-Flaws.webp",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "3b75e0a4654d19bf",
@@ -418,17 +682,6 @@
     "hot": true
   },
   {
-    "id": "de0d44ebf52dec23",
-    "source": "Help Net Security",
-    "title": "X.Org patches eight server vulnerabilities a month after fixing 12 others",
-    "description": "X.Org has fixed eight vulnerabilities in the X.Org X server and Xwayland, including one in the Xorg server that lets a malicious monitor corrupt its memory. The fixes ship in xorg-server 21.1.26 and xwayland 24.1.15, and each of the eight affects versions before those two releases. The X server provides the low-level display layer for graphical desktops on many Linux and Unix systems. Xwayland runs X11 applications on desktops built on Wayland, the newer display … More → The post X.Org patches eight server vulnerabilities a month after fixing 12 others appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/x-org-server-vulnerabilities-november-2026/",
-    "date": "2026-11-10T16:15:36+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/10170739/xorg-1500.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "ddb56444c9a96423",
     "source": "The Record",
     "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
@@ -438,17 +691,6 @@
     "image": "http://cms.therecord.media/uploads/fireworks_1_9c80b2da5e.jpg",
     "category": "AI Security",
     "hot": true
-  },
-  {
-    "id": "b1029ca6cc0cbcc3",
-    "source": "Cyber Security News",
-    "title": "Barracuda Confirms Active Exploitation of Email Gateway Flaws Allowing Root Access",
-    "description": "Barracuda has confirmed active exploitation of security flaws affecting its Email Security Gateway (ESG), warning that attackers could combine two vulnerabilities to gain root access without logging in. In a November 9, 2026, update issued at 9:00 p.m. EST, the company said exploitation had affected a small number of organizations. The flaws, tracked as CVE-2026-116606 and CVE-2026-111560, involve an authorization bypass and command injection. Successful exploitation requires access to the appliance’s administrative interface. This condition makes exposed management pages a key concern, althou",
-    "link": "https://cybersecuritynews.com/barracuda-email-gateway-flaws/",
-    "date": "2026-11-10T16:05:32+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Barracuda-email-gateway-flaws-2.webp",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "3578999604ef5c6e",
@@ -473,17 +715,6 @@
     "hot": false
   },
   {
-    "id": "295b5cb463da1232",
-    "source": "Cyber Security News",
-    "title": "One Identity Unveils Safeguard 9.0 for Simpler PAM",
-    "description": "Alisa Vijeo, California, November 10th, 2026, CyberNewswire One Identity today unveiled Safeguard 9.0, a major update designed to reduce the infrastructure, administrative overhead and operational complexity associated with enterprise privileged access management. As privileged access management becomes more critical and complex, One Identity Safeguard continues to advance around a straightforward goal: make enterprise-grade privileged access easier for administrators and users to manage. The current One Identity documentation identifies Safeguard for Privileged Passwords 9.0 and Safeguard for",
-    "link": "https://cybersecuritynews.com/one-identity-unveils-safeguard-9-0-for-simpler-pam/",
-    "date": "2026-11-10T15:59:11+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqW7gdqnyMb9-HQEUkq9XUtXF1062wwqfdb4mLtwGLoEYVJ8kuNQOMso6kehXJjDpp2qp9gZ_Wsns_r4WE34Cacw33qoNCb9mks4uU1Pfivq5HRCwRZ94Vnq3JIz9-li4DlCA-FTDQhrVCUHw7Es3vKi_5FCE9JeXMx91AX1n6pl0LFu4f_tIydYsUTVY/s1600/Insignary%20Launches%20Clarity%20On-Demand_%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20project,%20one%20team,%20or%20%20(86.webp",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
     "id": "e89dcbbae47277ea",
     "source": "The Hacker News",
     "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
@@ -493,17 +724,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4UHnKTj_NJCPa7Jqdntj8tEvZ2PgaY7s9kKK8_X2bxehTUcJeZPFfguJzvW_D0H9XD_q-qLZV2Qq6hqRYDQRYMXpyAzw-6T2yDjFjIY7zhGRLPDPjOalASUgX_Z-M2cEsNqiuys_4QjQ8vY_xl0fnWi2Y_9tT9aAH0WQOAB3D6uDf8yZY8VuphL4TRFG/s1600/court-phish.jpg",
     "category": "Malware",
     "hot": false
-  },
-  {
-    "id": "bb3d884886a7933e",
-    "source": "Cyber Security News",
-    "title": "One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration",
-    "description": "Alisa Viejo, California, November 10th, 2026, CyberNewswire Active Roles 8.6: Cumulative security, feature and administration upgrades One Identity has introduced Active Roles 8.6, strengthening secure and streamlined Active Directory administration with cumulative platform improvements, expanded API capabilities and greater authentication flexibility. Active Roles 8.6, updated July 27, 2026, focuses on security and cumulative platform improvements. It fixes an RSTS configuration security issue and supersedes versions 8.3, 8.4 and 8.5. Compared with Active Roles 8.2.1 SP6, One Identity says 8.",
-    "link": "https://cybersecuritynews.com/one-identity-active-roles-8-6-security-administration/",
-    "date": "2026-11-10T15:50:35+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE4Iftfq9bSLVAlT6cMCi-g_EyhGm1uOAGVd5ge03tGd2NRi9-rwKZ8Qv8b4tHhT2GGFt3Vvhtpq76-LVASri-fKaWfsWxoqkbz9OES5VLYJ4quH0SsJSowbwvFq1djHDrjFIbib6z8FVxdE_TrRZswZgbbbYEEwNNwa9XSVTvdbFA8CfOnl5vFmr_agHI/s1600/CSN%20AND%20GBH%20(1).webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "26349ac0eeb06c3e",
@@ -561,39 +781,6 @@
     "hot": false
   },
   {
-    "id": "2eb29e6ff61f4805",
-    "source": "SecurityWeek",
-    "title": "WhiteMatter Raises $20 Million in Series A Funding",
-    "description": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment. The post WhiteMatter Raises $20 Million in Series A Funding appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-    "date": "2026-11-10T14:58:19+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/funding-investment.jpeg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "e4a862748297c268",
-    "source": "SecurityWeek",
-    "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
-    "description": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities. The post SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-    "date": "2026-11-10T14:46:28+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/SAP_vulnerability-patches.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "6798d847957e4351",
-    "source": "Help Net Security",
-    "title": "AI reverse engineering let researchers add a new feature to Slack",
-    "description": "Intezer researchers used AI agents to rebuild source code for Slack, Apple’s Finder and a TinyTurla-NG sample, from a backdoor family Cisco Talos attributes to the Turla group. They worked from the shipped programs and vendor documentation. The rebuilt Slack ran well enough that the team added a new feature to it: AI text autocomplete, powered by a small local model. Software vendors that count on compiling their programs to keep source code private are … More → The post AI reverse engineering let researchers add a new feature to Slack appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/slack-ai-reverse-engineering/",
-    "date": "2026-11-10T14:45:18+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/10153942/code-color-1500.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "aeb7b66b7183f03a",
     "source": "The Record",
     "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain",
@@ -605,39 +792,6 @@
     "hot": false
   },
   {
-    "id": "4937e296c801b2cb",
-    "source": "Help Net Security",
-    "title": "Dreeze raises $33 million to automate recovery of entire cloud applications",
-    "description": "Dreeze emerged from stealth with $33 million in seed funding and announced the general availability of its Application Revival platform for Amazon Web Services (AWS). Norwest and Bessemer Venture Partners led the round, with participation from Claltech. The platform helps enterprises recover complete cloud applications by restoring data, infrastructure, and dependencies in the order they need to come back online. A successful backup can still leave a business offline. Cloud applications rely on infrastructure, configurations, … More → The post Dreeze raises $33 million to automate recovery of ",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/dreeze-application-revival-33-million-funding/",
-    "date": "2026-11-10T14:00:13+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "7f365edfd7eaefb8",
-    "source": "SecurityWeek",
-    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
-    "description": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
-    "date": "2026-11-10T13:27:44+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/supply-chain-attack.jpeg",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "8886c0e0de99a190",
-    "source": "Help Net Security",
-    "title": "CISA tweaks cyber incident form to spot attacks that might be linked",
-    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its online incident reporting form to help analysts spot when attacks on different organizations may be part of the same campaign. The revised questionnaire asks more specific questions and removes duplicate ones. The form asks whether an incident involved malware, attempts to trick people, hacking techniques, or an insider threat. It also uses terms from MITRE ATT&CK, a catalog of attacker techniques. When organizations describe … More → The post CISA tweaks cyber incident form to spot attacks that might be linked ap",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/",
-    "date": "2026-11-10T13:17:50+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/12/19144000/cisa-2-1500.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "1da0726d1f1219ab",
     "source": "Dark Reading",
     "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
@@ -646,28 +800,6 @@
     "date": "2026-11-10T13:00:00+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50398014b3f8049d/6aee2b328988653fd1de4aef/Binary-PashaIgnatov-Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "a951b0c390a2defa",
-    "source": "SecurityWeek",
-    "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-    "description": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-    "date": "2026-11-10T12:17:13+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Anthropic-Claude.jpeg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "05a3e6da6b19e0e1",
-    "source": "Help Net Security",
-    "title": "IRISSCON 2026 puts preparedness for cyberattacks and hybrid threats in focus",
-    "description": "Ireland risks being dangerously unprepared for increasingly sophisticated cyberattacks and hybrid threats unless the Government acts urgently to strengthen the country’s national security capabilities, according to Brian Honan, head of the Irish Reporting and Information Security Service (IRISSCERT) and founder of BH Consulting. The warning comes ahead of IRISSCON 2026, IRISSCERT’s annual cybersecurity conference, which takes place at the Aviva Stadium in Dublin on Wednesday, 11 November. Help Net Security will be attending the event. … More → The post IRISSCON 2026 puts preparedness for cyber",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/irisscon-2026-dublin/",
-    "date": "2026-11-10T12:16:40+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2022/11/11064043/irisscon2022-atrium.jpg",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -711,17 +843,6 @@
     "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
     "date": "2026-11-10T12:00:00+00:00",
     "image": "https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "ca17b45d583b6119",
-    "source": "Help Net Security",
-    "title": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior",
-    "description": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2. The two versions share an underlying model, with stricter safeguards for cybersecurity and biology tasks in the broadly available Fable. Fable blocks fewer requests Fable’s safety classifiers block high-risk cybersecurity tasks such as penetration testing and exploit generation, as well as most biology research tasks. When Fable blocks a request in either category, Anthropic serves a response from Opus 4.8 for cybersecurity or Opus 5 for … More → The post Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking beh",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/",
-    "date": "2026-11-10T11:40:00+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/30083105/claude-find-1500.webp",
     "category": "Vulnerability",
     "hot": false
   },
@@ -803,17 +924,6 @@
     "hot": false
   },
   {
-    "id": "3eaf85b200cebf96",
-    "source": "Help Net Security",
-    "title": "Windows settings backup is on by default starting with Windows 11 26H2",
-    "description": "Starting with Windows 11, version 26H2, Windows settings backup will switch on by default on eligible devices. The company renamed the feature, which launched in August 2025 as Windows Backup for Organizations, and moved the management of roaming settings into the same policy tools. What gets saved The feature backs up supported Windows settings and the list of installed Microsoft Store apps. When restore is available, users can select a backup profile to recover their … More → The post Windows settings backup is on by default starting with Windows 11 26H2 appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/windows-settings-backup-default/",
-    "date": "2026-11-10T10:03:40+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/10124736/microsoft-windows.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "f90437f6b144b7a6",
     "source": "The Hacker News",
     "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
@@ -822,17 +932,6 @@
     "date": "2026-11-10T10:02:40+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4snqwJ4uD_sRDyI8zs23mcfFTWfZoSrn9n1hbUrsHbyWy-1VFL8amxqQnLb7LSTPkuSwnsPofUJT6anObg-nU4Q5e01WBb3IixN_PdL-1MJ2nOip4qSTEoVDmePRlOgjSVjvtbH8vFlQgxtGuKuqmuHWLyzIavw2Sj4VtZBlTYhUqeySbQcDMEr4Wns/s1600/sap-flaws.jpg",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "fb9a4e7f67d758b3",
-    "source": "Help Net Security",
-    "title": "Turla’s Cereal malware turns victims’ Exchange servers into spy hubs",
-    "description": "Russia-aligned group Turla planted a modular .NET toolset on Microsoft Exchange servers at two government organizations, one in Kazakhstan and one in Romania, and used it to copy selected email straight out of the mail flow. ESET researchers found the malware and named it Cereal. The toolset doesn’t need an attacker-owned server. Operators send commands to the victim’s internet-facing Exchange server, dressed up as ordinary Outlook Web Access, Autodiscover, and ActiveSync traffic. To anyone watching … More → The post Turla’s Cereal malware turns victims’ Exchange servers into spy hubs appeared",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/",
-    "date": "2026-11-10T10:00:39+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/05/28084624/microsoft_exchange_1500.webp",
-    "category": "Malware",
     "hot": false
   },
   {
@@ -845,17 +944,6 @@
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/Kazakhstan.jpeg",
     "category": "Malware",
     "hot": false
-  },
-  {
-    "id": "dde664600f3fef12",
-    "source": "SecurityWeek",
-    "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-    "description": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-    "date": "2026-11-10T09:56:28+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/N-Able.jpeg",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "48b143c8d544775b",
@@ -891,28 +979,6 @@
     "hot": false
   },
   {
-    "id": "84d401f224bcd76e",
-    "source": "BleepingComputer",
-    "title": "Fireworks AI discloses new breach after cloud provider hack",
-    "description": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-    "date": "2026-11-10T07:49:58+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/10/Fireworks-headpic.jpg",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
-    "id": "281f04e51ab9debd",
-    "source": "Help Net Security",
-    "title": "What a security leader should tell the CEO about leaked credentials",
-    "description": "In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for security leaders and boards. He explains how fear of blame pushes mistakes out of sight, and what a security leader should be ready to tell a CEO about exposed keys. He also covers better ways to measure security progress beyond alert counts, how to handle disclosure deadlines, and why AI tools and agents are creating new … More → The post What a security leader should tell the CEO about leaked credentials appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/",
-    "date": "2026-11-10T07:40:43+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/03143444/eric_fourrier-2-gitguardian.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "ca2b0da16a39d63f",
     "source": "WIRED Security",
     "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
@@ -927,7 +993,7 @@
     "id": "a5d58c7187d91148",
     "source": "The Hacker News",
     "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-    "description": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after",
+    "description": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. \"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
     "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
     "date": "2026-11-10T06:52:54+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg",
@@ -988,17 +1054,6 @@
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2303037926.jpg",
     "category": "Privacy",
     "hot": false
-  },
-  {
-    "id": "1ab8f9dd54f17209",
-    "source": "BleepingComputer",
-    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-    "description": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-    "date": "2026-11-09T23:52:12+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/09/vanderbilt-skyline.jpg",
-    "category": "Ransomware",
-    "hot": true
   },
   {
     "id": "f06d3565938c009d",
@@ -1147,7 +1202,7 @@
     "id": "294f39363b697de9",
     "source": "Schneier on Security",
     "title": "AI Security",
-    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three...",
+    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three.",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
     "date": "2026-11-09T12:06:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1265,17 +1320,6 @@
     "hot": false
   },
   {
-    "id": "5d0e41bf273c2b19",
-    "source": "Security Affairs",
-    "title": "The BBC has a plan for a Black Sky event, and it runs on FM radio",
-    "description": "The BBC plans to use emergency FM radio to keep the UK informed during prolonged blackouts, with a self-sufficient studio ready for 72 hours. If electricity fails across the UK for days, the BBC says it has a plan to keep people informed. David Sillito, the BBC’s media and arts correspondent, explained the strategy in a BBC News report , starting with the 2015 Lancaster floods and ending with a simple lesson: when digital infrastructure fails, FM radio may be the most reliable way to reach the public. On December 5, 2015, the River Lune flooded Lancaster, cutting electricity to 61,500 people. ",
-    "link": "https://securityaffairs.com/202667/cyber-warfare-2/the-bbc-has-a-plan-for-a-black-sky-event-and-it-runs-on-fm-radio.html",
-    "date": "2026-11-09T07:04:52+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2024/05/BBC-logo.png",
-    "category": "Cyberwarfare",
-    "hot": true
-  },
-  {
     "id": "52057abe5f07294b",
     "source": "The Hacker News",
     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
@@ -1323,7 +1367,7 @@
     "id": "1fc3581220526e47",
     "source": "Schneier on Security",
     "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered...",
+    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
     "date": "2026-11-06T22:05:29+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1393,7 +1437,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
     "date": "2026-11-06T16:28:27+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Privacy",
     "hot": false
   },
   {
@@ -1716,35 +1760,13 @@
     "hot": true
   },
   {
-    "id": "e55fa591707adcd7",
-    "source": "The Hacker News",
-    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-    "description": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
-    "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-    "date": "2026-11-05T07:06:33+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "a9c214ed4f457315",
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-    "date": "2026-11-05T05:17:04+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "7429da20a1be973e",
     "source": "Krebs on Security",
     "title": "Want to Rent an Internet Address at the White House?",
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": false
   },
@@ -1768,28 +1790,6 @@
     "date": "2026-11-04T19:16:25+00:00",
     "image": "https://media.wired.com/photos/6aeb930828f7263543de4332/master/pass/WWF-Clement-Delangue-2.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "caf918a34b06cbef",
-    "source": "The Hacker News",
-    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-    "description": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
-    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-    "date": "2026-11-04T17:00:46+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg",
-    "category": "Cyberwarfare",
-    "hot": false
-  },
-  {
-    "id": "db59a2a22c24543d",
-    "source": "The Hacker News",
-    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-    "description": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
-    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-    "date": "2026-11-04T17:00:38+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -1953,7 +1953,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet’s access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines. A report from the Google Threat Intelligence Group (GTIG) said Google has seve",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Malware",
     "hot": true
   },
@@ -2591,7 +2591,7 @@
     "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2613,7 +2613,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2646,7 +2646,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2690,7 +2690,7 @@
     "description": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "date": "2026-09-28T15:08:57+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
