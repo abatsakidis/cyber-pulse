@@ -1,5 +1,104 @@
 [
   {
+    "id": "6c96ee79ddd72b40",
+    "source": "SecurityWeek",
+    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+    "description": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+    "date": "2026-11-13T02:28:21+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Binance-hacked.jpeg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "e31d03bd4637a401",
+    "source": "Cyber Security News",
+    "title": "Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users",
+    "description": "A major Microsoft 365 outage disrupted cloud service access on November 12 and continued into November 13, 2026, as Microsoft worked to restore failing infrastructure. Microsoft confirmed that connectivity problems could affect users in any region, expanding the scope beyond its initial investigation into Exchange Online mailbox access in the Americas. The reported impact spans Outlook, Teams, SharePoint, Copilot and Microsoft Defender XDR, although the exact service and feature restrictions remain subject to Microsoft’s updated advisory. Administrators should check incident MO1550821 for that",
+    "link": "https://cybersecuritynews.com/massive-microsoft-365-outage/",
+    "date": "2026-11-13T02:14:54+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Massive-Microsoft-365-Outage.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "3d71b279ec172782",
+    "source": "CyberScoop",
+    "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+    "description": "The Justice Department on Thursday announced coordinated actions against North Korean groups’ campaigns that have stolen billions of dollars in cryptocurrency, seizing cloud infrastructure behind a social engineering scheme known as FaceStealer and the court-authorized seizure of more than $1.2 billion stolen from cryptocurrency exchange Binance. The larger of the two operations is tied to the theft of more than $6 billion in virtual assets from Binance, which the FBI has attributed to North Korean military hackers it calls TraderTraitor. Investigators working with private virtual asset servic",
+    "link": "https://cyberscoop.com/us-seizes-north-korea-hacking-infrastructure-binance/",
+    "date": "2026-11-13T00:32:19+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2019/01/northkorea_cloth_flag.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "f7dbf5ca1de38636",
+    "source": "Help Net Security",
+    "title": "Google smart glasses privacy features cover wearers and the people around them",
+    "description": "Google has built its Gemini-powered intelligent eyewear to stop taking photos and video when someone covers or tampers with the outward-facing recording light. Shahram Izadi, Google’s VP and GM of XR, laid out that safeguard along with face redaction, limits on data handling, and app restrictions. Bystanders told Google during years of research that they worried about being filmed without their knowledge, and that a sign of recording would help them most. Wearers face a … More → The post Google smart glasses privacy features cover wearers and the people around them appeared first on Help Net S",
+    "link": "https://www.helpnetsecurity.com/2026/11/13/google-smart-glasses-privacy-protections/",
+    "date": "2026-11-12T23:45:43+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12161528/google-eyewear-privacy.webp",
+    "category": "Privacy",
+    "hot": false
+  },
+  {
+    "id": "7620952a2558157e",
+    "source": "Help Net Security",
+    "title": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters",
+    "description": "EfficientIP Research Labs traced a ClickFix campaign that used fake Zillow apartment-review pages to install NetSupport RAT on visitors’ Windows computers. Each page showed what looked like a routine verification check. Behind it, the page quietly copied a PowerShell command to the clipboard and walked the visitor through pasting and running it. Doing that installs remote-control software that keeps its window hidden and starts back up every time the user logs in. Renters are the … More → The post Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters appeared first on Help ",
+    "link": "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/",
+    "date": "2026-11-12T23:15:23+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/11181918/zillow-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "b069aa8bf97577e0",
+    "source": "Help Net Security",
+    "title": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14",
+    "description": "The PostgreSQL Global Development Group released PostgreSQL 18.7, 17.12, 16.16, 15.20 and 14.25 on November 12, fixing 52 security vulnerabilities and more than 140 other bugs. Most of those code execution bugs are memory errors or type confusion, where PostgreSQL handles a value as the wrong data type. They turn up in PL/Perl and PL/Tcl, text search functions such as ts_rank_cd(), parallel query, logical replication, dblink and statistics import. Thirty-two of the 52 CVEs carry … More → The post PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14 appeared first",
+    "link": "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
+    "date": "2026-11-12T23:05:33+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/21142640/postgresql-1500.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "dec1a9da8dc6385b",
+    "source": "BleepingComputer",
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+    "description": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+    "date": "2026-11-12T22:53:10+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/16/ScreenConnect-headpic.jpg",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "9a2ef74738a20a61",
+    "source": "Dark Reading",
+    "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+    "description": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
+    "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+    "date": "2026-11-12T22:46:05+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f96ce16a435deca/6a3d55be62f12d27e415ed3c/quantum_computer-Peter_Hansen-getty-2214879776.jpg?width=720&quality=80&disable=upscale",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "622de9583429952b",
+    "source": "Security Affairs",
+    "title": "The School Bomb Threats Came From Accounts Already in Stolen Data",
+    "description": "Hudson Rock researchers found that two university addresses tied to Italy’s school bomb threats were in infostealer data. On 11 November, bomb-threat emails hit schools across Europe. ANSA, citing the Education Ministry, reported that about 6,000 Italian schools received them. Some evacuated, others kept teaching after talking to police, so the recipient count tells you nothing about how many buildings emptied. The emails were signed “Mikhail Andropov” and threatened pupils and school staff. They also mentioned a bomb targeting the prime minister. However, these names and claims came from the ",
+    "link": "https://securityaffairs.com/202941/security/the-school-bomb-threats-came-from-accounts-already-in-stolen-data.html",
+    "date": "2026-11-12T22:42:10+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-25.png",
+    "category": "Malware",
+    "hot": true
+  },
+  {
     "id": "5137dee4177a07d2",
     "source": "BleepingComputer",
     "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
@@ -484,17 +583,6 @@
     "hot": false
   },
   {
-    "id": "1879ffd80a83a424",
-    "source": "Cyber Security News",
-    "title": "Lenovo Warns of High-Severity Server Flaw That Restores Default Root Credentials After Reset",
-    "description": "Lenovo has disclosed a high-severity security flaw in ThinkSystem V4 server management firmware that restores a default OpenBMC root password after a factory reset. Tracked as CVE-2026-81936, the issue could let attackers access enabled administrative interfaces and reach the controller’s underlying operating system, which is normally restricted. The CVE record, published on November 11, 2026 , states that Lenovo found the issue during an internal security review. The flaw affects a limited range of XClarity Controller 3 firmware releases, rather than every ThinkSystem server or all products u",
-    "link": "https://cybersecuritynews.com/lenovo-server-flaw/",
-    "date": "2026-11-12T13:37:44+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Lenovo-Warns-of-High-Severity-Server-Vulnerability-That-Restores-Default-Root-Credentials-After-Factory-Reset.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "1bef8765757f6e43",
     "source": "Help Net Security",
     "title": "Operation Endgame malware takedown turns up over 6 million stolen logins",
@@ -699,19 +787,8 @@
     "description": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
     "date": "2026-11-12T09:38:00+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/03/05/hand.jpg",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "17482c2ac2869e0d",
-    "source": "Help Net Security",
-    "title": "AWS Emulator: Open-source tool for testing AWS apps locally, built by autonomous AI agents",
-    "description": "Amazon Web Services has released AWS Emulator, a free tool that simulates AWS services on a developer’s laptop, a development server or in a continuous integration (CI) pipeline. The company says autonomous AI agents wrote the tool entirely, with no code written or reviewed by its engineers. There is no additional service fee, users pay for AWS resources when they deploy applications on AWS. How three teams of AI agents build AWS Emulator Three teams … More → The post AWS Emulator: Open-source tool for testing AWS apps locally, built by autonomous AI agents appeared first on Help Net Security ",
-    "link": "https://www.helpnetsecurity.com/2026/11/12/aws-ai-agents-built-emulator/",
-    "date": "2026-11-12T09:30:46+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12100131/aws-emulator.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -726,17 +803,6 @@
     "hot": true
   },
   {
-    "id": "e651866bf1370abb",
-    "source": "Help Net Security",
-    "title": "Check your GitHub repos: A secret stealer hit tens of thousands of them",
-    "description": "A threat actor using stolen GitHub credentials has pushed a credential-stealing payload into tens of thousands of repositories since November 10. In more than 1,800 of them, the malware ran and shipped GitHub Actions secrets and cloud credentials to the attacker. Aikido spotted the campaign and named it wfx-loot. The name comes from the attacker’s own labels, “wfx” for the malware and “loot” for what it steals. Aikido counted 4,837 compromised accounts opening probe pull … More → The post Check your GitHub repos: A secret stealer hit tens of thousands of them appeared first on Help Net Securit",
-    "link": "https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/",
-    "date": "2026-11-12T09:24:32+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12102048/github-red-danger-1500.webp",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "4d40e73b8120fd7d",
     "source": "SecurityWeek",
     "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
@@ -746,28 +812,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Red-Hat.jpeg",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "3292dc4529a3b79c",
-    "source": "SecurityWeek",
-    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-    "description": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-    "date": "2026-11-12T08:38:47+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Maersk.jpeg",
-    "category": "Ransomware",
-    "hot": true
-  },
-  {
-    "id": "46df4a93e65ef54c",
-    "source": "Help Net Security",
-    "title": ".NET 11 security changes target the software supply chain",
-    "description": "Microsoft has released .NET 11, a Standard Term Support (STS) release that will receive two years of support. .NET 10 is still the Long Term Support (LTS) option. The release covers C# 15, ASP.NET Core, .NET MAUI, and Windows development. Several of the changes affect software supply chain integrity, authentication handling, and platform lifecycle. .NET 8 and .NET 9 are out of support The most urgent item for defenders isn’t a new feature. .NET 8 … More → The post .NET 11 security changes target the software supply chain appeared first on Help Net Security .",
-    "link": "https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/",
-    "date": "2026-11-12T08:23:33+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12084105/dot_net-1600.webp",
-    "category": "General Security",
-    "hot": false
   },
   {
     "id": "1b8393613606867e",
@@ -853,7 +897,7 @@
     "description": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
     "date": "2026-11-11T23:01:31+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/11/bakertilly.jpg",
     "category": "Privacy",
     "hot": true
   },
@@ -864,7 +908,7 @@
     "description": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
     "date": "2026-11-11T22:56:21+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/16/ScreenConnect.jpg",
     "category": "Malware",
     "hot": true
   },
@@ -908,7 +952,7 @@
     "description": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
     "date": "2026-11-11T21:27:40+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/20/certificate.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -922,17 +966,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?width=720&quality=80&disable=upscale",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "0c0f3ac274c751e4",
-    "source": "BleepingComputer",
-    "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-    "description": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-    "date": "2026-11-11T20:54:20+00:00",
-    "image": "",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "b7966dc15aa7cb71",
@@ -963,7 +996,7 @@
     "description": "The cybercrime group Qilin has emerged as the world’s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia. Operating since September 2022, the Russia-based ransomware group Qilin is the currently the most industrious ransomware-as-a-service gang, according to a report (PDF) this month by the cybersecurity firm NCC Group",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
     "date": "2026-11-11T18:06:01+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1015,11 +1048,11 @@
     "id": "7b0c6d8c4c37f019",
     "source": "Schneier on Security",
     "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. With the help of AI, the",
+    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026...",
     "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
     "date": "2026-11-11T12:06:21+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1139,7 +1172,7 @@
     "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla . Image: Shutterstock.com. Diorama by @zepp1969. November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with li",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": true
   },
@@ -1196,17 +1229,6 @@
     "date": "2026-11-10T20:41:45+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "93089476b11603e8",
-    "source": "Security Affairs",
-    "title": "Russia-Linked APT Turla Turned Exchange Servers Into Their Own Control Room",
-    "description": "ESET found Russia-Linked APT group Turla using a new toolset, dubbed Cereal, on government Exchange servers in Kazakhstan and Romania. ESET Research detailed a previously undocumented toolset it calls Cereal, built to run on Microsoft Exchange servers. The researchers found it on 28 November 2025 at a government body in Kazakhstan, and later at a government body in Romania, which was compromised on 23 December. The researchers discovered that in Romania, it was set up to spot emails to or from NATO and the European Union. ESET attributes it with high confidence to the Turla APT group (aka Secr",
-    "link": "https://securityaffairs.com/202800/apt/russia-linked-apt-turla-turned-exchange-servers-into-their-own-control-room.html",
-    "date": "2026-11-10T20:40:48+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-19.png",
-    "category": "Cyberwarfare",
     "hot": false
   },
   {
@@ -1507,17 +1529,6 @@
     "hot": false
   },
   {
-    "id": "23307d674b42829a",
-    "source": "CyberScoop",
-    "title": "Trump picks Palantir’s LoSapio to head CISA",
-    "description": "The Cybersecurity and Infrastructure Security Agency finally got a new nominee for director , with President Donald Trump on Monday nominating Michael LoSapio, chief information security officer at Palantir. CISA has been without a Senate-confirmed director for the entirety of Trump’s second term, after his first pick, Sean Plankey, languished in the Senate before withdrawing in April . LoSapio could face some obstacles of his own, with Palantir far from a popular company with the Democrats set to take over Congress. Democrats have scrutinized the company over its work with the Department of H",
-    "link": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
-    "date": "2026-11-10T03:38:11+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2303037926.jpg",
-    "category": "Privacy",
-    "hot": false
-  },
-  {
     "id": "f06d3565938c009d",
     "source": "Dark Reading",
     "title": "People Are Getting Weird About AI",
@@ -1642,7 +1653,7 @@
     "id": "294f39363b697de9",
     "source": "Schneier on Security",
     "title": "AI Security",
-    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three.",
+    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three...",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
     "date": "2026-11-09T12:06:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1708,7 +1719,7 @@
     "id": "1fc3581220526e47",
     "source": "Schneier on Security",
     "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered...",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
     "date": "2026-11-06T22:05:29+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -1733,7 +1744,7 @@
     "description": "Διέταξε το μέσο κοινωνικής δικτύωσης να τροποποιήσει τις εξατομικευμένες ροές περιεχομένου",
     "link": "https://www.news.gr/tech/article/4246325/i-ee-katigori-to-tiktok-gia-to-epivlaves-algorithmiko-fenomeno-tis-kounelotripas.html",
     "date": "2026-11-06T21:14:10+00:00",
-    "image": "https://www.news.gr/wp-content/uploads/images/2024/04/18/ti/tiktok.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1767,7 +1778,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
     "date": "2026-11-06T16:28:27+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Privacy",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1865,7 +1876,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": false
   },
@@ -2019,7 +2030,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet’s access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines. A report from the Google Threat Intelligence Group (GTIG) said Google has seve",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Malware",
     "hot": true
   },
@@ -2189,17 +2200,6 @@
     "hot": false
   },
   {
-    "id": "1a9e76fdd12aee47",
-    "source": "Dark Reading",
-    "title": "Undead Software Projects Continue to Raise Security Risks",
-    "description": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
-    "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-    "date": "2026-10-30T14:10:37+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "edca80a72608235f",
     "source": "WIRED Security",
     "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
@@ -2272,7 +2272,7 @@
     "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2283,7 +2283,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2316,7 +2316,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2327,7 +2327,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2338,7 +2338,7 @@
     "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
