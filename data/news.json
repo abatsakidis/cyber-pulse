@@ -1,9 +1,97 @@
 [
   {
+    "id": "62fafb8de4629a3e",
+    "source": "Security Affairs",
+    "title": "Extortion Group Claims Theft of Nearly One Billion Expedia Traveler Records",
+    "description": "Russian extortion group n0n claims to have stolen nearly one billion Expedia traveler records through a compromised third-party provider. A newly formed Russian cyber extortion group called n0n claims it has hit Expedia, the world’s second-largest online travel agency, and taken data on nearly one billion travelers. Expedia confirmed to Skift on Thursday that attackers had breached its systems through a third-party data platform provider in a supply chain attack that also affected other companies. “Expedia Group confirmed Thursday that attackers reached its systems through a compromised third-",
+    "link": "https://securityaffairs.com/203062/cyber-crime/extortion-group-claims-theft-of-nearly-one-billion-expedia-traveler-records.html",
+    "date": "2026-11-14T16:46:26+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2016/12/Expedia.jpg",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
+    "id": "5f65ee0cc094b0cf",
+    "source": "BleepingComputer",
+    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+    "description": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+    "date": "2026-11-14T15:15:49+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "536b639a7c8791f3",
+    "source": "SecurityWeek",
+    "title": "Is AI Making Us Worse at Cybersecurity?",
+    "description": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+    "date": "2026-11-14T14:00:00+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Artificial-intelligence-AI.jpeg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "db6d14d4817535b4",
+    "source": "WIRED Security",
+    "title": "Beware the New AI-Fueled Ransomware Boom",
+    "description": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+    "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "date": "2026-11-14T13:00:00+00:00",
+    "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "19c06280f5c1e2a3",
+    "source": "The Hacker News",
+    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+    "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "date": "2026-11-14T12:38:35+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "ed2464ab7bfd7728",
+    "source": "Cyber Security News",
+    "title": "FBI Reveals How Hackers Use ARTEX AI Agents to Gain Privileged Access in Under Three Hours",
+    "description": "The FBI has warned that hackers are using ARTEX AI agents to automate network attacks, with some intrusions reaching privileged access in under three hours. Its November 13, 2026, FLASH alert describes how attackers combine stolen credentials, exposed applications, and cloud permissions to shorten the gap between discovery and compromise. ARTEX is an open-source security testing framework, not a malware family. Written in Go, it connects external large language models to agents that turn instructions into commands. Operators set objectives while agents scan targets, run tools, review results, ",
+    "link": "https://cybersecuritynews.com/fbi-reveals-hackers-artex-ai-usage/",
+    "date": "2026-11-14T11:21:17+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/FBI-Reveals-Hackers-ARTEX-AI-Usage.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "d0842f5c522058b2",
+    "source": "SecurityWeek",
+    "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "description": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+    "date": "2026-11-14T11:00:00+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/12/Apple.jpeg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "48d04c99acf745e2",
+    "source": "Cyber Security News",
+    "title": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption",
+    "description": "Microsoft has warned of an active phishing campaign using the November 12 Microsoft 365 service disruption to lure users into opening fake email recovery links. The messages copy Microsoft service health notices and cite the real Exchange Online incident EX1550543, making the requests appear linked to an ongoing business problem. Microsoft Threat Intelligence detected emails on November 13 claiming that messages held during the outage would be deleted within 24 hours unless recipients clicked to restore them. That deadline creates pressure to act quickly, particularly for employees already wor",
+    "link": "https://cybersecuritynews.com/active-password-stealing-attack-microsoft-365/",
+    "date": "2026-11-14T10:57:32+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Active-Password-Stealing-Attack-Microsoft-365.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
     "id": "21ae9aca13d870e5",
     "source": "Cyber Security News",
     "title": "Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension",
-    "description": "Cursor has traced its October security breach to an access key exposed by Fireworks AI. The attacker used that key to steal historical coding agent records, find more credentials, and eventually place backdoored Claude Code extensions in Cursor’s marketplace cache. Its November 13 update connects the vendor exposure to the malicious packages discovered on October […] The post Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension appeared first on Cyber Security News .",
+    "description": "Cursor has traced its October security breach to an access key exposed by Fireworks AI. The attacker used that key to steal historical coding agent records, find more credentials, and eventually place backdoored Claude Code extensions in Cursor’s marketplace cache. Its November 13 update connects the vendor exposure to the malicious packages discovered on October 29. The stolen key, which Cursor had issued to Fireworks, provided read-only access to a shared storage bucket. It held limited coding agent traces, mostly from 2025, from sessions outside Privacy Mode that Cursor was permitted to use",
     "link": "https://cybersecuritynews.com/cursor-data-breach/",
     "date": "2026-11-14T09:09:31+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Cursor-Data-Breach.webp",
@@ -14,12 +102,12 @@
     "id": "0d24323f388a8774",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Check Point and UnrealIRCd flaws to its Known Exploited Vulnerabilities catalog",
-    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Check Point and UnrealIRCd flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Check Point and UnrealIRCd vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: Below are the flaws added to the catalog: CVE-2026-114713 (CVSS score of 8.6) is a high-severity command […]",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Check Point and UnrealIRCd flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Check Point and UnrealIRCd vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : Below are the flaws added to the catalog: CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource CVE-2026-114713 (CVSS score of 8.6) is a high-severity command ",
     "link": "https://securityaffairs.com/203040/hacking/u-s-cisa-adds-check-point-and-unrealircd-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
     "date": "2026-11-14T09:08:00+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-    "category": "Vulnerability",
-    "hot": false
+    "category": "Malware",
+    "hot": true
   },
   {
     "id": "bf47ffdb2a5c59da",
@@ -36,22 +124,22 @@
     "id": "312b4548e18f0250",
     "source": "Cyber Security News",
     "title": "CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access",
-    "description": "CISA has warned that attackers are exploiting a Check Point security flaw that lets a local user gain root access on affected appliances. The agency added CVE-2026-123039 to its Known Exploited Vulnerabilities catalog on November 13, 2026, confirming that the vulnerability is being used in real attacks. Check Point said it observed exploitation against “a […] The post CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access appeared first on Cyber Security News .",
+    "description": "CISA has warned that attackers are exploiting a Check Point security flaw that lets a local user gain root access on affected appliances. The agency added CVE-2026-123039 to its Known Exploited Vulnerabilities catalog on November 13, 2026, confirming that the vulnerability is being used in real attacks. Check Point said it observed exploitation against “a couple of dozen customers.” The flaw carries a CVSS score of 7.8 and affects the DynamicCLI service in Gaia OS. Successful exploitation allows commands to run with the highest operating system rights, putting affected firewalls and management",
     "link": "https://cybersecuritynews.com/check-point-0-day-vulnerability/",
     "date": "2026-11-14T03:47:33+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Checkpoint-0-Day-Vulnerability.webp",
     "category": "Vulnerability",
-    "hot": false
+    "hot": true
   },
   {
     "id": "f152d3fd97f7d765",
     "source": "Cyber Security News",
     "title": "Uber Confirms Data Breach – Hackers Stole Users’ Personal Information",
-    "description": "Uber has confirmed a data breach involving the personal information of thousands of U.S. drivers after hackers accessed records held by Fireworks AI, a third-party technology provider. The exposed information includes driver’s license details. Uber is notifying affected people, but it has not disclosed the total number impacted nationwide. The incident became known to Uber […] The post Uber Confirms Data Breach – Hackers Stole Users’ Personal Information appeared first on Cyber Security News .",
+    "description": "Uber has confirmed a data breach involving the personal information of thousands of U.S. drivers after hackers accessed records held by Fireworks AI, a third-party technology provider. The exposed information includes driver’s license details. Uber is notifying affected people, but it has not disclosed the total number impacted nationwide. The incident became known to Uber on October 9, 2026, when its service provider reported that an unauthorized party had compromised internal login credentials. Those credentials allowed the attacker to access Uber’s account with the provider, creating a path",
     "link": "https://cybersecuritynews.com/uber-confirms-data-breach/",
     "date": "2026-11-14T01:19:57+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Uber-Confirms-Data-Breach.webp",
-    "category": "Privacy",
+    "category": "AI Security",
     "hot": true
   },
   {
@@ -60,7 +148,7 @@
     "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
     "description": "Climate change is the issue . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-    "date": "2026-11-13T22:00:46+00:00",
+    "date": "2026-11-13T22:00:49+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -91,7 +179,7 @@
     "id": "ec7252ceff0c3cbe",
     "source": "CyberScoop",
     "title": "Researchers continue to find serious vulnerabilities in internet connected refrigerators",
-    "description": "VulnCheck disclosed 14 vulnerabilities in Dixell refrigeration units that give an attacker root access, while online honeypots are being flooded with hacks and malicious probes. The post Researchers continue to find serious vulnerabilities in internet connected refrigerators appeared first on CyberScoop .",
+    "description": "As companies running refrigeration units in the U.S. and Europe recover from recent hacking incidents, threat intelligence firms have disclosed more than a dozen new serious security vulnerabilities in popular products, while others continue to track intense interest from potential threat actors in similar internet-connected devices. On Friday, cybersecurity firm VulnCheck published details on 14 vulnerabilities discovered earlier this year in Dixell refrigeration units, which are manufactured by refrigeration technology firm Copeland. According to lab testing with rebuilt versions of the vend",
     "link": "https://cyberscoop.com/copeland-dixell-refrigeration-vulnerabilities/",
     "date": "2026-11-13T21:20:51+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/fridges.jpeg",
@@ -102,18 +190,18 @@
     "id": "a6ac1fd7742a4f59",
     "source": "Security Affairs",
     "title": "North Korea ‘s Crypto Theft Operations: DOJ Seizes $1.2 Billion and Disrupts Hacker Infrastructure",
-    "description": "The DOJ seized over $1.2 billion from North Korea ‘s Binance theft, and says the same hackers are targeting open-source developers The U.S. Department of Justice announced two separate but connected actions against North Korea ‘s cryptocurrency theft operations. The press release covers the seizure of infrastructure behind a social engineering scheme called FaceStealer and […]",
+    "description": "The DOJ seized over $1.2 billion from North Korea ‘s Binance theft, and says the same hackers are targeting open-source developers The U.S. Department of Justice announced two separate but connected actions against North Korea ‘s cryptocurrency theft operations. The press release covers the seizure of infrastructure behind a social engineering scheme called FaceStealer and court-authorized seizures tied to the $6 billion Binance theft of October 29. Together, the two moves put more than $1.2 billion back under law enforcement control. “Today the Department of Justice announced coordinated acti",
     "link": "https://securityaffairs.com/203012/cyber-crime/north-korea-crypto-theft-operations-doj-seizes-1-2-billion-and-disrupts-hacker-infrastructure.html",
     "date": "2026-11-13T21:19:30+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
-    "category": "Hacking",
-    "hot": false
+    "category": "Malware",
+    "hot": true
   },
   {
     "id": "102cfd3fea0d7138",
     "source": "CyberScoop",
     "title": "Industry guidelines for offensive cyber tools unveiled through international Pall Mall Process",
-    "description": "The United States this week signed on to an international set of industry standards for commercial offensive cyber tools that human rights groups and other advocates wish had been stronger. The Pall Mall Process voluntary industry guidelines for commercial cyber intrusion capabilities (CCICs), such as spyware, are the second step in a U.K.- and France-led […] The post Industry guidelines for offensive cyber tools unveiled through international Pall Mall Process appeared first on CyberScoop .",
+    "description": "The United States this week signed on to an international set of industry standards for commercial offensive cyber tools that human rights groups and other advocates wish had been stronger. The Pall Mall Process voluntary industry guidelines for commercial cyber intrusion capabilities (CCICs), such as spyware, are the second step in a U.K.- and France-led initiative, following last year’s code for nations. “Through the Industry Guidelines, we aim to disincentivise irresponsible activity across the market for CCICs; improve transparency for regulators, vendors and customers; and provide clarity",
     "link": "https://cyberscoop.com/pall-mall-process-commercial-spyware-guidelines/",
     "date": "2026-11-13T20:56:20+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2260595012.jpg",
@@ -267,7 +355,7 @@
     "id": "2a6496a72c80e24f",
     "source": "Cyber Security News",
     "title": "New TypoPrompting Attacks Turn Mistyped AI Website Addresses Into Malware Installation Traps",
-    "description": "A simple typing mistake can now cost you more than a failed page load. Researchers have found that mistyped addresses of popular AI tools lead to fake verification pages, hidden commands and malware installers. The technique is called TypoPrompting. The research traced 186 lookalike domains across 27 AI brands, including Claude, ChatGPT, DeepSeek, Perplexity, Midjourney, […] The post New TypoPrompting Attacks Turn Mistyped AI Website Addresses Into Malware Installation Traps appeared first on Cyber Security News .",
+    "description": "A simple typing mistake can now cost you more than a failed page load. Researchers have found that mistyped addresses of popular AI tools lead to fake verification pages, hidden commands and malware installers. The technique is called TypoPrompting. The research traced 186 lookalike domains across 27 AI brands, including Claude, ChatGPT, DeepSeek, Perplexity, Midjourney, ElevenLabs and Cursor. A small slip, such as “cloude.ai” for Claude, can send a visitor down a chain of redirects that ends in a ClickFix lure, a Microsoft Store-signed hijacker or a search-changing browser extension. This fol",
     "link": "https://cybersecuritynews.com/new-typoprompting-attacks/",
     "date": "2026-11-13T15:24:38+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/New-TypoPrompting-Attacks-Turn-Mistyped-AI-Website-Addresses-Into-Malware-Installation-Traps.webp",
@@ -289,7 +377,7 @@
     "id": "5e0eccd966a6d499",
     "source": "Cyber Security News",
     "title": "Hackers Use SANSAR Linux Malware to Hide Crypto Mining by Faking 0% GPU Usage",
-    "description": "Hackers are hiding cryptocurrency mining on Linux GPU servers by changing the readings administrators use to spot heavy workloads. The toolkit combines a Rust-based controller called SANSAR, a kernel rootkit, and a modified NVIDIA monitoring library that reports 0% GPU utilization while mining continues in the background. The intrusion reached three Linux GPU hosts through […] The post Hackers Use SANSAR Linux Malware to Hide Crypto Mining by Faking 0% GPU Usage appeared first on Cyber Security News .",
+    "description": "Hackers are hiding cryptocurrency mining on Linux GPU servers by changing the readings administrators use to spot heavy workloads. The toolkit combines a Rust-based controller called SANSAR, a kernel rootkit, and a modified NVIDIA monitoring library that reports 0% GPU utilization while mining continues in the background. The intrusion reached three Linux GPU hosts through an exposed Ray job agent. Ray supports distributed computing, including AI training and inference, making these systems valuable targets. Unlike campaigns involving fake utility download traps , this attack entered through i",
     "link": "https://cybersecuritynews.com/hackers-use-sansar-linux-malware/",
     "date": "2026-11-13T15:09:45+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-SANSAR-Linux-Malware-to-Hide-Crypto-Mining-by-Faking-0-GPU-Usage.webp",
@@ -322,23 +410,23 @@
     "id": "ed160b9e0703ea49",
     "source": "Cyber Security News",
     "title": "Hackers Use 2,700 Passwords to Break Into Microsoft SQL Servers and Deploy Remote Access Malware",
-    "description": "A new campaign is guessing its way into internet-facing Microsoft SQL Server systems. The attackers use a list of more than 2,700 passwords and then install a cryptocurrency miner and a remote access trojan (RAT) on the hacked machines. The campaign has been running since at least early October 2026. Database servers hold valuable data, […] The post Hackers Use 2,700 Passwords to Break Into Microsoft SQL Servers and Deploy Remote Access Malware appeared first on Cyber Security News .",
+    "description": "A new campaign is guessing its way into internet-facing Microsoft SQL Server systems. The attackers use a list of more than 2,700 passwords and then install a cryptocurrency miner and a remote access trojan (RAT) on the hacked machines. The campaign has been running since at least early October 2026. Database servers hold valuable data, so they are a favorite target. This campaign scans for exposed servers, tries many logins, and runs commands that pull in more malware. Attackers have used the same basic approach for years, as seen when hackers were continuously attacking MS-SQL servers with s",
     "link": "https://cybersecuritynews.com/break-into-microsoft-sql-servers/",
     "date": "2026-11-13T14:54:56+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-2700-Passwords-to-Break-Into-Microsoft-SQL-Servers-and-Deploy-Remote-Access-Malware.webp",
-    "category": "Malware",
-    "hot": false
+    "category": "Ransomware",
+    "hot": true
   },
   {
     "id": "2b45b1e34197f092",
     "source": "Security Affairs",
     "title": "Gootloader Malware Disrupted After Infecting 25,000 Computers",
-    "description": "International law enforcement disrupts Gootloader, seizing domains and taking down over 100 servers linked to 25,000 infected computers. The U.S. Department of Justice announced that law enforcement has removed Gootloader malware from more than 100 computer servers, seized U.S. domain names used to deliver and control it, and notified victims worldwide. “The Department of Justice […]",
+    "description": "International law enforcement disrupts Gootloader, seizing domains and taking down over 100 servers linked to 25,000 infected computers. The U.S. Department of Justice announced that law enforcement has removed Gootloader malware from more than 100 computer servers, seized U.S. domain names used to deliver and control it, and notified victims worldwide. “The Department of Justice today announced the successful removal of malware known as “Gootloader” from over 100 computer servers, including compromised WordPress sites, and the seizure of U.S. domain names used by criminals to deliver and cont",
     "link": "https://securityaffairs.com/202997/cyber-crime/gootloader-malware-disrupted-after-infecting-25000-computers.html",
     "date": "2026-11-13T14:35:44+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-29-1024x576.png",
-    "category": "Malware",
-    "hot": false
+    "category": "Ransomware",
+    "hot": true
   },
   {
     "id": "8906ee3fee7b61ef",
@@ -355,18 +443,18 @@
     "id": "4c5adbc3e4640e68",
     "source": "Cyber Security News",
     "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
-    "description": "Citrix has released fixes for 28 security flaws in NetScaler ADC and NetScaler Gateway. One of them, CVE-2026-120868, affects every deployment in its default setup. Cloud Software Group published bulletin CTX697305 on November 12, 2026, and rated it Critical. CVE-2026-120868 is a memory overflow in packet processing. It carries a CVSS v4.0 score of 9.3. […] The post Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations appeared first on Cyber Security News .",
+    "description": "Citrix has released fixes for 28 security flaws in NetScaler ADC and NetScaler Gateway. One of them, CVE-2026-120868, affects every deployment in its default setup. Cloud Software Group published bulletin CTX697305 on November 12, 2026, and rated it Critical. CVE-2026-120868 is a memory overflow in packet processing . It carries a CVSS v4.0 score of 9.3. Most NetScaler bugs need a specific feature turned on. This one does not. No extra setting is needed, so every unpatched appliance is vulnerable. The bug can cause unpredictable behavior or a denial-of-service. Because the attack needs no logi",
     "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
     "date": "2026-11-13T14:18:29+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Citrix-Patches-28-NetScaler-Security-Vulnerabilities-Including-Critical-Flaw-Affecting-All-Default-Installations-2.webp",
-    "category": "Vulnerability",
+    "category": "Ransomware",
     "hot": true
   },
   {
     "id": "3a2a01748e6598e4",
     "source": "Cyber Security News",
     "title": "Hackers Use Fake Purchase Order Emails to Deliver XLoader Malware Through Malicious Word Documents",
-    "description": "Hackers are sending fake purchase order emails to trick recipients into opening Word documents that deliver XLoader, an information-stealing malware. The attack uses an embedded document, an old Microsoft Equation Editor vulnerability, and several script stages to reach its final payload. What begins as a routine order confirmation can end with stolen browser data and […] The post Hackers Use Fake Purchase Order Emails to Deliver XLoader Malware Through Malicious Word Documents appeared first on Cyber Security News .",
+    "description": "Hackers are sending fake purchase order emails to trick recipients into opening Word documents that deliver XLoader, an information-stealing malware. The attack uses an embedded document, an old Microsoft Equation Editor vulnerability, and several script stages to reach its final payload. What begins as a routine order confirmation can end with stolen browser data and additional malware on an infected computer. The lure fits everyday purchasing workflows, asking recipients to review prices, quantities, and shipping arrangements. Similar fake business order emails have delivered XLoader through",
     "link": "https://cybersecuritynews.com/fake-purchase-order-emails/",
     "date": "2026-11-13T14:09:51+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-Fake-Purchase-Order-Emails-to-Deliver-XLoader-Malware-Through-Malicious-Word-Documents.webp",
@@ -393,17 +481,6 @@
     "date": "2026-11-13T13:47:42+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Android-Microsoft_Apps-Flaw.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "e31d03bd4637a401",
-    "source": "Cyber Security News",
-    "title": "Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users",
-    "description": "A major Microsoft 365 outage disrupted cloud service access on November 12 and continued into November 13, 2026, as Microsoft worked to restore failing infrastructure. Microsoft confirmed that connectivity problems could affect users in any region, expanding the scope beyond its initial investigation into Exchange Online mailbox access in the Americas. The reported impact spans […] The post Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/massive-microsoft-365-outage/",
-    "date": "2026-11-13T13:39:18+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Massive-Microsoft-365-Outage.webp",
-    "category": "AI Security",
     "hot": false
   },
   {
@@ -456,21 +533,10 @@
     "title": "AI Doesn’t Have to Go Rogue to Break the World",
     "description": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind . Back then I said it was mostly still science fiction, but not stupid sci",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-    "date": "2026-11-13T12:03:30+00:00",
+    "date": "2026-11-13T12:03:44+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "180d4b430eeb0fb8",
-    "source": "Cyber Security News",
-    "title": "Hackers Use DeepSeek and GLM AI Agents to Breach 10 Organizations in Autonomous Cyberattacks",
-    "description": "Chinese-speaking hackers have used AI agents powered by DeepSeek and Zhipu GLM to break into 10 organizations with very little human effort. The campaign ran in August and September 2026 and covered 25 operations against at least 19 targets. It shows how quickly autonomous AI cyberattacks are moving from theory into daily use. The attackers […] The post Hackers Use DeepSeek and GLM AI Agents to Breach 10 Organizations in Autonomous Cyberattacks appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/deepseek-and-glm-ai-agents/",
-    "date": "2026-11-13T11:56:24+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-DeepSeek-and-GLM-AI-Agents-to-Breach-10-Organizations-in-Autonomous-Cyberattacks.webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "6d0b9eefde87313c",
@@ -487,11 +553,11 @@
     "id": "2a9eb24b3eeb4913",
     "source": "Security Affairs",
     "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell",
-    "description": "Unpatched Check Point gateways were hacked worldwide, leading to root access, backdoors, network intrusion and destructive wiper attacks. Starting on 30 October, an attacker scanned and exploited Check Point Security Gateways that hadn’t been patched, going in through the Mobile Access portal. Check Point Research describes the activity as PHP2Shell for initial access, followed by […]",
+    "description": "Unpatched Check Point gateways were hacked worldwide, leading to root access, backdoors, network intrusion and destructive wiper attacks. Starting on 30 October, an attacker scanned and exploited Check Point Security Gateways that hadn’t been patched, going in through the Mobile Access portal. Check Point Research describes the activity as PHP2Shell for initial access, followed by a root-level privilege escalation tracked as CVE-2026-123039. The activity began about a week after a fix became available, from an IP address ending in 130.94.19[.]204. “We have now confirmed that, in late October 2",
     "link": "https://securityaffairs.com/202982/hacking/unpatched-check-point-gateways-are-being-wiped-exploiting-php2shell.html",
     "date": "2026-11-13T11:35:05+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-27.png",
-    "category": "Vulnerability",
+    "category": "Malware",
     "hot": false
   },
   {
@@ -594,35 +660,13 @@
     "hot": false
   },
   {
-    "id": "d685cc33f41c03cb",
-    "source": "SecurityWeek",
-    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-    "description": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-    "date": "2026-11-13T09:21:01+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "199a99a15bbb9139",
     "source": "Security Affairs",
     "title": "New SignDrop Exploit Can Abuse Windows Defender to Bypass Security Protections",
-    "description": "SignDrop is a Windows zero-day that abuses CLFS security protections to let local attackers gain SYSTEM privileges and bypass defenses. The researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare, Nightmare-Eclipse, and MSNightmare, published a proof-of-concept for a new Windows local privilege escalation zero-day, naming it SignDrop. The flaw sits inside the mitigation Microsoft rolled out […]",
+    "description": "SignDrop is a Windows zero-day that abuses CLFS security protections to let local attackers gain SYSTEM privileges and bypass defenses. The researcher Chaotic Eclipse , also known as INFINITE NIGHTMARE, MSNightmare, Nightmare-Eclipse, and MSNightmare, published a proof-of-concept for a new Windows local privilege escalation zero-day, naming it SignDrop. The flaw sits inside the mitigation Microsoft rolled out specifically to stop attacks on the Common Log File System (CLFS), and the researcher published the code and a technical breakdown on GitHub . “This vulnerability won’t affect all windows",
     "link": "https://securityaffairs.com/202968/hacking/new-signdrop-exploit-can-abuse-windows-defender-to-bypass-security-protections.html",
     "date": "2026-11-13T09:02:00+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-26.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "a1adf94fadbc1140",
-    "source": "SecurityWeek",
-    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-    "description": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-    "date": "2026-11-13T08:50:36+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Nightmare-Eclipse.webp",
     "category": "Malware",
     "hot": true
   },
@@ -718,12 +762,12 @@
     "id": "3d71b279ec172782",
     "source": "CyberScoop",
     "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
-    "description": "The infrastructure, said to belong to APT38, contained footage used to fool victims over video calls. The post US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance appeared first on CyberScoop .",
+    "description": "The Justice Department on Thursday announced coordinated actions against North Korean groups’ campaigns that have stolen billions of dollars in cryptocurrency, seizing cloud infrastructure behind a social engineering scheme known as FaceStealer and the court-authorized seizure of more than $1.2 billion stolen from cryptocurrency exchange Binance. The larger of the two operations is tied to the theft of more than $6 billion in virtual assets from Binance, which the FBI has attributed to North Korean military hackers it calls TraderTraitor. Investigators working with private virtual asset servic",
     "link": "https://cyberscoop.com/us-seizes-north-korea-hacking-infrastructure-binance/",
     "date": "2026-11-13T00:32:19+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2019/01/northkorea_cloth_flag.jpg",
-    "category": "Cyberwarfare",
-    "hot": false
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "dec1a9da8dc6385b",
@@ -751,12 +795,12 @@
     "id": "622de9583429952b",
     "source": "Security Affairs",
     "title": "The School Bomb Threats Came From Accounts Already in Stolen Data",
-    "description": "Hudson Rock researchers found that two university addresses tied to Italy’s school bomb threats were in infostealer data. On 11 November, bomb-threat emails hit schools across Europe. ANSA, citing the Education Ministry, reported that about 6,000 Italian schools received them. Some evacuated, others kept teaching after talking to police, so the recipient count tells you […]",
+    "description": "Hudson Rock researchers found that two university addresses tied to Italy’s school bomb threats were in infostealer data. On 11 November, bomb-threat emails hit schools across Europe. ANSA, citing the Education Ministry, reported that about 6,000 Italian schools received them. Some evacuated, others kept teaching after talking to police, so the recipient count tells you nothing about how many buildings emptied. The emails were signed “Mikhail Andropov” and threatened pupils and school staff. They also mentioned a bomb targeting the prime minister. However, these names and claims came from the ",
     "link": "https://securityaffairs.com/202941/security/the-school-bomb-threats-came-from-accounts-already-in-stolen-data.html",
     "date": "2026-11-12T22:42:10+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-25.png",
     "category": "Malware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "5137dee4177a07d2",
@@ -784,22 +828,22 @@
     "id": "6ebe9566f7d4711a",
     "source": "CyberScoop",
     "title": "Rogue remote-access campaign spread through ScreenConnect add-on, researchers say",
-    "description": "ConnectWise disabled five third-party extensions across about 400 partner environments after researchers linked a worm-like toolkit to one of them. The post Rogue remote-access campaign spread through ScreenConnect add-on, researchers say appeared first on CyberScoop .",
+    "description": "Security researchers at Huntress said an intruder used access to multiple cloud-hosted ScreenConnect panels Wednesday to push commands to groups of managed endpoints, installing attacker-controlled copies of the remote-management software on at least 288 computers across 48 organizations. Roughly a third of the machines were reached within the first 10 minutes, and all of them within about 90 minutes, according to the company. ConnectWise, which makes ScreenConnect, said it was investigating reports of unauthorized access to certain partner ScreenConnect environments and disabled five independ",
     "link": "https://cyberscoop.com/connectwise-screenconnect-sckit-attack/",
     "date": "2026-11-12T20:58:17+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2192531852.jpg",
-    "category": "General Security",
+    "category": "AI Security",
     "hot": false
   },
   {
     "id": "c40004c69bce0520",
     "source": "Security Affairs",
     "title": "Microsoft Cloud Outage Hits Outlook, Teams, Copilot and AI Services",
-    "description": "A Microsoft outage disrupted Outlook, Teams and Copilot, also breaking OpenAI and Anthropic connectors to Microsoft 365 accounts. Microsoft 365, Outlook and Teams went down for thousands of US users on Thursday, November 12. Reuters reported that the disruption also hit the connectors OpenAI’s and Anthropic’s AI services use to reach Microsoft accounts. “Microsoft 365, […]",
+    "description": "A Microsoft outage disrupted Outlook, Teams and Copilot, also breaking OpenAI and Anthropic connectors to Microsoft 365 accounts. Microsoft 365, Outlook and Teams went down for thousands of US users on Thursday, November 12. Reuters reported that the disruption also hit the connectors OpenAI’s and Anthropic’s AI services use to reach Microsoft accounts. “Microsoft 365, Outlook and Teams were down for thousands of US users on Thursday, ​according to outage-tracking website Downdetector.com, with the disruption ‌also hitting connectors used by OpenAI’s and Anthropic’s AI services.” Reuters state",
     "link": "https://securityaffairs.com/202932/security/microsoft-cloud-outage-hits-outlook-teams-copilot-and-ai-services.html",
     "date": "2026-11-12T20:41:47+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-24.png",
-    "category": "General Security",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -894,18 +938,18 @@
     "id": "e3978939d90c2566",
     "source": "CyberScoop",
     "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
-    "description": "CyberScoop is exclusively reporting on the letter to the Hill on the controversial snooping authorities under the Foreign Intelligence Surveillance Act. The post Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders appeared first on CyberScoop .",
+    "description": "It would be a “betrayal of the democratic process” if Congress included a straightforward renewal of a controversial lapsed surveillance law in the annual defense policy bill, a collection of civil liberties groups wrote to Hill leaders Thursday. Lawmakers weren’t able to agree this summer to a long-term extension of Section 702 of the Foreign Intelligence Surveillance Act, under which the government can use Americans’ personal information without a warrant to search for their communications with foreign targets. A court has authorized such searches through March despite the law’s lapse. Congr",
     "link": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
     "date": "2026-11-12T17:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-1235314133.jpg",
     "category": "Privacy",
-    "hot": false
+    "hot": true
   },
   {
     "id": "0f92cd53d1316061",
     "source": "CyberScoop",
     "title": "International operation dismantles malware networks, exposes 6.4 million stolen credentials",
-    "description": "The Operation Endgame action dismantled the loaders, remote access trojans and infostealers that give ransomware gangs their way into corporate networks. The post International operation dismantles malware networks, exposes 6.4 million stolen credentials appeared first on CyberScoop .",
+    "description": "Police in nine countries have dismantled large parts of the criminal infrastructure behind three malware kits that enabled ransomware attacks and data theft, seizing 235 servers and 257 domains and identifying credentials belonging to 6.4 million victims, Europol announced Thursday. The operation, carried out with private-sector partners, targeted the “cybercrime-as-a-service” market, where malware toolkits are built and maintained by one set of actors and sold or rented to others who use them for intrusions, extortion and fraud. Agencies from Bulgaria, Canada, Denmark, Germany, Moldova, the N",
     "link": "https://cyberscoop.com/operation-endgame-malware-takedown-gootloader-stealc-europol/",
     "date": "2026-11-12T16:55:34+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-12-at-11.44.40-AM.png",
@@ -957,21 +1001,10 @@
     "hot": false
   },
   {
-    "id": "1d8b21649d929b54",
-    "source": "BleepingComputer",
-    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-    "description": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-    "date": "2026-11-12T15:07:20+00:00",
-    "image": "",
-    "category": "Malware",
-    "hot": false
-  },
-  {
     "id": "83292c42063b4275",
     "source": "Security Affairs",
     "title": "Predator, Pegasus and Graphite: Governments Accused of Spyware Abuse Face Little Accountability",
-    "description": "Europe’s spyware victims face years of legal battles and few answers as governments shield surveillance behind national security. Greek journalist Thanasis Koukakis waited almost five years for a court to confirm what happened to him. His phone was infected with the infaous spyware Predator that gave whoever was watching access to his contacts, documents and […]",
+    "description": "Europe’s spyware victims face years of legal battles and few answers as governments shield surveillance behind national security. Greek journalist Thanasis Koukakis waited almost five years for a court to confirm what happened to him. His phone was infected with the infaous spyware Predator that gave whoever was watching access to his contacts, documents and messages, and even let them switch on his camera and microphone. IrpiMedia’s journalist and researcher Rosita Rijtano interviewed him and four other victims in a long investigation, and the picture it paints is bleak. On February 26, a cou",
     "link": "https://securityaffairs.com/202922/malware/predator-pegasus-and-graphite-governments-accused-of-spyware-abuse-face-little-accountability.html",
     "date": "2026-11-12T14:53:25+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2018/09/Pegasus-spyware.jpg",
@@ -1004,11 +1037,11 @@
     "id": "15fa3423f3f6fddf",
     "source": "Security Affairs",
     "title": "Zoom Fixes Critical Windows Vulnerability Allowing Privilege Escalation",
-    "description": "Zoom fixes two Windows Workplace flaws, including a critical bug that could let unauthenticated attackers remotely escalate privileges. Zoom has released security updates to fix two vulnerabilities in Zoom Workplace for Windows. One is critical and could let attackers gain higher privileges on affected systems. The vulnerabilities are: If successfully exploited, either vulnerability could allow […]",
+    "description": "Zoom fixes two Windows Workplace flaws, including a critical bug that could let unauthenticated attackers remotely escalate privileges. Zoom has released security updates to fix two vulnerabilities in Zoom Workplace for Windows. One is critical and could let attackers gain higher privileges on affected systems. The vulnerabilities are: CVE-2026-108186 (CVSS 9.6): An input validation flaw that could allow an attacker to gain higher privileges through a network connection, without logging in. CVE-2026-108187 (CVSS 8.1): An origin validation flaw that could also allow an unauthenticated attacker ",
     "link": "https://securityaffairs.com/202911/security/zoom-fixes-critical-windows-vulnerability-allowing-privilege-escalation.html",
     "date": "2026-11-12T12:33:13+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/06/zoom-logo-999x666-1.jpg",
-    "category": "Vulnerability",
+    "category": "Malware",
     "hot": true
   },
   {
@@ -1028,7 +1061,7 @@
     "title": "Another Way Police Are Locating People from Their Smartphones",
     "description": "Penlink’s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It’s sold to the police. The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and religious apps. It can build a detailed picture of where a smartphone has been over the past 12 months, and update the data hourly, showing the movements of people on a near real-time basis. Law enforcement officers can use Webloc to zero in on a map and look at all phones that were present at a specific place and time,",
     "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
-    "date": "2026-11-12T12:02:58+00:00",
+    "date": "2026-11-12T12:03:10+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1107,17 +1140,6 @@
     "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
     "date": "2026-11-12T06:42:47+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-4OiOkGLcK3fAr2HdhALOfc_BqR21440TsjUIuCNzv4YL0lWRC3lvUjE1vu2RdVfjunxi80gMQyGpjvUdWzMRtthW8_-hFOJ79YhFzJrNGgoKDPYXm2OaWOsN8kgBELqOPs5s9QKL4qzQzu_3NEEqHygpfQzKYxDRIQeFgMHj24oyPyaslUemke-loU/s1600/github.jpg",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "d6566c3e495c6523",
-    "source": "Security Affairs",
-    "title": "Poland takes its national e-government platform offline after a cyberattack",
-    "description": "Poland takes its e-government platform ePUAP offline after stopping a cyberattack, disrupting access to public services. Poland temporarily shut down ePUAP, the government platform citizens and businesses use to reach public services, after detecting and stopping a cyberattack. A notice on the government’s website says ePUAP electronic mailboxes are unavailable to citizens and public institutions. […]",
-    "link": "https://securityaffairs.com/202895/security/poland-takes-its-national-e-government-platform-offline-after-a-cyberattack.html",
-    "date": "2026-11-12T06:10:52+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2019/09/Poland-to-establish-Cyberspace-Defence-Force-by-2024.jpg",
     "category": "Hacking",
     "hot": false
   },
@@ -1224,10 +1246,10 @@
     "id": "7b786637e9721c40",
     "source": "Krebs on Security",
     "title": "Who Runs the Ransomware Group Qilin?",
-    "description": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+    "description": "The cybercrime group Qilin has emerged as the world’s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia. Operating since September 2022, the Russia-based ransomware group Qilin is the currently the most industrious ransomware-as-a-service gang, according to a report (PDF) this month by the cybersecurity firm NCC Group",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
     "date": "2026-11-11T18:06:01+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1279,11 +1301,11 @@
     "id": "7b0c6d8c4c37f019",
     "source": "Schneier on Security",
     "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026...",
+    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. With the help of AI, the",
     "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-    "date": "2026-11-11T12:05:34+00:00",
+    "date": "2026-11-11T12:06:21+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -1356,12 +1378,12 @@
     "id": "6ef401a8000ab7f2",
     "source": "CyberScoop",
     "title": "CISA director pick already drawing concern from Hill Dems over Palantir connection",
-    "description": "Others touted Michael LoSapio as a fit for the job due to his technical credentials as CISO for the company. The post CISA director pick already drawing concern from Hill Dems over Palantir connection appeared first on CyberScoop .",
+    "description": "The two expected incoming leaders of the Senate and House homeland security panels expressed reservations Tuesday about the Trump administration’s pick to lead the Cybersecurity and Infrastructure Security Agency because he currently works for the oft-controversial tech company Palantir. The Trump administration on Monday announced its intent to nominate Michael LoSapio , chief information security officer for Palantir, to fill the long-vacant Senate-confirmed position of CISA director. The Senate Homeland Security and Governmental Affairs Committee has authority over approving CISA director n",
     "link": "https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/",
     "date": "2026-11-10T22:38:16+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2264645203.jpg",
-    "category": "Hacking",
-    "hot": false
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "a701ab27c212fd4d",
@@ -1378,18 +1400,18 @@
     "id": "ceb4e568e77f3a77",
     "source": "Krebs on Security",
     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-    "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+    "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla . Image: Shutterstock.com. Diorama by @zepp1969. November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with li",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
-    "category": "Vulnerability",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "category": "AI Security",
     "hot": true
   },
   {
     "id": "265bd785478d5ab0",
     "source": "CyberScoop",
     "title": "The US wants its quantum lead to turn into factories and supply chains",
-    "description": "There’s bipartisan support for further investment in the U.S. quantum industry, along with worries that America’s industrial capacity won’t keep up with demand. The post The US wants its quantum lead to turn into factories and supply chains appeared first on CyberScoop .",
+    "description": "Policymakers from Congress and the executive branch are looking for ways to further boost the U.S. quantum computing industry, including by growing industrial capacity to translate scientific breakthroughs into workable technology. Deputy Secretary of Commerce Paul Dabbar said the American industry is “by far the greatest leader in quantum technologies,” with a tech stack that is the envy of the world. The challenge will be translating those technological gains into real, brick-and-mortar industrialization and manufacturing dominance. Dabbar pointed to other examples of federal support, such a",
     "link": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
     "date": "2026-11-10T21:50:46+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/GettyImages-2218892237-1.jpg",
@@ -1400,12 +1422,12 @@
     "id": "8614dae5bff7f65d",
     "source": "CyberScoop",
     "title": "Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday",
-    "description": "Microsoft’s November security update addresses roughly 1,090 vulnerabilities across Windows, Office, Azure and the company’s other product lines, the second consecutive monthly release to exceed the totals of all previous years. The release formally lists 1,094 CVEs, with Windows accounting for 726 and Office 174. A smaller number of patches went to SQL Server, Exchange […] The post Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday appeared first on CyberScoop .",
+    "description": "Microsoft’s November security update addresses roughly 1,090 vulnerabilities across Windows, Office, Azure and the company’s other product lines, the second consecutive monthly release to exceed the totals of all previous years. The release formally lists 1,094 CVEs, with Windows accounting for 726 and Office 174. A smaller number of patches went to SQL Server, Exchange Server, SharePoint Server, Azure and other products. Despite the number of patches, only one flaw is under active attack, and none were publicly known before the release. Dustin Childs, head of threat awareness at TrendAI’s Zer",
     "link": "https://cyberscoop.com/microsoft-patch-tuesday-november-2026/",
     "date": "2026-11-10T21:47:01+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2304396070.jpg",
-    "category": "Vulnerability",
-    "hot": false
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "99b5a670398a06de",
@@ -1499,7 +1521,7 @@
     "id": "ecf98a463955361e",
     "source": "CyberScoop",
     "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
-    "description": "Some services began returning online Tuesday following a ransomware incident detected on Monday across Vanderbilt systems and applications. The post Vanderbilt University reels following ransomware attack claimed by BYOD group appeared first on CyberScoop .",
+    "description": "A ransomware attack discovered Monday at Vanderbilt University in Nashville, Tennessee appears to have compromised vast amounts of student and employee personal data, prompting the university to take several digital services intermittently offline as it continues responding to the incident. As of Tuesday morning, the university shared an update that select campus-wide systems and applications were safe to use again, including campus WiFi, Okta, Outlook, Brightspace, Zoom and YES, while others remain restricted, including CampusPrint. Students, faculty and staff were also allowed to resume use ",
     "link": "https://cyberscoop.com/vanderbilt-university-ransomware-attack-byod/",
     "date": "2026-11-10T17:46:29+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-10-at-12.41.07-PM.png",
@@ -1578,7 +1600,7 @@
     "title": "New OpenSSH Vulnerability",
     "description": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “Oversized” means longer than 256 bytes. Details . Slashdot thread . And another news article .",
     "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-    "date": "2026-11-10T12:02:38+00:00",
+    "date": "2026-11-10T12:02:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1659,17 +1681,6 @@
     "image": "https://media.wired.com/photos/6af269df2008482926d88a86/master/pass/Security_Security%20Flaws%20Across%20UK%20Government%20Sites%20Exposed%20%E2%80%98God-Tier%E2%80%99%20Information_v1.jpg",
     "category": "Vulnerability",
     "hot": false
-  },
-  {
-    "id": "a5d58c7187d91148",
-    "source": "The Hacker News",
-    "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-    "description": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. \"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
-    "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-    "date": "2026-11-10T06:52:54+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "a86fbe616ee5a465",
@@ -1763,9 +1774,9 @@
     "id": "294f39363b697de9",
     "source": "Schneier on Security",
     "title": "AI Security",
-    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three...",
+    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three.",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
-    "date": "2026-11-09T12:05:39+00:00",
+    "date": "2026-11-09T12:06:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -1796,9 +1807,9 @@
     "id": "1fc3581220526e47",
     "source": "Schneier on Security",
     "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered...",
+    "description": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-    "date": "2026-11-06T22:05:12+00:00",
+    "date": "2026-11-06T22:05:29+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1842,9 +1853,9 @@
     "title": "Pinpointing Location of Videos from Background Airplane Sounds",
     "description": "This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because of the Doppler effect. This is the same familiar Doppler effect that causes the frequency of a siren to rise as it approaches and then fall as it passes by and moves away. More generally, it’s the phenomenon whereby the frequency of a wave perceived",
     "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
-    "date": "2026-11-06T14:57:48+00:00",
+    "date": "2026-11-06T16:28:27+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "General Security",
+    "category": "Privacy",
     "hot": false
   },
   {
@@ -1939,11 +1950,11 @@
     "id": "7429da20a1be973e",
     "source": "Krebs on Security",
     "title": "Want to Rent an Internet Address at the White House?",
-    "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+    "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
-    "category": "Hacking",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -2084,7 +2095,7 @@
     "title": "AIs Hacking the Law",
     "description": "In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite exploitation.1 Courts absorb most exploits through interpretation, and such vulnerabilities rarely surface in the first place. With highly capable AI systems enabling the discovery of vulnerabilities at unprecedented scale, we believe the latter could cha",
     "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-    "date": "2026-11-03T12:01:00+00:00",
+    "date": "2026-11-03T12:01:01+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -2093,12 +2104,12 @@
     "id": "b9ea4ff784bcccfc",
     "source": "Krebs on Security",
     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-    "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
+    "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet’s access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines. A report from the Google Threat Intelligence Group (GTIG) said Google has seve",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Malware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "960b025ca66cddf1",
@@ -2150,7 +2161,7 @@
     "title": "AI Vulnerability Finding",
     "description": "A comment : 3% of ‘critical’ software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is? Yes. It is a new world out there.",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-    "date": "2026-11-02T12:02:34+00:00",
+    "date": "2026-11-02T12:02:47+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": true
@@ -2233,17 +2244,6 @@
     "hot": false
   },
   {
-    "id": "c269b2e160c06a03",
-    "source": "WIRED Security",
-    "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-    "description": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
-    "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-    "date": "2026-10-29T03:34:46+00:00",
-    "image": "https://media.wired.com/photos/6ae2b697af20331957eab942/master/pass/2195830714",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "567265d6ada8534f",
     "source": "NIST Cybersecurity",
     "title": "Design Tenets for Agent Identity Management Systems",
@@ -2258,21 +2258,21 @@
     "id": "eec90e9acc6bcca5",
     "source": "Krebs on Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-    "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+    "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
-    "category": "Vulnerability",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "category": "AI Security",
     "hot": true
   },
   {
     "id": "bc9c2f95a9294fdd",
     "source": "Krebs on Security",
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-    "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
+    "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2280,10 +2280,10 @@
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-    "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+    "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2302,18 +2302,18 @@
     "id": "c5a36601271c1897",
     "source": "Krebs on Security",
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
-    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
-    "category": "Vulnerability",
-    "hot": false
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "category": "AI Security",
+    "hot": true
   },
   {
     "id": "878d602d6c0b2414",
     "source": "Krebs on Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation tol",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
     "image": "https://krebsonsecurity.com/b-doppel/17.png",
@@ -2324,12 +2324,12 @@
     "id": "4b3e102168c7d619",
     "source": "Krebs on Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
+    "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested la",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "date": "2026-10-07T13:48:45+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "8629a7025f617a50",
