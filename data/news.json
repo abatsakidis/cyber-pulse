@@ -1,5 +1,82 @@
 [
   {
+    "id": "7af03b08e2742da9",
+    "source": "Cyber Security News",
+    "title": "Hackers Abuse CyberPower UPS Software to Execute SYSTEM Commands and Dump Active Directory Data",
+    "description": "Exploited CyberPower PowerPanel Business software for managing uninterruptible power supplies (UPS) to gain SYSTEM-level access to a Windows domain controller. Symantec reported on November 18 that the attackers used a built-in scripting feature to copy the Active Directory database and launch malware that kept running after the collection activity. Researchers did not observe data leaving […] The post Hackers Abuse CyberPower UPS Software to Execute SYSTEM Commands and Dump Active Directory Data appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/hackers-abuse-cyberpower-ups-software/",
+    "date": "2026-11-19T04:10:46+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Abuse-CyberPower-UPS-Software-to-Execute-SYSTEM-Commands-and-Dump-Active-Directory-Data.webp",
+    "category": "Malware",
+    "hot": false
+  },
+  {
+    "id": "ed1312af63b3d8f6",
+    "source": "SecurityWeek",
+    "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+    "description": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek .",
+    "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+    "date": "2026-11-19T03:25:23+00:00",
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/04/Palo-Alto-Networks.jpeg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "fd7953a7275f7969",
+    "source": "Cyber Security News",
+    "title": "Hackers Exploiting Java4Shell RCE Flaw Using ARTEX Disguise Themselves as Chrome",
+    "description": "Cloudflare’s Cloudforce One reported a Java4Shell exploit attempt that looked like ordinary Google Chrome traffic in web logs. The team said a source IP first scanned a target using a User-Agent header that gave away the scanning tool. About 17 hours later, the same address sent an exploit attempt to the same target, this time […] The post Hackers Exploiting Java4Shell RCE Flaw Using ARTEX Disguise Themselves as Chrome appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/java4shell-rce-flaw-exploited/",
+    "date": "2026-11-19T03:18:37+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Java4Shell-RCE-Flaw-Exploited.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "e42e530e18d0b3c4",
+    "source": "Schneier on Security",
+    "title": "France Is Blaming Iran for the Fridge Cyberattack",
+    "description": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Gu",
+    "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+    "date": "2026-11-19T03:15:04+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "50fd47c81247c040",
+    "source": "Cyber Security News",
+    "title": "WordPress 7.1.5 Patches 20 Security Issues, Including Potential RCE and SQL Injection Flaws",
+    "description": "WordPress released version 7.1.5 on November 18, 2026, to address 20 security issues in WordPress Core. The update fixes a flaw that could allow someone without an account to run code on a vulnerable server, two SQL injection flaws, and a weakness that could let an administrator of one site take over a WordPress Multisite […] The post WordPress 7.1.5 Patches 20 Security Issues, Including Potential RCE and SQL Injection Flaws appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/wordpress-7-1-5-patches-20-security-issues/",
+    "date": "2026-11-19T02:16:02+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/WordPress-7.1.5-Patches-20-Security-Issues.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "20bd47f7b451b258",
+    "source": "Cyber Security News",
+    "title": "PHP Security Team Warns of Critical Vulnerabilities, Urges Users to Prepare for November 19 Updates",
+    "description": "The PHP security team plans to release security updates on Thursday, November 19, 2026, between 14:00 and 14:30 UTC. In its November 18 security notice, the team said the releases will address vulnerabilities across all supported PHP branches, with the highest severity rated critical. It urged users to prepare now and install the updates promptly […] The post PHP Security Team Warns of Critical Vulnerabilities, Urges Users to Prepare for November 19 Updates appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/php-critical-vulnerabilities/",
+    "date": "2026-11-19T01:49:53+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/PHP-Critical-Vulnerabilities.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "26d7286ce3ca6fb2",
+    "source": "Help Net Security",
+    "title": "Quantum position verification could lock remote hackers out, NIST shows",
+    "description": "Physicists at the National Institute of Standards and Technology have used entangled photons to confirm that a party was physically where it claimed to be. NIST physicist Krister Shalm and an international team ran a quantum position verification protocol inside a research building in Boulder, Colorado, and closed loopholes that had left earlier quantum location schemes open to cheating. NIST researchers Krister Shalm (left) and Marty Stevens use optical components to guide entangled photons into … More → The post Quantum position verification could lock remote hackers out, NIST shows appeared",
+    "link": "https://www.helpnetsecurity.com/2026/11/19/nist-quantum-position-verification/",
+    "date": "2026-11-19T00:07:39+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/19005443/nist-researchers.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
     "id": "a1f3f575322ab625",
     "source": "Help Net Security",
     "title": "Ransomware access brokers are moving their deals off public forums",
@@ -33,14 +110,14 @@
     "hot": false
   },
   {
-    "id": "8dbc35b84415f224",
+    "id": "1737deeba64b9ef9",
     "source": "Dark Reading",
-    "title": "Cold Relic Turns One Cloud Breach Into Another",
+    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
     "description": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
     "date": "2026-11-18T21:59:46+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cf0a0b934852050/6afe1492ac3412795c5370fe/russia_Skorzewiak_shutterstoc.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
+    "category": "Cyberwarfare",
     "hot": true
   },
   {
@@ -319,28 +396,6 @@
     "hot": true
   },
   {
-    "id": "2ba54a0a43c48451",
-    "source": "Cyber Security News",
-    "title": "2027 Cybersecurity Excellence Awards Launch With Six New AI Security Categories",
-    "description": "San Francisco, USA, November 17th, 2026, CyberNewswire Global awards program invites nominations across more than 100 cybersecurity categories, with early-bird pricing through Cyber Monday. The Cybersecurity Excellence Awards, presented by Cybersecurity Insiders, announced the official launch of its 2027 awards season, inviting cybersecurity companies, innovators, professionals, and teams worldwide to submit their achievements for independent […] The post 2027 Cybersecurity Excellence Awards Launch With Six New AI Security Categories appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/2027-cybersecurity-excellence-awards/",
-    "date": "2026-11-18T15:52:59+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIW53xM7nG_vgrWayg5e2sJZhfeU9aHRQk0lRb2n6al6bM1gmzucPwL5mt4HUE2mhLmKIWz-ktA0zqjdAJOpIVLDnN8fr9WWL-hAJ7TfawjxD90B8VXyTdvz4BfJJmoVvBZbTHebz9FfFTnYzuU1cyC7Ijhno0ZJ4EVQQtkFRYiKn4MP8zvnylA5tbtIFt/s1600/CSN%20AND%20GBH%20(6).webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "cea8885e6dbfa9cb",
-    "source": "Cyber Security News",
-    "title": "SpyCloud’s 2027 Forecast: Attackers Will Exploit Trusted Access, From Hijacked Sessions to AI Agents",
-    "description": "Austin, TX, USA, November 17th, 2026, CyberNewswire New predictions drawn from SpyCloud’s research teams and a survey of security professionals show why stolen sessions, API keys, and vendor connections will drive the most damaging attacks in 2027. SpyCloud, the leader in identity threat protection, today released its SpyCloud 2026 Forecast Report, outlining several predictions for […] The post SpyCloud’s 2027 Forecast: Attackers Will Exploit Trusted Access, From Hijacked Sessions to AI Agents appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/spycloud-2027-cybersecurity-forecast-trusted-access-ai-agents/",
-    "date": "2026-11-18T15:36:50+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLTqyb_ZpSLdOKrWIyeRU3_yCLBRTXXbme20z677ejip8UEtHS6eUjm4ju0tS0m7Q65YeXsbQgBW57AFE3J_zpdCiy59WBfc5cFbsekOjhB4X0tHPU2NIDJbg66Dm7HQIJYtmC0tP4cJMGReyY74TsHd0NlfDOVpZ5TlYqnHVZGVj16b_vWjKPMfAXY4v/s1600/CSN%20AND%20GBH%20(5).webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "d69f5522a38de62a",
     "source": "SecurityWeek",
     "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
@@ -348,17 +403,6 @@
     "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
     "date": "2026-11-18T15:30:42+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "a3d889857243c31a",
-    "source": "Cyber Security News",
-    "title": "Armornet Debuts AI Security for the Code and Vendors Companies Trust",
-    "description": "Grand Rapids, Michigan, November 18th, 2026, CyberNewswire Startup shows teams the vendors they rely on, keeps a live risk score on each one and secures the software supply chain from end to end Armornet, an AI cybersecurity company, is accepting teams into the private alpha of its platform, which gives an automatically discovered, continuous view […] The post Armornet Debuts AI Security for the Code and Vendors Companies Trust appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/armornet-ai-software-supply-chain-vendor-security/",
-    "date": "2026-11-18T15:20:34+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb8f-rZex3mB_-ZOxYOZfeIwTxaYQRYq1YW0qPDGJjdSfZjWV8DIpn6EddVb4mV2h4DGVbQ0dUnjxGrSz_WS2DpH0-ajKFLNqW2MMxtUcR7-OIPZfLnD4XTf_8iVWoUE7Y0ib1UZcdiXF7rI3oFobBlIR_QwJ_Ko00b9_PyByZs9-0D3gmdMxHE2fopP82/s1600/CSN%20AND%20GBH%20(4).webp",
     "category": "AI Security",
     "hot": false
   },
@@ -394,17 +438,6 @@
     "image": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
     "category": "Hacking",
     "hot": false
-  },
-  {
-    "id": "8e8fccb9d1749033",
-    "source": "Cyber Security News",
-    "title": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
-    "description": "New York, United States, November 18th, 2026, CyberNewswire New technology monitors critical vulnerabilities and supply chain threats, automatically assessing customer exposure and guiding remediation OX Security, a leader in AI-native application protection, today announced the launch of OX Radar and Response Center, giving security teams one place to track high-priority cyber threats, determine whether their […] The post OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/ox-security-ox-radar-response-center/",
-    "date": "2026-11-18T14:30:20+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMRmj423xGv-WjN_ETV3bIuwBGStO9JXdYpzPB4knCs2w2p9rB237inV7GF1IQd3rgSd1JKcrQAUNVEaLarY0yz7oZsc4omdo7tAMCVWvmgCuuV7WiqQpUY_h5UdzwhVPprh0kFl7tH6U4DNV1rmDiTh5jEtLdW7rpW2krtwoRa1tvsLxJT3iRYhssjN7O/s1600/CSN%20AND%20GBH%20(3).webp",
-    "category": "Vulnerability",
-    "hot": true
   },
   {
     "id": "188ccdbe5a18e4a2",
@@ -481,17 +514,6 @@
     "date": "2026-11-18T12:14:23+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Agent-AI-Security.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "e42e530e18d0b3c4",
-    "source": "Schneier on Security",
-    "title": "France Is Blaming Iran for the Fridge Cyberattack",
-    "description": "Interesting : U.S. intelligence agencies have recently reached a “”ow confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Gu",
-    "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-    "date": "2026-11-18T12:06:34+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -715,17 +737,6 @@
     "hot": false
   },
   {
-    "id": "5f2bcf82800806bb",
-    "source": "SecurityWeek",
-    "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-    "description": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
-    "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-    "date": "2026-11-18T07:43:34+00:00",
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Java4Shell.jpg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "fe81301b5cd193fc",
     "source": "Help Net Security",
     "title": "Deutsche Telekom IoT’s CEO on securing devices that run for 20 years",
@@ -803,24 +814,13 @@
     "hot": false
   },
   {
-    "id": "2b3ced91d0efcd6b",
-    "source": "Help Net Security",
-    "title": "Fraudsters feed the right face into identity checks through virtual cameras",
-    "description": "Document fraud remains the largest attack category in Entrust’s The Professionalization of Fraud: 2027 Identity Fraud Report, with criminals combining physical counterfeits, digital manipulation and impersonation to target online services. The document fraud rate fell 19% year over year. Attacks classified as medium sophistication accounted for nearly 39% of document fraud, involving alterations and counterfeits that require closer inspection to detect. Physical counterfeits made up 61.1% of fraudulent document submissions. Attack sophistication (Source: Entrust) “Fraudsters … More → The post ",
-    "link": "https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/",
-    "date": "2026-11-18T05:00:34+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/02/17142025/send_money-1400.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "f49ac45ba2347d2a",
     "source": "Krebs on Security",
     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
     "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content.",
     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
     "date": "2026-11-18T02:52:04+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Malware",
     "hot": false
   },
@@ -963,7 +963,7 @@
     "description": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
     "date": "2026-11-17T19:24:07+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/27/Apple-red.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -996,7 +996,7 @@
     "description": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
     "date": "2026-11-17T18:21:24+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/Hugging-Face-headpic.jpg",
+    "image": "",
     "category": "General Security",
     "hot": false
   },
@@ -1007,7 +1007,7 @@
     "description": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
     "date": "2026-11-17T18:04:15+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2020/08/19/Tor-headpic.jpg",
+    "image": "",
     "category": "Hacking",
     "hot": true
   },
@@ -1107,7 +1107,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
     "date": "2026-11-17T12:06:37+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -2030,7 +2030,7 @@
     "description": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
     "date": "2026-11-11T18:06:01+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2038,11 +2038,11 @@
     "id": "7b0c6d8c4c37f019",
     "source": "Schneier on Security",
     "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. With the help of AI, the",
+    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026...",
     "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
     "date": "2026-11-11T12:06:21+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -2258,7 +2258,7 @@
     "id": "294f39363b697de9",
     "source": "Schneier on Security",
     "title": "AI Security",
-    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three.",
+    "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three...",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
     "date": "2026-11-09T12:06:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
@@ -2459,7 +2459,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Hacking",
     "hot": false
   },
@@ -2525,7 +2525,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-doppel/17.png",
     "category": "Malware",
     "hot": false
   },
@@ -2602,7 +2602,7 @@
     "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -2624,7 +2624,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2646,7 +2646,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Vulnerability",
     "hot": false
   },
@@ -2657,7 +2657,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-doppel/17.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
