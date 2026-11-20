@@ -1,5 +1,104 @@
 [
   {
+    "id": "f3a8eceebb1f12bf",
+    "source": "Cyber Security News",
+    "title": "8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability",
+    "description": "Around 8.8 million NGINX services may still be open to the NGINX2Root flaws. Censys live tracker counts 8,823,450 services that run an affected version and offer HTTP/2. Another 441,489 services that were once exposed have since been patched or have turned HTTP/2 off. NGINX2Root is a set of five memory bugs in NGINX that Xint […] The post 8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/nginx2root-vulnerability/",
+    "date": "2026-11-20T02:46:13+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/NGINX2Root.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "f4dfcf20c14c5929",
+    "source": "Cyber Security News",
+    "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data",
+    "description": "A suspected China-linked espionage group exploited a VMware vCenter Server zero-day in early September 2026, gaining administrator access and stealing files from a Windows virtual machine. Mandiant and Google Threat Intelligence Group (GTIG) attributed the intrusion to ARMORY CASTLE, formerly tracked as UNC5221. Broadcom disclosed the flaw, CVE-2026-123890, on November 19, more than two months […] The post Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/",
+    "date": "2026-11-20T01:47:52+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/VMware-vCenter-0-Day.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "2701e9c61d181eae",
+    "source": "CyberScoop",
+    "title": "Sean Cairncross out as national cyber director",
+    "description": "During his tenure, he was involved in key administration decisions on AI security and the protection of critical infrastructure. The post Sean Cairncross out as national cyber director appeared first on CyberScoop .",
+    "link": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director/",
+    "date": "2026-11-20T01:07:07+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2304987382-1.jpg",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "46fc2df511514244",
+    "source": "Cyber Security News",
+    "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
+    "description": "A newly disclosed Windows 11 zero-day called FastUnlock lets someone with physical access bypass parts of the Windows lock screen and run code without signing in. The flaw affects Narrator, Microsoft’s built-in screen reader, and can expose a running PC even when BitLocker is enabled. The reported bypass does not break BitLocker encryption or show […] The post New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/",
+    "date": "2026-11-20T01:00:42+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Windows-11-0-Day.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "438a7c99508934d8",
+    "source": "BleepingComputer",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "description": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "date": "2026-11-20T00:26:25+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "6cfbce9d52083fbf",
+    "source": "Help Net Security",
+    "title": "Android developer verification will reach every install source, with a side door for power users",
+    "description": "Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose the normal install experience on certified Android devices. The rollout opens with seven app distributors: Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion and Vivo. Over several months it widens to every … More → The post Android developer verification will reach every install source, with a side door for pow",
+    "link": "https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/",
+    "date": "2026-11-19T23:03:24+00:00",
+    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/19225129/android_developer_verification-1500.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "5ccb8fdc918bf418",
+    "source": "Dark Reading",
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+    "description": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+    "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+    "date": "2026-11-19T22:40:03+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdca0689384b67fb8/6aff731dfef3359545395d0a/old-ship-steering-wheel-DmitriiElj-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "b9bf332eb27a2789",
+    "source": "BleepingComputer",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "description": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "date": "2026-11-19T22:25:42+00:00",
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/08/22/healthcare-cyber.jpg",
+    "category": "Privacy",
+    "hot": false
+  },
+  {
+    "id": "70764be635cee69d",
+    "source": "Security Affairs",
+    "title": "Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability",
+    "description": "The researcher Chaotic Eclipse released FastUnlock, a new Windows zero-day vulnerability exploiting Narrator to bypass the lock screen. Security researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new Windows zero-day vulnerability, dubbed FastUnlock, exploiting Narrator to bypass the lock screen. According to the researcher, exploiting it can bypass BitLocker encryption and […]",
+    "link": "https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html",
+    "date": "2026-11-19T21:43:09+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-50-1024x640.png",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "eaba1875d3b9417b",
     "source": "The Record",
     "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
@@ -165,6 +264,28 @@
     "hot": false
   },
   {
+    "id": "a6de3f6df2fb444b",
+    "source": "Cyber Security News",
+    "title": "New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution",
+    "description": "A new PHP attack dubbed phpAfterShell can lead to unauthenticated remote code execution on vulnerable servers, even if they have the October patches for PHP2Shell. Researchers at Depthfirst disclosed the flaw on November 19 and demonstrated how it could be combined with a separate bug in PHP to run code remotely. The vulnerability, tracked as […] The post New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/phpaftershell-rce/",
+    "date": "2026-11-19T16:50:33+00:00",
+    "image": "https://depthfirst.com/uploads/phpaftershell/full-chain-demonstration.mp4",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "479439eb986dc3fe",
+    "source": "Cyber Security News",
+    "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+    "description": "Broadcom has released fixes for five VMware flaws, and one lets anyone with network access to vCenter skip login. Broadcom published the advisory, VMSA-2026-0009, on November 19, 2026. It covers vCenter, SDDC Manager, and VMware Tools. CVSS scores range from 6.7 to 9.8, and Broadcom has listed no workarounds. The most critical flaw is CVE-2026-123890, an authentication […] The post Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/",
+    "date": "2026-11-19T16:30:55+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/VMware-vCenter-authentication-bypass.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
     "id": "74d483a952774ac2",
     "source": "BleepingComputer",
     "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
@@ -184,6 +305,17 @@
     "date": "2026-11-19T16:15:00+00:00",
     "image": "http://cms.therecord.media/uploads/Apple_logo_253a5988c4.jpg",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "15c81b81a21bfe72",
+    "source": "Cyber Security News",
+    "title": "JPMorgan Chase Confirms Third-Party Cyberattack That May Have Exposed Customer Names and Emails",
+    "description": "JPMorgan Chase confirmed on November 19 that a cyberattack targeted outside companies that provide services to the bank. The bank said it believes attackers accessed marketing data held by those vendors, which may include some customer names and email addresses. It did not say how many customers may be affected. J.P. Morgan and Chase said […] The post JPMorgan Chase Confirms Third-Party Cyberattack That May Have Exposed Customer Names and Emails appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/jpmorgan-third-party-data-breach/",
+    "date": "2026-11-19T16:14:31+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/JPMorgan-Chase-Confirms-Third-Party-Cyberattack.webp",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -253,6 +385,17 @@
     "hot": false
   },
   {
+    "id": "c1bbe9930c81b486",
+    "source": "Cyber Security News",
+    "title": "Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management",
+    "description": "Torrance, California, USA, November 19th, 2026, CyberNewswire Criminal IP, a cyber threat intelligence platform developed by AI SPERA, officially launched Criminal IP AITEM (AI-Powered Threat Exposure Management) on November 18, 2026. An evolution of Criminal IP ASM, AITEM combines internet-facing asset discovery with AI-assisted investigation, public-source exposure analysis, and dark web monitoring. It also introduces […] The post Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/criminal-ip-launches-aitem-to-connect-asset-discovery-with-ai-powered-exposure-management/",
+    "date": "2026-11-19T15:03:15+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8k533ddqZVjhtf1xygVxVghHeMfm4oUNQG7W0btWaXPsMktodDYZWN0vITw8fHCjeU8N359chJIi9BumUbcfl_rLyQtiL2EVvJj6WgA_MnXPTMu41ohsUBB1YYgy_dYI3xz5Yhy1QGP-gTk5GrfRQihQXCDQZygvI_kyLqnkYWtDN-SULqN6_hXmjfw/s1600/Insignary%20Launches%20Clarity%20On-Demand_%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20pro%20-%202026-11-19T194501.31.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
     "id": "6237c74af8b6795f",
     "source": "BleepingComputer",
     "title": "Five warning signs of ransomware breach before encryption or data theft",
@@ -271,6 +414,17 @@
     "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
     "date": "2026-11-19T14:57:24+00:00",
     "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/nginx.jpg",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "713ae10669f90ac1",
+    "source": "Cyber Security News",
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+    "description": "The PHP security team has warned of vulnerabilities across all branches covered by its November 19, 2026 security update, with the most severe issues rated critical. The team urged website operators and hosting providers to update promptly. The critical flaws require non-default settings or uncommon setups, so not every installation faces the same risk. The […] The post PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/php-8-released/",
+    "date": "2026-11-19T14:42:41+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/PHP-8-Released.webp",
     "category": "Vulnerability",
     "hot": true
   },
@@ -306,6 +460,28 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Nvidia.jpeg",
     "category": "Ransomware",
     "hot": true
+  },
+  {
+    "id": "a76208866192932d",
+    "source": "Cyber Security News",
+    "title": "Meta AI Agent Muse Reads Encrypted Messages Through Android Notifications and Mac Permissions",
+    "description": "Meta’s AI agent Muse read Signal message text on Android phones and Macs without directly connecting to the encrypted messaging app, Reuters reported on November 18. The investigation found that Muse could use Android notifications and macOS permissions to see text already displayed on a device. The tests did not show that Muse broke Signal’s […] The post Meta AI Agent Muse Reads Encrypted Messages Through Android Notifications and Mac Permissions appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/muse-reads-encrypted-messages/",
+    "date": "2026-11-19T14:11:32+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Muse-Reads-Encrypted-Messages.webp",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "2a0b3ea748b07c10",
+    "source": "Cyber Security News",
+    "title": "BADBOX 3.0 Malware Infects Android TV Boxes to Generate 40 Billion Fraudulent Ad Requests Daily",
+    "description": "Low-cost Android streaming boxes helped power an advertising fraud operation that generated roughly 40 billion bid requests a day at its peak. Known as BADBOX 3.0, the campaign used infected devices to play video ads outside the visible screen while making the traffic look as though it came from legitimate streaming apps. Some of the […] The post BADBOX 3.0 Malware Infects Android TV Boxes to Generate 40 Billion Fraudulent Ad Requests Daily appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/badbox-3-0-malware/",
+    "date": "2026-11-19T14:05:35+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/BADBOX-3.0-Malware-Infects-Android-TV-Boxes-to-Generate-40-Billion-Fraudulent-Ad-Requests-Daily.webp",
+    "category": "Malware",
+    "hot": false
   },
   {
     "id": "206856dd9c6c0370",
@@ -528,17 +704,6 @@
     "hot": true
   },
   {
-    "id": "7a255454ba0c177f",
-    "source": "Help Net Security",
-    "title": "Palo Alto Networks to acquire Applied Compute for $4.5 billion",
-    "description": "Palo Alto Networks will acquire Applied Compute, a platform for post-training and inference of open-weight AI models. The all-stock transaction is valued at $4.5 billion, subject to adjustments. The acquisition will bring Applied Compute’s platform and world-class AI research team to Palo Alto Networks to help enterprises adopt AI securely, whether they choose open-weight models, closed frontier models, or both. Palo Alto Networks believes the future of enterprise AI is hybrid, and that a large … More → The post Palo Alto Networks to acquire Applied Compute for $4.5 billion appeared first on H",
-    "link": "https://www.helpnetsecurity.com/2026/11/19/palo-alto-networks-acquires-applied-compute/",
-    "date": "2026-11-19T10:23:41+00:00",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/17164810/palo_alto_networks-2-1500.webp",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "d6741787557366fb",
     "source": "Security Affairs",
     "title": "PHP Warns of Critical Flaws Ahead of November Security Release",
@@ -647,17 +812,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg",
     "category": "Vulnerability",
     "hot": true
-  },
-  {
-    "id": "e42e530e18d0b3c4",
-    "source": "Schneier on Security",
-    "title": "France Is Blaming Iran for the Fridge Cyberattack",
-    "description": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Gu",
-    "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-    "date": "2026-11-19T03:15:04+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
-    "hot": false
   },
   {
     "id": "94986e0ab10378d8",
@@ -847,17 +1001,6 @@
     "hot": false
   },
   {
-    "id": "32074f579c321edb",
-    "source": "BleepingComputer",
-    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-    "description": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-    "date": "2026-11-18T15:00:10+00:00",
-    "image": "https://www.bleepstatic.com/content/posts/2026/11/16/specops-hacker.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "e990a47148141872",
     "source": "Security Affairs",
     "title": "Scattered Spider Member Gets Six Years for Phishing and SIM-Swapping Attacks",
@@ -913,6 +1056,17 @@
     "hot": false
   },
   {
+    "id": "e42e530e18d0b3c4",
+    "source": "Schneier on Security",
+    "title": "France Is Blaming Iran for the Fridge Cyberattack",
+    "description": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Gu",
+    "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+    "date": "2026-11-18T12:05:35+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
     "id": "18a54d941c516c79",
     "source": "CISA Advisories",
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -932,17 +1086,6 @@
     "date": "2026-11-18T11:55:49+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg",
     "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "be5237f47a067eed",
-    "source": "BleepingComputer",
-    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-    "description": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-    "date": "2026-11-18T11:50:25+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/18/Pirate-DizigoM.jpg",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -1051,7 +1194,7 @@
     "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content.",
     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
     "date": "2026-11-18T02:52:04+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Malware",
     "hot": false
   },
@@ -1108,17 +1251,6 @@
     "date": "2026-11-17T20:52:59+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/261117-111006-IL.jpg",
     "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "736dc8fe50ecb8f5",
-    "source": "Security Affairs",
-    "title": "Apple Services Disrupted as NSA Network Goes Down and Equinor Faces Cyberattack",
-    "description": "Apple and NSA services faced outages as Equinor reported a cyberattack, highlighting the risks facing increasingly connected infrastructure. Apple customers faced widespread service problems on November 17, with issues affecting iCloud, the App Store, Apple Music and AppleCare on Device. The disruption came after a week of technical failures involving major technology companies, banking services […]",
-    "link": "https://securityaffairs.com/203354/security/apple-outages-add-to-growing-concerns-over-technology-service-disruptions.html",
-    "date": "2026-11-17T20:52:24+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-45.png",
-    "category": "Hacking",
     "hot": false
   },
   {
@@ -1188,17 +1320,6 @@
     "hot": false
   },
   {
-    "id": "0ded32d2f5742663",
-    "source": "CyberScoop",
-    "title": "Pakistani hackers are spying on defense workers with fake job sites",
-    "description": "The perpetrators targeted job seekers in India, mostly, but some of the effort could be more broadly targeting defense contractors and military personnel. The post Pakistani hackers are spying on defense workers with fake job sites appeared first on CyberScoop .",
-    "link": "https://cyberscoop.com/pakistani-hackers-defense-workers-fake-job-sites/",
-    "date": "2026-11-17T14:00:00+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2303628905.jpg",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
     "id": "55fc7c8f66023e0e",
     "source": "Dark Reading",
     "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
@@ -1237,7 +1358,7 @@
     "title": "Formal Verification of the Signal Protocol Using AI",
     "description": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world’s communications on platforms like the Signal app, Google Messages, and WhatsApp. And it demonstrates Google DeepMind’s formal ver",
     "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-    "date": "2026-11-17T12:06:37+00:00",
+    "date": "2026-11-17T12:05:43+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1556,7 +1677,7 @@
     "title": "Usable Security at Luxury Hotels",
     "description": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why “just don’t click on links” is bad advice. It can’t work when answering strangers’ emails is the job. Even worse, in this case the guest-first culture punishes hesitation. More interesting, the case study shows that splitting security between owner, operator, and brand leaves nobody accountable. And this is exactly the setting where blaming staff becomes the convenient",
     "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-    "date": "2026-11-16T12:05:18+00:00",
+    "date": "2026-11-16T12:04:42+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1622,7 +1743,7 @@
     "title": "Upcoming Speaking Engagements",
     "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday, November 19, 2026. The list is maintained on this page .",
     "link": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
-    "date": "2026-11-14T17:02:46+00:00",
+    "date": "2026-11-14T17:02:39+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1666,7 +1787,7 @@
     "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
     "description": "Climate change is the issue . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-    "date": "2026-11-13T22:00:49+00:00",
+    "date": "2026-11-13T22:00:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1765,7 +1886,7 @@
     "title": "AI Doesn’t Have to Go Rogue to Break the World",
     "description": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind . Back then I said it was mostly still science fiction, but not stupid sci",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-    "date": "2026-11-13T12:03:44+00:00",
+    "date": "2026-11-13T12:03:30+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -1875,7 +1996,7 @@
     "title": "Another Way Police Are Locating People from Their Smartphones",
     "description": "Penlink’s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It’s sold to the police. The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and religious apps. It can build a detailed picture of where a smartphone has been over the past 12 months, and update the data hourly, showing the movements of people on a near real-time basis. Law enforcement officers can use Webloc to zero in on a map and look at all phones that were present at a specific place and time,",
     "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
-    "date": "2026-11-12T12:03:10+00:00",
+    "date": "2026-11-12T12:02:58+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2019,7 +2140,7 @@
     "description": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
     "date": "2026-11-11T18:06:01+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2029,7 +2150,7 @@
     "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
     "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. With the help of AI, the",
     "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-    "date": "2026-11-11T12:06:21+00:00",
+    "date": "2026-11-11T12:05:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -2052,7 +2173,7 @@
     "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -2128,7 +2249,7 @@
     "title": "New OpenSSH Vulnerability",
     "description": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “Oversized” means longer than 256 bytes. Details . Slashdot thread . And another news article .",
     "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-    "date": "2026-11-10T12:02:46+00:00",
+    "date": "2026-11-10T12:02:38+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -2249,7 +2370,7 @@
     "title": "AI Security",
     "description": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three.",
     "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
-    "date": "2026-11-09T12:06:34+00:00",
+    "date": "2026-11-09T12:05:39+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -2343,17 +2464,6 @@
     "hot": false
   },
   {
-    "id": "754ab25c96844065",
-    "source": "Dark Reading",
-    "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-    "description": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-    "date": "2026-11-06T09:00:00+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1a5d5b4d8cd4518/6aeca4d40d4c553177f0d3a4/UK_parliament-georgeclerk-Getty.jpg?width=720&quality=80&disable=upscale",
-    "category": "General Security",
-    "hot": true
-  },
-  {
     "id": "1e2af0f4c6596c32",
     "source": "WIRED Security",
     "title": "6 Best VPN Services (2026), Tested and Reviewed",
@@ -2393,7 +2503,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Hacking",
     "hot": false
   },
@@ -2448,7 +2558,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Malware",
     "hot": false
   },
@@ -2492,7 +2602,7 @@
     "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -2503,7 +2613,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2536,7 +2646,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Vulnerability",
     "hot": false
   },
@@ -2547,7 +2657,7 @@
     "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
