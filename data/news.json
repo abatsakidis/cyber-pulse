@@ -1,5 +1,93 @@
 [
   {
+    "id": "4356ad4bb7f96097",
+    "source": "Krebs on Security",
+    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+    "description": "The chief technology officer and co-founder of ransomwarehelp.com , a six year old Florida business that claimed to use “advanced cryptographic tools” to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed. A portion of the now-defunct website ransomwarehelp.com. The website RansomwareHelp urged victims “Do not pay the ransom!,” claiming its advanced cryptographic tools could restore 100 percent of data, servers, and",
+    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "date": "2026-11-21T00:36:39+00:00",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
+    "id": "819a99b3c2a80e97",
+    "source": "Security Affairs",
+    "title": "CVE-2026-23871: WhatsApp Bug Helped Scammers Make Messages Look Legitimate",
+    "description": "WhatsApp patched three security flaws, including one exploited in a real scam campaign to make fraudulent messages appear more credible. WhatsApp’s November security advisory fixes three flaws, including CVE-2026-23871, a vulnerability in Click to WhatsApp ads affecting WhatsApp and WhatsApp Business for Android versions earlier than 2.26.17.4. “Incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4 could have caused a target’s device to reveal its IP information to an attacker if an attacker sent media from an attacker-contro",
+    "link": "https://securityaffairs.com/203622/security/cve-2026-23871-whatsapp-bug-helped-scammers-make-messages-look-legitimate.html",
+    "date": "2026-11-20T22:21:12+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2014/07/whatsapp.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "ce5b85c46a7664bf",
+    "source": "Schneier on Security",
+    "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+    "description": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+    "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+    "date": "2026-11-20T22:04:30+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "c23dd9480faa5f36",
+    "source": "The Record",
+    "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+    "description": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+    "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+    "date": "2026-11-20T21:34:36+00:00",
+    "image": "http://cms.therecord.media/uploads/wva_state_capitol_blil_dickinson_flickr_a81eb98b4b.jpg",
+    "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "b27c7ac173228aa0",
+    "source": "Dark Reading",
+    "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+    "description": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+    "date": "2026-11-20T21:03:27+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "fc7f6c3bc54f4595",
+    "source": "The Record",
+    "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+    "description": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
+    "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+    "date": "2026-11-20T20:25:00+00:00",
+    "image": "http://cms.therecord.media/uploads/garbarino_20230423_515e2f0b4a.png",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "75c64f51bc86b20c",
+    "source": "CyberScoop",
+    "title": "Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app",
+    "description": "Signal will now block Apple and Google operating systems by default from taking screenshots of user messages in its encrypted messaging app that feed into the companies’ artificial intelligence capabilities, the appmaker’s leadership said Friday. Signal already had taken similar steps with Microsoft 11 last year to stop Microsoft Recall from capturing and storing messages. It will extend those limitations to Siri AI’s Onscreen Awareness and Gemini Intelligence. Signal will “restrict agentic systems built into iOS 27 and on Android versions where we can detect an AI assistant attempting to read",
+    "link": "https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
+    "date": "2026-11-20T19:54:25+00:00",
+    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2303306988.jpg",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "f4a0c31ad340dcdf",
+    "source": "The Record",
+    "title": "Container Store restores systems after cyberattack",
+    "description": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
+    "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+    "date": "2026-11-20T19:32:00+00:00",
+    "image": "http://cms.therecord.media/uploads/the_container_store_78204f1ab6.jpg",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
     "id": "0f3db9d136c7578f",
     "source": "BleepingComputer",
     "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
@@ -55,14 +143,25 @@
     "hot": true
   },
   {
+    "id": "c00f6059657f6768",
+    "source": "Dark Reading",
+    "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+    "description": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+    "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+    "date": "2026-11-20T17:04:04+00:00",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafa9df51f75884e4/6b007fead61f59302a23c588/nvidia-Benjamin_Fanjoy_-Getty-2304259055.jpg?width=720&quality=80&disable=upscale",
+    "category": "General Security",
+    "hot": false
+  },
+  {
     "id": "9ea8483fdb752414",
     "source": "Cyber Security News",
     "title": "Microsoft Investigates Attachment Upload Failures in New Outlook",
-    "description": "Microsoft is investigating reports that some Microsoft 365 users cannot upload email attachments in New Outlook. In a November 20 service update, the company said attachment uploads still work in Outlook on the web and classic Outlook. Microsoft is tracking the issue in the Microsoft 365 admin center under EX1561765. New Outlook Attachment Issue The […] The post Microsoft Investigates Attachment Upload Failures in New Outlook appeared first on Cyber Security News .",
+    "description": "Microsoft is investigating reports that some Microsoft 365 users cannot upload email attachments in New Outlook. In a November 20 service update, the company said attachment uploads still work in Outlook on the web and classic Outlook. Microsoft is tracking the issue in the Microsoft 365 admin center under EX1561765. We're investigating reports of issues uploading attachments in New Outlook. Uploading attachments in Outlook on the web and Outlook classic are unaffected. For more information, see EX1561765 in the Microsoft 365 admin center. — Microsoft 365 Status (@MSFT365Status) November 20, 2",
     "link": "https://cybersecuritynews.com/microsoft-attachment-upload-failures/",
     "date": "2026-11-20T17:01:31+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Microsoft-Investigates-Attachment-Upload-Failures.webp",
-    "category": "General Security",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -80,11 +179,11 @@
     "id": "de2063b23db08aec",
     "source": "Cyber Security News",
     "title": "Over 100 Debian Packages Still Contain Distrusted CA Certificates Despite Security Updates",
-    "description": "A scan of a Debian package mirror found that more than 100 packages still contained copies of distrusted certificate authority (CA) certificates after Debian removed them from its system trust store. Debian developer Steve McIntyre posted the scan results to the Debian developer mailing list on November 19. The findings show why updating the operating […] The post Over 100 Debian Packages Still Contain Distrusted CA Certificates Despite Security Updates appeared first on Cyber Security News .",
+    "description": "A scan of a Debian package mirror found that more than 100 packages still contained copies of distrusted certificate authority (CA) certificates after Debian removed them from its system trust store. Debian developer Steve McIntyre posted the scan results to the Debian developer mailing list on November 19. The findings show why updating the operating system’s trust store does not necessarily change which certificates an application accepts. On October 20, Debian removed the emSign ECC Root CA – G3 and Comodo AAA Services root certificates after several eMudhra intermediate CA certificates wer",
     "link": "https://cybersecuritynews.com/debian-packages-ca-certificates/",
     "date": "2026-11-20T16:39:48+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Debian-Packages-CA-Certificates.webp",
-    "category": "General Security",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -135,7 +234,7 @@
     "id": "add63dae52861fb1",
     "source": "Security Affairs",
     "title": "JPMorgan, Visa and Mastercard Report Third-Party Data Breaches After N0n Claims",
-    "description": "JPMorgan, Visa and Mastercard disclose third-party data breaches after the N0n extortion group claims to have stolen customer information. The disclosures involving JPMorgan Chase, Visa and Mastercard highlight a familiar but often underestimated security problem: the risks introduced by third-party service providers. All three companies have confirmed incidents involving external vendors after the N0n extortion […]",
+    "description": "JPMorgan, Visa and Mastercard disclose third-party data breaches after the N0n extortion group claims to have stolen customer information. The disclosures involving JPMorgan Chase, Visa and Mastercard highlight a familiar but often underestimated security problem: the risks introduced by third-party service providers. All three companies have confirmed incidents involving external vendors after the N0n extortion group claimed it had stolen customer information and published data allegedly taken from their systems. The important distinction is that the companies haven’t reported breaches of the",
     "link": "https://securityaffairs.com/203614/data-breach/jpmorgan-visa-and-mastercard-report-third-party-data-breaches-after-n0n-claims.html",
     "date": "2026-11-20T14:56:32+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2012/04/Mastercard_Visa.jpg",
@@ -154,36 +253,14 @@
     "hot": false
   },
   {
-    "id": "bcecf3ccd10e012b",
-    "source": "The Record",
-    "title": "Cyber Director Cairncross out as White House resets cyber leadership",
-    "description": "Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.",
-    "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
-    "date": "2026-11-20T14:30:00+00:00",
-    "image": "http://cms.therecord.media/uploads/cairncross_billington_2025_d9233ef5de.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "4c524e173d80cb2c",
     "source": "Cyber Security News",
     "title": "Critical Apache Tomcat Flaw Lets Remote Attackers Join Trusted Server Clusters Without Authentication",
-    "description": "The Apache Software Foundation has disclosed a critical flaw in Apache Tomcat that allows a remote attacker to join a trusted server cluster without authentication. Tracked as CVE-2026-133325, the flaw affects clusters that use TLS 1.3 with a pre-shared key. Apache published the advisory on November 19, 2026, and credited researcher Mike Read with finding […] The post Critical Apache Tomcat Flaw Lets Remote Attackers Join Trusted Server Clusters Without Authentication appeared first on Cyber Security News .",
+    "description": "The Apache Software Foundation has disclosed a critical flaw in Apache Tomcat that allows a remote attacker to join a trusted server cluster without authentication. Tracked as CVE-2026-133325, the flaw affects clusters that use TLS 1.3 with a pre-shared key. Apache published the advisory on November 19, 2026, and credited researcher Mike Read with finding the issue. The Apache Tomcat 11 security advisory identifies versions 11.0.28 and 11.0.29 as affected. Apache also lists Tomcat 10.1.62 and 9.0.124. Running one of those versions does not by itself mean a server is exposed. The flaw requires ",
     "link": "https://cybersecuritynews.com/critical-apache-tomcat-flaw/",
     "date": "2026-11-20T14:29:21+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Apache-Tomcat-Cluster-Authentication-Bypass.webp",
     "category": "Vulnerability",
-    "hot": true
-  },
-  {
-    "id": "8ce3998bc8f7095c",
-    "source": "The Record",
-    "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
-    "description": "Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.",
-    "link": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
-    "date": "2026-11-20T14:24:00+00:00",
-    "image": "http://cms.therecord.media/uploads/bank_safe_33ac6c970a.jpg",
-    "category": "General Security",
     "hot": true
   },
   {
@@ -201,7 +278,7 @@
     "id": "2a74fbd1d66bb1f5",
     "source": "Cyber Security News",
     "title": "Hackers Use 355 Domains to Spread Fake GTA 6 PC Launchers Delivering Malware",
-    "description": "A malware campaign called CyberLeek is using more than 355 domains and subdomains to promote fake Grand Theft Auto VI PC launchers. The sites offer what they claim is a leaked or early Windows release of GTA 6. Instead of a playable game, the download delivers a ZIP archive containing a malicious program disguised as […] The post Hackers Use 355 Domains to Spread Fake GTA 6 PC Launchers Delivering Malware appeared first on Cyber Security News .",
+    "description": "A malware campaign called CyberLeek is using more than 355 domains and subdomains to promote fake Grand Theft Auto VI PC launchers. The sites offer what they claim is a leaked or early Windows release of GTA 6. Instead of a playable game, the download delivers a ZIP archive containing a malicious program disguised as an installer. The campaign takes advantage of a familiar search: players looking for a GTA 6 PC release before they can get one through an official store. Earlier reporting on fake GTA 6 downloads documented a separate operation that bundled password stealers, remote-access malwar",
     "link": "https://cybersecuritynews.com/fake-gta-6-pc-launchers/",
     "date": "2026-11-20T13:02:57+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-355-Domains-to-Spread-Fake-GTA-6-PC-Launchers-Delivering-Malware.webp",
@@ -212,7 +289,7 @@
     "id": "df480f70bf02d149",
     "source": "Security Affairs",
     "title": "Hackers Exploit Cisco Expressway Flaw CVE-2026-76466 to Breach Russian Organization",
-    "description": "Cisco Expressway flaw CVE-2026-76466 is being exploited to gain root access and move from exposed devices into internal networks. Attackers have exploited a critical flaw, tracked as CVE-2026-76466 (CVSS score of 9.8) in Cisco Expressway to breach a Russian organization, and they moved fast once a working exploit went public. “A vulnerability in the database […]",
+    "description": "Cisco Expressway flaw CVE-2026-76466 is being exploited to gain root access and move from exposed devices into internal networks. Attackers have exploited a critical flaw, tracked as CVE-2026-76466 (CVSS score of 9.8) in Cisco Expressway to breach a Russian organization, and they moved fast once a working exploit went public. “A vulnerability in the database service feature of Cisco Expressway Series could allow an unauthenticated, remote attacker with network access to a Cisco Expressway device to execute arbitrary operating system commands as root.” reads the advisory . An unauthenticated re",
     "link": "https://securityaffairs.com/203598/hacking/hackers-exploit-cisco-expressway-flaw-cve-2026-76466-to-breach-russian-organization.html",
     "date": "2026-11-20T12:52:40+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
@@ -223,12 +300,12 @@
     "id": "169e1c2594e95790",
     "source": "Cyber Security News",
     "title": "Hackers Turn Legitimate VPN Software Into a Stealthy Tool for Spying on Government Networks",
-    "description": "Hackers have rebuilt the open-source SoftEther VPN Bridge to keep a quiet route into compromised networks. The modified Windows program, branded internally as NtMonitor VPN, can link an external network to a victim’s local network while leaving fewer of the traces defenders expect from a standard SoftEther installation. Researchers link the tool to Webworm, a […] The post Hackers Turn Legitimate VPN Software Into a Stealthy Tool for Spying on Government Networks appeared first on Cyber Security News .",
+    "description": "Hackers have rebuilt the open-source SoftEther VPN Bridge to keep a quiet route into compromised networks. The modified Windows program, branded internally as NtMonitor VPN, can link an external network to a victim’s local network while leaving fewer of the traces defenders expect from a standard SoftEther installation. Researchers link the tool to Webworm, a China-aligned espionage group with a history of targeting government organizations, particularly in Europe. The distinction is that the bridge helps operators stay connected after a breach; the report does not show how they broke in. Nor ",
     "link": "https://cybersecuritynews.com/legitimate-vpn-software/",
     "date": "2026-11-20T12:40:26+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Turn-Legitimate-VPN-Software-Into-a-Stealthy-Tool-for-Spying-on-Government-Networks.webp",
-    "category": "Hacking",
-    "hot": false
+    "category": "Malware",
+    "hot": true
   },
   {
     "id": "4707dbfa59e1081d",
@@ -245,11 +322,11 @@
     "id": "b3b72f5c336bb1d5",
     "source": "Cyber Security News",
     "title": "OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function",
-    "description": "A heap buffer overflow in OpenSSL’s Base64 encoding function can corrupt application memory when the library processes very large inputs. The flaw, tracked as CVE-2026-121481, was published on November 18, 2026, with a critical CVSS 3.1 score of 9.8. That score describes the potential severity, but it does not mean every service that uses OpenSSL […] The post OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function appeared first on Cyber Security News .",
+    "description": "A heap buffer overflow in OpenSSL’s Base64 encoding function can corrupt application memory when the library processes very large inputs. The flaw, tracked as CVE-2026-121481, was published on November 18, 2026, with a critical CVSS 3.1 score of 9.8. That score describes the potential severity, but it does not mean every service that uses OpenSSL is remotely exposed. The flaw affects EVP_EncodeBlock() , which converts binary data into printable text. Base64 produces four output bytes for every three input bytes, with padding for a partial group. The application supplies the buffer that holds t",
     "link": "https://cybersecuritynews.com/openssl-heap-buffer-overflow/",
     "date": "2026-11-20T12:34:30+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/OpenSSL-Hit-by-Critical-9.8-Heap-Buffer-Overflow.webp",
-    "category": "Vulnerability",
+    "category": "AI Security",
     "hot": true
   },
   {
@@ -289,7 +366,7 @@
     "id": "6a648f007813ee29",
     "source": "Cyber Security News",
     "title": "BYOD Ransomware Hackers Play Audio Ransom Messages on Computers Across Hospitals and Universities",
-    "description": "Staff at the University of New Mexico Health Sciences Center reported hearing ransom messages from their computers during an October 26 cyberattack. Two weeks later, a recording from Vanderbilt University captured a voice announcing, “You have been compromised by BYOD.” The messages took the ransom demand out of a private note and made the incident […] The post BYOD Ransomware Hackers Play Audio Ransom Messages on Computers Across Hospitals and Universities appeared first on Cyber Security News .",
+    "description": "Staff at the University of New Mexico Health Sciences Center reported hearing ransom messages from their computers during an October 26 cyberattack. Two weeks later, a recording from Vanderbilt University captured a voice announcing, “You have been compromised by BYOD.” The messages took the ransom demand out of a private note and made the incident visible to people far beyond the IT team. The disruptions were real, even where the hackers’ claims remain unverified. New Mexico’s only Level 1 trauma center diverted ambulances for two hours, and more than 30 clinics canceled appointments and outp",
     "link": "https://cybersecuritynews.com/byod-ransomware/",
     "date": "2026-11-20T12:06:00+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/BYOD-Ransomware-Hackers-Play-Audio-Ransom-Messages-on-Computers-Across-Hospitals-and-Universities.webp",
@@ -344,7 +421,7 @@
     "id": "783334e35da54f7a",
     "source": "Cyber Security News",
     "title": "Hackers Use AI-Powered ARTEX Framework to Automate Cyberattacks Without Relying on Zero-Day Exploits",
-    "description": "Attackers are using an AI-driven testing tool called ARTEX to break into company networks. It needs no secret software flaws to do this. Instead, it hunts for ordinary mistakes such as exposed apps, weak passwords and loose permissions, and it keeps working at them far longer than a human would. ARTEX is an open-source framework […] The post Hackers Use AI-Powered ARTEX Framework to Automate Cyberattacks Without Relying on Zero-Day Exploits appeared first on Cyber Security News .",
+    "description": "Attackers are using an AI-driven testing tool called ARTEX to break into company networks. It needs no secret software flaws to do this. Instead, it hunts for ordinary mistakes such as exposed apps, weak passwords and loose permissions, and it keeps working at them far longer than a human would. ARTEX is an open-source framework that connects a large language model (LLM) to a set of hacking tools. It was built for authorized security testing, but criminals and state-linked groups now use it. The FBI warned that hackers have used it since at least August 2026 and, in some cases, reached privile",
     "link": "https://cybersecuritynews.com/hackers-use-ai-powered-artex-framework/",
     "date": "2026-11-20T11:27:05+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-AI-Powered-ARTEX-Framework-to-Automate-Cyberattacks-Without-Relying-on-Zero-Day-Exploits.webp",
@@ -355,11 +432,11 @@
     "id": "243ede231e9bd028",
     "source": "Security Affairs",
     "title": "Trump’s First Move After the Outages: Fire the Cyber Director",
-    "description": "Trump fired his national cyber director days after outages hit Microsoft, US flights, and the NSA’s classified network. No link to a cyberattack confirmed. The White House fired national cyber director Sean Cairncross, a person close to the administration told Reuters. It’s the first major personnel move since a string of tech failures hit the […]",
+    "description": "Trump fired his national cyber director days after outages hit Microsoft, US flights, and the NSA’s classified network. No link to a cyberattack confirmed. The White House fired national cyber director Sean Cairncross, a person close to the administration told Reuters. It’s the first major personnel move since a string of tech failures hit the country over the past week. Department of Defense Chief Information Officer Kirsten Davies will take the role temporarily. The week brought several major disruptions. A global Microsoft outage affected Outlook and Microsoft 365, disrupting services for h",
     "link": "https://securityaffairs.com/203581/intelligence/trumps-first-move-after-the-outages-fire-the-cyber-director.html",
     "date": "2026-11-20T11:23:45+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-35-1024x683.png",
-    "category": "Hacking",
+    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -421,7 +498,7 @@
     "id": "486621237e99f10c",
     "source": "Cyber Security News",
     "title": "Signal Restricts Screenshots to protect User Privacy from AI assistants",
-    "description": "Signal is restricting screenshots on iOS 27 and some Android devices to stop built-in AI assistants from reading private chats through screen capture. The encrypted messaging app is targeting Apple’s Siri AI and assistants such as Google Gemini. On Android, the block turns on when Signal detects an assistant trying to read the screen. The […] The post Signal Restricts Screenshots to protect User Privacy from AI assistants appeared first on Cyber Security News .",
+    "description": "Signal is restricting screenshots on iOS 27 and some Android devices to stop built-in AI assistants from reading private chats through screen capture. The encrypted messaging app is targeting Apple’s Siri AI and assistants such as Google Gemini. On Android, the block turns on when Signal detects an assistant trying to read the screen. The change addresses what happens after a message arrives. End-to-end encryption protects messages as they travel between devices, but Signal must show readable text when someone opens a chat. An assistant that can read the screen does not have to break that encr",
     "link": "https://cybersecuritynews.com/signal-restricts-screenshots/",
     "date": "2026-11-20T10:24:41+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Signal-Restricts-Screenshots.webp",
@@ -443,7 +520,7 @@
     "id": "daf549655e85295b",
     "source": "Cyber Security News",
     "title": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector",
-    "description": "Palo Alto Networks has confirmed that a critical Java vulnerability affects Idira Privilege Threat Analytics, Remote Access Connector, and on-premises HTML5 Gateway products. Tracked as CVE-2026-114938, the flaw could let a remote attacker run code without signing in when specific hardware and software conditions are met. The company’s security advisory, published November 20, assigns the […] The post Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector appeared first on Cyber Security News .",
+    "description": "Palo Alto Networks has confirmed that a critical Java vulnerability affects Idira Privilege Threat Analytics, Remote Access Connector, and on-premises HTML5 Gateway products. Tracked as CVE-2026-114938 , the flaw could let a remote attacker run code without signing in when specific hardware and software conditions are met. The company’s security advisory, published November 20, assigns the issue a CVSS score of 9.2 and moderate response urgency. Palo Alto Networks says it is not aware of malicious exploitation and continues to review its wider product range and cloud services. The flaw sits in",
     "link": "https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/",
     "date": "2026-11-20T10:00:36+00:00",
     "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Palo-Alto-Confirms-Java-Vulnerability-Impacts-Privilege-Threat-Analytics-and-Remote-Access-Connector.webp",
@@ -487,12 +564,12 @@
     "id": "a4a6e85e91561e32",
     "source": "Security Affairs",
     "title": "Hunt.io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts",
-    "description": "Hunt.io uncovered a credential-stealing operation that compromised 603 PCs and exposed bank, government and password manager accounts. Hunt.io found an exposed open directory sitting on a Netherlands VPS, and inside it was the live loot store of a credential-theft operation. The report describes decrypted password-manager vaults, cleartext bank logins, and accounts behind the federal identity […]",
+    "description": "Hunt.io uncovered a credential-stealing operation that compromised 603 PCs and exposed bank, government and password manager accounts. Hunt.io found an exposed open directory sitting on a Netherlands VPS, and inside it was the live loot store of a credential-theft operation. The report describes decrypted password-manager vaults, cleartext bank logins, and accounts behind the federal identity gateways ID.me and Login.gov. No bank or agency was breached directly; this all happened on the victims’ own Windows PCs. The attackers used three custom-built tools to manage the operation. HavoX handled",
     "link": "https://securityaffairs.com/203554/cyber-crime/hunt-io-uncovers-russian-speaking-credential-theft-operation-targeting-us-banks-and-government-accounts.html",
     "date": "2026-11-20T09:03:11+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-54-1024x616.png",
-    "category": "Hacking",
-    "hot": false
+    "category": "Malware",
+    "hot": true
   },
   {
     "id": "55c288d64b0754a0",
@@ -586,7 +663,7 @@
     "id": "2701e9c61d181eae",
     "source": "CyberScoop",
     "title": "Sean Cairncross out as national cyber director",
-    "description": "During his tenure, he was involved in key administration decisions on AI security and the protection of critical infrastructure. The post Sean Cairncross out as national cyber director appeared first on CyberScoop .",
+    "description": "Sean Cairncross is leaving his post as national cyber director, CyberScoop has learned. Cairncross led the Office of the National Cyber Director, which coordinates cybersecurity policy and strategy across the federal government. Though he had experience in Republican politics and national security, he lacked a technical or cyber background. His office nevertheless became involved in key administration decisions on AI security and the protection of critical infrastructure. A source close to the White House told CyberScoop that President Donald Trump fully supported firing Cairncross from his po",
     "link": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director/",
     "date": "2026-11-20T01:07:07+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2304987382-1.jpg",
@@ -641,23 +718,12 @@
     "id": "70764be635cee69d",
     "source": "Security Affairs",
     "title": "Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability",
-    "description": "The researcher Chaotic Eclipse released FastUnlock, a new Windows zero-day vulnerability exploiting Narrator to bypass the lock screen. Security researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new Windows zero-day vulnerability, dubbed FastUnlock, exploiting Narrator to bypass the lock screen. According to the researcher, exploiting it can bypass BitLocker encryption and […]",
+    "description": "The researcher Chaotic Eclipse released FastUnlock, a new Windows zero-day vulnerability exploiting Narrator to bypass the lock screen. Security researcher Chaotic Eclipse , also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new Windows zero-day vulnerability, dubbed FastUnlock, exploiting Narrator to bypass the lock screen. According to the researcher, exploiting it can bypass BitLocker encryption and allow code execution under the lock screen’s WsiAccount. He claims he breached a fully encrypted Windows 11 26H2 system in just five minutes, even with the November ",
     "link": "https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html",
     "date": "2026-11-19T21:43:09+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-50-1024x640.png",
-    "category": "Vulnerability",
+    "category": "Malware",
     "hot": true
-  },
-  {
-    "id": "eaba1875d3b9417b",
-    "source": "The Record",
-    "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
-    "description": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.",
-    "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
-    "date": "2026-11-19T21:19:00+00:00",
-    "image": "http://cms.therecord.media/uploads/Congress_6ac7a14ca7.jpg",
-    "category": "AI Security",
-    "hot": false
   },
   {
     "id": "53c65e3f9627130c",
@@ -666,7 +732,7 @@
     "description": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
     "date": "2026-11-19T21:15:59+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/26/Asus.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -743,7 +809,7 @@
     "description": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
     "date": "2026-11-19T18:20:01+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/transportforlondon.jpg",
+    "image": "",
     "category": "Privacy",
     "hot": true
   },
@@ -751,23 +817,23 @@
     "id": "c334c7a4d92544b0",
     "source": "Security Affairs",
     "title": "U.S. CISA adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM flaws to its Known Exploited Vulnerabilities catalog",
-    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Check Point and UnrealIRCd vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: Below are the flaws added to the catalog: The first vulnerability, CVE-2024-10441 (CVSS score […]",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Check Point and UnrealIRCd vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : Below are the flaws added to the catalog: CVE-2024-10441 (CVSS score of 9.8) Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 (CVSS score of 8.8) BerriAI LiteLLM Unprotected Alternate Channel",
     "link": "https://securityaffairs.com/203504/hacking/u-s-cisa-adds-apache-axis-vanderbilt-redcapberriai-litellm-and-synology-dsm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
     "date": "2026-11-19T17:14:39+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-    "category": "Vulnerability",
-    "hot": false
+    "category": "Ransomware",
+    "hot": true
   },
   {
     "id": "6fc686e0df73d31a",
     "source": "CyberScoop",
     "title": "Dems call CISA nominee ‘disqualified’ after nomination hearing",
-    "description": "Michael LoSapio, the Palantir executive and Trump administration nominee for CISA, sparred with Democrats on the committee over who won the 2020 election, Jan. 6 and more. The post Dems call CISA nominee ‘disqualified’ after nomination hearing appeared first on CyberScoop .",
+    "description": "Michael LoSapio, the Palantir executive and Trump administration nominee for Director of the Cybersecurity and Infrastructure Security Agency, struck a combative tone with Democrats on the Homeland Security and Government Affairs Committee and took sides in several partisan disputes that are likely to complicate his path to confirmation. LoSapio’s hearing lasted less than an hour, far less time than Congress has spent scrutinizing previous CISA nominees, as he was considered alongside a large tranche of other Trump administration nominees that Republicans are attempting to move through Congres",
     "link": "https://cyberscoop.com/michael-losapio-cisa-confirmation-hearing/",
     "date": "2026-11-19T17:11:34+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/michael-losapio.jpeg",
-    "category": "General Security",
-    "hot": false
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "4b18140a7298c328",
@@ -798,7 +864,7 @@
     "description": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
     "date": "2026-11-19T16:28:23+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/php-logo-cyber.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -850,12 +916,12 @@
     "id": "25ae9e12adab6baf",
     "source": "Security Affairs",
     "title": "European Commission Cyberattack: ARTEX AI Tool Suspected in Prolonged Disruption",
-    "description": "A cyberattack disrupted EU Commission services for over ten days. ARTEX is suspected, while investigators assess whether staff data was stolen. A cyberattack has disrupted internal European Commission systems for more than ten days, hitting payroll, leave requests and medical reimbursements. Politico’s Brussels Playbook reports the Corporate Management Board, the Commission’s top internal crisis body, […]",
+    "description": "A cyberattack disrupted EU Commission services for over ten days. ARTEX is suspected, while investigators assess whether staff data was stolen. A cyberattack has disrupted internal European Commission systems for more than ten days, hitting payroll, leave requests and medical reimbursements. Politico’s Brussels Playbook reports the Corporate Management Board, the Commission’s top internal crisis body, met urgently over the incident, and tech commissioner Henna Virkkunen briefed the full College of Commissioners on 18 November. An EU official told Politico the Commission believes it has contain",
     "link": "https://securityaffairs.com/203483/hacking/european-commission-cyberattack-artex-ai-tool-suspected-in-prolonged-disruption.html",
     "date": "2026-11-19T15:06:40+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2016/11/european-commission-building-flags.jpg",
     "category": "AI Security",
-    "hot": false
+    "hot": true
   },
   {
     "id": "6237c74af8b6795f",
@@ -949,7 +1015,7 @@
     "id": "d6741787557366fb",
     "source": "Security Affairs",
     "title": "PHP Warns of Critical Flaws Ahead of November Security Release",
-    "description": "PHP will patch critical security flaws across supported versions, including a session handling bug that could allow remote code execution. The PHP development team announced a new security release scheduled for November 19, warning that the updates will address vulnerabilities across all supported versions of the widely used server-side programming language. The highest severity rating […]",
+    "description": "PHP will patch critical security flaws across supported versions, including a session handling bug that could allow remote code execution. The PHP development team announced a new security release scheduled for November 19, warning that the updates will address vulnerabilities across all supported versions of the widely used server-side programming language. The highest severity rating is CRITICAL, although the project says the affected issues require unusual configurations or non-default setups. “The PHP security team announces upcoming security releases scheduled for Thursday, 19 November 20",
     "link": "https://securityaffairs.com/203472/security/php-warns-of-critical-flaws-ahead-of-november-security-release.html",
     "date": "2026-11-19T10:22:51+00:00",
     "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
@@ -971,11 +1037,11 @@
     "id": "74c5dd1096144161",
     "source": "Security Affairs",
     "title": "nginx2root:AI Discovers Five Critical nginx Flaws and a Path to Root",
-    "description": "nginx2root exposes five critical nginx flaws and a Linux kernel bug that can lead to remote code execution and root access. Xint Research has disclosed nginx2root, five distinct nginx vulnerabilities plus one Linux kernel bug, each with a proven exploit. The worst of the five, now tracked as CVE-2026-123007, lets an unauthenticated attacker run code […]",
+    "description": "nginx2root exposes five critical nginx flaws and a Linux kernel bug that can lead to remote code execution and root access. Xint Research has disclosed nginx2root , five distinct nginx vulnerabilities plus one Linux kernel bug, each with a proven exploit. The worst of the five, now tracked as CVE-2026-123007, lets an unauthenticated attacker run code remotely, and chaining it with the kernel bug reaches root on the host. “This issue affects NGINX Plus or NGINX Open Source configurations that use HTTP/2. When NGINX processes undisclosed traffic, the flow control window can exceed the allowed th",
     "link": "https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html",
     "date": "2026-11-19T09:21:19+00:00",
     "image": "https://nginx2root.com/assets/media/AWS.11a5f4a1.mp4",
-    "category": "Vulnerability",
+    "category": "AI Security",
     "hot": true
   },
   {
@@ -1059,7 +1125,7 @@
     "id": "53110f49847c6dfa",
     "source": "CyberScoop",
     "title": "Consensus mounts that tech outages were fueled by patching of AI-discovered vulnerabilities",
-    "description": "But cyberattacks aren’t directly to blame, Trump administration officials said. The post Consensus mounts that tech outages were fueled by patching of AI-discovered vulnerabilities appeared first on CyberScoop .",
+    "description": "Cyberattacks almost certainly aren’t responsible for the procession of major tech outages over the past week, Trump administration officials say — but there’s a growing sense that patching fueled by a race to close vulnerabilities uncovered by artificial intelligence was a contributing factor. The top Democrats on the House and Senate intelligence committees are among those observing that the rise in vulnerability discoveries resulting from AI are at least partially to blame for tech service interruptions like those ranging from the aviation ground stop to incidents with major communications a",
     "link": "https://cyberscoop.com/tech-outages-ai-vulnerability-patching/",
     "date": "2026-11-18T20:56:55+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2305208439.jpg",
@@ -1089,25 +1155,14 @@
     "hot": true
   },
   {
-    "id": "72c13ea8f4ecce0a",
-    "source": "Security Affairs",
-    "title": "Apache Roller RCE Flaw CVE-2026-129448 Under Active Attack",
-    "description": "Attackers are exploiting a critical Apache Roller flaw that allows unauthenticated remote code execution, prompting urgent security updates. A critical vulnerability, tracked as CVE-2026-129448 (CVSS score of 9.8), in Apache Roller could allow an unauthenticated attacker to execute arbitrary code on a vulnerable server. Apache Roller is an open-source blogging platform written in Java. According […]",
-    "link": "https://securityaffairs.com/203419/security/apache-roller-rce-flaw-cve-2026-129448-under-active-attack.html",
-    "date": "2026-11-18T20:11:35+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-48.png",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "b5c7b71acf0c8958",
     "source": "CyberScoop",
     "title": "Senate Republicans advance FCC nominee, slate of cyber bills",
-    "description": "Confirmation would give Republicans a 3-1 majority on the FCC. Meanwhile, the fates of multiple bipartisan cyber bills are in limbo after Democrats no-showed the markup hearing. The post Senate Republicans advance FCC nominee, slate of cyber bills appeared first on CyberScoop .",
+    "description": "Republicans in the Senate Commerce Committee advanced the nomination of Danielle Thumann Severs to serve as a commissioner at the Federal Communications Commission. Alongside Severs’ nomination, the GOP majority also voted favorably on a slew of tech and cybersecurity bills. But Democrats – who will wield the majority gavel in January – boycotted the hearing, throwing the fate of the bills into question, even as many had bipartisan sponsorship. If confirmed, Thumann Severs would give Republicans and chair Brendan Carr a 3-1 majority on the commission, with Biden administration holdover Anna Go",
     "link": "https://cyberscoop.com/danielle-thumann-severs-fcc-nomination-tech-bills/",
     "date": "2026-11-18T19:16:11+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2262378673-1.jpg",
-    "category": "General Security",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -1125,12 +1180,12 @@
     "id": "d2aa121917e32696",
     "source": "CyberScoop",
     "title": "It’s NGINX’s turn to cause vulnpocalypse headaches",
-    "description": "Researchers just dropped five NGINX exploits, including one that chains an HTTP/2 bug with a kernel flaw to seize the machine behind the web server. The post It’s NGINX’s turn to cause vulnpocalypse headaches appeared first on CyberScoop .",
+    "description": "Security researchers disclosed five vulnerabilities Tuesday in NGINX, the web server software that handles traffic for roughly a third of all websites, each with a working exploit. The most severe allows an unauthenticated attacker to run code on the server from anywhere on the internet, and in tests the researchers chained it with a separate Linux kernel flaw to take over the machine hosting the server entirely. F5, the company behind NGINX, released fixes Tuesday and published an advisory classifying the worst of the flaws, an integer underflow tracked as CVE-2026-123007, as critical, scorin",
     "link": "https://cyberscoop.com/nginx-critical-vulnerabilities-exploits/",
     "date": "2026-11-18T18:54:12+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2301560875-1.jpg",
     "category": "Vulnerability",
-    "hot": false
+    "hot": true
   },
   {
     "id": "7e5d027936a32e3a",
@@ -1268,12 +1323,12 @@
     "id": "03bb756417fbe7aa",
     "source": "CyberScoop",
     "title": "Government tech debt is a national security risk",
-    "description": "With 80% of federal IT budgets spent maintaining aging legacy systems, fragmented government networks are struggling to defend against AI-accelerated cyberattacks from foreign adversaries. The post Government tech debt is a national security risk appeared first on CyberScoop .",
+    "description": "In August, the Federal Bureau of Investigation announced that it detected and disrupted another Chinese state-sponsored cyberattack targeting U.S. critical infrastructure — the latest in a series that includes the 2025 PlugX malware incident, the 2024 Flax Typhoon hack and the 2023 Volt Typhoon operation. The severity and frequency of these attacks should raise alarms because they show a pattern of America’s adversaries looking for any possible weakness in our sensitive systems to exploit, and in many cases cooperating together to do so. These attacks are often aimed at the federal government’",
     "link": "https://cyberscoop.com/government-tech-debt-national-security-risk-op-ed/",
     "date": "2026-11-18T11:00:00+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-1727503952.jpg",
     "category": "AI Security",
-    "hot": false
+    "hot": true
   },
   {
     "id": "6d12bc024138bcd1",
@@ -1323,12 +1378,12 @@
     "id": "f49ac45ba2347d2a",
     "source": "Krebs on Security",
     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-    "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content.",
+    "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely , a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC , CNN , Equifax , Ledger and Zoom , was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content. The Zoom.com homepage loading the malicious JavaScript file from Optimi",
     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
     "date": "2026-11-18T02:52:04+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Malware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "524b206b629001c3",
@@ -1345,7 +1400,7 @@
     "id": "9bd62351ff6ee899",
     "source": "CyberScoop",
     "title": "A vulnpocalypse bug worthy of attention: Researchers disclose critical flaw in Java with help of AI",
-    "description": "Oracle shipped a patch this week for the flaw, which a short string of letters can trigger to corrupt memory in Java and hand attackers control of the servers running it. The post A vulnpocalypse bug worthy of attention: Researchers disclose critical flaw in Java with help of AI appeared first on CyberScoop .",
+    "description": "Security researchers on Tuesday published details of a critical flaw in Java, one of the world’s most used programming languages, that could let an attacker take over servers without a password. The group behind the find, Calif Research, said AI coding tools did much of the work. Oracle Corp. shipped a fix the same day it released a November update covering 652 flaws across its product line. The flaw is tracked as CVE-2026-114938 and nicknamed Java4Shell . It is a memory-corruption bug: code that writes data where it does not belong, which can crash a program or, at worst, let an attacker run ",
     "link": "https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/",
     "date": "2026-11-17T22:24:39+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-162794971-1.jpg",
@@ -1356,7 +1411,7 @@
     "id": "7ad187918c39820d",
     "source": "CyberScoop",
     "title": "GSA says post-quantum work on PIV cards shows new encryption can work on old tech",
-    "description": "Agency leaders and federal contractors are mulling over how to best adapt the new protections to older, legacy technology and address gaps in visibility over federal encryption protocols. The post GSA says post-quantum work on PIV cards shows new encryption can work on old tech appeared first on CyberScoop .",
+    "description": "As federal agencies revise their strategies for implementing post-quantum encryption by President Donald Trump’s new 2030 deadline , agency leaders and federal contractors are mulling over how to adapt the new protections to older, legacy technology and address gaps in visibility over federal encryption protocols. Dan Pomeroy, deputy associate administrator at the Office of Technology Policy at the General Services Administration, said his agency focused first on the smart Personal Identity Verification (PIV) cards that grant employees access to GSA facilities, computers and the authority to s",
     "link": "https://cyberscoop.com/gsa-post-quantum-encryption-piv-cards/",
     "date": "2026-11-17T21:19:45+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/261117-133747-IL-6.jpg",
@@ -1378,23 +1433,12 @@
     "id": "80938e26902d815c",
     "source": "CyberScoop",
     "title": "How CISA is prioritizing companies for talks about security improvements",
-    "description": "CISA acting director Nick Andersen made his remarks after speaking at FedTalks, presented by FedScoop. The post How CISA is prioritizing companies for talks about security improvements appeared first on CyberScoop .",
+    "description": "The Cybersecurity and Infrastructure Security Agency has identified approximately 100 companies that own critical infrastructure for talks on hardening their systems because of how vital they are to the nation, CISA acting director Nick Andersen said Tuesday. That figure does not cover everyone CISA wants to speak with, because those companies have so many interdependencies with other firms, he said. And the conversations are going to vary wildly from company to company, he told CyberScoop. “For the initial workstream, we’re probably talking about around 100 companies,” Andersen said after spe",
     "link": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/",
     "date": "2026-11-17T20:52:59+00:00",
     "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/261117-111006-IL.jpg",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "c45affd29ed3e7f0",
-    "source": "CyberScoop",
-    "title": "Cyberattack or no, parade of tech outages highlight need for resilient systems, CISA acting director says",
-    "description": "Nick Andersen said the AI-fueled “vulnpocalypse” might have overshadowed the need to focus on withstanding all sorts of tech issues. The post Cyberattack or no, parade of tech outages highlight need for resilient systems, CISA acting director says appeared first on CyberScoop .",
-    "link": "https://cyberscoop.com/cisa-nick-andersen-cyber-resilience-outages/",
-    "date": "2026-11-17T19:58:05+00:00",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/261117-110910-IL.jpg",
-    "category": "Hacking",
-    "hot": false
+    "category": "Vulnerability",
+    "hot": true
   },
   {
     "id": "cf11ebc9207a163e",
@@ -2170,10 +2214,10 @@
     "id": "7b786637e9721c40",
     "source": "Krebs on Security",
     "title": "Who Runs the Ransomware Group Qilin?",
-    "description": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+    "description": "The cybercrime group Qilin has emerged as the world’s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia. Operating since September 2022, the Russia-based ransomware group Qilin is the currently the most industrious ransomware-as-a-service gang, according to a report (PDF) this month by the cybersecurity firm NCC Group",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
     "date": "2026-11-11T18:06:01+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2203,11 +2247,11 @@
     "id": "ceb4e568e77f3a77",
     "source": "Krebs on Security",
     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-    "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+    "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla . Image: Shutterstock.com. Diorama by @zepp1969. November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with li",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
-    "category": "Vulnerability",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "category": "AI Security",
     "hot": true
   },
   {
@@ -2274,17 +2318,6 @@
     "date": "2026-11-10T13:00:00+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50398014b3f8049d/6aee2b328988653fd1de4aef/Binary-PashaIgnatov-Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "777a4acc90ab4e1b",
-    "source": "Schneier on Security",
-    "title": "New OpenSSH Vulnerability",
-    "description": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “Oversized” means longer than 256 bytes. Details . Slashdot thread . And another news article .",
-    "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-    "date": "2026-11-10T12:02:46+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -2431,17 +2464,6 @@
     "hot": true
   },
   {
-    "id": "68f28326cb2aa94a",
-    "source": "Dark Reading",
-    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-    "description": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-    "date": "2026-11-06T21:27:36+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
     "id": "209c8dfc9030e4b9",
     "source": "WIRED Security",
     "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
@@ -2449,17 +2471,6 @@
     "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
     "date": "2026-11-06T18:43:43+00:00",
     "image": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "afe88660a6168878",
-    "source": "Dark Reading",
-    "title": "AI Gave Your Incident Archive a Second Job",
-    "description": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-    "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-    "date": "2026-11-06T18:27:30+00:00",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale",
     "category": "AI Security",
     "hot": false
   },
@@ -2511,11 +2522,11 @@
     "id": "7429da20a1be973e",
     "source": "Krebs on Security",
     "title": "Want to Rent an Internet Address at the White House?",
-    "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+    "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
-    "category": "Hacking",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "category": "AI Security",
     "hot": false
   },
   {
@@ -2555,12 +2566,12 @@
     "id": "b9ea4ff784bcccfc",
     "source": "Krebs on Security",
     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-    "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
+    "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet’s access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines. A report from the Google Threat Intelligence Group (GTIG) said Google has seve",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Malware",
-    "hot": false
+    "hot": true
   },
   {
     "id": "2c6b6a54c6855453",
@@ -2599,18 +2610,18 @@
     "id": "eec90e9acc6bcca5",
     "source": "Krebs on Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-    "description": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+    "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
-    "category": "Vulnerability",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "category": "AI Security",
     "hot": true
   },
   {
     "id": "bc9c2f95a9294fdd",
     "source": "Krebs on Security",
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-    "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
+    "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
     "image": "https://krebsonsecurity.com/b-spycloud/5.png",
@@ -2621,7 +2632,7 @@
     "id": "064694cebfd2555d",
     "source": "Krebs on Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-    "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+    "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
     "image": "https://krebsonsecurity.com/b-spycloud/1.png",
@@ -2643,22 +2654,11 @@
     "id": "c5a36601271c1897",
     "source": "Krebs on Security",
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
-    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+    "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
-    "id": "878d602d6c0b2414",
-    "source": "Krebs on Security",
-    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-    "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-    "date": "2026-10-10T00:17:42+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
-    "category": "Ransomware",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "category": "AI Security",
     "hot": true
   },
   {
