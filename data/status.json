@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:39:29.760870+00:00",
+  "updated": "2026-11-22T01:35:54.343832+00:00",
   "sources": [
     {
       "name": "The Hacker News",
@@ -46,9 +46,8 @@
     {
       "name": "Schneier on Security",
       "url": "https://www.schneier.com/feed/atom/",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 10
     },
     {
       "name": "WIRED Security",
@@ -110,13 +109,14 @@
   ],
   "image_fallback": {
     "enabled": true,
-    "articles_checked": 136,
-    "images_found": 135,
+    "articles_checked": 146,
+    "images_found": 142,
     "by_source": {
-      "Security Affairs": 10,
-      "BleepingComputer": 15,
       "SecurityWeek": 10,
+      "BleepingComputer": 12,
+      "Security Affairs": 10,
       "Krebs on Security": 10,
+      "Schneier on Security": 10,
       "CyberScoop": 10,
       "Help Net Security": 10,
       "CISA Advisories": 30,
