@@ -1,5 +1,60 @@
 [
   {
+    "id": "d5075efeb48c2883",
+    "source": "The Hacker News",
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "description": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+    "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "date": "2026-11-22T05:06:55+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "8dd6a78ff1f28e3f",
+    "source": "The Hacker News",
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "description": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+    "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "date": "2026-11-22T05:03:41+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
+    "id": "d8df3bbb3644fdcc",
+    "source": "Cyber Security News",
+    "title": "OpenRouter Users’ Private AI Chats Possibly Exposed Via Compromised Third-Party Providers",
+    "description": "OpenRouter has removed three AI hosting providers and revoked Zero Data Retention eligibility for 125 endpoints after researchers found evidence that some providers had been compromised or had failed to follow their data policies. In its November 22 incident notice , OpenRouter said it notified all potentially affected customers. The findings did not show a breach of OpenRouter itself, and the company did not say how many users or conversations may have been exposed. OpenRouter AI Chat Leaks OpenRouter gives customers a single API for accessing AI models hosted by different providers. But the ",
+    "link": "https://cybersecuritynews.com/openrouter-ai-chat-leaks/",
+    "date": "2026-11-22T03:58:45+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/OpenRouter-AI-Chat-Leaks.webp",
+    "category": "AI Security",
+    "hot": true
+  },
+  {
+    "id": "3f7ce9bbeb8e3f2f",
+    "source": "Cyber Security News",
+    "title": "Hackers Could Execute Commands on WordPress, Email and Print Servers Through Upload2Shell Flaw",
+    "description": "A flaw in Ghostscript let researchers run commands on WordPress, Roundcube webmail, and Linux print servers through routine file processing. The vulnerability, dubbed Upload2Shell and tracked as CVE-2026-125396, affects upstream Ghostscript releases before 10.08.0. It sits in the software’s Type 1 font loader, but the affected servers did not need to expose Ghostscript directly. Their own preview, thumbnail, and print features delivered files to it. The CVE record gives the flaw a CVSS 4.0 score of 8.5 and lists a local attack vector. That describes the flaw at the interpreter level, not how a",
+    "link": "https://cybersecuritynews.com/upload2shell-flaw/",
+    "date": "2026-11-22T02:43:08+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Upload2Shell-Flaw.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
+    "id": "3a44930c9a94d7c2",
+    "source": "Cyber Security News",
+    "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data",
+    "description": "Attackers exploited a flaw in Microsoft Entra Connect Health to read administrator and technical contact email addresses, along with configuration data from affected organizations. A Microsoft customer notice shared on Reddit describes read-only access to those records, not access to inboxes or email messages. Microsoft fixed the flaw in its cloud service on November 19, 2026, and said customers do not need to install a patch. Microsoft said the vulnerability was introduced on July 23 and detected on November 9. Investigators reviewed service logs for unauthorized requests and concluded on Nov",
+    "link": "https://cybersecuritynews.com/microsoft-entra-connect-health-flaw/",
+    "date": "2026-11-22T02:03:18+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Microsoft-Entra-Connect-Health-Flaw.webp",
+    "category": "AI Security",
+    "hot": false
+  },
+  {
     "id": "032595f178d3c0db",
     "source": "SecurityWeek",
     "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
@@ -42,6 +97,17 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
     "category": "Vulnerability",
     "hot": true
+  },
+  {
+    "id": "4208718681be4216",
+    "source": "Cyber Security News",
+    "title": "MCP Server Security: How to Stop Rogue AI Agents",
+    "description": "The Model Context Protocol (MCP) lets AI applications connect to external tools, APIs, and business data through a standardized interface. But every MCP server adds another entry point that attackers can target. MCP server security is becoming an important concern as organizations give AI agents access to increasingly sensitive systems. DataDome reported in October 2025 that more than 16,000 MCP servers had been deployed across Fortune 500 companies. Each connection creates opportunities for automation, but also potential exposure if access is not properly controlled. The challenge is verifyin",
+    "link": "https://cybersecuritynews.com/mcp-server-security/",
+    "date": "2026-11-21T17:24:13+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1NMwFg-fJ_QUCEYPZit63GqUesxeOGeAVRnu2xvkWI0_5SMisM7JnRFLyZWttmxEAJpMZspfN8Y3bESDNNIDaVzUMFWkHL947SLq_7eD7SGUPOeM88T6dxqEt6eVpzqHOydhUoa7Xv6tMoWBDHHhSc5HQ0f60M0yYayvpea4diXplORnh2knCSCuihY4/s1600/Insignary%20Launches%20Clarity%20On-Demand_%20SBOMs,%20No%20Annual%20Commitment%20Required%20Toronto,%20Canada,%20July%2015th,%202026,%20CyberNewswire%20Enterprise-grade%20binary%20software%20verification%20for%20one%20pro%20-%202026-11-18T225937.60.webp",
+    "category": "AI Security",
+    "hot": false
   },
   {
     "id": "32277e5238eb8819",
@@ -226,7 +292,7 @@
     "description": "The chief technology officer and co-founder of ransomwarehelp.com , a six year old Florida business that claimed to use “advanced cryptographic tools” to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed. A portion of the now-defunct website ransomwarehelp.com. The website RansomwareHelp urged victims “Do not pay the ransom!,” claiming its advanced cryptographic tools could restore 100 percent of data, servers, and",
     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
     "date": "2026-11-21T00:36:39+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -473,17 +539,6 @@
     "hot": false
   },
   {
-    "id": "4c524e173d80cb2c",
-    "source": "Cyber Security News",
-    "title": "Critical Apache Tomcat Flaw Lets Remote Attackers Join Trusted Server Clusters Without Authentication",
-    "description": "The Apache Software Foundation has disclosed a critical flaw in Apache Tomcat that allows a remote attacker to join a trusted server cluster without authentication. Tracked as CVE-2026-133325, the flaw affects clusters that use TLS 1.3 with a pre-shared key. Apache published the advisory on November 19, 2026, and credited researcher Mike Read with finding the issue. The Apache Tomcat 11 security advisory identifies versions 11.0.28 and 11.0.29 as affected. Apache also lists Tomcat 10.1.62 and 9.0.124. Running one of those versions does not by itself mean a server is exposed. The flaw requires ",
-    "link": "https://cybersecuritynews.com/critical-apache-tomcat-flaw/",
-    "date": "2026-11-20T14:29:21+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Apache-Tomcat-Cluster-Authentication-Bypass.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "c5d79097fa73c061",
     "source": "BleepingComputer",
     "title": "N-able says recent security breach led to major service outage",
@@ -493,17 +548,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/11/20/N-able.jpg",
     "category": "General Security",
     "hot": true
-  },
-  {
-    "id": "2a74fbd1d66bb1f5",
-    "source": "Cyber Security News",
-    "title": "Hackers Use 355 Domains to Spread Fake GTA 6 PC Launchers Delivering Malware",
-    "description": "A malware campaign called CyberLeek is using more than 355 domains and subdomains to promote fake Grand Theft Auto VI PC launchers. The sites offer what they claim is a leaked or early Windows release of GTA 6. Instead of a playable game, the download delivers a ZIP archive containing a malicious program disguised as an installer. The campaign takes advantage of a familiar search: players looking for a GTA 6 PC release before they can get one through an official store. Earlier reporting on fake GTA 6 downloads documented a separate operation that bundled password stealers, remote-access malwar",
-    "link": "https://cybersecuritynews.com/fake-gta-6-pc-launchers/",
-    "date": "2026-11-20T13:02:57+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Use-355-Domains-to-Spread-Fake-GTA-6-PC-Launchers-Delivering-Malware.webp",
-    "category": "Malware",
-    "hot": false
   },
   {
     "id": "df480f70bf02d149",
@@ -517,17 +561,6 @@
     "hot": true
   },
   {
-    "id": "169e1c2594e95790",
-    "source": "Cyber Security News",
-    "title": "Hackers Turn Legitimate VPN Software Into a Stealthy Tool for Spying on Government Networks",
-    "description": "Hackers have rebuilt the open-source SoftEther VPN Bridge to keep a quiet route into compromised networks. The modified Windows program, branded internally as NtMonitor VPN, can link an external network to a victim’s local network while leaving fewer of the traces defenders expect from a standard SoftEther installation. Researchers link the tool to Webworm, a China-aligned espionage group with a history of targeting government organizations, particularly in Europe. The distinction is that the bridge helps operators stay connected after a breach; the report does not show how they broke in. Nor ",
-    "link": "https://cybersecuritynews.com/legitimate-vpn-software/",
-    "date": "2026-11-20T12:40:26+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Hackers-Turn-Legitimate-VPN-Software-Into-a-Stealthy-Tool-for-Spying-on-Government-Networks.webp",
-    "category": "Malware",
-    "hot": true
-  },
-  {
     "id": "4707dbfa59e1081d",
     "source": "SecurityWeek",
     "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
@@ -537,17 +570,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Feedback-Friday.jpeg",
     "category": "AI Security",
     "hot": false
-  },
-  {
-    "id": "b3b72f5c336bb1d5",
-    "source": "Cyber Security News",
-    "title": "OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function",
-    "description": "A heap buffer overflow in OpenSSL’s Base64 encoding function can corrupt application memory when the library processes very large inputs. The flaw, tracked as CVE-2026-121481, was published on November 18, 2026, with a critical CVSS 3.1 score of 9.8. That score describes the potential severity, but it does not mean every service that uses OpenSSL is remotely exposed. The flaw affects EVP_EncodeBlock() , which converts binary data into printable text. Base64 produces four output bytes for every three input bytes, with padding for a partial group. The application supplies the buffer that holds t",
-    "link": "https://cybersecuritynews.com/openssl-heap-buffer-overflow/",
-    "date": "2026-11-20T12:34:30+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/OpenSSL-Hit-by-Critical-9.8-Heap-Buffer-Overflow.webp",
-    "category": "AI Security",
-    "hot": true
   },
   {
     "id": "d75ebe4a3111c53c",
@@ -842,7 +864,7 @@
     "description": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
     "date": "2026-11-20T00:26:25+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
     "category": "Vulnerability",
     "hot": true
   },
@@ -875,7 +897,7 @@
     "description": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
     "date": "2026-11-19T22:25:42+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/08/22/healthcare-cyber.jpg",
     "category": "Privacy",
     "hot": false
   },
@@ -897,7 +919,7 @@
     "description": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
     "date": "2026-11-19T21:15:59+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/26/Asus.jpg",
     "category": "Vulnerability",
     "hot": true
   },
@@ -1447,7 +1469,7 @@
     "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely , a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC , CNN , Equifax , Ledger and Zoom , was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content. The Zoom.com homepage loading the malicious JavaScript file from Optimi",
     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
     "date": "2026-11-18T02:52:04+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Malware",
     "hot": true
   },
@@ -1602,7 +1624,7 @@
     "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
     "date": "2026-11-17T12:05:43+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Vulnerability",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -1878,28 +1900,6 @@
     "date": "2026-11-16T14:00:00+00:00",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
     "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "252efa5da22f9e8c",
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-    "description": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-    "date": "2026-11-16T13:27:20+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg",
-    "category": "AI Security",
-    "hot": false
-  },
-  {
-    "id": "4ba0ec0d6e3ca2f4",
-    "source": "The Hacker News",
-    "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-    "description": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
-    "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-    "date": "2026-11-16T12:34:21+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg",
-    "category": "Vulnerability",
     "hot": false
   },
   {
@@ -2236,11 +2236,11 @@
     "id": "7b0c6d8c4c37f019",
     "source": "Schneier on Security",
     "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. With the help of AI, the",
+    "description": "It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026...",
     "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
     "date": "2026-11-11T12:05:34+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "AI Security",
+    "category": "General Security",
     "hot": false
   },
   {
@@ -2536,7 +2536,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "AI Security",
     "hot": false
   },
@@ -2613,7 +2613,7 @@
     "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2624,7 +2624,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated b",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2635,7 +2635,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2657,7 +2657,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": true
   },
