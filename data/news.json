@@ -1,5 +1,38 @@
 [
   {
+    "id": "3180840c8ddba933",
+    "source": "Cyber Security News",
+    "title": "SAP Confirms Security Incident as Hackers Reportedly Steal GitHub Tokens and Alter Code",
+    "description": "SAP has confirmed an IT security incident after detecting suspicious activity. DER SPIEGEL reported that attackers stole authentication tokens belonging to SAP employees and used them to alter and copy source code on GitHub. The German software maker said it took immediate steps to protect customers and secure its services. It said investigators had found no evidence of unauthorized access to customer business data at that stage. SAP did not answer detailed questions about the incident. An internal memo cited by DER SPIEGEL described the incident as active. SAP is reportedly handling the inves",
+    "link": "https://cybersecuritynews.com/sap-security-incident/",
+    "date": "2026-11-27T03:39:12+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/SAP-Security-Incident.webp",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "1466edbca96db150",
+    "source": "Cyber Security News",
+    "title": "Bitcoin Privacy Flaw Could Let Hackers Trace Wallet Addresses to IP Addresses for Just 35 Cents",
+    "description": "A privacy flaw in Bitcoin Core could let an observer link a public Bitcoin address to the IP address of a node that tracks it. Bitcoin Core contributor Abubakar Sadiq Ismail reported on November 25 that the link could be made with a payment costing less than 35 cents in his estimate. His test identified the correct node in 30 out of 30 attempts on a private test network. The result has not been measured on Bitcoin’s live network. The finding does not show that anyone can steal funds or recover private keys. It exposes a different kind of information: which computer’s wallet recognizes a Bitcoi",
+    "link": "https://cybersecuritynews.com/bitcoin-privacy-flaw/",
+    "date": "2026-11-27T03:23:06+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Bitcoin-Privacy-Flaw.webp",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
+    "id": "7d3cd6ab42012e6d",
+    "source": "Cyber Security News",
+    "title": "Node.js 27 Alpha Adds HTTP Security Protections and Deprecates TLS 1.2 Renegotiation",
+    "description": "The Node.js project released a version 27.0.0-alpha.0.2.0 on November 26, 2026, bringing security fixes for reused HTTP connections and new controls for TLS 1.2 renegotiation. The official release notes also list changes to HTTP/2 memory limits and HTTPS connection pooling. The alpha does not remove TLS 1.2 or turn off renegotiation by default. Instead, it gives developers a way to disable renegotiation now and test which services still depend on it. Node.js 27 Tightens HTTP Connection Reuse The alpha carries forward a fix for CVE-2026-105481, a flaw in how the Node.js HTTP client reuses open ",
+    "link": "https://cybersecuritynews.com/node-js-27-alpha/",
+    "date": "2026-11-27T01:57:14+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Node.js-27-Alpha.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "6168d7fb04deb53a",
     "source": "BleepingComputer",
     "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -264,17 +297,6 @@
     "hot": true
   },
   {
-    "id": "e00b9a68a7136709",
-    "source": "Cyber Security News",
-    "title": "Microsoft Confirms Windows November Updates Can Break SSO and Third-Party App Logins",
-    "description": "Microsoft has confirmed that the November 2026 Windows security updates can cause sign-in failures in some third-party apps and devices that use NTLM authentication. The issue can affect authentication proxies, single sign-on (SSO) tools, and application packaging products after teams install the November 10 security update or a later update that includes the same changes. Microsoft detailed the compatibility issue in its NTLM signing support bulletin, KB5135557 . Windows November Update SSO Issues The change arrived with the November 2026 Patch Tuesday release and helps address CVE-2026-11873",
-    "link": "https://cybersecuritynews.com/november-update-breaks-authentication/",
-    "date": "2026-11-26T10:24:22+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Microsoft-Updates-Break-SSO-and-Third-Party-App-Logins.webp",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "10e6d8befcd9c2c8",
     "source": "Help Net Security",
     "title": "Data recovery firm co-founder accused of cashing in on ransomware victims",
@@ -308,17 +330,6 @@
     "hot": false
   },
   {
-    "id": "1c4c61e208f00bcb",
-    "source": "Cyber Security News",
-    "title": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability",
-    "description": "Drupal has warned that attackers are actively exploiting CVE-2026-136716, a highly critical access bypass that can let them take over vulnerable websites without signing in. The Drupal Security Team confirmed the attacks in its November 25 security advisory and released updates for three supported Drupal core branches. The team did not say how many sites had been compromised. The flaw affects the installer that ships with Drupal core. Sites that had already secured the installer are not vulnerable, Drupal says. But some sites in unusual or incomplete installation states, including live product",
-    "link": "https://cybersecuritynews.com/drupal-website-takeover-flaw/",
-    "date": "2026-11-26T09:06:38+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Drupal-Vulnerability-Exploited-in-the-Wild.webp",
-    "category": "Vulnerability",
-    "hot": true
-  },
-  {
     "id": "d387fe862b98c4aa",
     "source": "Help Net Security",
     "title": "1Password breached through hijacked employee GitHub account, customer names and emails stolen",
@@ -327,17 +338,6 @@
     "date": "2026-11-26T08:42:32+00:00",
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/10/24105938/1password-2024-1.jpg",
     "category": "General Security",
-    "hot": true
-  },
-  {
-    "id": "a1be9c9b1ec09642",
-    "source": "Cyber Security News",
-    "title": "Exposed Hacker Servers Reveal U.S. Hospital Credentials, Corporate Cloud Access and Law Firm Targets",
-    "description": "Three exposed web directories revealed an intrusion crew’s collection of U.S. hospital credential records, a listing of more than 155,000 files and other objects in a manufacturer’s cloud storage, and a map of remote-access systems used by U.S. law firms. The recovered files showed that the operators had already used a valid cloud token. They did not show that the crew had breached a law firm or federal agency. The directories yielded 2,115 files with 1,981 distinct hashes, including scan results, attack logs, and copies of malware. Two directories shared an IP address; the third was on a sepa",
-    "link": "https://cybersecuritynews.com/exposed-hacker-servers/",
-    "date": "2026-11-26T08:41:41+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Exposed-Hacker-Servers-Reveal-U.S.-Hospital-Credentials-Corporate-Cloud-Access-and-Law-Firm-Targets.webp",
-    "category": "Ransomware",
     "hot": true
   },
   {
@@ -897,7 +897,7 @@
     "description": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
     "date": "2026-11-25T07:45:03+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/CIA_headpic.jpg",
+    "image": "",
     "category": "Hacking",
     "hot": true
   },
@@ -1546,7 +1546,7 @@
     "description": "The chief technology officer and co-founder of ransomwarehelp.com , a six year old Florida business that claimed to use “advanced cryptographic tools” to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed. A portion of the now-defunct website ransomwarehelp.com. The website RansomwareHelp urged victims “Do not pay the ransom!,” claiming its advanced cryptographic tools could restore 100 percent of data, servers, and",
     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
     "date": "2026-11-21T00:36:39+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1953,7 +1953,7 @@
     "description": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely , a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC , CNN , Equifax , Ledger and Zoom , was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content. The Zoom.com homepage loading the malicious JavaScript file from Optimi",
     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
     "date": "2026-11-18T02:52:04+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "Malware",
     "hot": true
   },
@@ -2514,7 +2514,7 @@
     "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla . Image: Shutterstock.com. Diorama by @zepp1969. November’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with li",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2580,7 +2580,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy ",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
     "category": "AI Security",
     "hot": false
   },
@@ -2591,7 +2591,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet’s access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines. A report from the Google Threat Intelligence Group (GTIG) said Google has seve",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Malware",
     "hot": true
   },
@@ -2613,7 +2613,7 @@
     "description": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. Image: Shutterstock.com, Sashkin. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP release",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
     "date": "2026-10-21T15:26:07+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
     "category": "AI Security",
     "hot": true
   },
@@ -2635,7 +2635,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions. Heleket’s support agent on Telegram claims, despite all evidence to the contrary, that it is not affiliated with Cryptomus. Image: Richard Sanders. On October 8, the U.K. issued sanctions (PDF) against Cryptomus — previously known as Certa Payments and Xeltox Enterprises — for processing",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2657,7 +2657,7 @@
     "description": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security u",
     "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "date": "2026-10-13T23:24:53+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "AI Security",
     "hot": true
   },
