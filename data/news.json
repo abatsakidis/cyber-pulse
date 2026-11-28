@@ -1,5 +1,60 @@
 [
   {
+    "id": "dbfb853b90228254",
+    "source": "Security Affairs",
+    "title": "Booba Ransomware Attack on Water Plant Reveals Monitoring Blind Spot",
+    "description": "Booba ransomware spread from a US water plant to local government systems, exposing a critical security gap between two networks. Booba ransomware hit an East Coast water treatment plant in November, then reached the network of the local government overseeing it. ThreatDown, which reported the incident, found no evidence that it disrupted water operations. The […]",
+    "link": "https://securityaffairs.com/204166/cyber-crime/booba-ransomware-attack-on-water-plant-reveals-monitoring-blind-spot.html",
+    "date": "2026-11-28T10:51:27+00:00",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-84.png",
+    "category": "Ransomware",
+    "hot": true
+  },
+  {
+    "id": "7ec552c6bc2aeffd",
+    "source": "Cyber Security News",
+    "title": "Critical Erlang/OTP Flaw Could Let Hackers Impersonate TLS Servers and Intercept Encrypted Traffic",
+    "description": "A critical Erlang/OTP flaw, CVE-2026-124286 (CVSS 9.1), disclosed on November 24, 2026, allows attackers to impersonate trusted servers and intercept or modify TLS-protected traffic. The flaw affects TLS 1.2 clients, even those with server identity verification enabled, but does not impact TLS 1.3 connections. During the TLS handshake, clients use server certificates to verify the […] The post Critical Erlang/OTP Flaw Could Let Hackers Impersonate TLS Servers and Intercept Encrypted Traffic appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/critical-erlang-otp-flaw/",
+    "date": "2026-11-28T10:09:43+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Critical-Erlang_OTP-Flaw-Could-Let-Hackers-Impersonate-TLS-Servers-and-Intercept-Encrypted-Traffic.webp",
+    "category": "Vulnerability",
+    "hot": true
+  },
+  {
+    "id": "d1ab95ae035f419f",
+    "source": "Cyber Security News",
+    "title": "Kenya eCitizen Data Breach – Hackers Reportedly Leak Identity Records of 32 Million Kenyans",
+    "description": "Hackers have reportedly begun publishing identity records from Kenya’s eCitizen platform on the dark web. Nation’s review of the leaked eCitizen files found that the attackers had accessed data on 32,128,394 Kenyans. The figure reflects the reported scale of access. It does not mean every record has been published, and Kenyan authorities have not confirmed […] The post Kenya eCitizen Data Breach – Hackers Reportedly Leak Identity Records of 32 Million Kenyans appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/kenya-ecitizen-data-breach/",
+    "date": "2026-11-28T09:14:31+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Kenya-eCitizen-Data-Breach.webp",
+    "category": "Privacy",
+    "hot": true
+  },
+  {
+    "id": "20e9200a4d8f42ca",
+    "source": "The Hacker News",
+    "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    "description": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+    "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "date": "2026-11-28T08:08:11+00:00",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizySCkvtf5mXH_3zoxzuk-QyEdUnYmspglEsVYdqRITloUFrUDZCQJcwtQG09teFmXo2IJOknOQb7CXhUpjKjGnadD6TuOIvVWIoWmKcaxb8-1uwf-3AiXZPYCFf2RzDkHNZ06d2Q5OS6AcCV7JHjTACCJH2f5aipC8vllpOwj1dSBYQJtqJ_wDc5nXQwU/s1600/pcloud.jpg",
+    "category": "Hacking",
+    "hot": false
+  },
+  {
+    "id": "59632f5eb90df947",
+    "source": "Cyber Security News",
+    "title": "Telegram Warns iPhone Users Are Being Hacked on a Massive Scale; Just Visiting a Website Could Be Enough",
+    "description": "Telegram is sending security alerts to iPhone users running older versions of iOS, CEO Pavel Durov said on November 27. In a post on X, Durov said iPhone users were being hacked “on a massive scale” and warned that opening a website could be enough to break into a vulnerable device. The alert tells users […] The post Telegram Warns iPhone Users Are Being Hacked on a Massive Scale; Just Visiting a Website Could Be Enough appeared first on Cyber Security News .",
+    "link": "https://cybersecuritynews.com/iphone-users-are-being-hacked/",
+    "date": "2026-11-28T04:48:49+00:00",
+    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/iPhone-Users-Are-Being-Hacked.webp",
+    "category": "Vulnerability",
+    "hot": false
+  },
+  {
     "id": "bb9af28d2d92d819",
     "source": "Security Affairs",
     "title": "Fake Government App Exposes Italy’s Expanding Spyware Surveillance Industry",
@@ -16,7 +71,7 @@
     "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
     "description": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
-    "date": "2026-11-27T22:02:20+00:00",
+    "date": "2026-11-27T22:01:25+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -225,7 +280,7 @@
     "title": "Recent Outages Have Economic Causes",
     "description": "This essay originally appeared in The Guardian . It’s an expanded version of the one I posted as “ We Get the Infrastructure We Pay For .” It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed classified NSA network , and Apple . People should be forgiven for suspecting a coordinated cyberattack, a common cause, or at least a conspiracy. But there is none. The incidents are unrelated. They’re not the result of any cyberattack, coordinated or not. And, even more surprising, they don’t seem to be th",
     "link": "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html",
-    "date": "2026-11-27T12:02:49+00:00",
+    "date": "2026-11-27T12:02:23+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Hacking",
     "hot": false
@@ -396,17 +451,6 @@
     "hot": false
   },
   {
-    "id": "76327f7d654634f1",
-    "source": "Cyber Security News",
-    "title": "Tor Browser Flaw Could Reveal Users’ Real IP Addresses With Just One Click on Malicious Websites",
-    "description": "A malicious website could expose a Tor Browser user’s public IP address with a single click, according to research published by security firm Calif on November 26, 2026. Researcher Carlos Roque demonstrated the attack against Tor Browser 15.0.22 on Linux with default settings. The Tor Project had already shipped the fix in Tor Browser 15.0.23 […] The post Tor Browser Flaw Could Reveal Users’ Real IP Addresses With Just One Click on Malicious Websites appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/tor-browser-flaw/",
-    "date": "2026-11-27T09:09:49+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Tor-Browser-Flaw-Could-Reveal-Users-Real-IP-Addresses-With-Just-One-Click-on-Malicious-Websites.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
     "id": "98484d9461d90df0",
     "source": "BleepingComputer",
     "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
@@ -435,7 +479,7 @@
     "description": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
     "date": "2026-11-27T08:06:58+00:00",
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Linux_tux.jpg",
+    "image": "",
     "category": "Vulnerability",
     "hot": true
   },
@@ -459,28 +503,6 @@
     "date": "2026-11-27T07:36:14+00:00",
     "image": "https://www.securityweek.com/wp-content/uploads/2026/09/SAP_vulnerability-patches.jpg",
     "category": "Hacking",
-    "hot": false
-  },
-  {
-    "id": "8680c013863e8c7e",
-    "source": "Cyber Security News",
-    "title": "Top 10 Best Security Service Edge (SSE) Solutions in 2026 [Ranked & Scored]",
-    "description": "Security Service Edge is the security portion of SASE SWG, CASB, ZTNA, and increasingly DLP and browser isolation, all delivered from the cloud and most organisations deploy it well before they take on the networking half. The solutions below separate on service convergence under one policy engine, data-protection depth, and threat-prevention model. Zscaler takes 1; […] The post Top 10 Best Security Service Edge (SSE) Solutions in 2026 [Ranked & Scored] appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/best-sse-solutions/",
-    "date": "2026-11-27T07:29:51+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Best-Security-Service-Edge-SSE-Solutions.webp",
-    "category": "General Security",
-    "hot": false
-  },
-  {
-    "id": "722e758b82d88c7e",
-    "source": "Cyber Security News",
-    "title": "Top 10 Best SASE (Secure Access Service Edge) Solutions in 2026 [Ranked & Scored]",
-    "description": "SASE fuses SD-WAN networking with a cloud security stack in one fabric, yet the term papers over a genuine divide: some vendors grew up in networking and bolted security on, others grew up in security and tacked on the network, and a handful engineered the whole thing single-pass from day one. The solutions below separate […] The post Top 10 Best SASE (Secure Access Service Edge) Solutions in 2026 [Ranked & Scored] appeared first on Cyber Security News .",
-    "link": "https://cybersecuritynews.com/best-sase-solutions-2/",
-    "date": "2026-11-27T07:27:39+00:00",
-    "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/Best-SASE-Solutions.webp",
-    "category": "General Security",
     "hot": false
   },
   {
@@ -611,7 +633,7 @@
     "description": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
     "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
     "date": "2026-11-26T17:58:42+00:00",
-    "image": "",
+    "image": "https://www.bleepstatic.com/content/posts/2026/11/26/nordvpn-blackfriday-2026.jpg",
     "category": "General Security",
     "hot": false
   },
@@ -858,17 +880,6 @@
     "hot": false
   },
   {
-    "id": "68e771958a3aa8df",
-    "source": "Security Affairs",
-    "title": "Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations",
-    "description": "Switzerland reports its first AI-agent cyberattacks, including critical infrastructure breaches, and urges patching internet-facing systems within 24 hours. Switzerland ’s National Cyber Security Centre (NCSC) has now seen these attacks firsthand. In recent days, it received its first reports of cyberattacks on Swiss organisations carried out with the help of AI agents. The victims include […]",
-    "link": "https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html",
-    "date": "2026-11-25T21:06:55+00:00",
-    "image": "https://securityaffairs.com/wp-content/uploads/2026/11/Switzerland.jpg",
-    "category": "AI Security",
-    "hot": true
-  },
-  {
     "id": "6ec22e3b9735f9c2",
     "source": "Dark Reading",
     "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
@@ -962,7 +973,7 @@
     "title": "Tracking Incidents of Hacking Using AI Tools",
     "description": "Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.",
     "link": "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html",
-    "date": "2026-11-25T12:08:12+00:00",
+    "date": "2026-11-25T12:07:21+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "AI Security",
     "hot": false
@@ -1193,7 +1204,7 @@
     "title": "We Get the Infrastructure We Pay For",
     "description": "This essay originally appeared as part of a round table in The Free Press entitled “Is America’s Infrastructure Under Attack?” Microsoft, the FAA, banks, United Airlines, the NSA—it’s been a really bad week in cyberspace. But, amazing as it might seem, these are not related. As far as we know, they’re not the result of cyberattacks. They’re not even related to AI. (Well, that’s mostly true. The NSA will probably never tell us what went wrong.) It’s really just a series of unfortunate coincidences. Our computerized infrastructure is vulnerable and fragile. Much of it is old, and has been increm",
     "link": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
-    "date": "2026-11-24T12:06:54+00:00",
+    "date": "2026-11-24T12:06:50+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "Vulnerability",
     "hot": false
@@ -1490,7 +1501,7 @@
     "title": "Humans Have Rights. Machines Do Not.",
     "description": "This essay originally appeared in Tech Policy Press . Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two arguments. One, that the chatbot’s words were speech that its users had a First Amendment right to receive. And two, that Character.AI was a service rather than a product—so product-liability law could not touch it. In May 2025, Judge Anne Conway accepted neither...",
     "link": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
-    "date": "2026-11-23T12:01:45+00:00",
+    "date": "2026-11-23T12:00:54+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1667,7 +1678,7 @@
     "description": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
     "date": "2026-11-21T00:36:39+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -1677,7 +1688,7 @@
     "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
     "description": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
     "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-    "date": "2026-11-20T22:04:30+00:00",
+    "date": "2026-11-20T22:04:12+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1760,23 +1771,12 @@
     "hot": false
   },
   {
-    "id": "f6ac7cdc5f44c570",
-    "source": "The Hacker News",
-    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-    "description": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled. Fixed kernels shipped",
-    "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-    "date": "2026-11-20T12:20:00+00:00",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg",
-    "category": "Vulnerability",
-    "hot": false
-  },
-  {
     "id": "613aa5917efd4363",
     "source": "Schneier on Security",
     "title": "Opening a 400-Year-Old Cryptex",
     "description": "Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex .",
     "link": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-    "date": "2026-11-20T12:04:54+00:00",
+    "date": "2026-11-20T12:04:46+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -1903,17 +1903,6 @@
     "hot": false
   },
   {
-    "id": "e42e530e18d0b3c4",
-    "source": "Schneier on Security",
-    "title": "France Is Blaming Iran for the Fridge Cyberattack",
-    "description": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Gu",
-    "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-    "date": "2026-11-19T03:15:04+00:00",
-    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
-    "category": "Hacking",
-    "hot": false
-  },
-  {
     "id": "1737deeba64b9ef9",
     "source": "Dark Reading",
     "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
@@ -1988,6 +1977,17 @@
     "date": "2026-11-18T14:00:00+00:00",
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd3d76d438281428b/6afb51c99f6beb04c5e535c4/Brazil_CNH-RafaPress-Getty.jpg?width=720&quality=80&disable=upscale",
     "category": "General Security",
+    "hot": false
+  },
+  {
+    "id": "e42e530e18d0b3c4",
+    "source": "Schneier on Security",
+    "title": "France Is Blaming Iran for the Fridge Cyberattack",
+    "description": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Gu",
+    "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+    "date": "2026-11-18T12:05:35+00:00",
+    "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+    "category": "Hacking",
     "hot": false
   },
   {
@@ -2073,7 +2073,7 @@
     "title": "Formal Verification of the Signal Protocol Using AI",
     "description": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world’s communications on platforms like the Signal app, Google Messages, and WhatsApp. And it demonstrates Google DeepMind’s formal ver",
     "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-    "date": "2026-11-17T12:06:37+00:00",
+    "date": "2026-11-17T12:05:43+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2293,7 +2293,7 @@
     "title": "Usable Security at Luxury Hotels",
     "description": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why “just don’t click on links” is bad advice. It can’t work when answering strangers’ emails is the job. Even worse, in this case the guest-first culture punishes hesitation. More interesting, the case study shows that splitting security between owner, operator, and brand leaves nobody accountable. And this is exactly the setting where blaming staff becomes the convenient",
     "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-    "date": "2026-11-16T12:05:18+00:00",
+    "date": "2026-11-16T12:04:42+00:00",
     "image": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
     "category": "General Security",
     "hot": false
@@ -2514,7 +2514,7 @@
     "description": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
     "date": "2026-11-11T18:06:01+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2525,7 +2525,7 @@
     "description": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "date": "2026-11-10T21:55:03+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Vulnerability",
     "hot": true
   },
@@ -2580,7 +2580,7 @@
     "description": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "date": "2026-11-05T04:36:17+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Hacking",
     "hot": false
   },
@@ -2591,7 +2591,7 @@
     "description": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "date": "2026-11-03T02:24:31+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/1.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Malware",
     "hot": false
   },
@@ -2624,7 +2624,7 @@
     "description": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
     "date": "2026-10-19T13:48:56+00:00",
-    "image": "https://krebsonsecurity.com/b-flashpoint/5.png",
+    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
     "category": "Ransomware",
     "hot": true
   },
@@ -2635,7 +2635,7 @@
     "description": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "date": "2026-10-14T14:22:49+00:00",
-    "image": "https://krebsonsecurity.com/b-spycloud/5.png",
+    "image": "https://krebsonsecurity.com/b-flashpoint/1.png",
     "category": "Ransomware",
     "hot": true
   },
